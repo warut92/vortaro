@@ -422,7 +422,7 @@ window.onload = function()
     E("load").value = "กำลังดาวน์โหลด...";
     load_status = "PROGRESS";
 
-    call_ajax_text_post("../vortareto/v/dic.json", "time=" + new Date(),
+    call_ajax_text_post("./dic.json", "time=" + new Date(),
       function(r) {
 
         var bytelike= unescape(encodeURIComponent(r));
