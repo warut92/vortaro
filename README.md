@@ -5,7 +5,7 @@ fonto - https://legacy.esperanto.org.uk/eldonoj/etv/
 
 Kompilanto - _Geoffrey Sutton_, _Warut Bunprasert_
 ### Adreso
-https://valso-eo.github.io/vortareto/
+https://valso-eo.github.io/vortaro/
 ### Venontaj plibonigoj
 --
 ### Permesilo
@@ -14,7 +14,7 @@ https://creativecommons.org/licenses/by-sa/4.0/deed.eo
 
 ## Simplaj Samsignifaj Vortoj
 ### Adreso 
-https://valso-eo.github.io/vortareto/ssv.html
+https://valso-eo.github.io/vortaro/ssv.html
 ### Fonto 
 http://bonalingvo.net/index.php/Simplaj_samsignifaj_vortoj_-_enkonduko
 
@@ -23,7 +23,7 @@ laŭ la permesilo Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita <http://cr
 
 ## Esperanto-Ido-Esperanto provizora vortaro
 ### Adreso
-https://valso-eo.github.io/vortareto/ideo.html
+https://valso-eo.github.io/vortaro/ideo.html
 
 ## La kodoj
 La kodo de vortaretoj estas de TiddlyDict *(abandonware)* laŭ la licenso MIT
