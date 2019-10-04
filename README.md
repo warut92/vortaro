@@ -17,8 +17,8 @@ https://creativecommons.org/licenses/by-sa/4.0/deed.eo
 https://valso-eo.github.io/vortareto/ssv.html
 ### Fonto 
 http://bonalingvo.net/index.php/Simplaj_samsignifaj_vortoj_-_enkonduko
-
-### laŭ la permesilo Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita <http://creativecommons.org/licenses/by-sa/3.0/deed.eo> kaj laŭ la Ĝenerala Publika Permesilo 2.0 de GNU <http://www.gnu.org/licenses/gpl-2.0.html>.
+ 
+laŭ la permesilo Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita <http://creativecommons.org/licenses/by-sa/3.0/deed.eo> kaj laŭ la Ĝenerala Publika Permesilo 2.0 de GNU <http://www.gnu.org/licenses/gpl-2.0.html>.
 
 ## Esperanto-Ido-Esperanto provizora vortaro
 ### Adreso
