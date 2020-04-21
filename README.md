@@ -5,7 +5,7 @@ fonto - <https://legacy.esperanto.org.uk/eldonoj/etv/>
 
 Kompilanto - _Geoffrey Sutton_, _Warut Bunprasert_
 ### Adreso
-<https://valso-eo.github.io/vortaro/>
+
 ### Venontaj plibonigoj
 --
 ### Permesilo
