@@ -1,0 +1,22 @@
+{
+  "name": "Tuja Vortaro",
+  "description": "Tuja Esperanta Vortaro",
+  "version": "0.1",
+  "launch_path": "/mobile.html",
+  "icons": {
+    "16": "/icons/16x16.png",
+    "48": "/icons/48x48.png",
+    "60": "/icons/60x60.png",
+    "128": "/icons/128x128.png"
+  },
+  "developer": {
+    "name": "Sean Stangl",
+    "url": "https://sstangl.github.io/tuja-vortaro"
+  },
+  "permissions": {
+  },
+  "default_locale": "en",
+  "type": "web",
+  "fullscreen": "true",
+  "orientation": "portrait"
+}
