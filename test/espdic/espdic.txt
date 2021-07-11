@@ -8,6 +8,7 @@ zon/o : เข็มขัด, เขต
 zorgi : //(tr)// ดูแล, ใส่ใจ
 zumi : //(ntr)// ทำเสียงหึ่ง ๆ, ฮัมเพลง
 Esperanto : ภาษาเอสเปรันโต
+Ido : ภาษาอีโด
 -a : (adjective ending)
 -aĉ- : (denotes badness of quality, disparaging)
 -ad- : (denotes continuation or constant repetition of an action)
