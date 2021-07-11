@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+
+  background-color: #FFFFFF;
+
+  /* Ĉiam montru la dekstran glitilon por preventi retumilan saltadon. */
+  overflow-y: scroll;
+}
+
+#wrapper {
+  min-height: 100%;
+  position: relative;
+}
+
+/* Uzata de ĝenerala retumilo, ĉar kutime oni rigardas supere. */
+header {
+  margin: 0;
+  padding: 0 0 0 10px;
+  top: 0;
+
+  background-color: #00B000;
+
+  width: 100%;
+  height: 50px;
+
+  display: flex;
+  position: fixed;
+  justify-content: center;
+  align-items: center;
+}
+
+#header-right {
+  margin-left: auto;
+  margin-right: 30px;
+}
+
+/* Uzata se la malluman reĝimon oni ŝaltas */
+html.dark body {
+  background-color: #2A2A2E;
+  color: #BABABA;
+}
+
+html.dark .darkenable {
+  background-color: #2A2A2E;
+  color: white;
+}
+
+html.dark .resultrow-0 {
+  background-color: #2A2A2E;
+}
+
+html.dark .resultrow-1 {
+  background-color: #3B3B3B;
+}
+
+html.dark .eo-result {
+  color: #00E600;
+}
+
+html.dark .eo-informacio {
+  color: #D4D4D4;
+}
+
+html.dark .en-result {
+  color: #DBDBDB;
+}
+
+html.dark a.fonto {
+  color: #2A2A2E;
+}
+
+/* Uzata nur de FxOS, ĉar la tajpilo aperos ĉe la subo. */
+#footer {
+  margin: 0;
+  padding: 0;
+
+  position: fixed;
+  bottom: 0;
+
+  background-color: #00B000;
+
+  width: 100%;
+  height: 50px;
+
+  display: flex;
+  position: fixed;
+  justify-content: center;
+  align-items: center;
+}
+
+#toggleSwitch {
+  margin-left: 6px;
+}
+
+.results-web {
+  padding-top: 55px;
+}
+
+.results-phone {
+  padding-bottom: 55px;
+}
+
+/* Paraj rezultaj vicoj. */
+.resultrow-0 {
+  padding: 5px 10px 5px 10px;
+  background-color: #ffffff;
+}
+
+/* Neparaj rezultaj vicoj. */
+.resultrow-1 {
+  padding: 5px 10px 5px 10px;
+  background-color: #eeeeee;
+}
+
+.eo-result {
+  color: #0000FF;
+}
+
+.eo-informacio {
+  color: #000000;
+}
+
+.en-result {
+  color: #007700;
+  margin-left: 10px;
+}
+
+a.fonto {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a.fonto:hover {
+  text-decoration: underline;
+}
+
+hr.exactsep {
+  padding: 0px;
+  margin: 0px;
+  border: 0;
+  height: 1px;
+  background: #333;
+}
+
+html.dark hr.exactsep {
+  padding: 0px;
+  margin: 0px;
+  border: 0;
+  height: 1px;
+  background: #CCC;
+}
+
+input[type="text"] {
+  align-self: center;
+  font-size: 18px;
+
+  outline: none;
+  padding: 3px;
+  margin: 5px 5px 3px 0;
+  border: 1px solid #006600;
+  box-shadow: 0 0 5px #007700;
+}
+
+.header-button {
+  align-self: center;
+  margin-left: 3px;
+  margin-right: 3px;
+}
