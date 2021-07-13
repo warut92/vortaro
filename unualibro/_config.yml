@@ -1,8 +1,0 @@
-name: Unua Libro - taja
-title: null
-
-description: > # this means to ignore newlines until "baseurl:"
-
-baseurl: "" # the subpath of your site, e.g. /blog
-
-markdown: kramdown
