@@ -10,6 +10,7 @@ body {
 
 body, html {
     font-family: 'Sarabun', sans-serif;
+    font-size: 20px;
 }
 
 header {
@@ -47,9 +48,4 @@ th {
     background-color: #0c5e64;
     color: #dad1c2;
     font-weight: bold;
-}
-
-.github-corner {
-    fill: var(--color);
-    color: var(--background-color);
 }
