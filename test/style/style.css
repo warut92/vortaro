@@ -9,7 +9,7 @@ body {
 }
 
 body, html {
-    font-family: 'Sarabun', sans-serif;
+    font-family: 'Sarabun', sans-serif, 'Siemreap', cursive;
     font-size: 20px;
 }
 
@@ -29,6 +29,7 @@ input {
   box-sizing: border-box;
   border: none;
   border-bottom: 2px solid red;
+  font-family: 'Sarabun', sans-serif, 'Siemreap', cursive;
   font-size: 17px;
 }
 
