@@ -23,9 +23,15 @@ h1 {
 }
 
 input {
-    font-size: 3em;
-    margin: 1em;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid red;
+  font-size: 17px;
 }
+
 
 table {
     border-collapse: collapse;
