@@ -92,7 +92,7 @@
 
       $("#parsed_csv_list").empty();
       $("#search").empty();
-      $("#search").html("<input id='targetLang_search' placeholder=" + searchPlaceholder + " type='search'><input id='occidental_search' placeholder='serchar' type='search'>");
+      $("#search").html("<input id='targetLang_search' placeholder=" + searchPlaceholder + " type='search'>");
 
       Papa.parse(csvURL, {
         download: true,
@@ -145,7 +145,6 @@
         }
       });
       $("#targetLang_search").on("input", function(event) { jets.search(event.target.value, [0][1]) } );
-      $("#occidental_search").on("input", function(event) { jets.search(event.target.value, 1) } );
     }
   </script>
  </body>
