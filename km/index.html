@@ -97,8 +97,8 @@
       $("#search").html("<input id='targetLang_search' placeholder=" + searchPlaceholder + " type='search'>");
 
       Papa.parse(csvURL, {
-        download: false,
-        header: false,
+        download: true,
+        header: true,
         //worker: true,
         //step: function(row) {
         //  console.log("Row:", row.data);
