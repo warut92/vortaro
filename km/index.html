@@ -75,7 +75,7 @@
         languageISO = element.value;
       }
 
-      history.pushState({dictionary:languageISO},'','?d=' + languageISO);
+      //history.pushState({dictionary:languageISO},'','?d=' + languageISO);
       currentDictionary = languageISO;
       
       var searchPlaceholder = '';
@@ -98,7 +98,7 @@
 
       Papa.parse(csvURL, {
         download: true,
-        header: true,
+        header: false,
         //worker: true,
         //step: function(row) {
         //  console.log("Row:", row.data);
