@@ -1,15 +1,13 @@
 # Esperantaj Vortaroj
 
 ## Esperanto-Taja Reta Vortaro
-fonto - 
 
 ### Adreso
 
 ### Venontaj plibonigoj
---
+
 ### Permesilo
-temas pri vortoj
-<https://creativecommons.org/licenses/by-sa/4.0/deed.eo>
+
 
 ## Simplaj Samsignifaj Vortoj
 ### Adreso 
