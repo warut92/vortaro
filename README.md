@@ -1,9 +1,8 @@
 # Esperantaj Vortaroj
 
 ## Esperanto-Taja Reta Vortaro
-fonto - <https://legacy.esperanto.org.uk/eldonoj/etv/>
+fonto - 
 
-Kompilanto - _Geoffrey Sutton_, _Warut Bunprasert_
 ### Adreso
 
 ### Venontaj plibonigoj
