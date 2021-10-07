@@ -9,7 +9,7 @@ body {
 }
 
 body, html {
-    font-family: 'Sarabun', sans-serif, 'Siemreap', cursive;
+    font-family: 'Rubik', sans-serif;
     font-size: 20px;
 }
 
@@ -36,7 +36,7 @@ input {
   width: 95%;
   padding: 0;
   margin: 0;
-  
+
   position: fixed;
   bottom: 0;
   background-color: var(--background-color);
