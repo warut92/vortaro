@@ -19,7 +19,7 @@ header {
 }
 
 h1 {
-    font-family: 'Sarabun', serif;
+    font-family: 'Nunito', serif;
 }
 
 input {
@@ -29,7 +29,7 @@ input {
   box-sizing: border-box;
   border: none;
   border-bottom: 2px solid red;
-  font-family: 'Sarabun', sans-serif, 'Siemreap', cursive;
+  font-family: 'Nunito', serif;
   font-size: 17px;
 }
 .mobile {
@@ -43,7 +43,7 @@ input {
 
   box-sizing: border-box;
   border: none;
-  font-family: 'Sarabun', sans-serif, 'Siemreap', cursive;
+  font-family: 'Nunito', serif;
   font-size: 17px;
 
   display: flex;
