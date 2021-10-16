@@ -6,7 +6,7 @@ function sxaven(kiu)
 
 	var teksto = document.getElementById(kiu).value;
 
-	//granda
+	//grandaj
 	teksto = teksto.replace(/A/,"𐑨");
 	teksto = teksto.replace(/B/,"𐑚");
 	teksto = teksto.replace(/C/g,"𐑔");
@@ -29,7 +29,7 @@ function sxaven(kiu)
 	teksto = teksto.replace(/U/g,"𐑪");
 	teksto = teksto.replace(/V/g,"𐑝");
 	teksto = teksto.replace(/Z/g,"𐑟");
-	//malgranda
+	//malgrandaj
 	teksto = teksto.replace(/a/g,"𐑨");
 	teksto = teksto.replace(/b/g,"𐑚");
 	teksto = teksto.replace(/c/g,"𐑔");
@@ -52,15 +52,20 @@ function sxaven(kiu)
 	teksto = teksto.replace(/u/g,"𐑪");
 	teksto = teksto.replace(/v/g,"𐑝");
 	teksto = teksto.replace(/z/g,"𐑟");
-
-
+	//ĉapelitaj grangaj
+	teksto = teksto.replace(/Ĉ/g,"𐑗");
+	teksto = teksto.replace(/Ĝ/g,"𐑡");
+	teksto = teksto.replace(/Ĥ/g,"𐑙");
+	teksto = teksto.replace(/Ĵ/g,"𐑠");
+	teksto = teksto.replace(/Ŝ/g,"𐑖");
+	teksto = teksto.replace(/Ŭ/g,"𐑘");
+	//ĉapelitaj malgrangaj
 	teksto = teksto.replace(/ĉ/g,"𐑗");
 	teksto = teksto.replace(/ĝ/g,"𐑡");
 	teksto = teksto.replace(/ĥ/g,"𐑙");
 	teksto = teksto.replace(/ĵ/g,"𐑠");
 	teksto = teksto.replace(/ŝ/g,"𐑖");
 	teksto = teksto.replace(/ŭ/g,"𐑘");
-
 
 	document.getElementById(kiu).value=teksto;
 	kiom();
@@ -103,7 +108,6 @@ function espen(kiu)
 	teksto = teksto.replace(/𐑘/g,"ŭ");
 	teksto = teksto.replace(/𐑝/g,"v");
 	teksto = teksto.replace(/𐑟/g,"z");
-
 
 	document.getElementById(kiu).value=teksto;
 	kiom();
