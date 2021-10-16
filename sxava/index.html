@@ -20,7 +20,11 @@ body, textarea, p, input {
     font-family: 'Noto Sans Shavian', sans-serif;
 }
 
-h1 {color: goldenrod; text-shadow: 2px 2px #FF0000; align-items: center;}
+h1 {
+  /* color: goldenrod;
+  text-shadow: 2px 2px #FF0000; */
+  text-align: center;
+}
 
 textarea {
   font-size: 20px;
@@ -29,6 +33,10 @@ textarea {
 }
 p {
   text-align: center;
+}
+
+input {
+  font-size: 18px;
 }
 
 a {
@@ -40,7 +48,7 @@ a {
 </head>
 <body>
 
-<h2>Kovertilo inter Esperanta kaj la ŝava</h2>
+<h1>Kovertilo inter Esperanta kaj la ŝava</h1>
 <p>
 <br>
 <input class="f" onclick="sxaven(&#39;tt&#39;);" type="button" value="ŜAVIGI">
@@ -60,7 +68,7 @@ a {
 </label> -->
 
 <br>
-<textarea id="tt" cols="40" rows="18" placeholder="tajpu viajn vortojn aŭ frazojn por ŝavigi ĉi tie!"></textarea>
+<textarea id="tt" cols="150" rows="15" placeholder="tajpu viajn vortojn aŭ frazojn por ŝavigi ĉi tie!"></textarea>
 
 <p>Lernu pri <a href="https://eo.wikipedia.org/wiki/%C5%9Cava_alfabeto">la ŝava alfabeto!</a></p>
 </body>
