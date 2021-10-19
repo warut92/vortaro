@@ -1,5 +1,5 @@
 var HASH_SIZE = 2;
-var NUM_RESULTS = 150;
+var NUM_RESULTS = 10;
 var dict = [];
 var search_result = {};
 var trigrams_to_merge;
