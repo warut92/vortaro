@@ -25,14 +25,16 @@
 		  width: 100%;
 		}
 	</style>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-	<script src="./script.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</script>
 </head>
 <body>
-	<ul>
+<ul>
+	<form>
 <input type="text" placeholder="พิมพ์คำศัพท์ที่ต้องการค้นหา" id="search_text">
-<input type="submit"  value="ค้นหา" id="search_submit">
-	</ul>
+<input type="submit"  value="ค้นหา" id="search_submit" name="q">	
+	</form>
+</ul>
 	<h2>พจนานุกรมเอสเปรันโต - ไทย สำหรับนักเรียน</h2> 
 	Esperanto - Taja Vortareto por lernantoj<br>
 	โดย วรุฒ  บุญประเสริฐ ชมรมภาษาเอสเปรันโตกรุงเทพ Verda Elefanto<br>
@@ -564,7 +566,7 @@
 <b>	-ec-	</b>	[0]	<i>(suf)</i> พยางค์เติมท้ายเพื่อระบุลักษณะ; beleco ความงาม; boneco ความดี; eco ลักษณะ					<br>
 <b>	eĉ	</b>	[1]	<i>(adv)</i> แม้แต่, แม้กระทั่ง					<br>
 <b>	eduk-i	</b>	[6]	<i>(tr)</i> ให้การศึกษา, เลี้ยงดู; eduko, edukado การศึกษา; bonedukiteco การศึกษาดี, ความมีการศึกษา					<br>
-<b>	edz-o	</b>	[3]	สามี, ผัว; edzino ภรรยา, เมีย; geedziĝo การแต่งาน; geedziĝi แต่งงาน, กลายเป็นคู่สามีภรรยา					<br>
+<b>	edz-o	</b>	[3]	สามี, ผัว; edzino ภรรยา, เมีย; geedziĝo การแต่งงาน; geedziĝi แต่งงาน, กลายเป็นคู่สามีภรรยา					<br>
 <b>	efektiv-a	</b>	[5]	ที่จริง, จริงแท้					<br>
 <b>	efekt-o	</b>	[9]	ผลกระทบ					<br>
 <b>	efik-i	</b>	[5]	<i>(ntr)</i> ส่งผล, ให้ผล; efiko ผล, ผลดี, ผลกระทบ					<br>
@@ -2779,4 +2781,52 @@
 </div>
 	
 </body>
+<script>
+	// https://jsfiddle.net/sandyrig/h86knpsq/1/
+        jQuery("#search_submit").on("click", function () {
+    // var search_str = jQuery("#search_text").val();console.log(search_str);
+    findString('');
+    return false;
+});
+
+var TRange=null;
+
+function findString (str) {
+    str = document.getElementById('search_text').value;//jQuery("#search_text").val();
+    if (parseInt(navigator.appVersion)<4) return;
+    var strFound;
+    if (window.find) {
+
+        // CODE FOR BROWSERS THAT SUPPORT window.find
+
+        var original_content = window;
+        strFound=original_content.find(str);
+        if (!strFound) {
+            strFound=original_content.find(str,0,1);
+            while (original_content.find(str,0,1)) continue;
+        }
+    }
+    else if (navigator.appName.indexOf("Microsoft")!=-1) {
+
+        // EXPLORER-SPECIFIC CODE
+
+        if (TRange!=null) {
+            TRange.collapse(false);
+            strFound=TRange.findText(str);
+            if (strFound) TRange.select();
+        }
+        if (TRange==null || strFound==0) {
+            TRange=self.document.body.createTextRange();
+            strFound=TRange.findText(str);
+            if (strFound) TRange.select();
+        }
+    }
+    else if (navigator.appName=="Opera") {
+        alert ("Opera browsers not supported, sorry...")
+        return;
+    }
+    if (!strFound) alert ("ไม่พบการค้นหาของ '"+str+"' ครับ ")
+    return;
+}
+</script>
 </html>
