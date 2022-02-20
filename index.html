@@ -33,6 +33,7 @@
 	<form>
 <input type="text" placeholder="พิมพ์คำศัพท์ที่ต้องการค้นหา" id="search_text">
 <input type="submit"  value="ค้นหา" id="search_submit" name="q">	
+<button style="float:right" type="button">เกี่ยวกับ</button>
 	</form>
 </ul>
 	<h2>พจนานุกรมเอสเปรันโต - ไทย สำหรับนักเรียน</h2> 
@@ -2828,5 +2829,13 @@ function findString (str) {
     if (!strFound) alert ("ไม่พบการค้นหาของ '"+str+"' ครับ ")
     return;
 }
+</script>
+
+<script>
+  var pressedButton = document.getElementsByTagName("button")[0];
+ 
+  pressedButton.addEventListener("click", function (event) {
+    alert("เกี่ยวกับพจนานุกรมเล่มนี้ \n ยังไม่ได้เขียนจ้า")
+  })
 </script>
 </html>
