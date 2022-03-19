@@ -5,14 +5,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>พจนานุกรมเอสเปรันโต - ไทย สำหรับนักเรียน Esperanto - Taja Vortareto por lernantoj</title>
 	<style type="text/css">
-		body {
+/*		body {
 			background-color: black;
 			color: green;
 		}
 		b {
 			font-family: Arial, Helvetica, sans-serif;
 			font-size: 18px;
-		}
+		}*/
 		
 		ul {
 		  list-style-type: none;
@@ -38,15 +38,16 @@
 </script>
 </head>
 <body>
-<ul>
+<!-- <ul>
 	<form>
 <input type="text" placeholder="พิมพ์คำศัพท์ที่ต้องการค้นหา" id="search_text">
 <input type="submit"  value="ค้นหา" id="search_submit" name="q">	
 <button style="float:right" type="button">เกี่ยวกับ</button>
 	</form>
-</ul>
+</ul> -->
 	<b>พจนานุกรมเอสเปรันโต - ไทย สำหรับนักเรียน</b> 
 	<b>Esperanto - Taja Vortareto por lernantoj</b><br>
+	เรียบเรียงโดย วรุฒ  บุญประเสริฐ ชมรมภาษาเอสเปรันโตกรุงเทพ Verda Elefanto ปรับปรุงเมื่อ 19-02-65 จำนวน 2,710 คำหลัก
 
 <div>
 <b>	A	</b>							<br>
@@ -2791,7 +2792,7 @@
 </body>
 <script>
 	// https://jsfiddle.net/sandyrig/h86knpsq/1/
-        jQuery("#search_submit").on("click", function () {
+    jQuery("#search_submit").on("click", function () {
     // var search_str = jQuery("#search_text").val();console.log(search_str);
     findString('');
     return false;
