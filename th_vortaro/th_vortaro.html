@@ -407,7 +407,7 @@ window.onload = function()
     E("load").value = "Elŝutanta ...";
     load_status = "PROGRESS";
 
-    call_ajax_text_post("./dic.json.php", "time=" + new Date(),
+    call_ajax_text_post("./dic.json", "time=" + new Date(),
       function(r) {
 
         var bytelike= unescape(encodeURIComponent(r));
