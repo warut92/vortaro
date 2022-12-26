@@ -2,16 +2,11 @@
 
 ## Esperanto-Taja Reta Vortaro
 
-### Adreso
-
-### Venontaj plibonigoj
-
-### Permesilo
-
 
 ## Simplaj Samsignifaj Vortoj
 ### Adreso 
 <https://warut92.github.io/vortaro/ssv.html>
+
 ### Fonto 
 <http://bonalingvo.net/index.php/Simplaj_samsignifaj_vortoj_-_enkonduko>
 
