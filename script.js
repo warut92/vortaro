@@ -46,9 +46,9 @@ function sercxi() {
   //hilight คำที่ค้นหา
   sercxitaj_vortoj = sercxitaj_vortoj.replace(
     new RegExp(`${str_sxablono}`, "gi"),
-    "<b>" + str_sxablono + "</b>"
+    "<span class=\"border-highlight\">" + str_sxablono + "</span>"
   );
-
+  
   //นำออกแสดงผล
   //if ถ้า sercxitaj_vortoj ไม่เท่ากับ "" ให้แสดงข้อความ ไม่พบคำค้นหา
   if (sercxitaj_vortoj !== "") {

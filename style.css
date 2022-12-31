@@ -4,9 +4,9 @@ body {
   border: 1px solid black;
   border-radius: 4px;
   padding-top: 16px;
-  padding-right: 30px;
+  padding-right: 20px;
   padding-bottom: 50px;
-  padding-left: 30px;
+  padding-left: 20px;
 }
 b {
   font-family: "Garuda", sans-serif;
@@ -34,4 +34,9 @@ pre {
   position: absolute;
   top: 5px;
   right: 15px;
+}
+
+.border-highlight {
+  background-color: #89E682;
+  border-radius: 4px;
 }
