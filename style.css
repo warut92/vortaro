@@ -1,0 +1,37 @@
+@import "https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/Garuda/Garuda.css";
+body {
+  font-family: "Garuda", sans-serif;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding-top: 16px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+}
+b {
+  font-family: "Garuda", sans-serif;
+  font-size: 25px;
+}
+
+center {
+  font-family: "Garuda", sans-serif;
+  font-size: 25px;
+  padding-top: 1px;
+  padding-right: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+}
+
+input {
+  font-family: "Garuda", sans-serif;
+  font-size: 18px;
+  border: 2px solid #89E682;
+  border-radius: 4px;
+  width: 100%;
+}
+pre {
+  font-size: 10px;
+  position: absolute;
+  top: 5px;
+  right: 15px;
+}
