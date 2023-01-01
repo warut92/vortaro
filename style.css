@@ -1,6 +1,6 @@
-@import "https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/Garuda/Garuda.css";
+@import 'https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/Loma/Loma.css';
 body {
-  font-family: "Garuda", sans-serif;
+  font-family: "Loma", sans-serif;
   border: 1px solid black;
   border-radius: 4px;
   padding-top: 16px;
@@ -10,12 +10,11 @@ body {
 }
 
 b {
-  font-family: "Garuda", sans-serif;
-  font-size: 25px;
+  font-family: "Loma", sans-serif;
 }
 
 center {
-  font-family: "Garuda", sans-serif;
+  font-family: "Loma", sans-serif;
   font-size: 25px;
   padding-top: 1px;
   padding-right: 1px;
@@ -24,7 +23,7 @@ center {
 }
 
 input {
-  font-family: "Garuda", sans-serif;
+  font-family: "Loma", sans-serif;
   font-size: 18px;
   border: 2px solid #89E682;
   border-radius: 4px;
