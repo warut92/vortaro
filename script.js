@@ -6,7 +6,7 @@ let cxiuj_vortoj = document.getElementById("vortaro");
 //แปลงเป็น HTML
 let cxiuj_vortoj_HTML = cxiuj_vortoj.innerHTML;
 
-//ตั้งตัวแปรสำหรับการสร้างคำ splite จาก Enter
+//ตั้งตัวแปรสำหรับการสร้างคำ splite จาก new line (\n)
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
 
 //หา length โดยตัดช่องว่างออก

@@ -28,6 +28,7 @@ input {
   border: 2px solid #89E682;
   border-radius: 4px;
   width: 100%;
+  padding: 0;
 }
 pre {
   font-size: 10px;
