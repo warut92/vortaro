@@ -23,37 +23,46 @@ function sercxi() {
   //[2] ค้นหา
   //เรียกข้อความที่จะค้นหา
   let str_sxablono = document.getElementById("enigo").value;
+  //ถ้าตัวอักษรในช่องค้นหามากกว่า 1 ให้ดำเนินการต่อ
+  if (str_sxablono.length > 1) {
+    //ค้นหาข้อความด้วย regex
+    //https://stackoverflow.com/a/50828436
+    let spaceto = " "
+    let sxablono_regex = new RegExp(`${str_sxablono}(?!,)`, "g");
+    // let sxablono_regex = new RegExp(`${spaceto}${str_sxablono}(?!,)`, "g");
+    console.log('SXABLONO_REGEX', sxablono_regex)
+    //https://www.delftstack.com/howto/javascript/javascript-filter-string/
+    let rezulto = disigitaj_vortoj.filter(function (str) {
+      //test() ส่งค่าเป็น boolean สำหรับการตรวจสอบการค้นหา
+      return sxablono_regex.test(str);
+    });
+    //การแสดงผลการค้นหาแบบตรงตัว
 
-  //ค้นหาข้อความด้วย regex
-  //https://stackoverflow.com/a/50828436
-  let sxablono_regex = new RegExp(`${str_sxablono}(?!,)`, "g");
-  //https://www.delftstack.com/howto/javascript/javascript-filter-string/
-  let rezulto = disigitaj_vortoj.filter(function (str) {
-    return sxablono_regex.test(str);
-  });
-  //การแสดงผลการค้นหาแบบตรงตัว
+    //[3] เตรียมแสดงผล
+    //สร้างข้อความ หากข้อความค้นหาว่างเปล่า
+    if (str_sxablono === "") {
+      rezulto = "ไม่พบคำค้นหา";
+      return document.getElementById("eligo").innerHTML = "<hr>" + rezulto;
+    }
 
-  //[3] เตรียมแสดงผล
-  //สร้างข้อความ หากข้อความค้นหาว่างเปล่า
-  if (str_sxablono === "") {
-    rezulto = "ไม่พบคำค้นหา";
-    return document.getElementById("eligo").innerHTML = "<hr>" + rezulto;
+    //แปลงวัตถุ (rezulto) เป็นสตริง แล้วเปลี่ยนเครื่องหมายลูกน้ำที่ไม่มีอะไรตามหลังด้วย <br><hr>
+    let sercxitaj_vortoj = rezulto.toString().replace(/,(?!\s)/g, "<br><hr>");
+
+    //[4]ไฮไลท์คำใน sercxitaj_vortoj
+    //hilight คำที่ค้นหา
+    sercxitaj_vortoj = sercxitaj_vortoj.replace(
+      new RegExp(`${str_sxablono}`, "gi"),
+      "<b>" + str_sxablono + "</b>"
+    );
+
+    //นำออกแสดงผล
+    //if ถ้า sercxitaj_vortoj ไม่เท่ากับ "" ให้แสดงข้อความ ไม่พบคำค้นหา
+
+    if (sercxitaj_vortoj !== "") {
+      document.getElementById("eligo").innerHTML = "<hr>" + sercxitaj_vortoj;
+    } else  document.getElementById("eligo").innerHTML = "<hr>" + "ไม่พบคำค้นหา";
+  } else {
+    document.getElementById("eligo").innerHTML = "";
   }
 
-  //แปลงวัตถุ (rezulto) เป็นสตริง แล้วเปลี่ยนเครื่องหมายลูกน้ำที่ไม่มีอะไรตามหลังด้วย <br><hr>
-  let sercxitaj_vortoj = rezulto.toString().replace(/,(?!\s)/g, "<br><hr>");
-
-  //[4]ไฮไลท์คำใน sercxitaj_vortoj
-  //hilight คำที่ค้นหา
-  sercxitaj_vortoj = sercxitaj_vortoj.replace(
-    new RegExp(`${str_sxablono}`, "gi"),
-    "<b style=\"color:Blue\">" + str_sxablono + "</b>"
-  );
-
-  //นำออกแสดงผล
-  //if ถ้า sercxitaj_vortoj ไม่เท่ากับ "" ให้แสดงข้อความ ไม่พบคำค้นหา
-
-  if (sercxitaj_vortoj !== "") {
-    document.getElementById("eligo").innerHTML = "<hr>" + sercxitaj_vortoj;
-  } else  document.getElementById("eligo").innerHTML = "<hr>" + "ไม่พบคำค้นหา";
 }
