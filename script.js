@@ -5,6 +5,11 @@ let cxiuj_vortoj = document.getElementById("vortaro");
 
 //แปลงเป็น HTML
 let cxiuj_vortoj_HTML = cxiuj_vortoj.innerHTML;
+//แปลงเครื่องหมาย // เป็น tag ตัวเอียง
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '---')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')
+// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.toLowerCase()
 
 //ตั้งตัวแปรสำหรับการสร้างคำ splite จาก new line (\n)
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
@@ -28,7 +33,7 @@ function sercxi() {
     //ค้นหาข้อความด้วย regex
     //https://stackoverflow.com/a/50828436
     let spaceto = " "
-    let sxablono_regex = new RegExp(`${str_sxablono}(?!,)`, "g");
+    let sxablono_regex = new RegExp(`${str_sxablono}`, "g");
     // let sxablono_regex = new RegExp(`${spaceto}${str_sxablono}(?!,)`, "g");
     console.log('SXABLONO_REGEX', sxablono_regex)
     //https://www.delftstack.com/howto/javascript/javascript-filter-string/
