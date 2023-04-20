@@ -33,7 +33,8 @@ function sercxi() {
     //ค้นหาข้อความด้วย regex
     //https://stackoverflow.com/a/50828436
     let spaceto = " "
-    let sxablono_regex = new RegExp(`${str_sxablono}`, "g");
+    //'^'+'(|[^\t]*?[;\.\042, ])'+fpv+'[!;\.\042, \t]','i'
+    let sxablono_regex = new RegExp(`${str_sxablono}`, "i");
     // let sxablono_regex = new RegExp(`${spaceto}${str_sxablono}(?!,)`, "g");
     console.log('SXABLONO_REGEX', sxablono_regex)
     //https://www.delftstack.com/howto/javascript/javascript-filter-string/
