@@ -13,10 +13,13 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')
 
 //ตั้งตัวแปรสำหรับการสร้างคำ splite จาก new line (\n)
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
+let disigitaj_vortoj_al_kunmetitaj_vortoj = cxiuj_vortoj_HTML.split(/\n|;/g);
+disigitaj_vortoj_al_kunmetitaj_vortoj = disigitaj_vortoj_al_kunmetitaj_vortoj.filter(vorto => vorto !== "")
+console.log('DISIGITAJ_VORTOJ_AL_KUNMETITAJ_VORTOJ', disigitaj_vortoj_al_kunmetitaj_vortoj)
 
 //หา length โดยตัดช่องว่างออก
 let statistiko_disigitaj_vortoj = disigitaj_vortoj.filter(disigitaj_vortoj => disigitaj_vortoj !== "")
-document.getElementById("statistiko").innerHTML = statistiko_disigitaj_vortoj.length.toLocaleString("en-US") + " คำหลัก " + document.lastModified;
+document.getElementById("statistiko").innerHTML = statistiko_disigitaj_vortoj.length.toLocaleString("en-US") + " คำหลัก " + (disigitaj_vortoj_al_kunmetitaj_vortoj.length - statistiko_disigitaj_vortoj.length).toLocaleString("en-US") + " คำรอง " + document.lastModified;
 
 function sercxi() {
   //ตั้งตัวสำหรับสร้างลูป
@@ -33,7 +36,6 @@ function sercxi() {
     //ค้นหาข้อความด้วย regex
     //https://stackoverflow.com/a/50828436
     let spaceto = " "
-    //'^'+'(|[^\t]*?[;\.\042, ])'+fpv+'[!;\.\042, \t]','i'
     let sxablono_regex = new RegExp(`${str_sxablono}`, "i");
     // let sxablono_regex = new RegExp(`${spaceto}${str_sxablono}(?!,)`, "g");
     console.log('SXABLONO_REGEX', sxablono_regex)
@@ -53,6 +55,8 @@ function sercxi() {
 
     //แปลงวัตถุ (rezulto) เป็นสตริง แล้วเปลี่ยนเครื่องหมายลูกน้ำที่ไม่มีอะไรตามหลังด้วย <br><hr>
     let sercxitaj_vortoj = rezulto.toString().replace(/,(?!\s)/g, "<br><hr>");
+    console.log('REZULTO', rezulto.length)
+
 
     //[4]ไฮไลท์คำใน sercxitaj_vortoj
     //hilight คำที่ค้นหา
