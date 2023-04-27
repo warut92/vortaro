@@ -1,0 +1,15 @@
+{
+  "background_color": "green",
+  "description": "พจนานุกรมเอสเปรันโต-ไทย Esperanto - Taja Interreta Vortaro",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "ikono/ios/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Esperanto - Taja Interreta Vortaro",
+  "short_name": "retvortaro eo-th",
+  "start_url": "/index.html"
+}
