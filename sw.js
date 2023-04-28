@@ -1,9 +1,8 @@
 self.addEventListener('install', (e) => {
   e.waitUntil(
-    caches.open('fox-store').then((cache) => cache.addAll([
+    caches.open('vortaro-dosieraro').then((cache) => cache.addAll([
       '/index.html',
       '/eotajpu.js',
-      '/manifest.json',
       '/script.js',
       '/style.css',
     ])),
