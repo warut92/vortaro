@@ -24,13 +24,22 @@ center {
   padding-left: 1px;
 }
 
-input {
+#checkbox {
+  position: sticky;
+  left: 15px;
+}
+
+#enigo {
   font-family: "Loma", sans-serif;
   font-size: 22px;
   border: 2px solid #89E682;
   border-radius: 4px;
   width: 100%;
   padding: 0;
+}
+
+label {
+  font-size: 15px;
 }
 pre {
   font-size: 10px;
@@ -58,6 +67,6 @@ pre {
     color: #809fff;
   }
   a {
-    color: red
+    color: white;
   }
 }
