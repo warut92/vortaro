@@ -9,6 +9,8 @@ let cxiuj_vortoj_HTML = cxiuj_vortoj.innerHTML;
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '---')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[a-z-].*)(\[)/g, '<h1></h1>$2')
+// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/([A-z])-([aiueo{1}])/g, '$1$2')
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.toLowerCase()
 
 //ตั้งตัวแปรสำหรับการสร้างคำ splite จาก new line (\n)
@@ -37,17 +39,16 @@ function sercxi() {
   //เรียกข้อความที่จะค้นหา
   let str_sxablono = document.getElementById("enigo").value;
   const str_sxablono_len = str_sxablono.length
-  console.log('STR_SXABLONO.CHARCODEAT(0)', str_sxablono.charCodeAt(0))
   //การค้นหาด้วยภาษาไทยแบบตรงตัว
   if (str_sxablono.charCodeAt(0) > 500) {
-    console.log("อักษรไทย")
+    // console.log("อักษรไทย")
     document.getElementById('sercxoLingvo').innerHTML = "ค้นหาตรงตัว"
     if (document.getElementById('checkbox').checked) {
       komenclitero = " "
       porTajaSercxo = "(,|;| |$)"
     }
   } else if (str_sxablono.charCodeAt(0) < 500) {
-    console.log("อักษรละติน")
+    // console.log("อักษรละติน")
     document.getElementById('sercxoLingvo').innerHTML = "kapvorto"
     if (document.getElementById('checkbox').checked) {
       komenclitero = "^"
@@ -82,19 +83,13 @@ function sercxi() {
 
     //[4]ไฮไลท์คำใน sercxitaj_vortoj
     //hilight คำที่ค้นหา
-    console.log('STR_SXABLONO', str_sxablono)
-
     // อักษรไทย
-    console.log('(STR_SXABLONO.CHARCODEAT(0) > 500)', (str_sxablono.charCodeAt(0) > 500))
     if (str_sxablono.charCodeAt(0) > 500) { //ลบ ^ ที่จะออกมาแสดงผล ในการค้นหาด้วยอักษรละติน
-      console.log('CONDITION PASSED')
       str_sxablono = str_sxablono.substr(0)
-      console.log('STR_SXABLONO', str_sxablono)
       // อักษรไทยแบบตรงตัว// ผ่าน
     } else if (document.getElementById('checkbox').checked) {
       console.log("แบบตรงตัว");
       str_sxablono = str_sxablono.substr(precizaSercxo, str_sxablono_len + 1)
-      console.log('STR_SXABLONO_LEN', str_sxablono_len)
       //อักษรไทยแบบไม่ตรงตัว
     }
       console.log("แบบไม่ตรงตัว");
@@ -104,7 +99,6 @@ function sercxi() {
       new RegExp(`${str_sxablono}`, "gi"),
       "<b>" + str_sxablono + "</b>"
     );
-    console.log('STR_SXABLONO', str_sxablono)
 
     //นำออกแสดงผล
     //if ถ้า sercxitaj_vortoj ไม่เท่ากับ "" ให้แสดงข้อความ ไม่พบคำค้นหา
