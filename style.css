@@ -10,6 +10,10 @@ body {
   padding-left: 20px;
 }
 
+a {
+  color: black
+}
+
 b {
   font-family: "Loma", sans-serif;
   color: blue;
