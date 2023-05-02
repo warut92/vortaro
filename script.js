@@ -85,6 +85,7 @@ function sercxi() {
     //hilight คำที่ค้นหา
     // อักษรไทย
     if (str_sxablono.charCodeAt(0) > 500) { //ลบ ^ ที่จะออกมาแสดงผล ในการค้นหาด้วยอักษรละติน
+      console.log("อักษรไทย");
       str_sxablono = str_sxablono.substr(0)
       // อักษรไทยแบบตรงตัว// ผ่าน
     } else if (document.getElementById('checkbox').checked) {
@@ -109,8 +110,10 @@ function sercxi() {
   } else {
     document.getElementById("eligo").innerHTML = "";
   }
+  let statistiko_pri = document.getElementById("statistiko").innerHTML
 
 }
+
 // Register service worker to control making site work offline
 //prenitaj de https://github.com/mdn/pwa-examples/blob/main/a2hs/index.js
 if ('serviceWorker' in navigator) {

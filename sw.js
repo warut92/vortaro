@@ -1,4 +1,5 @@
 self.addEventListener('install', (e) => {
+  console.log("Instalita!")
   e.waitUntil(
     caches.open('vortaro-dosieraro').then((cache) => cache.addAll([
       '/index.html',
@@ -9,8 +10,12 @@ self.addEventListener('install', (e) => {
   );
 });
 
+self.addEventListener('active', (e) => {
+  console.log("Aktiva!");
+});
+
 self.addEventListener('fetch', (e) => {
-  console.log(e.request.url);
+  console.log("Venigita! ",e.request.url);
   e.respondWith(
     caches.match(e.request).then((response) => response || fetch(e.request)),
   );
