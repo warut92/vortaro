@@ -60,7 +60,7 @@ function sercxi() {
   if (str_sxablono.length > 1) {
     //ค้นหาข้อความด้วย regex
     //https://stackoverflow.com/a/50828436
-    let sxablono_regex = new RegExp(`${str_sxablono}`, "i");
+    let sxablono_regex = new RegExp(`(${(str_sxablono)})`, "ig");
     // let sxablono_regex = new RegExp(`${spaceto}${str_sxablono}(?!,)`, "g");
     console.log('SXABLONO_REGEX', sxablono_regex)
     //https://www.delftstack.com/howto/javascript/javascript-filter-string/
@@ -95,11 +95,9 @@ function sercxi() {
     }
       console.log("แบบไม่ตรงตัว");
       str_sxablono = str_sxablono.substr(0)
+      str_sxablono
 
-    sercxitaj_vortoj = sercxitaj_vortoj.replace(
-      new RegExp(`${str_sxablono}`, "gi"),
-      "<b>" + str_sxablono + "</b>"
-    );
+      sercxitaj_vortoj = sercxitaj_vortoj.replace(sxablono_regex, "<b>$1</b>")
 
     //นำออกแสดงผล
     //if ถ้า sercxitaj_vortoj ไม่เท่ากับ "" ให้แสดงข้อความ ไม่พบคำค้นหา
@@ -111,7 +109,6 @@ function sercxi() {
     document.getElementById("eligo").innerHTML = "";
   }
   let statistiko_pri = document.getElementById("statistiko").innerHTML
-
 }
 
 // Register service worker to control making site work offline
