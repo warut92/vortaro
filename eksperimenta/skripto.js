@@ -7,8 +7,8 @@ document.getElementById("teksto").innerHTML = tekstoSenApos
 document.addEventListener("click", function() {
         var elektitaVorto = "";
         if (window.getSelection) {
-            elektitaVorto = "^" + window.getSelection().toString() + " ";
-        } 
+            elektitaVorto = "^" + window.getSelection().toString() + "";
+        }
         	console.log("sercxita ",elektitaVorto.slice(elektitaVorto.length - 3))
 
         if (elektitaVorto.slice(elektitaVorto.length - 3) === "as ") {
