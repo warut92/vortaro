@@ -139,6 +139,7 @@ La finaĵoj, mallongigoj kaj signoj, kiuj estas uzataj en ĉi tiu vortareto.<br>
 <div id="output">
 </div>
 <script type="text/javascript">
+//kreu la suprajn tekstojn al tabela formo.
 function convertTable() {
 //prenas tekston
 let inputText = document.getElementById("txtinput").innerHTML;
@@ -155,7 +156,7 @@ let HTMLTableOutput = "";
 //aldoni html-tag al ĉiuj teksteron
 for (let i = 0; i < newLineArrLen; i++) {
   HTMLTableOutput += "<tr><td>" + newLineArr[i] + "</td></tr>" + "\n";
-  console.log('HTMLTABLEOUTPUT', HTMLTableOutput)
+  // console.log('HTMLTABLEOUTPUT', HTMLTableOutput)
 }
 
 //ŝanĝi spaceton per </td><td>
