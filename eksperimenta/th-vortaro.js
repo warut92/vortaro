@@ -838,7 +838,7 @@ grego [9] {ZOO} ฝูงสัตว์
 greno [5] ธัญพืช
 grimaci [9] //(ntr)// ทำหน้าหน้าตาบูด, ทำหน้าบึ้ง
 grimpi [7] (sur) //(ntr)// ปีน
-grinci [9] //(ntr)// เสียงดังเอี๊ยด, เสียงดังครูด*
+grinci [9] //(ntr)// เสียงดังเอี๊ยด, เสียงดังครูด
 gripo [9] ไข้หวัดใหญ่
 griza [5] สีเทา
 groto [9] ถ้ำประดิษฐ์
@@ -2218,7 +2218,7 @@ semo [6] เมล็ด; semi //(tr)// หว่านเมล็ด;
 sen [1] //(prep)// ปราศจาก
 senato [9] วุฒิสภา, สภาสูง; sanatano สมาชิกวุฒิสภา
 senco [5] ความหมาย, ลักษณะการใช้ (คำ, ถ้อยคำ)
-sendi [2] //(tr)// ส่ง; dissendi* จ่าย, กระจายเสียง, ถ่ายทอด; elsendi* ส่งออก
+sendi [2] //(tr)// ส่ง; dissendi จ่าย, กระจายเสียง, ถ่ายทอด; elsendi ส่งออก
 senso [8] ความรู้สึก = sentumo
 senti [3] //(tr)// รู้สึก //Mi sentas min feliĉa. ผมรู้สึกว่าผมมีความสุข//; sentema ความรู้สึกอ่อนไหว; sentumo ความรู้สึก = senso
 sep [1] เจ็ด; sepa ที่เจ็ด
@@ -2635,7 +2635,7 @@ vango [6] แก้ม; sidvango แก้มก้น
 vanta [9] ไร้สาระ, ไม่มีประโยชน์
 vaporo [5] ไอน้ำ; vaporumi = vaporkuiri นึ่ง, อบไอน้ำ
 varbi [x] //(tr)// ทำให้...เป็นสมาชิก (กลุ่ม, ชมรม, สมาคม), ทำให้...เป็นทหาร
-varii [8] //(ntr)// แปรผัน, ผันแปร, เปลี่ยนแปลง*
+varii [8] //(ntr)// แปรผัน, ผันแปร, เปลี่ยนแปลง
 varma [3] ร้อน, อุ่น, อบอุ่น; malvarma เย็น, หนาว; malvarmumo ไข้หวัด
 varo [8] สินค้า, ผลิตภัณฑ์
 varti [9] //(tr)// เลี้ยงดู
@@ -3033,6 +3033,7 @@ oligarkio, oligarĥio [POL] คณาธิปไตย
 renegato ผู้ที่ละทิ้งศาสนา, ผู้ที่ละทิ้งพวกพ้อง, คนทรยศ = apostato
 mocio {POL} ญัตติ
 engaĝi //(tr)// จ้าง, ชักชวน
+ostaĝo ตัวประกัน; ostaĝigi จับเป็นตัวประกัน
 >.
 <!-- A -->
 abako {MAT} ลูกคิด
@@ -3105,7 +3106,6 @@ alciono {ZOO} นกกระเต็น
 alegorio อุปมานิทัศน์, ศิลปะที่ใช้สัญลักษณ์แทนความหมายโดยตรงในภาษาเขียน
 alergio โรคภูมิแพ้
 alfa ตัวอักษรกรีก α แอลฟา, ลำดับแรก; alfpartiklo(j) (หรือ alfradio(j)) อนุภาคแอลฟา (หรือ รังสีแอลฟา)
-
 algebro {MAT} พีชคณิต
 Alĝerio {GEO} {POL} ประเทศแอลจีเรีย
 alĥemio ⇒ alkemio
@@ -5291,4 +5291,4 @@ let vortaro_HTML = vortaro.innerHTML
 vortaro_HTML = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
 vortaro_HTML = vortaro.replace(/\n/g, '<br>')
 
-document.getElementById('vortaro').innerHTML =  vortaro_HTML + document.lastModified;
+// document.getElementById('vortaro').innerHTML =  vortaro_HTML
