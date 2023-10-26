@@ -115,5 +115,5 @@ fetch('last_commit.txt')
   .then(data => {
     const lastCommitDate = new Date(data);
     console.log('LASTCOMMITDATE', lastCommitDate)
-    document.getElementById('last-commit').textContent = lastCommitDate.toDateString();
+    document.getElementById('last-commit').textContent = lastCommitDate;
   });

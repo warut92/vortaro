@@ -1,0 +1,1850 @@
+commit 14c01d638e80de9463613fba5333a6293b871b48
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 26 18:06:18 2023 +0700
+
+    aldoni la daton
+
+commit 45a93c34346d89eb80f4056f74d564aeccd0b6a9
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 26 18:04:35 2023 +0700
+
+    aldoni la dosieron.
+
+commit a4d1523b6fc77a7ee54b8f814bffffb5b1dfe46d
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 26 17:47:04 2023 +0700
+
+    testi funckion date
+
+commit 5e423f330dd030c793783dfeed9cd1a6c44499e4
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 26 17:44:52 2023 +0700
+
+    ĝisdata
+
+commit 6b0519310940422a2b0966492ab30ffe58d65139
+Author: Valso <warut92@gmail.com>
+Date:   Wed Oct 25 18:18:09 2023 +0700
+
+    ĝisdata
+
+commit 320151e5bc1cf3caff2cc42c171fcc9c8980de2d
+Author: Valso <warut92@gmail.com>
+Date:   Mon Oct 23 18:16:12 2023 +0700
+
+    ĝisdata
+
+commit e0f69b0fbbff08cab7e7ec2e2fba9f75b767e45d
+Author: wrt (: ) <warut92@gmail.com>
+Date:   Mon Oct 16 23:15:46 2023 +0700
+
+    Add files via upload
+
+commit 86cadbddbc9b174df35b61827d9ec7df484525cd
+Author: wrt (: ) <warut92@gmail.com>
+Date:   Mon Oct 16 13:07:42 2023 +0700
+
+    Add files via upload
+
+commit 646874ebc40ee4723b987a084a4aa1c382638b2f
+Author: Valso <warut92@gmail.com>
+Date:   Sat Sep 30 17:35:58 2023 +0700
+
+    +trd
+
+commit fa92c137e58053dfaee87c058195d833eaa37f35
+Author: Valso <warut92@gmail.com>
+Date:   Sat Sep 30 11:32:54 2023 +0700
+
+    +trd
+
+commit 4026dfcf2ddfbc6ded8156a9e857741f4a797894
+Author: Valso <warut92@gmail.com>
+Date:   Sat Jul 8 15:55:56 2023 +0700
+
+    +nv +nt
+
+commit 914fee704d8008132f83a8a370cd5061e57e2b6a
+Author: Valso <warut92@gmail.com>
+Date:   Sat May 6 13:33:31 2023 +0700
+
+    Update index.html
+
+commit ec869f9b088875aa8d3f07a84ca74d44b3d1a5f3
+Author: Valso <warut92@gmail.com>
+Date:   Thu May 4 11:38:53 2023 +0700
+
+    >eligi la rezulton ĉu granda aŭ malgranda literoj
+
+commit 09446a3343b48cc059302c50127a63ee8fd52516
+Author: Valso <warut92@gmail.com>
+Date:   Tue May 2 17:29:18 2023 +0700
+
+    >ĝisdata
+
+commit 735081b3903fe326aa7f40273dd8dd80e3e6eac3
+Author: Valso <warut92@gmail.com>
+Date:   Tue May 2 17:28:55 2023 +0700
+
+    >;
+
+commit 1b5bb35b772eb5501df2feced6738f6afa5bc01b
+Author: Valso <warut92@gmail.com>
+Date:   Tue May 2 14:10:37 2023 +0700
+
+    +fd(zoo,landonamo)
+
+commit b96e3ce6939ee40f1f82e86bc32334593c502db3
+Author: Valso <warut92@gmail.com>
+Date:   Tue May 2 14:09:51 2023 +0700
+
+    +trd
+
+commit ba4d74db12b69ef594e2b0697a7ce94b0ab327c2
+Author: Valso <warut92@gmail.com>
+Date:   Tue May 2 12:31:20 2023 +0700
+
+    >strk
+
+commit 2e0f8f79554fc1f0476a10943133d4258d06e286
+Author: Valso <warut92@gmail.com>
+Date:   Tue May 2 12:30:38 2023 +0700
+
+    +a tag nigriĝi dum hela modo
+
+commit 1ee764388b18a37b6978fea061ca61838ada0b05
+Author: Valso <warut92@gmail.com>
+Date:   Mon May 1 23:13:52 2023 +0700
+
+    +nv -mv
+
+commit 5af408fb1cad0dd6a35a0dd79df958045b4cafbb
+Author: Valso <warut92@gmail.com>
+Date:   Sat Apr 29 18:06:32 2023 +0700
+
+    +nv >strk >strk-fakindeksoj
+
+commit 47024c5a54ea91dbd7787812de05af75e8ab2c69
+Author: Valso <warut92@gmail.com>
+Date:   Fri Apr 28 21:54:12 2023 +0700
+
+    +nv >fakindekso
+
+commit 49f598978fca221222ec786923157e652490d778
+Author: Valso <warut92@gmail.com>
+Date:   Fri Apr 28 21:36:09 2023 +0700
+
+    granda ĝisdatiĝo
+
+commit 4836df75fa3dffdf1003f95828c120827db13d4c
+Author: Valso <warut92@gmail.com>
+Date:   Fri Apr 28 17:19:03 2023 +0700
+
+    aldoni novajn vortojn/renomigi cache/ĝisdatigi manifest
+
+commit 678feb0e32677fcc14acb1465ac389d323c49def
+Author: Valso <warut92@gmail.com>
+Date:   Thu Apr 27 21:14:48 2023 +0700
+
+    ĝisdata
+
+commit 4051b28d22141cbff86ecdf8dde657e37eaea048
+Author: Valso <warut92@gmail.com>
+Date:   Thu Apr 27 21:01:41 2023 +0700
+
+    ĝisdatigi la strukturon
+
+commit a301e40c89aba5b8ae16ded11ccf4854c4fb7dc5
+Author: Valso <warut92@gmail.com>
+Date:   Thu Apr 27 20:47:38 2023 +0700
+
+    ion
+
+commit 5399abee58f072bded5201e63d7e58f893fdc0c5
+Author: Valso <warut92@gmail.com>
+Date:   Thu Apr 27 20:46:43 2023 +0700
+
+    aldoni sw.js
+
+commit 263af304a2ca93e4b2adbfddcd0118558ed3336b
+Author: Valso <warut92@gmail.com>
+Date:   Thu Apr 27 20:39:05 2023 +0700
+
+    aldoni dosierojn por PWA
+
+commit 0135a73740ac6027cca9a7d6f37aee2607aa17a7
+Author: Valso <warut92@gmail.com>
+Date:   Wed Apr 26 21:57:31 2023 +0700
+
+    ŝanĝi strukturon de la vortaro
+
+commit 5d31f967e046ea04889941b790d5c50550cbb80e
+Author: Valso <warut92@gmail.com>
+Date:   Wed Apr 26 16:01:16 2023 +0700
+
+    aldoni multajn vortojn
+
+commit 40afeb4544f54329ee6c40877b923cf5b39b3b93
+Author: Valso <warut92@gmail.com>
+Date:   Mon Apr 24 12:57:03 2023 +0700
+
+    aldoni novajn vortojn
+
+commit d65b6204806bd4eb71c8fc945d0c1ba228fdf56e
+Author: Valso <warut92@gmail.com>
+Date:   Sat Apr 22 21:05:18 2023 +0700
+
+    aldoni novajn vortojn
+
+commit 5218697b95d164d50971516043a4316e3a44ec1f
+Author: Valso <warut92@gmail.com>
+Date:   Fri Apr 21 16:39:49 2023 +0700
+
+    aldoni novajn vortojn
+
+commit 1b7a65b4204236d3a58eee16fb2a0cd2e58b11e4
+Author: Valso <warut92@gmail.com>
+Date:   Thu Apr 20 22:27:47 2023 +0700
+
+    aldoni novajn vortojn, ŝanĝi iom da css k js
+
+commit 157ac39afd4c8bc18e9f5f885f501dcc222cd6fb
+Author: Valso <warut92@gmail.com>
+Date:   Thu Apr 20 11:38:46 2023 +0700
+
+    aldoni novajn vortojn
+
+commit d3968217d32a1c0f28380dc43a49f1ff4fcfa05f
+Author: Valso <warut92@gmail.com>
+Date:   Wed Apr 19 21:17:07 2023 +0700
+
+    aldoni novajn vortojn
+
+commit 0fae8798df6048a32613bbe3bc6f97ad519bdcae
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 18 22:12:26 2023 +0700
+
+    aldoni f
+
+commit d7e5bdb0eeb367df8ab0d76219c7476ad102a765
+Author: Valso <warut92@gmail.com>
+Date:   Sun Apr 16 13:27:42 2023 +0700
+
+    aldoni vortojn novajn
+
+commit fdfe6d9e3adaaaa393d5243b96391461c77b6e37
+Author: Valso <warut92@gmail.com>
+Date:   Fri Apr 14 18:47:06 2023 +0700
+
+    aldoni novan ikonon kaj novajn vortojn
+
+commit 5e8fd5c9c568764dd6a7d26237128f9bc48930d4
+Author: Valso <warut92@gmail.com>
+Date:   Thu Apr 13 13:07:11 2023 +0700
+
+    aldoni ikonojn
+
+commit 74ead826842a64ccb1580a8c56134e9ada77247e
+Author: Valso <warut92@gmail.com>
+Date:   Wed Mar 29 00:20:04 2023 +0700
+
+    update
+
+commit d81b129e1288d04f523bf6d373a0cf7fe972037b
+Author: Valso <warut92@gmail.com>
+Date:   Tue Mar 28 23:21:40 2023 +0700
+
+    +trd th
+
+commit 7a1554450434c84c3dfd10969866f82c7d519682
+Author: Valso <warut92@gmail.com>
+Date:   Sun Mar 26 23:18:12 2023 +0700
+
+    forigi kelkajn malnovajn dosierojn kaj aldoni ion da novaj vortoj.
+
+commit d6db3c4b42716e7ca5d72da6633d43c0e92c9c0b
+Author: Valso <warut92@gmail.com>
+Date:   Sun Jan 1 18:52:31 2023 +0700
+
+    Delete ikono.ico
+
+commit 648542c0da643ca9787dc49d4d89f956e2626a94
+Author: Valso <warut92@gmail.com>
+Date:   Sun Jan 1 14:07:07 2023 +0700
+
+    Update README.md
+
+commit 414226dfa433f5ed58d78fa64c3c6a5e22226f88
+Author: Valso <warut92@gmail.com>
+Date:   Sun Jan 1 14:06:16 2023 +0700
+
+    update
+
+commit 6a598ddd4dd34ab84d588f69987ca1652ed7c377
+Author: Valso <warut92@gmail.com>
+Date:   Sat Dec 31 14:13:11 2022 +0700
+
+    Update style.css
+
+commit aa59fafbcba301fc3f2626a3c44d929daa5d1d21
+Author: Valso <warut92@gmail.com>
+Date:   Sat Dec 31 14:07:09 2022 +0700
+
+    add eotajpu
+
+commit e6e181f3affb0bdf634f7f88348d11be7b2ea338
+Author: Valso <warut92@gmail.com>
+Date:   Sat Dec 31 12:46:52 2022 +0700
+
+    big update
+
+commit 40fae184f13859bef4a96f78d3c61d8257016134
+Author: Valso <warut92@gmail.com>
+Date:   Mon Dec 26 22:44:57 2022 +0700
+
+    Update README.md
+
+commit 496c41d5c0899cb461db72d281cb22b6266b94e7
+Author: Valso <warut92@gmail.com>
+Date:   Mon Dec 26 22:29:15 2022 +0700
+
+    Update README.md
+
+commit df80da7e02ed493b23ed80aa9a1df81e854013bd
+Author: Valso <warut92@gmail.com>
+Date:   Mon Dec 26 22:28:45 2022 +0700
+
+    Update README.md
+
+commit c24c23c798ad14ba120268fcac6ca5124179a1fa
+Author: Valso <warut92@gmail.com>
+Date:   Sun Nov 6 23:32:32 2022 +0700
+
+    gxisdatigo
+
+commit 35e64f339e680493d95f345b0f3fbb257d63a0d3
+Author: Valso <warut92@gmail.com>
+Date:   Sun Jul 31 16:08:59 2022 +0700
+
+    Update index.html
+
+commit fabb0c616e01368b312fff3b0ba1c77e546fc38e
+Author: Valso <warut92@gmail.com>
+Date:   Sun Jul 31 13:25:10 2022 +0700
+
+    + tr
+
+commit 529329408baf50a25658de17899825b98a4aad85
+Author: Valso <warut92@gmail.com>
+Date:   Sat Jun 4 12:03:37 2022 +0700
+
+    ĝisdatiĝo
+
+commit 6fd4749a37d548387e252a5be306328c805008f3
+Author: Valso <warut92@gmail.com>
+Date:   Sat Jun 4 11:42:57 2022 +0700
+
+    ĝisadatigita
+
+commit 35bc90e2b65908af4afe462a3845ee4434d59a04
+Author: Valso <warut92@gmail.com>
+Date:   Sat Jun 4 10:11:18 2022 +0700
+
+    Update index.html
+
+commit 97bdde46ddb743ccee0dd31e7b5e1e4f80b66cf1
+Author: Valso <warut92@gmail.com>
+Date:   Sat Jun 4 00:01:27 2022 +0700
+
+    update files
+
+commit 8048d0127bdad1fe31a9bcc1791a33bf16db2f3b
+Author: Valso <warut92@gmail.com>
+Date:   Fri Jun 3 23:45:27 2022 +0700
+
+    Delete คำนำ.txt
+
+commit a29eb6100631606279a1a27199e9377d1cc81240
+Author: Valso <warut92@gmail.com>
+Date:   Fri Jun 3 23:44:46 2022 +0700
+
+    Delete kde.txt
+
+commit 0ecf2af41d570c30af322cce045440bf4f432766
+Author: Valso <warut92@gmail.com>
+Date:   Fri Jun 3 23:41:27 2022 +0700
+
+    aldonis funkcion filter
+
+commit bbd54e09b03a1e8760eadc738a89e976e0167c52
+Merge: 343ec0f e42a9d0
+Author: Valso <warut92@gmail.com>
+Date:   Sat May 21 21:06:36 2022 +0700
+
+    Merge branch 'master' of https://github.com/warut92/vortaro
+
+commit 343ec0f78cd435400774e1c17c3d5f49b7846b48
+Author: Valso <warut92@gmail.com>
+Date:   Sat May 21 21:06:30 2022 +0700
+
+    sxangxi la nomon
+
+commit e42a9d0fd36da194c206fbe89f226b60777de888
+Author: Valso <warut92@gmail.com>
+Date:   Sat May 21 21:03:43 2022 +0700
+
+    Delete th_vortaro directory
+
+commit 0a98c036ae21ccc1436f87064327edcfdf03be13
+Author: Valso <warut92@gmail.com>
+Date:   Sat May 21 20:51:08 2022 +0700
+
+    Add files via upload
+
+commit 8865f1059a6a0ae32dfb3432727056110e85ec25
+Author: Valso <warut92@gmail.com>
+Date:   Sat May 21 20:50:50 2022 +0700
+
+    Delete dic.json.php
+
+commit 1c7c90f03a1fa0b0c01ac77418cbdd219b16ee16
+Author: Valso <warut92@gmail.com>
+Date:   Sat May 21 20:46:05 2022 +0700
+
+    Add files via upload
+
+commit 76495f5433ff087f700b9d51e9fc828301c74fe8
+Author: Valso <warut92@gmail.com>
+Date:   Sat Apr 23 21:39:35 2022 +0700
+
+    Update index.html
+
+commit 1e0e63709f9837247bcb4ac926a3f0981314c412
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 12 19:27:18 2022 +0700
+
+    Update klarigo.html
+
+commit be2939627eaa825edcd5ab889c3f115e0a84464d
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 12 14:43:20 2022 +0700
+
+    เพิ่มคำอธิบาย
+
+commit 90125fd23d92399ee821b9ad6d8516fa347032af
+Author: Valso <warut92@gmail.com>
+Date:   Sat Mar 19 14:12:19 2022 +0700
+
+    delete some scripts
+
+commit 3fd6343fd60d652acacf037799213c247f7fdc1c
+Author: Valso <warut92@gmail.com>
+Date:   Mon Feb 21 21:52:22 2022 +0700
+
+    Update index.html
+
+commit f7a3e7ed71406492f810a4d727238fd3db59c649
+Author: Valso <warut92@gmail.com>
+Date:   Sun Feb 20 19:41:51 2022 +0700
+
+    Update index.html
+
+commit f0b66c91a5da7b790d2761a3470e4576d5c8b4ea
+Author: Valso <warut92@gmail.com>
+Date:   Sun Feb 20 19:38:46 2022 +0700
+
+    Update index.html
+
+commit 64f4dc29f1899380338a1a762776e9a502971c09
+Author: Valso <warut92@gmail.com>
+Date:   Sun Feb 20 18:44:47 2022 +0700
+
+    Update index.html
+
+commit 08ee2397e2115427004fb8b7ae20435024818610
+Author: Valso <warut92@gmail.com>
+Date:   Sun Feb 20 18:35:18 2022 +0700
+
+    Update index.html
+
+commit 117cefb6c7557f2233459f1e96b916fe7f234b96
+Author: Valso <warut92@gmail.com>
+Date:   Sun Feb 20 18:16:13 2022 +0700
+
+    Update index.html
+
+commit 09792b23e93561e8de52a211dc1a987a05362a89
+Author: Valso <warut92@gmail.com>
+Date:   Sun Feb 20 17:50:45 2022 +0700
+
+    update
+
+commit 3df5ddbd08690eea6d0baf68a4f266f296c7aacc
+Author: Valso <warut92@gmail.com>
+Date:   Sun Feb 20 17:23:44 2022 +0700
+
+    Update index.html
+
+commit 570b21b0ed8b4c85abfce031a40d34aec2dff8b7
+Author: Valso <warut92@gmail.com>
+Date:   Sun Feb 20 17:07:56 2022 +0700
+
+    update
+
+commit 9e809b6627ceb7bc86fea5b87e8bcd29bd554f44
+Author: Valso <warut92@gmail.com>
+Date:   Sat Feb 19 23:42:04 2022 +0700
+
+    Update index.html
+
+commit 7cb52e664a0c859083a7822c5fb0ed8d14d58c3f
+Author: Valso <warut92@gmail.com>
+Date:   Sat Feb 19 23:20:23 2022 +0700
+
+    Update index.html
+
+commit d50c5e1cdc56618ec9148758d2b9d3b453c5a03b
+Author: Valso <warut92@gmail.com>
+Date:   Sat Feb 19 23:11:55 2022 +0700
+
+    update
+
+commit 3edb5e1d71171426a41edd18ea863d38faf04a26
+Author: Valso <warut92@gmail.com>
+Date:   Thu Feb 17 11:25:54 2022 +0700
+
+    update web structure
+
+commit fd58bf6e27c64282531aa33bf6ed4b63c0b69585
+Author: Valso <warut92@gmail.com>
+Date:   Thu Feb 17 11:12:59 2022 +0700
+
+    Update index.html
+
+commit 657101ece4cc795b3004c25b247c389fbeb36fb8
+Author: Valso <warut92@gmail.com>
+Date:   Thu Feb 17 11:11:05 2022 +0700
+
+    add file to tmp
+
+commit d87b70709ac45af4e09339618066cc65a0cf225f
+Author: Valso <warut92@gmail.com>
+Date:   Wed Feb 16 14:43:33 2022 +0700
+
+    add new dir
+
+commit 88421cb7377c48666fa3aaf373443088a6bc1b53
+Author: Valso <warut92@gmail.com>
+Date:   Wed Feb 16 14:41:05 2022 +0700
+
+    Create vortaro.html
+
+commit 56ed15639fef4058b989f81f3ba87e299f2371c6
+Author: Valso <warut92@gmail.com>
+Date:   Wed Feb 16 14:39:24 2022 +0700
+
+    Update index.html
+
+commit b9500c445a044fef51b7898a3da252a268c2fd6d
+Author: Valso <warut92@gmail.com>
+Date:   Wed Feb 16 14:36:11 2022 +0700
+
+    Update index.html
+
+commit 75d6ce7395f895cf6f442aa43493682e4d36a4c7
+Author: Valso <warut92@gmail.com>
+Date:   Mon Dec 6 12:38:51 2021 +0700
+
+    red v
+
+commit 15d40e74298354990eb6af8368445f9659a95ace
+Author: Valso <warut92@gmail.com>
+Date:   Mon Dec 6 12:01:53 2021 +0700
+
+    ald nv
+
+commit 6eb14746d6b805f0387164ed87e962d5010090c6
+Author: Valso <warut92@gmail.com>
+Date:   Mon Dec 6 10:52:01 2021 +0700
+
+    ald nv
+
+commit 19d4dff8be0361276c7e5780f72b01bac15e5faa
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 21:52:04 2021 +0700
+
+    aldoni babilcxambron
+
+commit 5ee668efd14531fea2736e3fd3264b6ae3629252
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 21:43:46 2021 +0700
+
+    purigado
+
+commit f100f094ee6120be2206cd156701f905ebe12165
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 21:29:37 2021 +0700
+
+    forigi la tiparon
+
+commit 342559eabaa5ed15a260031089ffb5f87130d096
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 21:23:20 2021 +0700
+
+    tiparo google
+
+commit df7491f4289c2169e00fa180d1921b257cf06313
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 21:15:48 2021 +0700
+
+    tiparo
+
+commit 4735ae630704912fa1734943561534a610f720a8
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 21:04:31 2021 +0700
+
+    tiparo
+
+commit 15d9a84026ee230bad6b65bbf65794516be9ae46
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 21:00:20 2021 +0700
+
+    tiparo
+
+commit 02fbfa2cdbc91ee2b213cfe582822d02f750c83c
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 20:56:31 2021 +0700
+
+    aldoni novajn vortojn kaj tiparon
+
+commit 9ef5875648afa9f22c0b3543500297773c3f7556
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 19:00:17 2021 +0700
+
+    ald
+
+commit 7d30177de0a6f6c6989d474bbc5c38baaf680627
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 18:48:57 2021 +0700
+
+    Delete novaj-vortoj.md
+
+commit ac6ee275e02ebcbcab9dac4cda7bf02b41566fde
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 18:46:58 2021 +0700
+
+    ald nv
+
+commit 628354e9dab1d93def8a885f2844a177e0ceddba
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 5 18:45:59 2021 +0700
+
+    ald nv
+
+commit 2dd0858b5ffa4a241b632ee92299c399318a4e6b
+Author: Valso <warut92@gmail.com>
+Date:   Wed Dec 1 21:18:02 2021 +0700
+
+    Add files via upload
+
+commit eac71149333f128786020d73126422eb32413ae5
+Author: Valso <warut92@gmail.com>
+Date:   Wed Dec 1 16:06:18 2021 +0700
+
+    Add files via upload
+
+commit 7d4d7a1dfa10c511eef97992c0abe3499aec3e32
+Author: Valso <warut92@gmail.com>
+Date:   Tue Oct 19 22:22:50 2021 +0700
+
+    Add files via upload
+
+commit 552cf2b6dbe7aff509da9e19761c7628bd49b10d
+Author: Valso <warut92@gmail.com>
+Date:   Tue Oct 19 22:22:25 2021 +0700
+
+    Update README.md
+
+commit 40c71be5b743799da9436e0c6115e888a3455674
+Author: Valso <warut92@gmail.com>
+Date:   Tue Oct 19 22:21:35 2021 +0700
+
+    Delete excel_to_html.py
+
+commit 5bcd3e42a202f78411049b8940d1a37ebfebad71
+Author: Valso <warut92@gmail.com>
+Date:   Tue Oct 19 22:10:06 2021 +0700
+
+    Rename english_to_tamil.html to index.html
+
+commit 2bc531e6337728212e0b20fe1e35ab40a487d115
+Author: Valso <warut92@gmail.com>
+Date:   Tue Oct 19 21:46:33 2021 +0700
+
+    Add files via upload
+
+commit 31c866ffdc83f4695c16c9f9d74af5c88278c967
+Author: Valso <warut92@gmail.com>
+Date:   Tue Oct 19 21:33:39 2021 +0700
+
+    Add files via upload
+
+commit bf17d848b8832949994880c29ee68970b091b367
+Author: Valso <warut92@gmail.com>
+Date:   Tue Oct 19 21:31:07 2021 +0700
+
+    Add files via upload
+
+commit 2a9b8a7228ff92e516e3e4d9fe0bb91ffe47cc52
+Author: Valso <warut92@gmail.com>
+Date:   Tue Oct 19 19:20:56 2021 +0700
+
+    Add files via upload
+
+commit ab2e69269210bd582fe39f16cf8b8ebce9c9a6e9
+Author: Valso <warut92@gmail.com>
+Date:   Sun Oct 17 16:38:43 2021 +0700
+
+    Add files via upload
+
+commit 233be167864f9797817f6a2b97922a682fa0a3e4
+Author: Valso <warut92@gmail.com>
+Date:   Sun Oct 17 16:29:41 2021 +0700
+
+    Add files via upload
+
+commit dd6ac6f5410ef74e89cb96614e904c44f406eace
+Author: Valso <warut92@gmail.com>
+Date:   Sat Oct 16 18:38:52 2021 +0700
+
+    Add files via upload
+
+commit 8fd153b2184f1acc6d5e67f8354c1c462fc410fa
+Author: Valso <warut92@gmail.com>
+Date:   Sat Oct 16 18:27:46 2021 +0700
+
+    Add files via upload
+
+commit 5f51f74248d76d7748fc1e1e0f010e3d2ce020d8
+Author: Valso <warut92@gmail.com>
+Date:   Sat Oct 16 18:14:07 2021 +0700
+
+    Update and rename legumin.md to readme.md
+
+commit 2c7ac6a4bc984ab74bc3a4ffd2b7f2cf6c33b7dd
+Author: Valso <warut92@gmail.com>
+Date:   Sat Oct 16 18:05:51 2021 +0700
+
+    Delete konvertilo directory
+
+commit 378aeb3796d7f7f915b4fd1cd1e25d3360ed3b0b
+Author: Valso <warut92@gmail.com>
+Date:   Sat Oct 16 18:05:37 2021 +0700
+
+    Create legumin.md
+
+commit 38a9a57351152687dd2cfbac3755cc98f125d73d
+Author: Valso <warut92@gmail.com>
+Date:   Sat Oct 16 18:01:20 2021 +0700
+
+    Rename konvertilo/konvertigo.js to sxava/konvertigo.js
+
+commit 2aa2d10ce71124a2ddc3de5e237d4ae32f33a6d4
+Author: Valso <warut92@gmail.com>
+Date:   Sat Oct 16 18:00:47 2021 +0700
+
+    Update index.html
+
+commit 8b797758d06f07589488266c454c98957fd556f9
+Author: Valso <warut92@gmail.com>
+Date:   Sat Oct 16 17:59:06 2021 +0700
+
+    Rename konvertilo/index.html to sxava/index.html
+
+commit 10adc263f02ce9155367d6787df18b9954bb1abb
+Author: Valso <warut92@gmail.com>
+Date:   Sat Oct 16 17:55:43 2021 +0700
+
+    Add files via upload
+
+commit 6ff1721b467d44dd804c84c009471cb8e80c7fdc
+Author: Valso <warut92@gmail.com>
+Date:   Sat Oct 16 17:55:25 2021 +0700
+
+    Create legumin.md
+
+commit fe73fdd4a8977557b77683f30c5e5485eef14e24
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 15 12:17:53 2021 +0700
+
+    Update index.htm
+
+commit 2e9bdf64771cde62386116ee77b2b412802b08eb
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 15 11:58:06 2021 +0700
+
+    Update skota1.htm
+
+commit 63631cc3b6c19c2d4c1bcac23343936f2c3ba646
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 7 12:38:58 2021 +0700
+
+    Update style.css
+
+commit ac219336d08d91298d2245798847d77f2cb9f8d9
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 7 12:38:38 2021 +0700
+
+    Update mobile.html
+
+commit e4d4ba62d566e73123f175308807306c2429a67b
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 7 12:29:16 2021 +0700
+
+    Add files via upload
+
+commit ceeca320ca8bb3fe5e5132a05bc7232ea774a23b
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 7 12:21:52 2021 +0700
+
+    Add files via upload
+
+commit ec00d22b3611c2172a10f6bc4ee3b1a6dee8f44e
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 7 12:19:51 2021 +0700
+
+    Add files via upload
+
+commit bcc50a290630875acf32224b994f21da27e120a5
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 7 12:09:40 2021 +0700
+
+    Add files via upload
+
+commit 711f3764ee2432356a48e29ba733b300d9a3b93b
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 7 12:09:19 2021 +0700
+
+    Add files via upload
+
+commit c5b6c871c735cbd90e35d3c61db10f658ff35f78
+Author: Valso <warut92@gmail.com>
+Date:   Thu Oct 7 11:55:19 2021 +0700
+
+    Add files via upload
+
+commit ee09338e7bdf74cac3f9abc3cf8af2a9ee7602c9
+Author: Valso <warut92@gmail.com>
+Date:   Mon Oct 4 12:39:33 2021 +0700
+
+    Create CNAME
+
+commit 968b48f9be10e833a8d3bcf96e95724012cae89b
+Author: Valso <warut92@gmail.com>
+Date:   Sun Sep 26 15:21:38 2021 +0700
+
+    Update README.md
+
+commit 383e493e7a6f929d4749261b90710818710e2b5b
+Author: Valso <warut92@gmail.com>
+Date:   Sun Sep 26 15:21:05 2021 +0700
+
+    Update README.md
+
+commit c9424ca8b52f8f0a152b16546e02867fd9d935ab
+Author: Valso <warut92@gmail.com>
+Date:   Sun Sep 26 15:19:53 2021 +0700
+
+    Delete ssv directory
+
+commit 06d21e2ce76cc8fc02897e70269b938a0747ee4f
+Author: Valso <warut92@gmail.com>
+Date:   Sun Sep 26 15:19:28 2021 +0700
+
+    Delete myScript.js
+
+commit 75217874a9bc8a94d2812ceacfb1e28f8a333b89
+Author: Valso <warut92@gmail.com>
+Date:   Tue Sep 14 00:08:30 2021 +0700
+
+    Add files via upload
+
+commit 0e8f4391091f40302efcfec66c9a78d4b0c4fc3d
+Author: Valso <warut92@gmail.com>
+Date:   Tue Sep 14 00:01:34 2021 +0700
+
+    Add files via upload
+
+commit 27f151b1eb7d8252595d38ea11d6193bb6c7d71c
+Author: Valso <warut92@gmail.com>
+Date:   Mon Sep 13 23:40:29 2021 +0700
+
+    Add files via upload
+
+commit e0736d3b941cb6d7fd5f841131074e31762126ee
+Author: Valso <warut92@gmail.com>
+Date:   Mon Sep 13 23:38:55 2021 +0700
+
+    Add files via upload
+
+commit e506e158367358c64cfae46bdea468b204b6ad97
+Author: Valso <warut92@gmail.com>
+Date:   Mon Sep 13 22:56:10 2021 +0700
+
+    Update style.css
+
+commit 4f5221d6738c7baeace620ec6329643a5f2b60ab
+Author: Valso <warut92@gmail.com>
+Date:   Mon Sep 13 22:39:33 2021 +0700
+
+    Update style.css
+
+commit 8cf56e7848e27b7b3d008e4b3094eadf742487f1
+Author: Valso <warut92@gmail.com>
+Date:   Fri Sep 10 23:28:22 2021 +0700
+
+    Update index.html
+
+commit 24d4b1500ec8d471a7a22ebf4d380f404830708f
+Author: Valso <warut92@gmail.com>
+Date:   Fri Sep 10 23:19:10 2021 +0700
+
+    Update index.html
+
+commit 011631aa0ce994d091fc1ba557508eebd22fb139
+Author: Valso <warut92@gmail.com>
+Date:   Fri Sep 10 23:17:21 2021 +0700
+
+    Update index.html
+
+commit a2ea4bf04fde0a79f2092a0451aa64f20af6b973
+Author: Valso <warut92@gmail.com>
+Date:   Fri Sep 10 22:14:59 2021 +0700
+
+    Delete test directory
+
+commit f7de03f84bc96825b965cc805b429e841c7ee3d8
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 23:27:25 2021 +0700
+
+    Update index.html
+
+commit 7ccccec9a73b5ddda1a91edb57586e7d11c6b852
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 23:02:22 2021 +0700
+
+    Rename test/LICENSE to km/LICENSE
+
+commit 1c4f53bd785f00181d0a6ecf2a4e9a73c759ad96
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 23:01:42 2021 +0700
+
+    Rename test/style/light.css to km/style/light.css
+
+commit e6efaf32d953acf4d4e37b5214a8c345e82d6110
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 23:00:51 2021 +0700
+
+    Rename test/style/dark.css to km/style/dark.css
+
+commit db478d345827adb1713952b09c73f58a1e2c186b
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 23:00:02 2021 +0700
+
+    Rename test/style/style.css to km/style/style.css
+
+commit 25d66b92882f9ccc23711f5cb04491dc113409a6
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 22:59:19 2021 +0700
+
+    Rename test/km/index.html to km/index.html
+
+commit ca270d68ac71e8640b41486ff63a07965aec21dd
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 22:58:39 2021 +0700
+
+    Rename test/index.html to test/km/index.html
+
+commit 7f1d9743856476d12303bd369bf430e3de2131b4
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 22:37:32 2021 +0700
+
+    Update index.html
+
+commit 8587069ebf49ac8c69ccf69bafc4ade81cc861b3
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 22:31:13 2021 +0700
+
+    Update style.css
+
+commit d22c417189451d408947a597c6c24e2976bb0816
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 22:29:54 2021 +0700
+
+    Update index.html
+
+commit 93d69f22348f0ed9f60f9c3f65d0c48ece0b36b9
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 22:15:38 2021 +0700
+
+    Update style.css
+
+commit 67fa9a4f4c1b1c859851451a8f67d3ad07852613
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:42:45 2021 +0700
+
+    Update index.html
+
+commit d04275cd560a374f4811b5854580ddd8bbc0dede
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:36:46 2021 +0700
+
+    Update style.css
+
+commit 536b9640460edfd6e5d05fe1429b74fc708fe979
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:34:22 2021 +0700
+
+    Update style.css
+
+commit ae4215e6a915a4cde33bf9797e13cef38f3baa52
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:30:17 2021 +0700
+
+    Update index.html
+
+commit 6319782422d57851f467968f68b4f0bd3a291eff
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:28:53 2021 +0700
+
+    Update index.html
+
+commit 0000bbabbac2297d59544a959c892da20bd8a77f
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:25:23 2021 +0700
+
+    Update index.html
+
+commit 797203d20441d30e20d8c58f181401f926ec3ae8
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:12:12 2021 +0700
+
+    Update index.html
+
+commit a44d7c401c5f66189a76d2a00b80c7749cb3f339
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:09:15 2021 +0700
+
+    Update index.html
+
+commit 8e8b7c916f3bf74467077ff74490fe72a24fa953
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:08:03 2021 +0700
+
+    Update index.html
+
+commit 8c13cb652a870b1d1ee5c9f9705687cc6ab29872
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:06:49 2021 +0700
+
+    Update index.html
+
+commit 45f08f00945fa84bed1cf6023d24ef8fb7dc3e23
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:04:58 2021 +0700
+
+    Update style.css
+
+commit 61ffa02d7ee8e8214845143dd96f33d3b30532db
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 21:03:53 2021 +0700
+
+    Update index.html
+
+commit 8e91a84e668d69f38d1ee3ef6c08947e67ee3b70
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 19:23:56 2021 +0700
+
+    Update index.html
+
+commit f9aea6e23b4cb43ff97476153362c3a5cfc792d5
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 18:01:15 2021 +0700
+
+    Update index.html
+
+commit 1ca6ebd4a4e4816060734f0a8e7f9f92f5fac646
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 17:56:36 2021 +0700
+
+    Update index.html
+
+commit 5d66cad35370e9138dc1835588d598e0adf17158
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 17:54:19 2021 +0700
+
+    Update en-ie.csv
+
+commit 5ba883d6db0eba9e664cbf9b6513822660c8a174
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 17:46:29 2021 +0700
+
+    Update en-ie.csv
+
+commit 13182e3a396fd72cd1158a77a5fe6bd95741d223
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 17:43:20 2021 +0700
+
+    Update index.html
+
+commit 61b626c9638b0b68e53d80b7f96d7006dc575209
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 17:34:57 2021 +0700
+
+    Update index.html
+
+commit 7cdca58d168e876a90da198292c781c6e7f6ab32
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 17:33:44 2021 +0700
+
+    Update style.css
+
+commit 28be4a688043de3fb1078013523e66e76501abf6
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 17:26:42 2021 +0700
+
+    Update en-ie.csv
+
+commit 8d3dd307cc5a3b5682697d1a02d36873b04e3a02
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 17:25:44 2021 +0700
+
+    Update index.html
+
+commit 7574faf709abe4adb442a2ea1f7bff1cf9cb9b90
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 17:17:37 2021 +0700
+
+    Update index.html
+
+commit feeae8c73e2b3f5891ca3d37bb52365ab16ddc66
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 17:10:06 2021 +0700
+
+    Update index.html
+
+commit 0bf57e2d0cdd4398c474f794edf4f54d35527b69
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 17:03:45 2021 +0700
+
+    Update index.html
+
+commit 5e7827a9742f5299fd36b4146fa69836219f5fdd
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 16:59:03 2021 +0700
+
+    Update index.html
+
+commit 671db0d2fcfab44d1e16a825a46c55d8632a1a53
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 16:56:17 2021 +0700
+
+    Delete README.md
+
+commit 87d139d62982a68c10a214968642e25d48419790
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 16:54:42 2021 +0700
+
+    Update index.html
+
+commit 4b951a2c048a3ba10f7f9e070925285db642d686
+Author: Valso <warut92@gmail.com>
+Date:   Thu Sep 9 16:51:38 2021 +0700
+
+    Delete test/unformatted directory
+
+commit 0037716a2b4844d681f52be3f70aae6604c2c951
+Author: Valso <warut92@gmail.com>
+Date:   Sun Sep 5 17:01:14 2021 +0700
+
+    Add files via upload
+
+commit a042ac8692306e1ace0c720c5115a428dde96c6c
+Author: Valso <warut92@gmail.com>
+Date:   Sun Sep 5 17:00:25 2021 +0700
+
+    Create test.txt
+
+commit 5f203b7d05f93ba31e46bb82e0e2d74a74feec51
+Author: Valso <warut92@gmail.com>
+Date:   Sun Sep 5 16:59:53 2021 +0700
+
+    Add files via upload
+
+commit e54b1814fa961889e24e2cdbc2eb02f62e7a678c
+Author: Valso <warut92@gmail.com>
+Date:   Sun Sep 5 16:59:12 2021 +0700
+
+    Create index.html
+
+commit 4960635c11ef5cd14683df9efc60df20cc217b90
+Author: Valso <warut92@gmail.com>
+Date:   Wed Aug 4 23:53:16 2021 +0700
+
+    Create novaj-vortoj.md
+
+commit a60510d4d4c7814b6cdd0d2ec34a043923a0a366
+Author: Valso <warut92@gmail.com>
+Date:   Wed Jul 28 13:58:08 2021 +0700
+
+    Add files via upload
+
+commit 323307497ec5dbfa938059a6abdd525f59366c68
+Author: Valso <warut92@gmail.com>
+Date:   Wed Jul 28 13:57:51 2021 +0700
+
+    Create index.html
+
+commit 9d0045d735054cb3c6cef84ff12bf7678c6174be
+Author: Valso <warut92@gmail.com>
+Date:   Tue Jul 13 22:54:28 2021 +0700
+
+    Delete test directory
+
+commit a6cce81b8e8468e476be646ca33ea805b734053e
+Author: Valso <warut92@gmail.com>
+Date:   Tue Jul 13 22:54:20 2021 +0700
+
+    Delete test/etymology directory
+
+commit c3c1f9dfb19f86394c5a2504717420a3d434a8c1
+Author: Valso <warut92@gmail.com>
+Date:   Tue Jul 13 22:54:10 2021 +0700
+
+    Delete test/espdic directory
+
+commit 603b3972c5eea981cd139aa17e60da41adef65e4
+Author: Valso <warut92@gmail.com>
+Date:   Tue Jul 13 22:50:08 2021 +0700
+
+    Add files via upload
+
+commit e05299d03d5ed87d6947fd4e42610616df8784ed
+Author: Valso <warut92@gmail.com>
+Date:   Tue Jul 13 22:28:22 2021 +0700
+
+    Delete unualibro directory
+
+commit ec50885e1da274ae7d33a3dc8146ba822367b5b1
+Author: Valso <warut92@gmail.com>
+Date:   Sun Jul 11 18:30:37 2021 +0700
+
+    Add files via upload
+
+commit e9c5cbed5e805ac7a560ba43a88c0d87d1788867
+Author: Valso <warut92@gmail.com>
+Date:   Sun Jul 11 18:19:18 2021 +0700
+
+    Add files via upload
+
+commit becb40c59a3c2eee59f610927f31890d328f2ab7
+Author: Valso <warut92@gmail.com>
+Date:   Sun Jul 11 18:17:41 2021 +0700
+
+    Create index.html
+
+commit 15c94529fb207f945c6c7e71402dfffff63b86ee
+Author: Valso <warut92@gmail.com>
+Date:   Sun May 23 00:25:16 2021 +0700
+
+    Update index.md
+
+commit 3c25e7561ea19d2d4fb89246722bba3fe1b3cdc2
+Author: Valso <warut92@gmail.com>
+Date:   Sun May 23 00:24:27 2021 +0700
+
+    Update _config.yml
+
+commit 0813622f0c1ba6b5589206a727f6b2d546130af9
+Author: Valso <warut92@gmail.com>
+Date:   Sun May 23 00:19:00 2021 +0700
+
+    Create _config.yml
+
+commit d6925da88c54c1fde623b6b4b9d5d9fd5d0a4129
+Author: Valso <warut92@gmail.com>
+Date:   Sun May 23 00:13:42 2021 +0700
+
+    Update index.md
+
+commit 5ad6b83c4a7773b79e91e8951bee66b2132b72b8
+Author: Valso <warut92@gmail.com>
+Date:   Sun May 23 00:09:35 2021 +0700
+
+    Create index.md
+
+commit 99b039b52098be97c1c7941027d1da29ed1a1b4b
+Author: Valso <warut92@gmail.com>
+Date:   Tue Mar 2 23:01:40 2021 +0700
+
+    Delete tuja directory
+
+commit dc7b5d5dec3f8ee5b5596c5ed7521f2029e5ba30
+Author: Valso <warut92@gmail.com>
+Date:   Tue Mar 2 22:59:03 2021 +0700
+
+    Add files via upload
+
+commit 33ef2e04d0fff4b9d708605825b1c21c045ddbbf
+Author: Valso <warut92@gmail.com>
+Date:   Tue Mar 2 22:56:43 2021 +0700
+
+    Create test
+
+commit 4a4504aab459202ff919eb3bab068b3dbdb0492c
+Author: Valso <warut92@gmail.com>
+Date:   Sat Feb 27 23:06:37 2021 +0700
+
+    Add files via upload
+
+commit 0e4770b64c893ccd9d78c22913bc60befae0f300
+Author: Valso <warut92@gmail.com>
+Date:   Sat Feb 27 20:58:39 2021 +0700
+
+    Update README.md
+
+commit cb9dc35efb64e1b408cfdf3ef4c5588e2ec0b865
+Merge: 2791b2e 9cf1839
+Author: Valso <warut92@gmail.com>
+Date:   Sun Oct 18 16:43:10 2020 +0700
+
+    Merge pull request #2 from homo92/patch-2
+    
+    +eo tr
+
+commit 9cf18395140be677f506a4fa654226d40fb7a219
+Author: homo92 <56199967+homo92@users.noreply.github.com>
+Date:   Sun Oct 18 16:36:47 2020 +0700
+
+    +eo tr
+
+commit 2791b2e581edf9bca3be015b85cfdd98b259e1a9
+Author: Valso <warut92@gmail.com>
+Date:   Sun Oct 11 16:51:32 2020 +0700
+
+    Add files via upload
+
+commit 8548578d4e8e349d69ad74c0ec1727b861f32187
+Author: Valso <warut92@gmail.com>
+Date:   Sat Aug 15 21:25:16 2020 +0700
+
+    Add files via upload
+
+commit c40c441639a1438c6bfec9a09d194ac2ac3ba50d
+Author: Valso <warut92@gmail.com>
+Date:   Sun Aug 2 12:26:36 2020 +0700
+
+    Add files via upload
+
+commit 8cbb17141213183b68352eb33f5c78d0103e73c8
+Author: Valso <warut92@gmail.com>
+Date:   Wed Apr 29 19:01:03 2020 +0700
+
+    Create kde.txt
+    
+    Atingita de https://eo.l10n.kde.org/vortaroj.php3
+
+commit f1b91fb71f5a302c48679fd33cd07eb7ce6b76ab
+Merge: 4a0af6c 6e1c7b6
+Author: Valso <warut92@gmail.com>
+Date:   Sun Apr 26 23:10:01 2020 +0700
+
+    Merge pull request #1 from homo92/patch-1
+    
+    Update คำนำ.txt
+
+commit 6e1c7b66f2b7cf4a9a284a166f62bd192ee7000e
+Author: homo92 <56199967+homo92@users.noreply.github.com>
+Date:   Sun Apr 26 23:07:04 2020 +0700
+
+    Update คำนำ.txt
+
+commit 4a0af6c7b3ae2942b4a86a87f01791eed5f41ab3
+Author: Valso <warut92@gmail.com>
+Date:   Sat Apr 25 15:59:53 2020 +0700
+
+    Add files via upload
+
+commit 9d31d1abf0d3e25cd190c953d8dedf9b281249e3
+Author: Valso <warut92@gmail.com>
+Date:   Sat Apr 25 15:57:24 2020 +0700
+
+    Add files via upload
+
+commit 1d44470277ef3cf53ecd4f1207a53d990e98c547
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 21 17:43:09 2020 +0700
+
+    Add files via upload
+
+commit dca65f5b3414c6fa8a383987a1b035c06652f24a
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 21 17:41:15 2020 +0700
+
+    Add files via upload
+
+commit 18391301312ad869bb563e50395e9384d0573e50
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 21 17:14:17 2020 +0700
+
+    Add files via upload
+
+commit cf44a2efb6fae0770e331b7476146d3f32c55bf5
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 21 17:14:01 2020 +0700
+
+    Create test.txt
+
+commit 3f71e847f7eda8735a8924c00fb683a2b96f5c5c
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 21 17:11:46 2020 +0700
+
+    Delete eta.html
+
+commit 60e19a2d0f4564462ded867a4f0082f34435fee4
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 21 17:06:30 2020 +0700
+
+    Add files via upload
+
+commit b1ab081f521bfa9ed3cf5ab4f60f0c1091094f5c
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 21 17:00:55 2020 +0700
+
+    Update README.md
+
+commit 095a0b1579b9d47f76422f21591042f7e5d1a411
+Author: Valso <warut92@gmail.com>
+Date:   Sun Apr 5 22:40:05 2020 +0700
+
+    Add files via upload
+
+commit 5c5a3fe467ec4a03eee5332e2ccac4c8645ded46
+Author: Valso <warut92@gmail.com>
+Date:   Sun Dec 15 11:53:32 2019 +0700
+
+    Update skota1.htm
+
+commit 50cb64c244a07a35e93816a1d8d33efc0d22419a
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 29 12:09:07 2019 +0700
+
+    Update skota1.htm
+
+commit 95643f79193af7056e174c790f886a7cf56a3266
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 29 11:20:57 2019 +0700
+
+    Update skota1.htm
+
+commit 5954845df3cab1b32cb8fa0161686f7fc57448f1
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 1 10:45:35 2019 +0700
+
+    Add files via upload
+
+commit 4fe6c15b1bede7b0a0e4a534800e6e7e0cda3c7d
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 1 10:40:18 2019 +0700
+
+    Add files via upload
+
+commit e10ff7834d5373feddd85af4b5d56b09c3f6b56b
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 11 18:46:01 2019 +0700
+
+    Add files via upload
+
+commit 008b323af558b8721464950b995b20a101091f7d
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:59:39 2019 +0700
+
+    Add files via upload
+
+commit eee130d8e042a153f4fca23de940d0ff2764f105
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:57:01 2019 +0700
+
+    Delete eoth.html
+
+commit 886f398c333b477f1112c6e23c59cbac5baa3006
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:56:31 2019 +0700
+
+    Update README.md
+
+commit 6c96cc2328608e03126d3985d48b9e08bc7e4450
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:54:37 2019 +0700
+
+    Update README.md
+
+commit 21491be698bf96b02517f36c17be7e49d5233d70
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:47:21 2019 +0700
+
+    Update README.md
+
+commit a701c7909494d8c82e9023f251431db56b322979
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:45:49 2019 +0700
+
+    Update README.md
+
+commit 998f532fac7a70480cf84a2243d0db075f182af5
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:43:37 2019 +0700
+
+    Update README.md
+
+commit bd2a5357aa5386f9e6f21a96002e55683c4ce02f
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:42:46 2019 +0700
+
+    Update README.md
+
+commit eae3a71ccee780ca71193b84a723d42de407d77e
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:39:59 2019 +0700
+
+    Update README.md
+
+commit 1eda3b3bb8dd9580ba33461c32d77baad1e87635
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:35:48 2019 +0700
+
+    Delete manifest.php
+
+commit 62ca33612599af7dab6d22d0d0b0e49762e3773b
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:35:34 2019 +0700
+
+    Delete index.html
+
+commit abe21a8cb5be010abdecf31b22c3a02fb1cd6cfd
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:35:13 2019 +0700
+
+    Delete eoth.png
+
+commit 4aa3b1a9a06a252f5b8a1592ab09b55dc593644c
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:34:19 2019 +0700
+
+    Delete dic.json.php
+
+commit e682dfb635e55e771ea31bb67cb0217158292179
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:34:01 2019 +0700
+
+    Delete dic.json
+
+commit 8f20fe72b4cc5c491bacdb94d4b08b60433f689d
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:33:42 2019 +0700
+
+    Delete test.html
+
+commit bcf5bd5beb43ea7a359b1bd4a23ee96439747ca5
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:33:14 2019 +0700
+
+    Delete index.html
+
+commit 951b8d5bc321438139dec47f67f432a2f3b3a10e
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:16:37 2019 +0700
+
+    Delete bildoj
+
+commit e9f161d408a5e92fabaff83f92f40d8023b16adb
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:15:50 2019 +0700
+
+    Delete CNAME
+
+commit ec1ab8d31568b76f60a64e2733c3246dd4608805
+Author: Valso <warut92@gmail.com>
+Date:   Fri Oct 4 21:14:23 2019 +0700
+
+    Create CNAME
+
+commit 22506df24fcecc71aed65b46b7df3c029d132512
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 23 19:31:23 2019 +0700
+
+    Add files via upload
+
+commit 4fb2d2e349e7251fbe2c5dbd6d320b5d80d31315
+Author: Valso <warut92@gmail.com>
+Date:   Tue Apr 23 19:15:43 2019 +0700
+
+    Add files via upload
+
+commit 7b29a5ba1d792f31af5d627a86f43361964a6944
+Author: Valso <warut92@gmail.com>
+Date:   Sat Mar 23 15:42:42 2019 +0700
+
+    Update README.md
+
+commit d1d35e63faa7e834fcc3fc393f4d49c011b765d3
+Author: Valso <warut92@gmail.com>
+Date:   Sat Mar 23 15:38:24 2019 +0700
+
+    Add files via upload
+
+commit b0ac8e6f05e021c9f90b151a221285da79fa9bb9
+Author: Valso <warut92@gmail.com>
+Date:   Sun Feb 24 21:43:01 2019 +0700
+
+    Add files via upload
+
+commit 9e844341890ac517ec911f123272cffb0923c33f
+Author: Valso <warut92@gmail.com>
+Date:   Tue Feb 5 20:13:28 2019 +0700
+
+    Add files via upload
+
+commit 78f8336a2712dcc95623ef393807a5a399fb45b3
+Author: Valso <warut92@gmail.com>
+Date:   Wed Jan 30 21:43:42 2019 +0700
+
+    Update index.html
+
+commit 76e923932280efed3db41f8094bd525e08edb963
+Author: Valso <warut92@gmail.com>
+Date:   Tue Jan 15 22:00:51 2019 +0700
+
+    Create bildoj
+
+commit 909d2583aab7634f0aefdaa03a03ed639bcf7fbc
+Author: Valso <warut92@gmail.com>
+Date:   Tue Jan 15 22:00:07 2019 +0700
+
+    Add files via upload
+
+commit 89d93438bab4d055563c06173a64fe4ce93f8781
+Author: Valso <warut92@gmail.com>
+Date:   Tue Jan 15 21:50:06 2019 +0700
+
+    Update README.md
+
+commit e562782c2e9f2433c94a6bf88e1f6242465807ce
+Author: Valso <warut92@gmail.com>
+Date:   Tue Jan 15 21:37:24 2019 +0700
+
+    Update README.md
+
+commit 3b24158359f40485582e56fb5f30de9241b61c1a
+Author: Valso <warut92@gmail.com>
+Date:   Tue Jan 15 21:26:11 2019 +0700
+
+    Add files via upload
+
+commit 5a3ae061a0263d5ffad1911f895460a3c78c1ae4
+Author: Valso <warut92@gmail.com>
+Date:   Mon Dec 10 23:07:03 2018 +0700
+
+    Delete tiddlywiki.html
+
+commit b12d36315d5f3500bad0786a667281cf0894572d
+Author: Valso <warut92@gmail.com>
+Date:   Mon Dec 10 23:03:04 2018 +0700
+
+    Add files via upload
+
+commit 53a8ce381c15eed83f0dc3019d64d12ae373ac75
+Author: Valso <warut92@gmail.com>
+Date:   Mon Dec 10 11:46:37 2018 +0700
+
+    Update README.md
+
+commit 4e49181899d4a8f2480472016143729708fb6d80
+Author: Valso <warut92@gmail.com>
+Date:   Wed Dec 5 20:56:58 2018 +0700
+
+    Update index.html
+
+commit 2ac360437617cfbd49ababc9c74e5c6450bae74f
+Author: Valso <warut92@gmail.com>
+Date:   Wed Dec 5 20:55:08 2018 +0700
+
+    Update index.html
+
+commit c9e888a109c60424d07d26559f870270a4eadcb6
+Author: Valso <warut92@gmail.com>
+Date:   Wed Dec 5 20:53:48 2018 +0700
+
+    Update index.html
+
+commit 43054bc36dd7c1bfc3d8cbd6b091adc45cae7070
+Author: Valso <warut92@gmail.com>
+Date:   Tue Dec 4 22:06:35 2018 +0700
+
+    Add files via upload
+
+commit 063aa12f665878f4d457a92b821f77c525fb14ea
+Author: Valso <warut92@gmail.com>
+Date:   Sat Dec 1 23:07:15 2018 +0700
+
+    Add files via upload
+
+commit 17da05f593bf9e530bf9331d7376257cca97651c
+Author: Valso <warut92@gmail.com>
+Date:   Sat Dec 1 23:04:35 2018 +0700
+
+    Delete CNAME
+
+commit f90eae531ef969c464b2db9d694cceda45f6d059
+Author: Valso <warut92@gmail.com>
+Date:   Sat Dec 1 23:02:41 2018 +0700
+
+    Create CNAME
+
+commit c613070756b31010f26e8386d791f5078f48c54a
+Author: Valso <warut92@gmail.com>
+Date:   Sat Dec 1 22:45:17 2018 +0700
+
+    Update index.html
+
+commit 11dd02cc45fa680eec4e0fdb09c476d8fe289b96
+Author: Valso <warut92@gmail.com>
+Date:   Sat Nov 24 20:38:07 2018 +0700
+
+    Delete CNAME
+
+commit 17003f29409539368e1fd70251cd9f7eb18a7eeb
+Author: Valso <warut92@gmail.com>
+Date:   Sat Nov 24 20:36:31 2018 +0700
+
+    Create CNAME
+
+commit 47fa4d8ff74aab9149b0fa650848c79d65abea69
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 22:49:42 2018 +0700
+
+    Add files via upload
+
+commit bd36f405c19642e25708da9ee67eedb4a2695edb
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 22:39:59 2018 +0700
+
+    Add files via upload
+
+commit e0f1d00674adadd1c861ddaeb284922233ec165f
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 22:38:38 2018 +0700
+
+    Add files via upload
+
+commit 93afbd0f9a631029ba521c1e3ae7343de9761997
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 22:09:24 2018 +0700
+
+    Delete CNAME
+
+commit 6a933a8279fec411437a17234dfe16876701059b
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:58:59 2018 +0700
+
+    Create CNAME
+
+commit 21feb3bb16f29fb8827b07bbe889bfee41a1096f
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:55:36 2018 +0700
+
+    Add files via upload
+
+commit 3fc692e29d2e836fcd64729f72fa609dbc09580e
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:42:49 2018 +0700
+
+    Delete _config.yml
+
+commit 3788e35d23e88fd3eaabe060d8c3cd5dada3d930
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:42:20 2018 +0700
+
+    Delete ideo.html
+
+commit f8ce0a1cbbb33eee4996f997d2d2561b8b36fd1f
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:41:25 2018 +0700
+
+    Delete ssv.html
+
+commit b2f388ca4b2ec1bcd906d009006464ab0f0068eb
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:40:30 2018 +0700
+
+    Delete vpen.html
+
+commit 3d75c766a6f0d48253d7f90ed267a22066f149d4
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:37:55 2018 +0700
+
+    Delete CNAME
+
+commit d7db47f73ae853d1fb1f7608f52aa90d7454a3c3
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:37:32 2018 +0700
+
+    Add files via upload
+
+commit 03ffded5477f7a869ef0eab12c3c1943fed5a639
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:36:54 2018 +0700
+
+    Create test.html
+
+commit 8a649193e55bd43b69a0dd9744c03ca51d375718
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:22:32 2018 +0700
+
+    Update README.md
+
+commit 1be88c0f0339db7f40f048d619e7d80e1472525d
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:20:44 2018 +0700
+
+    Create index.html
+
+commit c25b1af809371e14d42008e6ae345e560c4e4976
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:13:59 2018 +0700
+
+    Create CNAME
+
+commit 055a8b10a8db7d07cf83594a87c33ed7630a5528
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:11:57 2018 +0700
+
+    Update README.md
+
+commit e7ae176f59dcfb6779a904426518b58d75e13b07
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:11:44 2018 +0700
+
+    Set theme jekyll-theme-cayman
+
+commit e3f5564d1cb52f27e154d2bf09024187e8ecb016
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:10:53 2018 +0700
+
+    Add files via upload
+
+commit 5e29507965052c80f0a2248caaf0fcff992c3087
+Author: Valso <warut92@gmail.com>
+Date:   Fri Nov 23 20:09:54 2018 +0700
+
+    Initial commit
