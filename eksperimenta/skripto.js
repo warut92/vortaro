@@ -108,12 +108,3 @@ function analyzeEsperantoWordWithPrefix(word) {
 const wordAnalysis = analyzeEsperantoWord("parolanto");
 console.log("Root:", wordAnalysis.root);
 console.log("Suffix:", wordAnalysis.suffix);
-
-
-fetch('last_commit.txt')
-  .then(response => response.text())
-  .then(data => {
-    const lastCommitDate = new Date(data);
-    console.log('LASTCOMMITDATE', lastCommitDate)
-    document.getElementById('last-commit').textContent = lastCommitDate;
-  });
