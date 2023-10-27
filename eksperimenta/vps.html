@@ -46,8 +46,8 @@ rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "")
 
 // rezulto = rezulto.replace(/i /g, "' ")
 // rezulto = rezulto.replace(/a /g, "' ")
-rezulto = rezulto.replace(/(\w{2,3})(o )/g, "$1'$2")
-rezulto = rezulto.replace(/(\w{2,3})(i )/g, "$1'$2")
+rezulto = rezulto.replace(/(\w{1})(o )/g, "$1'$2")
+rezulto = rezulto.replace(/(\w{2,4})(i )/g, "$1'$2")
 rezulto = rezulto.replace(/(\w{2,3})(a )/g, "$1'$2")
 
 rezulto = rezulto.replace(/'o/g, "'")
