@@ -13,6 +13,7 @@
 </head>
 <body>
 	<h1>Vortar'o por Siam'an'o'j</h1>
+	<p>ทุกสิ่งที่เขียนด้วยภาษาสากลนี้ ท่านสามารถทำความเข้าใจได้ด้วยพนานุกรมเล่มนี้ คำศัพท์ที่ให้ความหมายจะเขียนอยู่ด้วยกัน แต่จะแบ่งด้วยสัญลักษณ์ขีดเล็ก ๆ ตัวอย่าง frat’in’o คำนี้จะให้ความหมาย 1 ความหมาย แต่ประกอบด้วย 3 คำย่อย ซึ่งท่านจะต้องค้นหาแยกต่างหาก</p>
 	<p id="vortaro"></p>
 	<p id="tempo"></p>
 </body>
@@ -45,6 +46,13 @@ rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "")
 
 // rezulto = rezulto.replace(/i /g, "' ")
 // rezulto = rezulto.replace(/a /g, "' ")
+rezulto = rezulto.replace(/(\w{2,3})(o )/g, "$1'$2")
+rezulto = rezulto.replace(/(\w{2,3})(i )/g, "$1'$2")
+rezulto = rezulto.replace(/(\w{2,3})(a )/g, "$1'$2")
+
+rezulto = rezulto.replace(/'o/g, "'")
+rezulto = rezulto.replace(/'i/g, "'")
+rezulto = rezulto.replace(/'a/g, "'")
 
 //ARRAY
 //forigi tag <br> kaj konverti al Array
