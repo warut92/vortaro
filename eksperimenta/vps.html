@@ -2,6 +2,7 @@
 <head>
 	<title></title>
 	<script type="text/javascript" src="datumo.json"></script>
+	<link rel="stylesheet" href="https://warut92.github.io/unualibro/markdown.css">
 	<style media="screen">
 	#traduko {
 		position: fixed;
@@ -13,9 +14,9 @@
 </head>
 <body>
 	<h1>Vortar'o por Siam'an'o'j</h1>
-	<p>ทุกสิ่งที่เขียนด้วยภาษาสากลนี้ ท่านสามารถทำความเข้าใจได้ด้วยพนานุกรมเล่มนี้ คำศัพท์ที่ให้ความหมายจะเขียนอยู่ด้วยกัน แต่จะแบ่งด้วยสัญลักษณ์ขีดเล็ก ๆ ตัวอย่าง frat’in’o คำนี้จะให้ความหมาย 1 ความหมาย แต่ประกอบด้วย 3 คำย่อย ซึ่งท่านจะต้องค้นหาแยกต่างหาก</p>
+	<p>ทุกสิ่งที่เขียนด้วยภาษาสากลนี้ ท่านสามารถหาความหมายของคำต่าง ๆ ด้วยพนานุกรมเล่มนี้ คำศัพท์ที่ให้ความหมายจะเขียนอยู่ด้วยกัน แต่จะแบ่งด้วยสัญลักษณ์ขีดเล็ก ๆ ตัวอย่าง   frat'in'o  คำนี้จะให้ความหมาย  1 ความหมาย แต่ประกอบด้วย 3 คำย่อย ซึ่งท่านจะต้องค้นหาแยกกัน</p>
 	<p id="vortaro"></p>
-	<p id="tempo"></p>
+	ดึงข้อมูลมาจาก <a href="https://vortaro.warut.net">vortaro.warut.net</a> เมื่อ <span id="tempo"></span>
 </body>
 <script type="text/javascript" src="th-vortaro.js"></script>
 <script>
@@ -44,12 +45,17 @@ rezulto = rezulto.replace(/\[\w+\]/g, "")
 //forigi informojn pri trajto de vortoj.
 rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "")
 
-// rezulto = rezulto.replace(/i /g, "' ")
-// rezulto = rezulto.replace(/a /g, "' ")
-rezulto = rezulto.replace(/(\w{1})(o )/g, "$1'$2")
-rezulto = rezulto.replace(/(\w{2,4})(i )/g, "$1'$2")
-rezulto = rezulto.replace(/(\w{2,3})(a )/g, "$1'$2")
+//aldoni ' inter radiko kaj finaĵo
+rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(o )/g, "$1'$2")
+rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(i )/g, "$1'$2")
+rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(a )/g, "$1'$2")
+//estas escepto
+rezulto = rezulto.replace(/iri/g, "ir'i")
+rezulto = rezulto.replace(/aĝo/g, "aĝ'o")
+//
+rezulto = rezulto.replace(/\(ril\)/g, "(คำเชื่อม)")
 
+//forigi la finaĵon.
 rezulto = rezulto.replace(/'o/g, "'")
 rezulto = rezulto.replace(/'i/g, "'")
 rezulto = rezulto.replace(/'a/g, "'")
@@ -59,6 +65,7 @@ rezulto = rezulto.replace(/'a/g, "'")
 rezulto = rezulto.split(/<br>/g)
 //forigi la unuan signon ; → kaj  kaj postaĵojn
 rezulto = rezulto.map(arr => arr.replace(/;.*/, ""))
+rezulto = rezulto.map(arr => arr.replace(/:.*/, ""))
 rezulto = rezulto.map(arr => arr.replace(/→.*/, ""))
 
 //aranĝi laŭ esperanta ordo.

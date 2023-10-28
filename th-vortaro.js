@@ -1,3 +1,4 @@
+// eksperimenta datumo
 let vortaro = `
 -a {UL} [0] //(fin)// ตัวลงท้ายของคำคุณศัพท์ในภาษาเอสเปรันโต
 abelo [8] {ZOO} ผึ้ง; abelejo รังผึ้ง, รวงผึ้ง

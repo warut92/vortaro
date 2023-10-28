@@ -1,10 +1,12 @@
 //ตัวแปรตั้งในภาษาเอสเปรันโต
 //[1] แปลงข้อความใน div เป็น array
 //รับค่าข้อความจาก div
-let cxiuj_vortoj = document.getElementById("vortaro");
+// let cxiuj_vortoj = document.getElementById("vortaro");
 
 //แปลงเป็น HTML
-let cxiuj_vortoj_HTML = cxiuj_vortoj.innerHTML;
+// let cxiuj_vortoj_HTML = cxiuj_vortoj.innerHTML;
+let cxiuj_vortoj_HTML = vortaro;
+
 //แปลงเครื่องหมาย // เป็น tag ตัวเอียง
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '---')
