@@ -1,38 +1,26 @@
-//ตัวแปรตั้งในภาษาเอสเปรันโต
-//[1] แปลงข้อความใน div เป็น array
-//รับค่าข้อความจาก div
-// let cxiuj_vortoj = document.getElementById("vortaro");
-
-//แปลงเป็น HTML
-// let cxiuj_vortoj_HTML = cxiuj_vortoj.innerHTML;
+//[1] preni vortaron de la dosiero th-vortaro.js kile STRING
 let cxiuj_vortoj_HTML = vortaro;
-//
-//แปลงเครื่องหมาย // เป็น tag ตัวเอียง
+
+//ŝanĝi  /// al tag <i>
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '---')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[a-z-].*)(\[)/g, '<h1></h1>$2')
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/([A-z])-([aiueo{1}])/g, '$1$2')
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.toLowerCase()
 
-//ตั้งตัวแปรสำหรับการสร้างคำ splite จาก new line (\n)
+//konverti al ARRAY
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
 let disigitaj_vortoj_al_kunmetitaj_vortoj = cxiuj_vortoj_HTML.split(/\n|;/g);
 disigitaj_vortoj_al_kunmetitaj_vortoj = disigitaj_vortoj_al_kunmetitaj_vortoj.filter(vorto => vorto !== "")
 
-//หา length โดยตัดช่องว่างออก
+//serĉi kvanton da vortoj
 let statistiko_disigitaj_vortoj = disigitaj_vortoj.filter(disigitaj_vortoj => disigitaj_vortoj !== "")
-document.getElementById("statistiko").innerHTML = statistiko_disigitaj_vortoj.length.toLocaleString("en-US") + " คำหลัก " + (disigitaj_vortoj_al_kunmetitaj_vortoj.length - statistiko_disigitaj_vortoj.length).toLocaleString("en-US") + " คำรอง " + document.lastModified;
+document.getElementById("statistiko").innerHTML = statistiko_disigitaj_vortoj.length.toLocaleString("en-US") + " คำหลัก " + (disigitaj_vortoj_al_kunmetitaj_vortoj.length - statistiko_disigitaj_vortoj.length).toLocaleString("en-US") + " คำรอง " + lastaTempo;
 
 function sercxi() {
-  //ตั้งตัวสำหรับสร้างลูป
   let vortoj_Arr, i;
   for (i = 0; i < disigitaj_vortoj.length; i++) {
     vortoj_Arr = disigitaj_vortoj[i];
   }
-  //filter array จาก textInput
-  //[2] ค้นหา
-  //สร้าง string สำหรับใช้เป็น regex ค้นหา string ที่เริ่มต้นด้วยตัวอักษรนั้น ๆ (สำหรับอักษรละติน)
   let komenclitero = ""
   //สำหรับการค้นหาด้วยภาษาไทย
   let porTajaSercxo = ""
@@ -45,6 +33,7 @@ function sercxi() {
   if (str_sxablono.charCodeAt(0) > 500) {
     // console.log("อักษรไทย")
     document.getElementById('sercxoLingvo').innerHTML = "ค้นหาตรงตัว"
+    document.getElementById('titolo').innerHTML = " พจนานุกรมเอสเปรันโต-ไทย"
     if (document.getElementById('checkbox').checked) {
       komenclitero = " "
       porTajaSercxo = "(,|;| |$)"
@@ -52,6 +41,7 @@ function sercxi() {
   } else if (str_sxablono.charCodeAt(0) < 500) {
     // console.log("อักษรละติน")
     document.getElementById('sercxoLingvo').innerHTML = "kapvorto"
+    document.getElementById('titolo').innerHTML = " Esperanto-Taja Vortaro Reta"
     if (document.getElementById('checkbox').checked) {
       komenclitero = "^"
       precizaSercxo = 1
@@ -60,12 +50,7 @@ function sercxi() {
   str_sxablono = komenclitero + str_sxablono + porTajaSercxo
   //ถ้าตัวอักษรในช่องค้นหามากกว่า 1 ให้ดำเนินการต่อ
   if (str_sxablono.length > 1) {
-    //ค้นหาข้อความด้วย regex
-    //https://stackoverflow.com/a/50828436
     let sxablono_regex = new RegExp(`(${(str_sxablono)})`, "ig");
-    // let sxablono_regex = new RegExp(`${spaceto}${str_sxablono}(?!,)`, "g");
-    console.log('SXABLONO_REGEX', sxablono_regex)
-    //https://www.delftstack.com/howto/javascript/javascript-filter-string/
     let rezulto = disigitaj_vortoj.filter(function(str) {
       //test() ส่งค่าเป็น boolean สำหรับการตรวจสอบการค้นหา
       return sxablono_regex.test(str);

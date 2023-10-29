@@ -1,6 +1,6 @@
-@import 'https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/Loma/Loma.css';
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&display=swap');
 body {
-  font-family: "Loma", sans-serif;
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
   font-size: 20px;
   border: 1px solid black;
   border-radius: 4px;
@@ -8,6 +8,11 @@ body {
   padding-right: 20px;
   padding-bottom: 50px;
   padding-left: 20px;
+}
+
+#titolo, center {
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+  font-size: 30px;
 }
 
 a {
