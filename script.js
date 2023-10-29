@@ -6,7 +6,7 @@
 //แปลงเป็น HTML
 // let cxiuj_vortoj_HTML = cxiuj_vortoj.innerHTML;
 let cxiuj_vortoj_HTML = vortaro;
-
+//
 //แปลงเครื่องหมาย // เป็น tag ตัวเอียง
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '---')
