@@ -4,8 +4,9 @@ self.addEventListener('install', (e) => {
     caches.open('vortaro-dosieraro').then((cache) => cache.addAll([
       '/index.html',
       '/eotajpu.js',
-      '/script.js',
-      '/style.css',
+      '/skripto.js',
+      '/th-vortaro.js',
+      '/stilo.css',
     ])),
   );
 });

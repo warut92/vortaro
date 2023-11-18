@@ -1494,7 +1494,7 @@ malica [9] ใจร้าย
 malvo [9] ต้นไม้จำพวก Malva ดอกสีม่วงกุหลาบ
 mamo [8] เต้านม; mamulo, mambesto สัตว์เลี้ยงลูกด้วยนม
 mandato [8] ข้อบังคับ, คำสั่ง, อาณัติ
-manĝi {UL} [3] //(tr)// กิน, รับประทาน; manĝo มื้ออาหาร; manĝaĵo อาหาร; manĝejo ร้านอาหาร; matenmanĝo อาหารเช้า; tagmanĝo อาหารกลางวัน; formanĝi กินจนไม่เหลือ; vespermanĝo อาหารเย็น
+manĝi {UL} [3] //(tr)// กิน, รับประทาน; manĝo มื้ออาหาร; manĝaĵo อาหาร; manĝejo ร้านอาหาร; matenmanĝo อาหารเช้า; tagmanĝo อาหารกลางวัน; formanĝi กินจนไม่เหลือ; vespermanĝo อาหารเย็น; formikmanĝulo ตัวกินมด
 maniero [5] วิธีการ; pensmaniero วิธีคิด
 maniko [7] แขนเสื้อ
 manipuli [9] //(tr)// ใช้, ดำเนินการ
@@ -2579,7 +2579,7 @@ tubero [9] สิ่งที่มีลักษณะเป็นตุ่ม
 tubo [7] ท่อ
 tufo [9] ปอย, กลุ่ม, กระจุก
 tuj {UL} [1] //(adv)// ในทันใด, เดี๋ยวนี้
-tuko {UL} [6] ผ้า bantuko ผ้าขนหนู; tablotuko ผ้าปูโต๊ะ
+tuko {UL} [6] ผ้า; bantuko ผ้าขนหนู; tablotuko ผ้าปูโต๊ะ
 tulipo [x] ดอกทิวลิป
 tumoro [x] {MED} เนื้องอก
 tumulto [9] ความโกลาหล, ความอลหม่าน
@@ -3033,6 +3033,7 @@ mocio {POL} ญัตติ
 engaĝi //(tr)// จ้าง, ชักชวน
 ostaĝo ตัวประกัน; ostaĝigi จับเป็นตัวประกัน
 haladzo {UL} กลิ่นเหม็น
+kidnapi //(tr)// ลักพาตัวประกัน
 >.
 <!-- A -->
 abako {MAT} ลูกคิด
