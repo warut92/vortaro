@@ -3053,7 +3053,7 @@ adjektivo {LIN} คำคุณศัพท์ ⇒ a-vorto
 administracio คณะกรรมการการจัดการ, ตึกอำนวยการ ⇒ administristaro, administrejo
 admiralo นายพลเรือ, พลเรือเอก
 admiri //(tr)// ชื่นชม; admirinda น่าชม
-adoleski //(ntr)// เป็นวัยรุ่น, เข้าสู่วัยรุ่น, เป็นหนุ่มเป็นสาว; adoleskantoj หนุ่มสาว, วัยรุ่น, เยาวชน
+adoleski //(ntr)// เป็นวัยรุ่น, เข้าสู่วัยรุ่น; adoleskanto หนุ่มสาว, วัยรุ่น, เยาวชน
 adolto = plenkreskulo
 adrenalino ฮอร์โมนอะดรีนาลีน
 adstringa (ท่าทาง) (รส)ฝาด, ถมึง, รุนแรง, {MED} สมาน, ประสาน
