@@ -9,7 +9,6 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\>\./g, '')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\{\U\L\}/g, '')
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[a-z-].*)(\[)/g, '<h1>$</h1>$2')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥJĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
-console.log('CXIUJ_VORTOJ_HTML ', cxiuj_vortoj_HTML )
 
 //konverti al ARRAY
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
