@@ -24,6 +24,11 @@ b {
   color: blue;
 }
 
+h {
+  font-family: Verdana;
+  font-size: 25px;
+}
+
 center {
   font-family: "Loma", sans-serif;
   font-size: 30px;

@@ -1,14 +1,29 @@
 //[1] preni vortaron de la dosiero th-vortaro.js kile STRING
 let cxiuj_vortoj_HTML = vortaro;
 
-//ŝanĝi  /// al tag <i>
+//ŝanĝi  /// al tag <i> kaj aliaj
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '---')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')
-cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[a-z-].*)(\[)/g, '<h1></h1>$2')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\>\./g, '')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\{\U\L\}/g, '')
+// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[a-z-].*)(\[)/g, '<h1>$</h1>$2')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥJĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
+console.log('CXIUJ_VORTOJ_HTML ', cxiuj_vortoj_HTML )
 
 //konverti al ARRAY
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
+//por tuta vortaro
+const tuta_vortaro_senspaceto = disigitaj_vortoj.filter(vorto => vorto !== "")
+//por ignori la signon -
+const lauxafabelta_arangxo = (a, b) => {
+const normiga_A = a.replace(/-/g, '').toLowerCase();
+const normiga_B = b.replace(/-/g, '').toLowerCase();
+return normiga_A .localeCompare(normiga_B, 'eo');
+};
+let tuta_vortaro = tuta_vortaro_senspaceto.sort(lauxafabelta_arangxo)
+document.getElementById('tuto').innerHTML = tuta_vortaro.toString().replace(/,(?!\s)/g, "<br>");
+
 let disigitaj_vortoj_al_kunmetitaj_vortoj = cxiuj_vortoj_HTML.split(/\n|;/g);
 disigitaj_vortoj_al_kunmetitaj_vortoj = disigitaj_vortoj_al_kunmetitaj_vortoj.filter(vorto => vorto !== "")
 
@@ -43,14 +58,14 @@ function sercxi() {
     document.getElementById('sercxoLingvo').innerHTML = "kapvorto"
     document.getElementById('titolo').innerHTML = " Esperanto-Taja Vortaro Reta"
     if (document.getElementById('checkbox').checked) {
-      komenclitero = "^"
+      komenclitero = "^<h>"
       precizaSercxo = 1
     }
   }
   str_sxablono = komenclitero + str_sxablono + porTajaSercxo
   //ถ้าตัวอักษรในช่องค้นหามากกว่า 1 ให้ดำเนินการต่อ
   if (str_sxablono.length > 1) {
-    let sxablono_regex = new RegExp(`(${(str_sxablono)})`, "ig");
+    let sxablono_regex = new RegExp(`(${(str_sxablono)})`, "igm");
     let rezulto = disigitaj_vortoj.filter(function(str) {
       //test() ส่งค่าเป็น boolean สำหรับการตรวจสอบการค้นหา
       return sxablono_regex.test(str);
