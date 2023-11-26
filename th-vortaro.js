@@ -5274,4 +5274,7 @@ let vortaro_HTML = vortaro.innerHTML
 vortaro_HTML = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
 vortaro_HTML = vortaro.replace(/\n/g, '<br>')
 
+
+module.exports = vortaro_HTML;
+
 // document.getElementById('vortaro').innerHTML =  vortaro_HTML
