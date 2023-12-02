@@ -3030,6 +3030,9 @@ engaĝi //(tr)// จ้าง, ชักชวน
 ostaĝo ตัวประกัน; ostaĝigi จับเป็นตัวประกัน
 haladzo {UL} กลิ่นเหม็น
 kidnapi //(tr)// ลักพาตัวประกัน
+efemera ไม่จีรัง, ไม่ถาวร, ไม่ยั้งยืน
+merlo {ZOO} นกแบล็กเบิร์ด
+turdedoj {ZOO} วงศ์นกเดินดง
 >.
 <!-- A -->
 abako {MAT} ลูกคิด
@@ -5273,8 +5276,5 @@ zorioj รองเท้าคีบ, รองเท้าฟองน้ำ
 let vortaro_HTML = vortaro.innerHTML
 vortaro_HTML = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
 vortaro_HTML = vortaro.replace(/\n/g, '<br>')
-
-
-module.exports = vortaro_HTML;
 
 // document.getElementById('vortaro').innerHTML =  vortaro_HTML
