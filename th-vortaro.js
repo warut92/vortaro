@@ -5273,8 +5273,3 @@ zodiako จักรราศี; zodiaka signo ราศี
 zomi //(ntr)// ซูม, {AVI} แล่นไต่ขึ้นไปบนอากาศโดยเร็ว; zomlenso {FOT} เลนซ์ชนิดที่เปลี่ยนความยาวโฟกัสได้
 zorioj รองเท้าคีบ, รองเท้าฟองน้ำ
 `
-let vortaro_HTML = vortaro.innerHTML
-vortaro_HTML = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
-vortaro_HTML = vortaro.replace(/\n/g, '<br>')
-
-// document.getElementById('vortaro').innerHTML =  vortaro_HTML
