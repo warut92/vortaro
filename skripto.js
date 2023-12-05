@@ -1,6 +1,36 @@
+//E alfabeto
+let E_alfabeto = `
+A
+B
+C
+Ĉ
+D
+E
+F
+G
+Ĝ
+H
+Ĥ
+I
+J
+Ĵ
+K
+L
+M
+N
+O
+P
+R
+S
+Ŝ
+T
+U
+Ŭ
+V
+Z`
 //[1] preni vortaron de la dosiero th-vortaro.js kile STRING
+vortaro = vortaro.concat(E_alfabeto)
 let cxiuj_vortoj_HTML = vortaro;
-
 //ŝanĝi  /// al tag <i> kaj aliaj
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '---')
@@ -8,7 +38,8 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\>\./g, '')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\{\U\L\}/g, '')
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[a-z-].*)(\[)/g, '<h1>$</h1>$2')
-cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥJĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
 
 //konverti al ARRAY
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
