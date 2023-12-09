@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="manifest" href="vortaro.webmanifest">
+    <meta name="description" content="พจนานุกรมเอสเปรันโต-ไทย Esperanto - Taja Interreta Vortaro">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./ikono/android/android-launchericon-48-48.png">
+    <title>พจนานุกรมเอสเปรันโต-ไทย</title>
+    <link rel="stylesheet" href="./stilo.css">
+    <title></title>
+  </head>
+  <body>
+    <script  src="./lasta_sxangxo.js"></script>
+    <a href="pri.html"><pre id="statistiko"></pre></a>
+    <h1>พจนานุกรมเอสเปรันโต-ไทย</h1>
+    <h4>คัดเฉพาะคำในรายการคำของ Baza Radikaro Oficiala (BRO)</h4>
+    <div id="bro">
+    </div>
+  </body>
+  <script  src="./th-vortaro.js"></script>
+  <scrip>
+    <script>
+    //E alfabeto
+    let E_alfabeto = `
+A [BRO]
+B [BRO]
+C [BRO]
+Ĉ [BRO]
+D [BRO]
+E [BRO]
+F [BRO]
+G [BRO]
+Ĝ [BRO]
+H [BRO]
+Ĥ [BRO]
+I [BRO]
+J [BRO]
+Ĵ [BRO]
+K [BRO]
+L [BRO]
+M [BRO]
+N [BRO]
+O [BRO]
+P [BRO]
+R [BRO]
+S [BRO]
+Ŝ [BRO]
+T [BRO]
+U [BRO]
+Ŭ [BRO]
+V [BRO]
+Z [BRO]`
+    vortaro = vortaro.concat(E_alfabeto)
+    let vortaro_HTML = vortaro
+    //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
+    vortaro_HTML = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
+    vortaro_HTML = vortaro.replace(/\n/g, '<br>')
+    vortaro_HTML = vortaro_HTML.split(/<br>/g)
+
+    //serĉi nur array kiuj enhavas "[\d]"
+    let sxablono_regex = / \[.*\]/;
+    let rezulto = vortaro_HTML.filter(function(str) {
+    	return sxablono_regex.test(str);
+    });
+    //konverti ĝin al string kaj aldoni ĉe la fino <br>
+    rezulto = rezulto.toString().replace(/,(?!\s)/g, "<br>");
+
+    //STRING
+    //forrigi informojn de la datumo
+    //forigi [BRO]
+    rezulto = rezulto.replace(/\{UL\}/g, "")
+    //forigi - ĉe sufiksoj
+    // rezulto = rezulto.replace(/-/g, "")
+    //forigi informojn pri fako
+    rezulto = rezulto.replace(/\{\w{3}\}/g, "")
+    //forigi informojn pri BRO
+    // rezulto = rezulto.replace(/\[\d+\]/g, "")
+    // rezulto = rezulto.replace(/\[\w+\]/g, "")
+    //forigi informojn pri trajto de vortoj.
+    rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "")
+    rezulto = rezulto.replace(/\[BRO\]/g, "")
+    rezulto = rezulto.replace(/\[(\d)\]/g, "<sup>$1</sup>")
+    rezulto = rezulto.replace(/\[(x)\]/g, "<sup>x</sup>")
+
+    //aldoni ' inter radiko kaj finaĵo
+    rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(o )/g, "$1'$2")
+    rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(i )/g, "$1'$2")
+    rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(a )/g, "$1'$2")
+
+    //ARRAY
+    //forigi tag <br> kaj konverti al Array
+    rezulto = rezulto.split(/<br>/g)
+
+    //por ignori la signon -
+    const lauxafabelta_arangxo = (a, b) => {
+    const normiga_A = a.replace(/-/g, '').toLowerCase();
+    const normiga_B = b.replace(/-/g, '').toLowerCase();
+    return normiga_A .localeCompare(normiga_B, 'eo');
+    };
+
+    //aranĝi laŭ esperanta ordo.
+    let re_aranĝita_rezulto = rezulto.sort(lauxafabelta_arangxo)
+
+    //STRING
+    document.getElementById("bro").innerHTML = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br>");
+  </script>
+</html>
