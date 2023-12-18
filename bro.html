@@ -54,13 +54,16 @@ Z [BRO]`
     vortaro = vortaro.concat(E_alfabeto)
     let vortaro_HTML = vortaro
     //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
-    vortaro_HTML = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
-    vortaro_HTML = vortaro.replace(/\n/g, '<br>')
-    vortaro_HTML = vortaro_HTML.split(/<br>/g)
+    vortaro = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
+    console.log('VORTARO', vortaro)
+    // vortaro = vortaro.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
+    // vortaro = vortaro.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
+    vortaro = vortaro.replace(/\n/g, '<br>')
+    vortaro = vortaro.split(/<br>/g)
 
     //serĉi nur array kiuj enhavas "[\d]"
     let sxablono_regex = / \[.*\]/;
-    let rezulto = vortaro_HTML.filter(function(str) {
+    let rezulto = vortaro.filter(function(str) {
     	return sxablono_regex.test(str);
     });
     //konverti ĝin al string kaj aldoni ĉe la fino <br>
@@ -68,25 +71,21 @@ Z [BRO]`
 
     //STRING
     //forrigi informojn de la datumo
-    //forigi [BRO]
+    //forigi [UL]
     rezulto = rezulto.replace(/\{UL\}/g, "")
-    //forigi - ĉe sufiksoj
-    // rezulto = rezulto.replace(/-/g, "")
+
     //forigi informojn pri fako
     rezulto = rezulto.replace(/\{\w{3}\}/g, "")
-    //forigi informojn pri BRO
-    // rezulto = rezulto.replace(/\[\d+\]/g, "")
-    // rezulto = rezulto.replace(/\[\w+\]/g, "")
+
     //forigi informojn pri trajto de vortoj.
-    rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "")
+    rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "<i>$1</i>")
     rezulto = rezulto.replace(/\[BRO\]/g, "")
-    rezulto = rezulto.replace(/\[(\d)\]/g, "<sup>$1</sup>")
-    rezulto = rezulto.replace(/\[(x)\]/g, "<sup>x</sup>")
+    rezulto = rezulto.replace(/\[BRO\]/g, "")
 
     //aldoni ' inter radiko kaj finaĵo
-    rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(o )/g, "$1'$2")
-    rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(i )/g, "$1'$2")
-    rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(a )/g, "$1'$2")
+    // rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(o )/g, "$1'$2")
+    // rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(i )/g, "$1'$2")
+    // rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(a )/g, "$1'$2")
 
     //ARRAY
     //forigi tag <br> kaj konverti al Array
@@ -101,8 +100,15 @@ Z [BRO]`
 
     //aranĝi laŭ esperanta ordo.
     let re_aranĝita_rezulto = rezulto.sort(lauxafabelta_arangxo)
+    console.log('RE_ARANĜITA_REZULTO', re_aranĝita_rezulto)
+
+    //aldoni <br> per anstaŭigi la lastajn komojn
+    re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br>");
+
+    re_aranĝita_rezulto = re_aranĝita_rezulto.replace(/^([\w]+)/gm, "xxx$1");
+
 
     //STRING
-    document.getElementById("bro").innerHTML = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br>");
+    document.getElementById("bro").innerHTML = re_aranĝita_rezulto
   </script>
 </html>
