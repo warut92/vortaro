@@ -3089,8 +3089,8 @@ akaĵuo {KUI} มะม่วงหิมพานต์; akaĵuarbo, akaĵuujo 
 akapari {EKON} //(tr)// กว้านซื้อ >> monopoligi, แย่งชิง
 akcesora เสริม, เพิ่มเติม, ประกอบ; akcesoraĵo ส่วนประกอบเสริม
 akcipitro {ZOO} เหยี่ยวนกเขา
-akcizo ภาษีสรรพสามิต >> imposti
-akĉento สำเนียง >> prononcmaniero
+akcizo {EKON} ภาษีสรรพสามิต >> imposti
+akĉento {LIN} {FON} สำเนียง >> prononcmaniero
 aklami //(tr)// โห่ร้องยินดี
 akomodi //(tr)// ทำให้ถูก, ทำให้เหมาะสม
 akreo = akro (หน่วยพื้นที่) เอเคอร์
