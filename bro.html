@@ -14,7 +14,8 @@
     <script  src="./lasta_sxangxo.js"></script>
     <a href="pri.html"><pre id="statistiko"></pre></a>
     <h1>พจนานุกรมเอสเปรันโต-ไทย</h1>
-    <h4>คัดเฉพาะคำในรายการคำของ Baza Radikaro Oficiala (BRO)</h4>
+    <h4>คัดเฉพาะคำในรายการคำของ Baza Radikaro Oficiala (BRO) + privata aldono [x]</h4>
+    <p>รวมรวมทั้งหมด <span id="st_bro"></span> คำหลัก</p>
     <div id="bro">
     </div>
   </body>
@@ -23,90 +24,101 @@
     <script>
     //E alfabeto
     let E_alfabeto = `
-A [BRO]
-B [BRO]
-C [BRO]
-Ĉ [BRO]
-D [BRO]
-E [BRO]
-F [BRO]
-G [BRO]
-Ĝ [BRO]
-H [BRO]
-Ĥ [BRO]
-I [BRO]
-J [BRO]
-Ĵ [BRO]
-K [BRO]
-L [BRO]
-M [BRO]
-N [BRO]
-O [BRO]
-P [BRO]
-R [BRO]
-S [BRO]
-Ŝ [BRO]
-T [BRO]
-U [BRO]
-Ŭ [BRO]
-V [BRO]
-Z [BRO]`
+A [BRO],
+B [BRO],
+C [BRO],
+Ĉ [BRO],
+D [BRO],
+E [BRO],
+F [BRO],
+G [BRO],
+Ĝ [BRO],
+H [BRO],
+Ĥ [BRO],
+I [BRO],
+J [BRO],
+Ĵ [BRO],
+K [BRO],
+L [BRO],
+M [BRO],
+N [BRO],
+O [BRO],
+P [BRO],
+R [BRO],
+S [BRO],
+Ŝ [BRO],
+T [BRO],
+U [BRO],
+Ŭ [BRO],
+V [BRO],
+Z [BRO],
+`
     vortaro = vortaro.concat(E_alfabeto)
     let vortaro_HTML = vortaro
     //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
     vortaro = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
-    console.log('VORTARO', vortaro)
-    // vortaro = vortaro.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
-    // vortaro = vortaro.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
-    vortaro = vortaro.replace(/\n/g, '<br>')
+    vortaro = vortaro.replace(/\n/gm, '<br>')
     vortaro = vortaro.split(/<br>/g)
 
     //serĉi nur array kiuj enhavas "[\d]"
-    let sxablono_regex = / \[.*\]/;
+    let sxablono_regex = / \[\d*|x\]/;
+    // let sxablono_regex = /-o/gm;
     let rezulto = vortaro.filter(function(str) {
     	return sxablono_regex.test(str);
     });
     //konverti ĝin al string kaj aldoni ĉe la fino <br>
-    rezulto = rezulto.toString().replace(/,(?!\s)/g, "<br>");
-
+    rezulto = rezulto.toString()
+    rezulto = rezulto.replace(/,(?!\s)/g, "<br>");
     //STRING
     //forrigi informojn de la datumo
     //forigi [UL]
-    rezulto = rezulto.replace(/\{UL\}/g, "")
+    rezulto = rezulto.replace(/\{UL\} /g, "")
 
-    //forigi informojn pri fako
+    //forigi informojn pri Fakindeksoj
+    rezulto = rezulto.replace(/\{\w{4}\}/g, "")
     rezulto = rezulto.replace(/\{\w{3}\}/g, "")
 
     //forigi informojn pri trajto de vortoj.
     rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "<i>$1</i>")
     rezulto = rezulto.replace(/\[BRO\]/g, "")
-    rezulto = rezulto.replace(/\[BRO\]/g, "")
 
-    //aldoni ' inter radiko kaj finaĵo
-    // rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(o )/g, "$1'$2")
-    // rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(i )/g, "$1'$2")
-    // rezulto = rezulto.replace(/([a-zA-ZĉĈĝĜĥĤĵĴŝŜŭŬ]{3,4})(a )/g, "$1'$2")
+    //aldoni - inter radiko kaj finaĵo
+    rezulto = rezulto.replace(/<br>/g, "\n")
+    rezulto = rezulto.replace(/^(.{3,10})(o )\[/gm, "$1-$2 [")
+    rezulto = rezulto.replace(/^(.{3,8})(a )\[/gm, "$1-$2 [")
+    rezulto = rezulto.replace(/^(.{3,8})(i )\[/gm, "$1-$2 [")
+
+    //estas escepto
+    rezulto = rezulto.replace(/^i-o/g, "io")
+    rezulto = rezulto.replace(/i-a/g, "ia")
+    rezulto = rezulto.replace(/--i/g, "-i")
+    rezulto = rezulto.replace(/--a/g, "-a")
+    rezulto = rezulto.replace(/--e/g, "-e")
+    rezulto = rezulto.replace(/alia/g, "ali-a")
+
+    //aldoni etikedon h
+    rezulto = rezulto.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
+    rezulto = rezulto.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> \n')
+    console.log('REZULTO ', rezulto )
 
     //ARRAY
-    //forigi tag <br> kaj konverti al Array
-    rezulto = rezulto.split(/<br>/g)
+    //forigi \n kaj konverti al Array
+    rezulto = rezulto.split(/\n/g)
 
     //por ignori la signon -
     const lauxafabelta_arangxo = (a, b) => {
     const normiga_A = a.replace(/-/g, '').toLowerCase();
     const normiga_B = b.replace(/-/g, '').toLowerCase();
-    return normiga_A .localeCompare(normiga_B, 'eo');
+    return normiga_A.localeCompare(normiga_B, 'eo');
     };
 
     //aranĝi laŭ esperanta ordo.
     let re_aranĝita_rezulto = rezulto.sort(lauxafabelta_arangxo)
-    console.log('RE_ARANĜITA_REZULTO', re_aranĝita_rezulto)
 
+    let statistiko_bro = re_aranĝita_rezulto.length - 28
+    document.getElementById('st_bro').innerHTML = statistiko_bro.toLocaleString("en-US");
     //aldoni <br> per anstaŭigi la lastajn komojn
     re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br>");
-
-    re_aranĝita_rezulto = re_aranĝita_rezulto.replace(/^([\w]+)/gm, "xxx$1");
-
 
     //STRING
     document.getElementById("bro").innerHTML = re_aranĝita_rezulto
