@@ -49,7 +49,7 @@ const tuta_vortaro_senspaceto = disigitaj_vortoj.filter(vorto => vorto !== "")
 const lauxafabelta_arangxo = (a, b) => {
 const normiga_A = a.replace(/-/g, '').toLowerCase();
 const normiga_B = b.replace(/-/g, '').toLowerCase();
-return normiga_A .localeCompare(normiga_B, 'eo');
+return normiga_A.localeCompare(normiga_B, 'eo');
 };
 //aranĝi laŭ esperanta ordo.
 let tuta_vortaro = tuta_vortaro_senspaceto.sort(lauxafabelta_arangxo)
@@ -67,7 +67,7 @@ function sercxi() {
   for (i = 0; i < disigitaj_vortoj.length; i++) {
     vortoj_Arr = disigitaj_vortoj[i];
   }
-  let komenclitero = ""
+  let serĉa_komenclitero = ""
   //สำหรับการค้นหาด้วยภาษาไทย
   let porTajaSercxo = ""
   //สำหรับการค้นหาด้วยอักษรละติน
@@ -81,7 +81,7 @@ function sercxi() {
     document.getElementById('sercxoLingvo').innerHTML = "ค้นหาตรงตัว"
     document.getElementById('titolo').innerHTML = " พจนานุกรมเอสเปรันโต-ไทย"
     if (document.getElementById('checkbox').checked) {
-      komenclitero = " "
+      serĉa_komenclitero = " "
       porTajaSercxo = "(,|;| |$)"
     }
   } else if (str_sxablono.charCodeAt(0) < 500) {
@@ -89,11 +89,11 @@ function sercxi() {
     document.getElementById('sercxoLingvo').innerHTML = "kapvorto"
     document.getElementById('titolo').innerHTML = "  Reta Esperanto-Taja Vortaro"
     if (document.getElementById('checkbox').checked) {
-      komenclitero = "^<h>"
+      serĉa_komenclitero = "^<h>"
       precizaSercxo = 1
     }
   }
-  str_sxablono = komenclitero + str_sxablono + porTajaSercxo
+  str_sxablono = serĉa_komenclitero + str_sxablono + porTajaSercxo
   //ถ้าตัวอักษรในช่องค้นหามากกว่า 1 ให้ดำเนินการต่อ
   if (str_sxablono.length > 1) {
     let sxablono_regex = new RegExp(`(${(str_sxablono)})`, "igm");
@@ -109,10 +109,29 @@ function sercxi() {
       rezulto = "ไม่พบคำค้นหา";
       return document.getElementById("eligo").innerHTML = "<hr>" + rezulto;
     }
+    //จัดลำดับตามตัวอักษรภาษาเอสเปรันโต
+    rezulto.sort(lauxafabelta_arangxo)
+
+
+    rezulto.sort((a, b) => {
+      // Extract the content within <h> tags for comparison
+      const pattern = /<h>(.*?)<\/h>/;
+      const aMatch = a.match(pattern);
+      const bMatch = b.match(pattern);
+
+      // Custom sorting logic
+      if (aMatch && aMatch[1] === str_sxablono) {
+        return -1; // "a" comes first
+      } else if (bMatch && bMatch[1] === str_sxablono) {
+        return 1; // "b" comes first
+      } else {
+        // Default alphabetical sorting for other cases
+        return a.localeCompare(b);
+      }
+    });
 
     //แปลงวัตถุ (rezulto) เป็นสตริง แล้วเปลี่ยนเครื่องหมายลูกน้ำที่ไม่มีอะไรตามหลังด้วย <br><hr>
     let sercxitaj_vortoj = rezulto.toString().replace(/,(?!\s)/g, "<br><hr>");
-    // console.log('REZULTO', rezulto.length)
 
     //[4]ไฮไลท์คำใน sercxitaj_vortoj
     //hilight คำที่ค้นหา
@@ -128,13 +147,10 @@ function sercxi() {
     }
       console.log("แบบไม่ตรงตัว");
       str_sxablono = str_sxablono.substr(0)
-      str_sxablono
-
       sercxitaj_vortoj = sercxitaj_vortoj.replace(sxablono_regex, "<b>$1</b>")
 
     //นำออกแสดงผล
     //if ถ้า sercxitaj_vortoj ไม่เท่ากับ "" ให้แสดงข้อความ ไม่พบคำค้นหา
-
     if (sercxitaj_vortoj !== "") {
       document.getElementById("eligo").innerHTML = "<hr>" + sercxitaj_vortoj;
     } else document.getElementById("eligo").innerHTML = "<hr>" + "ไม่พบคำค้นหา";
