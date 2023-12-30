@@ -87,7 +87,7 @@ function sercxi() {
   } else if (str_sxablono.charCodeAt(0) < 500) {
     // console.log("อักษรละติน")
     document.getElementById('sercxoLingvo').innerHTML = "kapvorto"
-    document.getElementById('titolo').innerHTML = "  v"
+    document.getElementById('titolo').innerHTML = "  Reta Esperanto-Taja Vortaro"
     if (document.getElementById('checkbox').checked) {
       komenclitero = "^<h>"
       precizaSercxo = 1
