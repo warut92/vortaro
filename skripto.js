@@ -74,6 +74,8 @@ function sercxi() {
   let precizaSercxo = 0
   //เรียกข้อความที่จะค้นหา
   let str_sxablono = document.getElementById("enigo").value;
+  //ใส่ hash ที่ url
+  location.hash = str_sxablono
   const str_sxablono_len = str_sxablono.length
   //การค้นหาด้วยภาษาไทยแบบตรงตัว
   if (str_sxablono.charCodeAt(0) > 500) {
@@ -82,7 +84,7 @@ function sercxi() {
     document.getElementById('titolo').innerHTML = " พจนานุกรมเอสเปรันโต-ไทย"
     if (document.getElementById('checkbox').checked) {
       serĉa_komenclitero = " "
-      porTajaSercxo = "(,|;| |$)"
+      porTajaSercxo = "(,||;|| ||$)"
     }
   } else if (str_sxablono.charCodeAt(0) < 500) {
     // console.log("อักษรละติน")
@@ -94,6 +96,7 @@ function sercxi() {
     }
   }
   str_sxablono = serĉa_komenclitero + str_sxablono + porTajaSercxo
+  console.log('STR_SXABLONO', str_sxablono)
   //ถ้าตัวอักษรในช่องค้นหามากกว่า 1 ให้ดำเนินการต่อ
   if (str_sxablono.length > 1) {
     let sxablono_regex = new RegExp(`(${(str_sxablono)})`, "igm");
@@ -101,6 +104,7 @@ function sercxi() {
       //test() ส่งค่าเป็น boolean สำหรับการตรวจสอบการค้นหา
       return sxablono_regex.test(str);
     });
+    console.log('REZULTO', rezulto)
     //การแสดงผลการค้นหาแบบตรงตัว
 
     //[3] เตรียมแสดงผล
@@ -169,3 +173,11 @@ if ('serviceWorker' in navigator) {
       console.log('Service Worker Registered');
     });
 }
+
+//โหลดคำจาก hash และดำเนินการรัน sercxi()
+if (location.hash) {
+        let vorto_hash = location.hash
+        let vorto_hash_slice = vorto_hash.slice(1)
+        document.getElementById('enigo').value = decodeURI(vorto_hash_slice)
+        sercxi()
+      }
