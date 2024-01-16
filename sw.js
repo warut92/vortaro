@@ -5,7 +5,7 @@ self.addEventListener('install', (e) => {
       '/index.html',
       '/eotajpu.js',
       '/skripto.js',
-      '/th-vortaro.js',
+      '/eoth-vortaro.js',
       '/stilo.css',
       '/lasta_sxangxo.js',
     ])),
