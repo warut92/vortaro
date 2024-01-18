@@ -1,6 +1,6 @@
 import os.path
 
-dosierindiko = 'th-vortaro.js'
+dosierindiko = 'eoth-vortaro.js'
 
 modifinita_tempo = os.path.getmtime(dosierindiko)
 
