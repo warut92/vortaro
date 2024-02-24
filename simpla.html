@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <!-- <link rel="manifest" href="manifest.json" /> -->
@@ -13,34 +14,61 @@
     b {
       color: red;
     }
+
     #statistiko {
       font-size: 10px;
     }
+
+    #butono {
+      line-height: 12px;
+      width: 18px;
+      font-size: 9pt;
+      font-family: tahoma;
+      margin-top: 1px;
+      margin-right: 2px;
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+
+    .dark-mode {
+      background-color: #121212;
+      color: white;
+    }
   </style>
-  <script
-  type="text/javascript"
-  src="eotajpu.js">
-  window.location.reload()
+  <script type="text/javascript" src="eotajpu.js">
+    window.location.reload()
   </script>
 </head>
-<body>
-<pre id="statistiko"></pre>
-<script  src="./lasta_sxangxo.js"></script>
 
-<center><span id="titolo" style="display:none"> พจนานุกรมเอสเปรันโต-ไทย</span></center>
-<input style="display:none" id="checkbox" type="checkbox" onclick="sercxi()">
-<label id="sercxoLingvo" style="display:none">kapvorto</label>
-<input id="enigo" name="via_ujo" oninput="sercxi()" onfocus="sercxi()"></input>
-<script>
-type="text/javascript">
-document.getElementById("enigo").addEventListener("keyup",
-function(event){eotajpu(this,event);}, true);
-</script>
-<div id="preciza_eligo"></div>
-<div id="eligo"></div>
-<!-- partial -->
-<div id="tuto" style="display:none"></div>
-<script src="./eoth-vortaro.js"></script>
-<script src="./skripto.js"></script>
+<body>
+  <pre id="statistiko"></pre>
+  <script src="./lasta_sxangxo.js"></script>
+
+  <center><span id="titolo" style="display:none"> พจนานุกรมเอสเปรันโต-ไทย</span></center>
+  <button id="butono" onclick="mallumo()">☼</button>
+  <input style="display:none" id="checkbox" type="checkbox" onclick="sercxi()">
+  <label id="sercxoLingvo" style="display:none">kapvorto</label>
+  <input id="enigo" name="via_ujo" oninput="sercxi()" onfocus="sercxi()"></input>
+  <script>
+    type = "text/javascript" >
+      document.getElementById("enigo").addEventListener("keyup",
+        function(event) {
+          eotajpu(this, event);
+        }, true);
+  </script>
+  <div id="preciza_eligo"></div>
+  <div id="eligo"></div>
+  <!-- partial -->
+  <div id="tuto" style="display:none"></div>
+  <script>
+    function mallumo() {
+      var element = document.body;
+      element.classList.toggle("dark-mode");
+    }
+  </script>
+  <script src="./eoth-vortaro.js"></script>
+  <script src="./skripto.js"></script>
 </body>
+
 </html>
