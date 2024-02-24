@@ -3045,6 +3045,7 @@ astmo {MED} โรคหอบหืด
 kognitiva/kogna {PSI} {FIZL} พุฒิปัญญา, ด้านการรับรู้
 obeza {MED} อ้วนเกิน; obezeco {MED} โรคอ้วน
 vinjeto {TIP} รูปเล็ก ๆ สำหรับตกแต่งหนังสือ, ไอคอนเล็ก ๆ ในหนังสือ
+adjudiko {EKON} {JUR} การประกวดราคา, การเสนอราคา
 >.
 
 <!-- A -->
