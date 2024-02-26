@@ -1,4 +1,12 @@
 document.addEventListener("click", function() {
+  viduFontojn()
+})
+
+document.addEventListener("touchstart", function() {
+  viduFontojn()
+})
+
+function viduFontojn() {
   if (window.getSelection) {
     elektitaVorto = "" + window.getSelection().toString().toLowerCase();
   }
@@ -11,4 +19,4 @@ document.addEventListener("click", function() {
   if (elektitaVorto === "") {
     document.getElementById('aliaj-fontoj').innerHTML = ""
   }
-})
+}
