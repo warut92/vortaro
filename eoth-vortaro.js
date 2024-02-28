@@ -5226,11 +5226,11 @@ ve! //(int)//  โธเอ๋ย, บ้าเอ้ย, ฮือ, //(pref)// 
 vegeti //(ntr)// โตไปเรื่อย ๆ; vegetaĵo ผัก, พืชพันธุ์: vegetaĵa manĝo อาหารเจ; vegetaĵaro พืช
 vehiklo ยานพาหนะ, เวคเตอร์; la Granda Vehiklo {REL} ยานใหญ่, มหายาน = Mahajano, la Malgranda Vehiklo ยานเล็ก, หีนยาน = Hinajano
 veldi //(tr)// {TEK} เชื่อม (เหล็ก)
-Venero = Venuso, venera malsano กามโรค
+Venero = Venuso {MIT} เทพวีนัส; venera {MED} เกี่ยวกับโรคติดต่อทางเพศสัมพันธ์
 ventoli //(tr)// ระบายลม/อากาศ >> aerumi; ventolado การระบายอากาศ
-Venuso ดวาพระศุกร์, ดาวรู่ง
+Venuso {MIT} เทพวีนัส; {ATS} ดาวศุกร์, ดาวประจำเมือง, ดาวประกายพรึก, ดาวรุ่ง
 verando ระเบียง
-vermiĉelo วุ้นเส้น,  เส้นหมีอิตาลี
+vermiĉelo วุ้นเส้น, เส้นหมีอิตาลี
 vertebro กระดูกสันหลัง
 vertiĝi //(ntr)// รู้สึกมึนงง
 veruko หูด
@@ -5269,10 +5269,10 @@ vulgara ที่ใช้กันทั่วไป, สามัญ; vulgara 
 vulvo {ANA} ปากช่องสังวาส
 <!-- Z -->
 zapi //(ntr)// เปลี่ยนช่องโทรทัศน์แบบถี่ ๆ
-zenito จุดสุดยอด
-zeno นิกายเซน
+zenito {AST} จุดจอมฟ้า, จุดสุดยอด
+zeno {BUD} นิกายเซน
 zigzago รูปทรงซิกแซก, รูปทรงฟันเลื่อย
-zodiako จักรราศี; zodiaka signo ราศี
+zodiako {AST} จักรราศี; zodiaka signo ราศี
 zomi //(ntr)// ซูม, {AVI} แล่นไต่ขึ้นไปบนอากาศโดยเร็ว; zomlenso {FOT} เลนซ์ชนิดที่เปลี่ยนความยาวโฟกัสได้
-zorioj รองเท้าคีบ, รองเท้าฟองน้ำ
+zorio {TEKS} รองเท้าคีบ, รองเท้าฟองน้ำ
 `
