@@ -9,4 +9,5 @@ modifinita_tempo = datetime.fromtimestamp(modifinita_tempo).strftime('%d-%m-%Y %
 
 print(f" let lastaTempo = \"{modifinita_tempo}\";")
 
-# preni al terminalo python lasta_sxangxo.py > lasta_sxangxo.js
+# preni al terminalo
+# python lasta_sxangxo.py > lasta_sxangxo.js
