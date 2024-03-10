@@ -104,7 +104,7 @@ function sercxi() {
       //test() ส่งค่าเป็น boolean สำหรับการตรวจสอบการค้นหา
       return sxablono_regex.test(str);
     });
-    console.log('REZULTO', rezulto)
+    // console.log('REZULTO', rezulto)
     //การแสดงผลการค้นหาแบบตรงตัว
 
     //[3] เตรียมแสดงผล
