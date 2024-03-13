@@ -118,18 +118,18 @@ function sercxi() {
 
 
     rezulto.sort((a, b) => {
-      // Extract the content within <h> tags for comparison
+      // Eltiru la enhavon ene de <h>-etikedoj por komparo
       const pattern = /<h>(.*?)<\/h>/;
       const aMatch = a.match(pattern);
       const bMatch = b.match(pattern);
 
-      // Custom sorting logic
+      // Propra ordiga logiko
       if (aMatch && aMatch[1] === str_sxablono) {
-        return -1; // "a" comes first
+        return -1; // "a" venas unue
       } else if (bMatch && bMatch[1] === str_sxablono) {
-        return 1; // "b" comes first
+        return 1; // "b" venas unue
       } else {
-        // Default alphabetical sorting for other cases
+        // Defaŭlta alfabeta ordigo por aliaj kazoj
         return a.localeCompare(b);
       }
     });
