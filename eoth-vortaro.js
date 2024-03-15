@@ -106,10 +106,10 @@ amuzi [5] //(tr)// ทำให้...สนุก; amuziĝi สนุก; amuza 
 -an- {UL} [0] //(suf)// พยางค์เติมท้ายหมายถึงสมาชิก: familiano สมาชิกในครอบครัว; klubano สมาชิกชมรม
 anaso [8] {ZOO} เป็ด
 anekdoto [9] เรื่องเล่าสั้น ๆ
-anĝelo {UL} [8] เทวดา; anĝelino นางฟ้า
 angilo [9] {ZOO} ปลาไหล
 angla [x] อังกฤษ; anglo ชาวอังกฤษ; Anglio ประเทศอังกฤษ
 angulo {UL} [4] มุม; rektangulo [9] มุมฉาก; triangulo [8] รูปสามเหลี่ยม
+anĝelo {UL} [8] เทวดา; anĝelino นางฟ้า
 animalo [8] สัตว์ → besto สัตว์ (ยกเว้นคน)
 animo {UL} [5] จิตใจ
 ankaŭ {UL} [1] //(adv)// ดังนั้น, ด้วย
@@ -1439,7 +1439,7 @@ ligno {UL} [4] ไม้
 likva [9] ของเหลว
 lilio [9] ดอกลิลลี่
 limako [9] {ZOO} ทาก → heliko
-limo [5] เขต; senlima ไร้พรมแดน
+limo [5] เขต; limigi จำกัด, ทำให้มีขอบเขต; senlima ไร้พรมแดน
 limonado [x] น้ำมะนาว
 lingvo {UL} [3] {LIN} ภาษา; lingvisto นักภาษาศาสตร์
 linio [4] เส้น
@@ -4353,7 +4353,7 @@ respektive ตามลำดับ
 responsi >> respondeci
 restaŭri //(tr)// ซ่อมแซม, สร้างใหม่, ทำให้...มีอำนาจกลับคืนมา
 retoriko วาทศิลป์, โวหาร, ศิลปในการพูด
-retreti //(ntr)// (ล่า)ถอย >> retiriĝi; retreto การถอย
+retreto {MIT} การถอยทัพ @15-03-2024 17:54:42@
 retro (adv) ถอยหลัง = malantaŭen เช่น (iru) retro! ถอยหลังนะ, //(pref)//ย้อนหลัง เช่น retroaktiva มีผลย้อนหลัง; retroiri (เกียร์)ถอยหลัง: retroirigi aŭton ถอยรถ; retrokalkuli //(ntr)// นับถอยหลัง; retrospegulo กระจกมองหลัง(ในรถ)
 reverso ด้านหลัง; reversi //(tr)// เย็บแก้เสื้อผ้าด้านในออกมาเป็นด้านนอก
 revizoro (รัฐบาล) ผู้ตรวจสอบบัญชี
@@ -4869,7 +4869,7 @@ vervo ความร่าเริง, ความมีชีวิตชี
 vestiblo ห้องกลางติดกับประตูหน้า
 veterano ผู้ที่มีประสบการณ์, ทหารผ่านศึก
 veterinaro สัตวแพทย์ = bestokuracisto
-video วีดีโอ >> vidbendo; videaparato เครื่องเล่นวีดีโอ; videa ludo วีดีโอเกม
+video {KIN} การถ่ายวิดีโอ, วิดีโอ; videaĵo {KIN} วิดีโอ; muzikvideo มิวสิควิดีโอ @15-03-2024 18:53:02@
 Vieno กรุงเวียนนา
 Vientiano กรุงเวียงจันทน์
 vimeno ไม้จำพวกสนุ่น
@@ -5303,5 +5303,6 @@ obeza {MED} อ้วนเกิน; obezeco {MED} โรคอ้วน
 vinjeto {TIP} รูปเล็ก ๆ สำหรับตกแต่งหนังสือ, ไอคอนเล็ก ๆ ในหนังสือ
 adjudiko {EKON} {JUR} การประกวดราคา, การเสนอราคา
 uzino {EKON} โรงงานเหล็ก
+simetrio {BELE} {MAT} ความสมมาตร, ความสมส่วน; simetria {MAT} สมมาตร, สมส่วน; malsimetria {MAT} ปฏิสมมาตร @15-03-2024 17:54:42@
 >.
 `
