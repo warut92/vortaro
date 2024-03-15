@@ -9,32 +9,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" href="./ikono/android/android-launchericon-48-48.png">
   <title>พจนานุกรมเอสเปรันโต-ไทย</title>
-  <!-- <link rel="stylesheet" href="./stilo.css"> -->
+  <link rel="stylesheet" href="./simpla_stilo.css">
   <style media="screen">
-    b {
-      color: red;
-    }
 
-    #statistiko {
-      font-size: 10px;
-    }
-
-    #butono {
-      line-height: 12px;
-      width: 18px;
-      font-size: 9pt;
-      font-family: tahoma;
-      margin-top: 1px;
-      margin-right: 2px;
-      position: absolute;
-      top: 0;
-      right: 0;
-    }
-
-    .dark-mode {
-      background-color: #121212;
-      color: white;
-    }
   </style>
   <script type="text/javascript" src="eotajpu.js">
     window.location.reload()
@@ -65,7 +42,10 @@
     function mallumo() {
       var element = document.body;
       element.classList.toggle("dark-mode");
+      var butono = document.getElementById('enigo');
+      butono.classList.toggle("dark-mode");
     }
+    mallumo()
   </script>
   <script src="./eoth-vortaro.js"></script>
   <script src="./skripto.js"></script>
