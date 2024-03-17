@@ -11,7 +11,7 @@ absceso [x] ฝี
 absoluta [9] เด็ดขาด, ไม่มีเงื่อนไข, สมบูรณ์
 abstini [9] //(ntr)// ละเว้น, งด
 abstrakta [x] นามธรรม; abstraktaĵo {BELA} นามธรรม
-absurda [9] เหลวไหล, ไร้สาระ
+absurda [9] เหลวไหล, ไร้สาระ; absurdaĵo/absurdo สิ่งไร้สาระ @17-03-2024 19:51:26@
 abunda [7] อุดมสมบูรณ์; abundo ความอุดมสมบูรณ์
 -aĉ- [9] //(suf)// พยางค์เติมท้ายบ่งชี้ถึงคุณภาพว่าไม่ดี: domaĉo บ้านที่พุพัง; ĉevalaĉo ม้าพยศ; aĉa แย่, ห่วย
 aĉeti {UL} [3] //(tr)// ซื้อ; elaĉeti ไถ่ตัว; subaĉeti ติดสินบน
@@ -35,7 +35,7 @@ aero {UL} [4] อากาศ; aerumo การระบายอากาศ
 afabla [3] เป็นมิตร; afableco ความเป็นมิตร; malafabla ไม่เป็นมิตร
 afekti [x] //(tr)// แกล้งทำ, เสแสร้ง
 afero {UL} [2] เรื่องราว, ข้าวของ
-afiŝo [8] โปสเตอร์, (เฟซบุ๊ก) โพสต์
+afiŝo [8] โปสเตอร์, (เฟซบุ๊ก) โพสต์; afiŝi //(tr)// โพสต์
 aflikti [9] //(tr)// ทำให้ทุกข์ใจ, ทำให้เจ็บใจ
 afranki [8] //(tr)// ชำระแสตมป์หรือการขนส่งล่วงหน้า
 Afriko [9] {GEOG} ทวีปแอฟริกา; afrikano ชาวแอฟริกา
@@ -57,12 +57,12 @@ akcidento [7] อุบัติเหตุ
 akcio [9] หุ้น
 akiri [6] //(tr)// ได้รับ, ได้...มาเป็นของตัวเอง → gajni, ricevi
 akno [9] สิว
-akompani {UL} [6] //(tr)// พาไป, เล่นดนตรีประกอบ
+akompani {UL} [6] //(tr)// พาไป, ไปเป็นเพื่อน, เล่นดนตรีประกอบ; akompananto เพื่อนร่วมทาง @17-03-2024 21:13:16@
 akordo [9] คอร์ด (ดนตรี), ความกลมเกลียว
 akra {UL} [6] คม, มีความคม, แหลม ; malakra ทื่อ
 akrido [9] {ZOO} ตั๊กแตน
 akso [9] เพลา, แกน
-aktiva [9] ตื่นตัว, (ไวยากรณ์) วาจก → pasiva
+aktiva [9] ตื่นตัว, (ไวยากรณ์) วาจก → pasiva; aktivaĵo กิจกรรม; aktivulo/aktivisto นักกิจกรรม @17-03-2024 21:13:16@
 akto [9] {TEA} องก์, ฉาก, {JUR} นิติกรรม, บทบัญญัติ
 aktoro [9] นักแสดง(ชาย); aktorino นักแสดงหญิง
 aktuala [9] เกิดขึ้นในปัจจุบัน, เป็นปัจจุบัน, ใหม่; aktualaĵo เหตุการณ์ปัจจุบัน
@@ -91,8 +91,8 @@ aluminio [9] อะลูมิเนียม
 amara [9] ขม
 amaso {UL} [4] ฝูงชน, กลุ่มของสิ่งที่มาก ๆ
 amatoro [9] มือสมัครเล่น
-ambasado [9] สถานเอกอัครราชทูต, คณะทูต
-ambasadoro [9] เอกอัครราชทูต; ambasadorejo สถานเอกอัครราชทูต
+ambasado [9] คณะเอกอัครราชทูต, คณะผู้แทนทางทูต; ambasadejo สถานเอกอัครราชทูต, สถานทูต @17-03-2024 21:13:16@
+ambasadoro [9] เอกอัครราชทูต; ambasadorejo สถานเอกอัครราชทูต @17-03-2024 21:13:16@
 ambaŭ [1] //(adj)// //(pro)// ทั้งสอง, ทั้งคู่
 ambulanco [x] รถพยาบาล
 Ameriko [9] {GEOG} ทวีปอเมริกา → Usono ประเทศอเมริกา; amerikano ชาวทวีปอเมริกา
@@ -115,16 +115,16 @@ animo {UL} [5] จิตใจ
 ankaŭ {UL} [1] //(adv)// ดังนั้น, ด้วย
 ankoraŭ {UL} [1] //(adv)// ยังคง
 ankro [x] สมอเรือ
-anonci [6] //(tr)// แจ้ง, ประกาศ; anonco ประกาศ
+anonci [6] //(tr)// แจ้ง, ประกาศ; anonco ประกาศ; anoncanto ผู้ประกาศ; anoncisto {TEL} ผู้ประกาศ, นักประกาศ; antaŭanonci ประกาศล่วงหน้า @17-03-2024 21:13:16@
 ansero [9] {ZOO} ห่าน; anservice เรียงซ้อนหลังกัน, ในไฟล์เดียว
 anso [x] หูจับ, ด้ามจับ
-anstataŭ {UL} [1] //(prep)// แทน; anstaŭigi (per) แทนที่...(ด้วย)
+anstataŭ {UL} [1] //(prep)// แทน; anstataŭi //(tr)// แทน; anstaŭigi (per) แทนที่...(ด้วย) @17-03-2024 21:13:16@
 -ant- {UL} [0] //(suf)// พยางค์เติมท้ายแสดงลักษณะของกริยาที่กำลังดำเนินอยู่: lernanto ผู้ที่กำลังเรียน, นักเรียน; lernanta ซึ่งกำลังเรียน; lernante ในตอนที่กำลังเรียน; komencanto ผู้ที่กำลังเริ่มอะไรบางอย่าง, ผู้เริ่มต้น
 antaŭ {UL} [1] //(prep)// ข้างหน้า; malantaŭ ข้างหลัง; kiel antaŭe เหมือนเดิม, เช่นเดิม; antaŭ ol //(konj)//  ก่อน, ก่อนที่จะ
 antikva [x] โบราณ; antikvaĵo ของโบราณ
 anuso [x] ทวารหนัก
 aparato [7] เครื่อง, อุปกรณ์
-aparta {UL} [4] เป็นส่วน ๆ, ไม่ติดกัน; โดยเฉพาะ, พิเศษ; apartigi แยก...ออกเป็นส่วน ๆ
+aparta {UL} [4] เป็นส่วน ๆ, ไม่ติดกัน, โดยเฉพาะ, พิเศษ; apartigi แยก...ออกเป็นส่วน ๆ
 apartamento [8] อพาร์ทเมนท์
 aparteni {UL} [8] (al) //(ntr)// เป็นของ
 apenaŭ {UL} [1] แทบจะไม่
@@ -5278,7 +5278,7 @@ mikrobiologio {BAK} {SCI} จุลชีววิทยา
 bakteriologio {BAK} {SCI} แบคทีเรียวิทยา
 virusologio {BAK} {SCI} ไวรัสวิทยา
 biontologio {SCI} //(ark.)// = biologio
-oligarkio, oligarĥio {POL} คณาธิปไตย
+oligarkio/oligarĥio {POL} คณาธิปไตย
 renegato ผู้ที่ละทิ้งศาสนา, ผู้ที่ละทิ้งพวกพ้อง, คนทรยศ = apostato
 mocio {POL} ญัตติ
 engaĝi //(tr)// จ้าง, ชักชวน
