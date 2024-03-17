@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="manifest" href="vortaro.webmanifest">
+    <meta name="description" content="พจนานุกรมเอสเปรันโต-ไทย Esperanto - Taja Interreta Vortaro">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./ikono/android/android-launchericon-48-48.png">
+    <title>พจนานุกรมเอสเปรันโต-ไทย</title>
+    <link rel="stylesheet" href="./stilo.css">
+    <style media="screen">
+    #ligiloj {
+      position: -webkit-sticky;
+      position: sticky;
+      position: fixed;
+      bottom: 0;
+      right: 16px;
+      padding: 1px;
+      width: 400px;
+      height: 30px;
+      background-color: yellow;
+      border: 2px solid blue;
+      font-size: 20px;
+      color: black;
+    }
+    a {
+      color: black;
+    }
+    </style>
+    <title></title>
+  </head>
+  <body>
+    <script  src="./lasta_sxangxo.js"></script>
+    <a href="pri.html"><pre id="statistiko"></pre></a>
+    <h1>พจนานุกรมเอสเปรันโต-ไทย</h1>
+    <h4>คัดเฉพาะคำในรายการคำของ Baza Radikaro Oficiala (BRO) + privata aldono [x]</h4>
+    <p>รวมรวมทั้งหมด <span id="st_bro"></span> คำหลัก</p>
+    <div id="bro">
+    </div>
+        <span id="ligiloj">Alklaki vorton por krei la ligilojn</span>
+  </body>
+  <script  src="./eoth-vortaro.js"></script>
+
+  <scrip>
+    <script>
+    //E alfabeto
+    let E_alfabeto = `
+A [BRO],
+B [BRO],
+C [BRO],
+Ĉ [BRO],
+D [BRO],
+E [BRO],
+F [BRO],
+G [BRO],
+Ĝ [BRO],
+H [BRO],
+Ĥ [BRO],
+I [BRO],
+J [BRO],
+Ĵ [BRO],
+K [BRO],
+L [BRO],
+M [BRO],
+N [BRO],
+O [BRO],
+P [BRO],
+R [BRO],
+S [BRO],
+Ŝ [BRO],
+T [BRO],
+U [BRO],
+Ŭ [BRO],
+V [BRO],
+Z [BRO],
+`
+    vortaro = vortaro.concat(E_alfabeto)
+    let vortaro_HTML = vortaro
+    //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
+    vortaro = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
+    vortaro = vortaro.replace(/\n/gm, '<br>')
+    vortaro = vortaro.split(/<br>/g)
+
+    //serĉi nur array kiuj enhavas "[\d]"
+    let sxablono_regex = / \[\d*|x\]/;
+    // let sxablono_regex = /-o/gm;
+    let rezulto = vortaro.filter(function(str) {
+    	return sxablono_regex.test(str);
+    });
+    //konverti ĝin al string kaj aldoni ĉe la fino <br>
+    rezulto = rezulto.toString()
+    rezulto = rezulto.replace(/,(?!\s)/g, "<br>");
+    //STRING
+    //forrigi informojn de la datumo
+    //forigi [UL]
+    rezulto = rezulto.replace(/\{UL\} /g, "")
+
+    //forigi informojn pri Fakindeksoj
+    rezulto = rezulto.replace(/\{\w{4}\}/g, "")
+    rezulto = rezulto.replace(/\{\w{3}\}/g, "")
+
+    //forigi informojn pri trajto de vortoj.
+    rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "<i>$1</i>")
+    rezulto = rezulto.replace(/\[BRO\]/g, "")
+
+    // //aldoni - inter radiko kaj finaĵo
+    // rezulto = rezulto.replace(/<br>/g, "\n")
+    // rezulto = rezulto.replace(/^(.{3,10})(o )\[/gm, "$1-$2 [")
+    // rezulto = rezulto.replace(/^(.{3,8})(a )\[/gm, "$1-$2 [")
+    // rezulto = rezulto.replace(/^(.{3,8})(i )\[/gm, "$1-$2 [")
+    //
+    // //estas escepto
+    // rezulto = rezulto.replace(/^i-o/g, "io")
+    // rezulto = rezulto.replace(/i-a/g, "ia")
+    // rezulto = rezulto.replace(/--i/g, "-i")
+    // rezulto = rezulto.replace(/--a/g, "-a")
+    // rezulto = rezulto.replace(/--e/g, "-e")
+    // rezulto = rezulto.replace(/alia/g, "ali-a")
+
+    //aldoni etikedon h
+    rezulto = rezulto.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
+    rezulto = rezulto.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> \n')
+    console.log('REZULTO ', rezulto )
+
+    //ARRAY
+    //forigi \n kaj konverti al Array
+    rezulto = rezulto.split(/\n/g)
+
+    //por ignori la signon -
+    const lauxafabelta_arangxo = (a, b) => {
+    const normiga_A = a.replace(/-/g, '').toLowerCase();
+    const normiga_B = b.replace(/-/g, '').toLowerCase();
+    return normiga_A.localeCompare(normiga_B, 'eo');
+    };
+
+    //aranĝi laŭ esperanta ordo.
+    let re_aranĝita_rezulto = rezulto.sort(lauxafabelta_arangxo)
+
+    let statistiko_bro = re_aranĝita_rezulto.length - 28
+    document.getElementById('st_bro').innerHTML = statistiko_bro.toLocaleString("en-US");
+    //aldoni <br> per anstaŭigi la lastajn komojn
+    re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br>");
+
+    //STRING
+    document.getElementById("bro").innerHTML = re_aranĝita_rezulto
+
+
+    //////////////////////
+    //krei la veriablon por elektita vorto.
+let elektitaVorto = "";
+
+//funckigi per alklaki vortojn.
+document.addEventListener("click", function() {
+//preni vorton
+  if (window.getSelection) {
+    elektitaVorto = "" + window.getSelection().toString().toLowerCase();
+  }
+  // se la elektita vorto finiĝas per spaceto forigu ĝin!
+  if (elektitaVorto.endsWith(" ")) {
+    elektitaVorto = elektitaVorto.substring(0, elektitaVorto.length - 1)
+  }
+  console.log(elektitaVorto.length);
+  const frenesteto = document.getElementById('ligiloj');
+  if (elektitaVorto.length == 0) {
+      document.getElementById('ligiloj').innerHTML = "";
+      frenesteto.style.display = 'none';
+    } else {
+      document.getElementById('ligiloj').innerHTML = "vidu :<i>“" + elektitaVorto + "”</i> en <a href=\"https://vortaro.net/#" + elektitaVorto + "\" target=\"_blank\">PIV</a>" + ", <a href=\"https://www.reta-vortaro.de/revo/dlg/index-2l.html?q=" + elektitaVorto + "\" target=\"_blank\">ReVo</a>" + ", <a href=\"https://eo.wikipedia.org/wiki/" + elektitaVorto + "\" target=\"_blank\">Vikipedio</a>";
+
+      frenesteto.style.display = 'block';
+    }
+
+
+document.addEventListener('click', function(event) {
+  const x = event.clientX;
+  const y = event.clientY;
+  frenesteto.style.left = x + 'px';
+  frenesteto.style.top = y + 30 + 'px';
+})
+});
+  </script>
+</html>
