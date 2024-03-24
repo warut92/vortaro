@@ -31,7 +31,7 @@ document.addEventListener("click", function() {
   if (elektitaVorto.endsWith(" ")) {
     elektitaVorto = elektitaVorto.substring(0, elektitaVorto.length - 1)
   }
-  console.log(elektitaVorto.length);
+  console.log("longeco ",elektitaVorto.length);
   const frenesteto = document.getElementById('ligiloj');
   if (elektitaVorto.length == 0) {
       document.getElementById('ligiloj').innerHTML = "";
@@ -41,8 +41,7 @@ document.addEventListener("click", function() {
 
       frenesteto.style.display = 'block';
     }
-
-
+//krei lokon por aperigi la elemton ligiloj.
 document.addEventListener('click', function(event) {
   const x = event.clientX;
   const y = event.clientY;
