@@ -691,7 +691,7 @@ filozofo [x] นักปรัชญา
 financo [8] การเงิน
 fingro {UL} [3] นิ้วมือ; dikfingro นิ้วโป้ง; montrofingro นิ้วชี้; mezfingro นิ้วกลาง; ringofingro นิ้วนาง; etfingro นิ้วก้อย
 fini {UL} [2] //(tr)// จบ, เลิก → ĉesi; finiĝi //(ntr)// จบ; fino ปลาย, ตอนจบ; finaĵo ตัวลงท้าย
-firma {UL} [6] มั่งคง
+firma {UL} [6] มั่งคง; malfirma ไม่มั่นคง, ไม่แน่นอน @25-03-2024 16:45:32@
 firmao [x] บริษัท = kompanio
 fiŝo {UL} [4] {ZOO} ปลา; fiŝisto นักตกปลา, คนเลี้ยงปลา, คนขายปลา
 fiziko [8] ฟิสิกส์; fizka กายภาพ; fizkistoนักฟิสิกส์
