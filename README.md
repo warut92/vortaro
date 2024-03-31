@@ -1,4 +1,4 @@
-# Esperanta Vortaro
+# Esperanta Taja Vortaro
 
 Reta Esperanto-Taja Vortaro kompilas de Warut92
 
@@ -12,7 +12,13 @@ Oni povas kontribui tradukojn, novajn vortojn en la dosiero eoth-vortaro.js
 
 ## Strukturo de la vortaro
 
-`kapvorto {fakvorto} //(verbtipo)// traduko, alia traduko; subvorto {fakvorto} //(verbtipo)// traduko, alia traduko; ...`
+1 artikolo :
+`kapvorto {fakvorto} //(verbtipo)// traduko, alia traduko //ekzempla frazo//; subvorto {fakvorto} //(verbtipo)// traduko, alia traduko; ...`
+
+`//vorto//` konvertas aŭtomate al `<i>vorto</i>`
+### Datoĝisdatigo
+
+tajpu `++` je la lasta pukto de la artikolo, post tio malfermi la terminalon ĉe la vojo de la vortaro, kaj tajpu `python lasta_sxangxo.py` por aldoni la daton kaj precizan tempon.
 
 ## Permesilo
 MIT
