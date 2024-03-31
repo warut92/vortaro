@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&display=swap'); */
 body {
   font-family: 'IBM Plex Sans Thai Looped', sans-serif;
   font-size: 20px;
@@ -12,7 +12,7 @@ body {
 
 #titolo, center {
   font-family: 'IBM Plex Sans Thai Looped', sans-serif;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 a {
@@ -25,17 +25,8 @@ b {
 }
 
 h {
-  font-family: Verdana;
+  font-family: consolas;
   font-size: 25px;
-}
-
-center {
-  font-family: "Loma", sans-serif;
-  font-size: 30px;
-  padding-top: 1px;
-  padding-right: 1px;
-  padding-bottom: 1px;
-  padding-left: 1px;
 }
 
 #checkbox {
@@ -55,6 +46,7 @@ center {
 label {
   font-size: 15px;
 }
+
 pre {
   font-size: 10px;
   position: absolute;

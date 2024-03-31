@@ -1,2 +1,0 @@
-python lasta_sxangxo.py > lasta_sxangxo.js 
-python novaj_redaktoj.py
