@@ -1916,7 +1916,7 @@ pluraj [6] จำนวนมากว่า 1
 pluralo [9] {GRA} พหูพจน์
 plus [8] //(kon)// บวก
 pluvo {UL} [4] ฝน; pluvi //(ntr)// ฝนตก;
-pneŭo, pneŭmatiko  [x] ยางรถ, ล้อยาง
+pneŭo/pneŭmatiko  [x] ยางรถ, ล้อยาง
 po {UL} [9] //(prep)// คนละ, อันละ, ต่อ //La patrino donis al infanoj po du pomoj แม่ให้แอปเปิ้ลเด็ก ๆ คนละสองลูก//
 poemo [8] บทกวี
 poento [x] จุด, คะแนน
