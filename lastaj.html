@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="manifest" href="vortaro.webmanifest">
+    <meta name="description" content="พจนานุกรมเอสเปรันโต-ไทย Esperanto - Taja Interreta Vortaro">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./ikono/android/android-launchericon-48-48.png">
+    <title>พจนานุกรมเอสเปรันโต-ไทย</title>
+    <link rel="stylesheet" href="./stilo.css">
+    <title></title>
+  </head>
+  <body>
+    <script  src="./lasta_sxangxo.js"></script>
+    <a href="pri.html"><pre id="statistiko"></pre></a>
+    <h3>พจนานุกรมเอสเปรันโต-ไทย</h3>
+    <h3>คำที่มีการเปลี่ยนแปลงล่าสุด</h3>
+    <p>รวมรวมทั้งหมด <span id="st_lastaj"></span> คำ</p>
+    <a href="https://github.com/warut92/vortaro/commit/master" target="_blank"><p>ดูการเปลี่ยแปลงที่ Github</p></a>
+    <div id="lastaj">
+    </div>
+  </body>
+  <script  src="./eoth-vortaro.js"></script>
+  <scrip>
+    <script>
+
+    let vortaro_HTML = vortaro
+    //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
+    vortaro = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
+    vortaro = vortaro.replace(/\n/gm, '<br>')
+    vortaro = vortaro.split(/<br>/g)
+
+    //serĉi nur array kiuj enhavas "[\d]"
+    let sxablono_regex = /@/;
+    let rezulto = vortaro.filter(function(str) {
+    	return sxablono_regex.test(str);
+    });
+    //konverti ĝin al string kaj aldoni ĉe la fino <br>
+    rezulto = rezulto.toString()
+    rezulto = rezulto.replace(/,(?!\s)/g, "<br>");
+
+    //STRING
+
+    //forigi informojn pri trajto de vortoj.
+    rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "<i>$1</i>")
+
+    //reformatigi la datformon.
+    rezulto = rezulto.replace(/(\d{2})-(\d{2})-(\d{4})/g, "$3$2$1")
+    console.log('REZULTO', rezulto)
+
+    //ARRAY
+    //forigi \n kaj konverti al Array
+    rezulto = rezulto.split(/@<br>/gm)
+
+    //aranĝi pere de dato
+    rezulto.sort((a, b) => {
+      const indicoA = a.indexOf('@');
+      const indicoB = b.indexOf('@');
+
+      if (indicoA !== -1 && indicoB !== -1) {
+        const ciferoA = a.substring(indicoA + 1).match(/\d+/);
+        const ciferoB = b.substring(indicoB + 1).match(/\d+/);
+
+        if (ciferoA && ciferoB) {
+          return parseInt(ciferoB[0]) - parseInt(ciferoA[0]);
+        }
+      }
+
+      return 0;
+    });
+
+    //aranĝi laŭ esperanta ordo.
+    let re_aranĝita_rezulto = rezulto
+
+    let statistiko_bro = re_aranĝita_rezulto.length
+    document.getElementById('st_lastaj').innerHTML = statistiko_bro.toLocaleString("en-US");
+    //aldoni <br> per anstaŭigi la lastajn komojn
+    re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br>");
+
+    //STRING
+    document.getElementById("lastaj").innerHTML = re_aranĝita_rezulto;
+  </script>
+</html>
