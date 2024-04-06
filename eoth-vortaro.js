@@ -1439,7 +1439,7 @@ ligno {UL} [4] ไม้
 likva [9] ของเหลว
 lilio [9] ดอกลิลลี่
 limako [9] {ZOO} ทาก → heliko
-limo [5] เขต; limigi จำกัด, ทำให้มีขอบเขต; senlima ไร้พรมแดน
+limo [5] เขต; limigi จำกัด, ทำให้มีขอบเขต; senlima ไร้พรมแดน; akodislimo {GEOG} สันปันน้ำ @06-04-2024 13:56:53@
 limonado [x] น้ำมะนาว
 lingvo {UL} [3] {LIN} ภาษา; lingvisto นักภาษาศาสตร์
 linio [4] เส้น
