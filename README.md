@@ -17,7 +17,7 @@ Oni povas kontribui tradukojn, novajn vortojn en la dosiero eoth-vortaro.js
 
 `//vorto//` konvertas aŭtomate al `<i>vorto</i>`
 
-aranĝo de la vortoj:
+aranĝo de la vortoj ĉe eoth-vortaro.js :
 
 1. BRE [0] - [9] + privata aldono de iOREL
 2. ETV A - Z de [https://legacy.esperanto.org.uk/eldonoj/etv/](https://legacy.esperanto.org.uk/eldonoj/etv/)
