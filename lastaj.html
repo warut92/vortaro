@@ -54,12 +54,15 @@
 
     //aranĝi pere de dato
     rezulto.sort((a, b) => {
-      const indicoA = a.indexOf('@');
-      const indicoB = b.indexOf('@');
+      const forgiA = a.replace(/\[\d+\]/g, '');
+      const forgiB = b.replace(/\[\d+\]/g, '');
+
+      const indicoA = forgiA.indexOf('@');
+      const indicoB = forgiB.indexOf('@');
 
       if (indicoA !== -1 && indicoB !== -1) {
-        const ciferoA = a.substring(indicoA + 1).match(/\d+/);
-        const ciferoB = b.substring(indicoB + 1).match(/\d+/);
+        const ciferoA = forgiA.substring(indicoA + 1).match(/\d+/);
+        const ciferoB = forgiB.substring(indicoB + 1).match(/\d+/);
 
         if (ciferoA && ciferoB) {
           return parseInt(ciferoB[0]) - parseInt(ciferoA[0]);
