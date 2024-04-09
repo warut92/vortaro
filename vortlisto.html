@@ -15,6 +15,19 @@
     <a href="pri.html"><pre id="statistiko"></pre></a>
     <h3>พจนานุกรมเอสเปรันโต-ไทย</h3>
     <h3>คัดเฉพาะคำในรายการคำ Bazaj radikoj Esperanto-Esperanto โดย  Wouter F. Pilger [0-9] + คำศัพท์นอกรายการ [x]</h3>
+    <button name="button" value="" onclick="elektiGrupon(this.value)">[0-x]</button>
+    <button name="button" value="\[0\]" onclick="elektiGrupon(this.value)">[0]</button>
+    <button name="button" value="\[1\]" onclick="elektiGrupon(this.value)">[1]</button>
+    <button name="button" value="\[2\]" onclick="elektiGrupon(this.value)">[2]</button>
+    <button name="button" value="\[3\]" onclick="elektiGrupon(this.value)">[3]</button>
+    <button name="button" value="\[4\]" onclick="elektiGrupon(this.value)">[4]</button>
+    <button name="button" value="\[5\]" onclick="elektiGrupon(this.value)">[5]</button>
+    <button name="button" value="\[6\]" onclick="elektiGrupon(this.value)">[6]</button>
+    <button name="button" value="\[7\]" onclick="elektiGrupon(this.value)">[7]</button>
+    <button name="button" value="\[8\]" onclick="elektiGrupon(this.value)">[8]</button>
+    <button name="button" value="\[9\]" onclick="elektiGrupon(this.value)">[9]</button>
+    <button name="button" value="\[x\]" onclick="elektiGrupon(this.value)">[x]</button>
+
     <p>รวมรวมทั้งหมด <span id="st_bro"></span> คำหลัก</p>
     <div id="bro">
     </div>
@@ -59,7 +72,6 @@ Z [BRO],
     vortaro = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
     vortaro = vortaro.replace(/\n/gm, '<br>')
     vortaro = vortaro.split(/<br>/g)
-
     //serĉi nur array kiuj enhavas "[\d]"
     let sxablono_regex = / \[\d*|x\]/;
     // let sxablono_regex = /-o/gm;
@@ -80,6 +92,7 @@ Z [BRO],
 
     //forigi informojn pri trajto de vortoj.
     rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "<i>$1</i>")
+    // rezulto = rezulto.replace(/\@(.+?)\@/g, '<o>$1</o>')
     rezulto = rezulto.replace(/\[BRO\]/g, "")
 
     //aldoni - inter radiko kaj finaĵo
@@ -105,6 +118,12 @@ Z [BRO],
     //forigi \n kaj konverti al Array
     rezulto = rezulto.split(/\n/g)
 
+    function elektiGrupon(reg) {
+    let elektiGrupon_regex = new RegExp(reg)
+    let rezulto1 = rezulto.filter(function(str) {
+      return elektiGrupon_regex.test(str);
+    });
+
     //por ignori la signon -
     const lauxafabelta_arangxo = (a, b) => {
     const normiga_A = a.replace(/-/g, '').toLowerCase();
@@ -113,7 +132,7 @@ Z [BRO],
     };
 
     //aranĝi laŭ esperanta ordo.
-    let re_aranĝita_rezulto = rezulto.sort(lauxafabelta_arangxo)
+    let re_aranĝita_rezulto = rezulto1.sort(lauxafabelta_arangxo)
 
     let statistiko_bro = re_aranĝita_rezulto.length - 28
     document.getElementById('st_bro').innerHTML = statistiko_bro.toLocaleString("en-US");
@@ -122,5 +141,7 @@ Z [BRO],
 
     //STRING
     document.getElementById("bro").innerHTML = re_aranĝita_rezulto
+  }
+  elektiGrupon()
   </script>
 </html>
