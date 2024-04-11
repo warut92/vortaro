@@ -1,6 +1,6 @@
 /* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&display=swap'); */
 body {
-  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+  font-family: consolas;
   font-size: 20px;
   border: 1px solid black;
   border-radius: 4px;
@@ -11,7 +11,7 @@ body {
 }
 
 #titolo, center {
-  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+  font-family: consolas;
   font-size: 20px;
 }
 
@@ -20,7 +20,7 @@ a {
 }
 
 b {
-  font-family: "Loma", sans-serif;
+  font-family: consolas;
   color: blue;
 }
 

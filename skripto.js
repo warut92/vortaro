@@ -40,14 +40,19 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\>\./g, '')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\{\U\L\}/g, '')
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[a-z-].*)(\[)/g, '<h1>$</h1>$2')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
-cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
+// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
 
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
 
 //konverti al ARRAY
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
+//24-4-11 Mi solvis la cimon (https://github.com/warut92/vortaro/blob/eca6a32ffcac8ddc8717620cbcbedd3a3877b5a1/log.txt#L9) per aldoni (\n \n) inter ĉiuj ĉenoj (array)
+let disigitaj_vortoj_join = disigitaj_vortoj.join("\n \n")
+const disigitaj_vortoj_array = disigitaj_vortoj_join.split(/\n/g)
+
 //por tuta vortaro
 const tuta_vortaro_senspaceto = disigitaj_vortoj.filter(vorto => vorto !== "")
+
 //por ignori la signon -
 const lauxafabelta_arangxo = (a, b) => {
 const normiga_A = a.replace(/-/g, '').toLowerCase();
@@ -94,16 +99,15 @@ function sercxi() {
     document.getElementById('sercxoLingvo').innerHTML = "kapvorto"
     document.getElementById('titolo').innerHTML = "  Reta Esperanto-Taja Vortaro"
     if (document.getElementById('checkbox').checked) {
-      serĉa_komenclitero = "^<h>"
+      serĉa_komenclitero = "<h>"
       precizaSercxo = 1
     }
   }
   str_sxablono = serĉa_komenclitero + str_sxablono + porTajaSercxo
-  console.log('STR_SXABLONO', str_sxablono)
   //ถ้าตัวอักษรในช่องค้นหามากกว่า 1 ให้ดำเนินการต่อ
   if (str_sxablono.length > 1) {
-    let sxablono_regex = new RegExp(`(${(str_sxablono)})`, "igm");
-    let rezulto = disigitaj_vortoj.filter(function(str) {
+    let sxablono_regex = new RegExp(`(${(str_sxablono)})`, "gmi");
+    let rezulto = disigitaj_vortoj_array.filter(function(str) {
       //test() ส่งค่าเป็น boolean สำหรับการตรวจสอบการค้นหา
       return sxablono_regex.test(str);
     });
@@ -119,7 +123,7 @@ function sercxi() {
     //จัดลำดับตามตัวอักษรภาษาเอสเปรันโต
     rezulto.sort(lauxafabelta_arangxo)
 
-
+    //สร้าง custom compare ให้แสดงอักษรที่มาก่อนแสดงก่อน
     rezulto.sort((a, b) => {
       // Eltiru la enhavon ene de <h>-etikedoj por komparo
       const pattern = /<h>(.*?)<\/h>/;
@@ -150,10 +154,12 @@ function sercxi() {
     } else if (document.getElementById('checkbox').checked) {
       console.log("แบบตรงตัว");
       str_sxablono = str_sxablono.substr(precizaSercxo, str_sxablono_len + 1)
+      console.log('STR_SXABLONO', str_sxablono)
       //อักษรไทยแบบไม่ตรงตัว
     }
       console.log("แบบไม่ตรงตัว");
       str_sxablono = str_sxablono.substr(0)
+
       sercxitaj_vortoj = sercxitaj_vortoj.replace(sxablono_regex, "<b>$1</b>")
 
     //นำออกแสดงผล
