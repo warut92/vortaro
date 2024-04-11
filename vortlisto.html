@@ -27,6 +27,16 @@
     <button name="button" value="\[8\]" onclick="elektiGrupon(this.value)">[8]</button>
     <button name="button" value="\[9\]" onclick="elektiGrupon(this.value)">[9]</button>
     <button name="button" value="\[x\]" onclick="elektiGrupon(this.value)">[x]</button>
+    <br>
+    <button name="button" value="" onclick="elektiGrupon(this.value)">-o</button>
+    <button name="button" value="" onclick="elektiGrupon(this.value)">-a</button>
+    <button name="button" value="" onclick="elektiGrupon(this.value)">-e</button>
+    <button name="button" value="" onclick="elektiGrupon(this.value)">-i</button>
+    <button name="button" value="" onclick="elektiGrupon(this.value)">-i (tr)</button>
+    <button name="button" value="" onclick="elektiGrupon(this.value)">-i (ntr)</button>
+    <button name="button" value="" onclick="elektiGrupon(this.value)">-i (x)</button>
+    <button name="button" value="" onclick="elektiGrupon(this.value)">suf</button>
+    <button name="button" value="" onclick="elektiGrupon(this.value)">pre</button>
 
     <p>รวมรวมทั้งหมด <span id="st_bro"></span> คำหลัก</p>
     <div id="bro">
@@ -130,11 +140,15 @@ Z [BRO],
     const normiga_B = b.replace(/-/g, '').toLowerCase();
     return normiga_A.localeCompare(normiga_B, 'eo');
     };
-
+    console.log(reg);
     //aranĝi laŭ esperanta ordo.
     let re_aranĝita_rezulto = rezulto1.sort(lauxafabelta_arangxo)
+    let KVANTO = 0
+    if (reg === "" || reg === undefined) {
+      KVANTO = -28
+    }
 
-    let statistiko_bro = re_aranĝita_rezulto.length - 28
+    let statistiko_bro = re_aranĝita_rezulto.length - - KVANTO
     document.getElementById('st_bro').innerHTML = statistiko_bro.toLocaleString("en-US");
     //aldoni <br> per anstaŭigi la lastajn komojn
     re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br>");
