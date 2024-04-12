@@ -3299,7 +3299,7 @@ ekstradicii //(tr)// ส่งผู้ร้ายข้ามแดน
 ekstravaganco หัวสูง (การกระทำหรือคำพูด), เห่อเหิม, แหกคอก
 ekstravertito คนชอบเข้าสังคม >> sociemulo
 ekvacio {MAT} สมการ
-ekvivalenta เท่ากัน
+ekvivalento สิ่งที่เท่ากัน, สี่งที่สมดุลกัน @12-04-2024 17:32:44@
 ekzegezo การตีความ; ekzegezisto นักตีความ
 ekzili //(tr)// เนรเทศ
 ekzorci //(tr)// ไล่ (ผี); ekzorcisto หมอผี
