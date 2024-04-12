@@ -55,12 +55,13 @@ const tuta_vortaro_senspaceto = disigitaj_vortoj.filter(vorto => vorto !== "")
 
 //por ignori la signon -
 const lauxafabelta_arangxo = (a, b) => {
-const normiga_A = a.replace(/-/g, '').toLowerCase();
-const normiga_B = b.replace(/-/g, '').toLowerCase();
+const normiga_A = a.replace(/-/g, '').replace(/<h>/g, '').toLowerCase();
+const normiga_B = b.replace(/-/g, '').replace(/<h>/g, '').toLowerCase();
 return normiga_A.localeCompare(normiga_B, 'eo');
 };
 //aranĝi laŭ esperanta ordo.
 let tuta_vortaro = tuta_vortaro_senspaceto.sort(lauxafabelta_arangxo)
+console.log('TUTA_VORTARO', tuta_vortaro)
 document.getElementById('tuto').innerHTML = tuta_vortaro.toString().replace(/,(?!\s)/g, "<br>");
 
 let disigitaj_vortoj_al_kunmetitaj_vortoj = cxiuj_vortoj_HTML.split(/\n|;/g);
