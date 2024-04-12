@@ -7,7 +7,7 @@ self.addEventListener('install', (e) => {
       '/skripto.js',
       // '/eoth-vortaro.js',
       '/stilo.css',
-      '/lasta_sxangxo.js',
+      // '/lasta_sxangxo.js',
     ])),
   );
 });
