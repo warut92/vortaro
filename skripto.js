@@ -46,6 +46,7 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
 
 //konverti al ARRAY
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
+
 //24-4-11 Mi solvis la cimon (https://github.com/warut92/vortaro/blob/eca6a32ffcac8ddc8717620cbcbedd3a3877b5a1/log.txt#L9) per aldoni (\n \n) inter ĉiuj ĉenoj (array)
 let disigitaj_vortoj_join = disigitaj_vortoj.join("\n \n")
 const disigitaj_vortoj_array = disigitaj_vortoj_join.split(/\n/g)
@@ -61,7 +62,6 @@ return normiga_A.localeCompare(normiga_B, 'eo');
 };
 //aranĝi laŭ esperanta ordo.
 let tuta_vortaro = tuta_vortaro_senspaceto.sort(lauxafabelta_arangxo)
-console.log('TUTA_VORTARO', tuta_vortaro)
 document.getElementById('tuto').innerHTML = tuta_vortaro.toString().replace(/,(?!\s)/g, "<br>");
 
 let disigitaj_vortoj_al_kunmetitaj_vortoj = cxiuj_vortoj_HTML.split(/\n|;/g);

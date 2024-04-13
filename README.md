@@ -12,11 +12,11 @@ Oni povas kontribui tradukojn, novajn vortojn en la dosiero eoth-vortaro.js
 
 ## Vortarumado
 
-### La vortoj: 
+### La vortoj:
 
 ### La tradukoj:
 
-Temas pri poluritaj vortoj venas de kontroli difinojn el ReVo unue, se iaokaze due el PIV. Poste estas kontroli vortaron de Longodu (Granda Reta Taja Vortaro). se troviĝas taja vorto, kiu ja kongruas kun la signifo/difino, mi prenas tiun vorton, iaokaze se ne troviĝas la precizan tajan vorton, mi traduku la difinon al la taja.
+Temas pri poluritaj vortoj venas de kontroli difinojn el ReVo unue, se iaokaze due el PIV. Poste estas kontroli vortaron de [Longdo](https://dict.longdo.com/) (Granda Reta Taja-multlingva Vortaro). Se troviĝas taja vorto, kiu ja kongruas kun la signifo/difino, mi prenas tiun vorton, iaokaze se ne troviĝas la precizan tajan vorton, mi traduku la difinon al la taja.
 
 ## Strukturo de la vortaro
 
