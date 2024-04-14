@@ -174,6 +174,15 @@ function sercxi() {
   let statistiko_pri = document.getElementById("statistiko").innerHTML
 }
 
+//premi la butonon 's' por aktivigi la serĉujon.
+document.addEventListener('keydown', function(event) {
+  if (event.key === 's') {
+    event.preventDefault();
+    document.getElementById("enigo").focus();
+    // enigo.focus()
+      }})
+
+
 // Register service worker to control making site work offline
 //prenitaj de https://github.com/mdn/pwa-examples/blob/main/a2hs/index.js
 if ('serviceWorker' in navigator) {
