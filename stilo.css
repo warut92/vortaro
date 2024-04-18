@@ -1,6 +1,6 @@
 /* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&display=swap'); */
 body {
-  font-family: consolas;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 20px;
   border: 1px solid black;
   border-radius: 4px;
@@ -25,7 +25,7 @@ b {
 }
 
 h {
-  font-family: consolas;
+  font-family: Tahoma;
   font-size: 25px;
 }
 
