@@ -79,7 +79,7 @@
     let statistiko_bro = re_aranĝita_rezulto.length
     document.getElementById('st_lastaj').innerHTML = statistiko_bro.toLocaleString("en-US");
     //aldoni <br> per anstaŭigi la lastajn komojn
-    re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br>");
+    re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br><hr>");
 
     //STRING
     document.getElementById("lastaj").innerHTML = re_aranĝita_rezulto;

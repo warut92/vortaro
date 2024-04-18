@@ -143,7 +143,8 @@ function sercxi() {
     });
 
     //แปลงวัตถุ (rezulto) เป็นสตริง แล้วเปลี่ยนเครื่องหมายลูกน้ำที่ไม่มีอะไรตามหลังด้วย <br><hr>
-    let sercxitaj_vortoj = rezulto.toString().replace(/,(?!\s)/g, "<br><hr>");
+    // let sercxitaj_vortoj = rezulto.toString().replace(/,(?!\s)/g, "<br><hr>");
+    let sercxitaj_vortoj = rezulto.toString().replace(/; /g, ";<br>&nbsp;").replace(/,(?!\s)/g, "<br><hr>");
 
     //[4]ไฮไลท์คำใน sercxitaj_vortoj
     //hilight คำที่ค้นหา
@@ -174,10 +175,10 @@ function sercxi() {
   let statistiko_pri = document.getElementById("statistiko").innerHTML
 }
 
-//premi la butonon 's' por aktivigi la serĉujon.
+//premi la butonon 'Escape' por aktivigi la serĉujon.
 document.addEventListener('keydown', function(event) {
-  if (event.key === 's') {
-    event.preventDefault();
+  if (event.key === 'Escape') {
+    // event.preventDefault();
     document.getElementById("enigo").focus();
     // enigo.focus()
       }})
