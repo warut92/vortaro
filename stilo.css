@@ -91,3 +91,8 @@ o {
   font-style: italic;
   color: red;
 }
+
+img {
+  height: 20%;
+  width: fit-content;
+}
