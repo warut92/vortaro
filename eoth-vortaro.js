@@ -3598,7 +3598,7 @@ inaŭguro พิธีเปิด, พิธีรับตำแหน่ง, 
 incendio ไฟ(ไหม้), เพลิง
 incenso เครื่องหอมที่ใช้เผา (ธูป, กำยาน) >> benzoo, odorfumo, olibano
 incidento อุบัติการณ์, เหตุการณ์
-indigo, indiga คราม; indig(kolor)a สีคราม
+indigo/indiga คราม; indig(kolor)a สีคราม
 Indonezio {GEO} {POL} ประเทศอินโดนีเซีย; indoneziano ชาวอินโดนีเซีย
 inerta เฉื่อยชา, ไร้ชีวิต, ไร้ความรู้สึก: inerta gaso ก๊าซเฉื่อย
 infinitivo {LIN} รูปกริยาในภาษาเอสเปรันโตที่ลงท้ายด้วย i, สภาวมาลา >> i-verbo
@@ -4106,50 +4106,51 @@ muslino ผ้ามัสลิน
 musono มรสุม: musona sezono หน้ามรสุม
 <!-- N -->
 nabo {TEK} ดุมล้อ, ศูนย์กลาง, {KOMP} ฮับ @22-04-2024 23:52:16@
-nafto น้ำมันดิบ
-naiva ซื่อ, ไร้ประสบการณ์, ไม่มีมารยา, ทึ่ม
-nano คนแคระ; nani เล็กจิ๋ว
-napo หัวผักกาด
-narkoti //(tr)// วางยา; narkotaĵo ยาเสพติด: vendi narkotaĵojn ค้ายา; narkotulo ผู้ติดยาเสพติด
-natrio {KEM} โซเดียม (Na): mononatria glutamato ผงชูรส @11-04-2024 21:36:28@
-navedo {TEK} {TEKS} กระสวย >> pendoli; navedŝipo กระสวยอวกาศ
-navigi //(ntr)// เดินเรือ(ผ่าน); navigado การเดินเรือ; navigisto ต้นหน
-Nederlando {GEO} {POL} ประเทศเนเธอร์แลนด์, ฮอลันดา; nederlandano ชาวเนเธอร์แลนด์: la nederlanda (lingvo) ภาษาเนเธอร์แลนด์, ภาษาดัตช์
-negativa เป็นลบ, ทางลบ: negativa poluso ขี้วลบ; negative ปฏิเสธ
-negi //(tr)// ปฏิเสธ
-negoco การค้าธุรกิจ, กิจการ, การเจรจาธุรกิจ; negoci //(ntr)// ค้าขาย, เจรจาธุรกิจ ทำการค้าขาย, ทำธุรกิจ >> marĉandi
+nafto {MIN} น้ำมันดิบ; naftoputo {TEK} บ่อน้ำมัน; naftoŝipo {MAR} เรือบรรทุกน้ำมัน @23-04-2024 12:03:38@
+nano คนแคระ = malgrandegulo; nana เล็กมาก, จิ๋ว @23-04-2024 12:05:26@
+napo {AGR} {BOT} หัวผักกาด; napokapa //(f)// โง่, ทึ่ม @23-04-2024 12:14:20@
+narkoti {MED} //(tr)// วางยา; narkotaĵo/narkotilo ยาเสพติด[?]; narkotulo/narkotaĵemulo ผู้เสพยาเสพติด @23-04-2024 14:03:06@
+natrio {KEM} //(ธาตุ)// โซเดียม (Na): mononatria glutamato ผงชูรส @11-04-2024 21:36:28@ @23-04-2024 14:09:18@
+navedo {TEK} {TEKS} กระสวยเครื่องทอผ้า @23-04-2024 15:06:47@
+navigi {MAR} //(ntr)// เดินเรือ(ผ่าน); navigo/navigado {MAR} การเดินเรือ; navigisto {MAR} ต้นหน @23-04-2024 15:06:47@
+Nederlando {GEO} {POL} ประเทศเนเธอร์แลนด์, ฮอลันดา; nederlandano ชาวเนเธอร์แลนด์: la nederlanda (lingvo) ภาษาเนเธอร์แลนด์, ภาษาดัตช์ @23-04-2024 15:07:26@
+negativa เป็นลบ, ทางลบ, ปฏิเสธ; negativo {FOT} ฟิล์มเนกาทีฟ @23-04-2024 15:11:53@
+negi //(tr)// ปฏิเสธ; nego/negado การปฏิเสธ @23-04-2024 15:13:59@
+negoco การทำธุรกิจ, การเจรจาธุรกิจ; negoci //(ntr)// เจรจาธุรกิจ ทำการค้าขาย; negocisto ผู้ค้า, ผู้ประกอบการ @23-04-2024 15:16:18@
 nekrologo ข่าวมรณกรรม
-neologo ผู้ที่สนับสนุนการใช้คำบัญญัติใหม่; neologismo คำใหม่, การบัญญัติคำใหม่
+neologo {ESP} ผู้ที่สนับสนุนการใช้คำบัญญัติใหม่ @23-04-2024 15:18:13@
+neologismo {LIN} คำใหม่, การบัญญัติคำใหม่ @23-04-2024 15:18:56@
 Nepalo {GEO} {POL} ประเทศเนปาล; nepalano ชาวเนปาล
-nepotismo การเลือกที่รักมักที่ชังคติเห็นแก่ญาติ
-Neptuno ดาวเนปจูน
-neŭrologio ประสาทวิทยา
-neŭtra ไม่มีเพศ
-niĉo เวิ้ง
-nielo ถม; nielaĵo เครื่องถม; nieli //(tr)// ทำเครื่องถม
-Nifo/NIFO ยูเอฟโอ, จานบิน, จานผี; UFO = NeIdentigita Fluganta Objekto
-Niĝerio {GEO} {POL} ประเทศไนจีเรีย
-nikelo {KEM} //(ธาตุ)// นิเกิล (Ni); nikeli ใส่แผ่นนิเกิล @11-04-2024 21:36:28@
-Nirvano นิพพาน
+nepotismo {POL} การเล่นพรรคเล่นพวก, การเห็นแก่ญาติพี่น้อง @23-04-2024 15:28:45@
+Neptuno {AST} ดาวเนปจูน, {MIT} เทพเนปจูน (เทพแห่งทะเล) @23-04-2024 15:28:59@
+neŭrologio {MED} ประสาทวิทยา; neŭrologiisto {MED} นักประสาทวิทยา @23-04-2024 15:28:45@
+neŭtra {LIN} ไม่มีเพศ, {KEM} ไม่เป็นกรดเป็นด่าง, เป็นกลาง @23-04-2024 15:31:00@
+niĉo {ARKI} ช่องหรือโพรงบนผนังกำแพง @23-04-2024 15:50:28@
+nielo {TEK} การถม; nielaĵo เครื่องถม; nieli //(tr)// ทำเครื่องถม @23-04-2024 15:50:28@
+Nifo/NIFO ยูเอฟโอ, จานบิน, UFO = NeIdentigita Fluganta Objekto @23-04-2024 15:50:54@
+Niĝerio {GEO} {POL} ประเทศไนจีเรีย @23-04-2024 16:20:51@
+nikelo {KEM} //(ธาตุ)// นิเกิล (Ni) @11-04-2024 21:36:28@ @23-04-2024 16:22:06@
+Nirvano {BUD} นิพพาน @23-04-2024 16:23:56@
 nito/niti //(tr)// ตอกหมุด
 nitrogeno {KEM} //(ธาตุ)// ไนโตรเจน (N) @11-04-2024 21:36:28@
-noci //(tr)// ทำอันตราย >> malutili al
-nocio ความคิด, ความเข้าใจ >> ideo, koncepto
-noĉo รอยบาก; noĉi //(tr)// ทำบิ่น, ทำแหว่ง; noĉiĝi บิ่น
-nomado คนที่ท่องเที่ยวไปไม่อยู่เป็นที่
-nomenklaturo วิธีตั้งชื่อ
-nominala เพียงในนาม, ตามตัวเลข: nominala valoro ราคาเดิม
-nominativo {LIN} คำกรรตุ, กรรตุการก
-normo เกณฑ์, มาตรฐาน >> nivelo, แบบแผน; normigi ทำให้ได้มาตรฐาน
-norvego ชาวนอร์เวย์; Norvegio {GEO} {POL} ประเทศนอร์เวย์
-novelo เรื่องสั้น; novelaro ชุมนุมเรื่องสั้น
-novico สามเณร, นาค, ผู้เริ่มหัด
-nuanco ความแตกต่างเล็กน้อยมาก
-nudelo เส้นก๊วยเตี๋ยว, เส้นบะหมี่: ĉinstilaj nudeloj ก๊วยเตี๋ยว; nudelego(j) เส้นใหญ่, nudeleto(j) เส้นเล็ก; maldiknudeloj วุ้นเส้น; nudelvendejo ร้านก๋วยเตี๋ยว; fabonudeloj วุ้นเส้น; fritnudeloj หมี่กรอบ: tajstilaj fritnudeloj ผัดไทย; ovonudeloj บะหมี่, riznudeloj: ĉinaj riznudeloj ก๋วยเตี๋ยว; riznudeloj en sojsaŭco ผัดซีอิ็ว; strinudeloj เส้นหมี่, tujpreta nudelo บะหมี่กึ่งสำเร็จรูป
-nukleo นิวเคลียส: nuklea reaktoro เครื่องควบคุมพลังนิวเคลียร์
-numeralo {GRA} ตัวเลข
-numeratoro {MAT} เศษ
-nupto งานแต่งงาน >> geedziĝo
+noci //(malofte)// //(tr)// ทำอันตราย = malutili @23-04-2024 16:27:19@
+nocio {SCI} ความเข้าใจ, ความคิด >> ideo, koncepto @23-04-2024 16:29:15@
+noĉo รอยบาก; noĉi //(tr)// ทำรอยบาก @23-04-2024 16:43:57@
+nomado ชนเผ่าเร่ร่อน; nomadi //(ntr)// เร่ร่อน, เปลี่ยนที่อยู่อาศัยไปเรื่อย ๆ; nomada เร่ร่อน, พเนจร; nomadismo วิถีการใช้ชีวิตแบบเร่ร่อนไปเรื่อย ๆ @23-04-2024 16:48:08@
+nomenklaturo {SCI} การกำหนดชื่อสากลของสิ่งมีชีวิต ศิลปะ หรืออุตสาหกรรม; Nova Biologia Nomenklaturo (NBN) {SCI} การกำหนดชื่อสากลของสิ่งมีชีวิตแบบใหม่ ตั้งแต่ปี ค.ศ. 1971 @23-04-2024 16:52:40@
+nominala เพียงในนาม, ตามตัวเลข; nominalo/nominala valoro {EKON} ราคาตราไว้ (ราคาหุ้นที่กำหนดไว้บนใบหุ้น); nominalismo {FIL} นามนิยน @23-04-2024 19:00:13@
+nominativo {GRA} กรรตุการก @23-04-2024 19:01:45@
+normo มาตรฐาน, เกณฑ์, แบบแผน; norma มีมาตรฐาน; normigi ทำให้ได้มาตรฐาน; sennormeco ไม่มีมาตรฐาน @23-04-2024 20:27:32@
+norvego ชาวนอร์เวย์; la norvega (lingvo) ภาษานอร์เวย์; Norvegujo {GEO} {POL} ประเทศนอร์เวย์ @23-04-2024 20:29:13@
+Norvegio {GEO} {POL} ประเทศนอร์เวย์ @23-04-2024 20:29:13@
+novelo {BELE} เรื่องสั้น; noveli //(ntr)// เขียนเรื่องสั้น; novelaro ชุมนุมเรื่องสั้น; noveleto เรื่องสั้นมาก; novelisto นักเขียนเรื่องสั้น @23-04-2024 20:35:54@
+novico {REL} สามเณร, ผู้เริ่มหัด; novica อย่างผู้เริ่มหัด @23-04-2024 20:37:55@
+nuanco ความแตกต่างเล็กน้อยมาก; nuanci //(tr)// เพิ่มความแตกต่างเล็กน้อย @23-04-2024 20:40:07@
+nudelo ก๋วยเตี๋ยว, อาหารที่เป็นเส้นยาว, บะหมี่ @23-04-2024 20:41:55@
+nukleo {BIO} นิวเคลียส, {FIZ} ส่วนที่อยู่ตรงกลางของอะตอม; nuklea เกี่ยวกับนิวเคลียร์; nuklea energio พลังงานนิวเคลียร์; nuklea reaktoro เครื่องปฏิกรนิวเคลียร์ @23-04-2024 20:45:12@
+numeralo {GRA} {KOMP} ตัวเลข @23-04-2024 20:46:10@
+numeratoro {MAT} จำนวนที่เป็นเศษในตัวเลขเศษส่วน, ตัวเศษ @23-04-2024 20:47:11@
+nupto //(malofte)// งานแต่งงาน = edziĝa festo, geedziĝa festo, edziĝfesto, geedziĝfesto, geedziĝofesto @23-04-2024 20:48:25@
 <!-- O -->
 objektiva ที่อยู่บนพื้นฐานของความเป็นจริง @20-04-2024 13:48:51@
 obĵeti //(malofte)// //(tr)// (กล่าว) แย้ง, ค้าน @20-04-2024 13:58:09@
@@ -5387,5 +5388,6 @@ obskurantismo แนวคิดยับยั้งหรือต่อต้
 ogivo {KON} {MIL} ทรงโค้งปลายมน, เส้นโค้งความถี่สะสม, โค้งปลายหัวจรวด @20-04-2024 23:19:59@
 langusto {ZOO} กุ้งมังกร @21-04-2024 23:17:50@
 palinuro {ZOO} กุ้งมังกร = langusto @21-04-2024 23:17:50@
+jurisdikcio {JUR} อำนาจศาล @22-04-2024 23:55:08@
 >.
 `

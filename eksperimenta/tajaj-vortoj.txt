@@ -18,6 +18,9 @@
 กระทรวงศึกษาธิการ Ministerio pri edukado
 กระทรวงสาธารณสุข  Ministerio pri sano
 กระทรวงอุตสาหกรรม  Ministerio pri industrio
+
+ ĉinstilaj nudeloj ก๊วยเตี๋ยว; nudelego(j) เส้นใหญ่, nudeleto(j) เส้นเล็ก; maldiknudeloj วุ้นเส้น; nudelvendejo ร้านก๋วยเตี๋ยว; fabonudeloj วุ้นเส้น; fritnudeloj หมี่กรอบ: tajstilaj fritnudeloj ผัดไทย; ovonudeloj บะหมี่, riznudeloj: ĉinaj riznudeloj ก๋วยเตี๋ยว; riznudeloj en sojsaŭco ผัดซีอิ็ว; strinudeloj เส้นหมี่, tujpreta nudelo บะหมี่กึ่งสำเร็จรูป
+ 
 ปีฉลู  Jaro de la Bovo 
 ปีมะเมีย  Jaro de la Ĉevalo 
 ปีมะโรง  Jaro de la Drako 
