@@ -3514,12 +3514,12 @@ habitato {EKOL} ถิ่นที่อยู่อาศัย @23-04-2024 21:
 Hago {GEOG} กรุงเฮก ( เป็นเมืองหลวงของจังหวัดเซาท์ฮอลแลนด์ ประเทศเนเธอร์แลนด์) @21-03-2024 17:59:44@ @23-04-2024 21:59:09@
 Hajnano {GEOG} เกาะไหหลำ (ตั้งอยู่ทางใต้สุดของประเทศจีน) @23-04-2024 22:17:54@
 halala {ISL} {KUI} ฮาลาล @23-04-2024 22:17:47@
-handikapo {SPO} การต่อให้, {MED} ความพิการ, ความบกพร่อง; handikapi //(tr)// {SPO} ต่อให้, {MED} ทำให้เกิดความพิการต่อ; handikapiĝi เสียเปรียบ >> suferi pro handikapo, handikapita พิการ; handikapito, handikapulo คนพิการ
-Hanojo กรุงฮานอย
-hanti //(tr)// (เข้า)สิง: hantata domo บ้านผีสิง
-haremo ฮาเร็ม
-harmoniko หีบเพลงปาก
-harpo พิณ
+handikapo {SPO} การต่อให้, {MED} ความพิการ, ความบกพร่อง; handikapi //(tr)// {SPO} ต่อให้, {MED} ทำให้เกิดความพิการต่อ; handikapiĝi เสียเปรียบ; handikapita พิการ; handikapito/handikapulo คนพิการ @24-04-2024 21:45:42@
+Hanojo {GEOG} {POL} ฮานอย เมืองหลวงประเทศเวียดนาม @24-04-2024 21:51:34@
+hanti //(tr)// หลอกหลอน = fantomi: //hantata domo บ้านผีสิง// @24-04-2024 21:51:34@
+haremo ฮาเร็ม (สถานที่ที่จัดไว้ให้เป็นที่อยู่ของบรรดานางสนมหรือนางบำเรอ) @24-04-2024 21:53:25@
+harmoniko {MUZ} หีบเพลงปาก = blovharmoniko, buŝharmoniko; tirharmoniko {MUZ} แอคคอร์เดียน, หีบเพลงชัก @24-04-2024 22:14:16@
+harpo {MUZ} ฮาร์ป, พิณฝรั่ง @24-04-2024 22:14:37@
 harpuno ฉมวก (แทงปลา); harpuni พุ่งด้วยฉมวก
 hasti //(ntr)// รีบ(ร้อน), เร่ง, กระวีกระวาด
 haŝiŝo กัญชา
