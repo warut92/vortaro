@@ -2423,7 +2423,7 @@ svingi [8] //(tr)// แกว่ง
 ŝpini [9] //(tr)// ปั่น
 ŝpruci {UL} [9] //(ntr)// พ่นออกมา, พุ่งออกมาก @14-04-2024 22:25:16@
 ŝranko {UL} [6] ตู้ใส่ของ, ห้องเล็ก; tirŝranko ลิ้นชัก
-ŝraŭbo [8] น็อตตัวผู้
+ŝraŭbo [8] น็อตตัวผู้; ŝraŭbingo น็อตตัวเมีย @26-05-2024 12:30:51@
 ŝrumpi [8] //(ntr)// หดตัว
 ŝtalo {UL} [8] เหล็กกล้า
 ŝtato [5] รัฐ, เมือง
@@ -3601,17 +3601,16 @@ incidento อุบัติการณ์, เหตุการณ์ @18-05-
 indigo คราม, สีคราม; indiga/indigkolora สีคราม; indigujo/indigarbo ต้นคราม @18-05-2024 17:58:42@
 Indonezio {GEOG} {POL} ประเทศอินโดนีเซีย; indoneziano ชาวอินโดนีเซีย @18-05-2024 17:58:42@
 inerta เฉื่อยชา, ไร้ชีวิต, ไร้ความรู้สึก: inerta gaso ก๊าซเฉื่อย @18-05-2024 17:58:42@
-infinitivo {LIN} รูปกริยาในภาษาเอสเปรันโตที่ลงท้ายด้วย -i, สภาวมาลา = i-verbo @18-05-2024 18:10:29@
-inflacio {FIN} เงินเฟ้อ >> deflacio
-infuzi //(tr)// แช่น้ำร้อน, ชง
-ingo ฝัก, ด้าม, ปลอก, เบ้า, //(suf)// เช่น cigaredingo กล้องบุหรี่; glavingo ฝักดาบ; kontaktingo เต้าเสียบ; plumingo, skribilingo ด้ามปากกา, ŝraŭbingo นอตตัวเมีย, ŝtopilingo ปลั๊กไฟตัวเมีย
-ingoto เหล็กหล่อแท่งพร้อมที่จะนำไปขึ้นรูป
-ingredienco ส่วนผสม, เครื่องปรุง
-ingveno ขาหนีบ
-inici //(tr)// เริ่มเรียน, เริ่มศึกษา; inicito ผู้เริ่มเรียน, ผู้เริ่มศึกษา
-inicialo อักษรตัวแรกของคำ = komenclitero
-inkludi >> inkluzivi
-inkluziva นับทั้งหมด, รวมทั้งหมด: inkluzive tion, inkluzive de tio รวมทั้งหมดจากสิ่งนั้นด้วย; la prezo ne inkluzivas lunĉon ราคาไม่รวมอาหารมื้อเที่ยง; inkluzivi //(tr)// รวม(ทั้ง), รวมอยู่, กินความ(ถึง), ประกอบด้วย, ได้แก่
+infinitivo {LIN} สภาวมาลา, รูปกริยาในภาษาเอสเปรันโตที่ลงท้ายด้วย -i = i-verbo @18-05-2024 18:10:29@
+inflacio {FIN} เงินเฟ้อ >> deflacio; malinflacio ภาวะเงินฝืด = deflacio @26-05-2024 12:30:51@
+infuzi {KUI} {MED} //(tr)// ชง, แช่น้ำร้อน @26-05-2024 12:30:51@
+ingoto โลหะแท่ง @26-05-2024 13:14:02@
+ingredienco {KUI} {MED} ส่วนผสม, เครื่องปรุง @26-05-2024 13:14:02@
+ingveno {ANA} ขาหนีบ @26-05-2024 13:14:02@
+inici //(tr)// เริ่มเรียน, เริ่มศึกษา; inicito ผู้เริ่มเรียน, ผู้เริ่มศึกษา @26-05-2024 13:14:02@
+inicialo อักษรตัวแรกของคำ = komenclitero @26-05-2024 13:14:02@
+inkludi = inkluzivi
+inkluziva รวมอยู่; inkluzivi //(tr)// ประกอบด้วย; malinkluzivi ไม่รวม @26-05-2024 13:14:02@
 inokuli //(tr)// {MED} ใส่เชื้อ, ปลูกเชื้อ, ฉีด, ปลูกฝี
 insekticido ยาฆ่าแมลง
 instrukcio กฎ, แนวทางการปฏิบัติ, คำแนะนำ; vojinstrukcio(j) คำแนะนำแนวทาง
@@ -3798,7 +3797,7 @@ koalo {ZOO} หมีโคอาลา
 kobajo {ZOO} หนูตะเภา
 kobalto {KEM} //(ธาตุ)// โคบอลต์ (Co) @11-04-2024 21:36:28@
 koboldo ผีตัวเล็ก ๆ
-kobro งูเห่า
+kobro {ZOO} งูเห่า @26-05-2024 12:11:29@
 kodo รหัส, {JUR} ประมวลกฎหมาย, บท: puna kodo บทลงโทษ
 kofro หีบใหญ่(เดินทาง); kofrujo, valizujo ที่เก็บของท้ายรถ
 kohera ติดต่อกัน, สอดคล้องกัน
@@ -3810,12 +3809,10 @@ koktelo ค็อกเทล; koktelejo ค็อกเทลเล้าจน
 kolao โคล่า
 kolapso การเป็นลมหมดสติ, การล่มสลาย, เจ๊ง; kolapsi //(ntr)// เป็นลมหมดสติ, ล่มสลาย, เลิกลา, เจ๊ง
 kolporti //(tr)// เร่ขาย
-
 komentario คำวิจารณ์
 komenti //(tr)// คิดเห็น; komento ข้อคิดเห็น; komentisto บัณฑิต
 kometo ดาวหาง
 komikso หนังสือการ์ตูน
-komizo พนักงาน(ขาย), เสมียน
 komodo ตู้ลิ้นชัก >> tirkestaro
 kompano เกลอแก้ว, เพื่อนสนิท
 komparativo {LIN} การเปรียบเทียบ
@@ -3827,7 +3824,6 @@ komposti //(tr)// เรียงพิมพ์
 kompoŝto ปุ๋ยหมัก
 kompoto ผลไม้เชื่อม
 kompromiso ประนีประนอม; kompromisi //(ntr)// ประนีประนอม, อนุโลม
-
 koncedi //(tr)// ยอมรับ, ยอมให้
 koncipi //(tr)// ตั้งครรภ์, ตั้งท้อง >> gravedi
 konciza กะทัดรัด, สั้น, (โดย)สังเขป; koncize รวมความว่า, โดยสังเขป, โดยย่อ
@@ -3839,7 +3835,7 @@ Konektivo {ANA} เนื้อเยื่อยึดต่อ
 konfesio นิกาย
 konfiski //(tr)// {JUR} ยึด, ริบ
 konfronti //(tr)// เผชิญ
-Kongo คองโก
+Kongo {GEOG} {POL} ประเทศคองโก @26-05-2024 12:10:49@
 kongrui //(ntr)// สอดคล้องกัน, ถูกคอ, เท่ากัน: ni kongruas (unu kun la alia) เราถูกคอกัน
 konjako ชื่อบรั่นดีประเภทหนึ่งของฝรั่งเศส
 Konkeno ขอนแก่น
@@ -3909,7 +3905,7 @@ Kuala-Lumpuro กรุงกัวลาลัมเปอร์
 Kubo {GEOG} {POL} ประเทศคิวบา
 kuliso ฉาก (ข้างของเวที): malantaŭ la kulisoj หลังฉาก; postkulisa (frazaĵo) หลังผ้าม่าน
 kultivi //(tr)// เพาะปลูก: kultivi rizon ทำนาข้าว; kultivado การเพาะปลูก; kultivaĵo พืชปลูก; kultivejo ที่ไร่ที่นาและอื่น ๆ; kultivisto ผู้ปลูก; kultiv rizon ทำนา; nekultivebla ปลูกไม่ขึ้น; rizkultivisto ชาวนา; terkultivo การเพาะปลูก; terkultivisto เกษตรกร, ชาวไร่
-kuo ตัวหนังสือ Q, q
+kuo ตัวอักษร Q, q @26-05-2024 12:16:48@
 kupolo ยอดกลม
 kuratoro ผู้ปกครอง, ผู้รักษา
 kurkumo ขมิ้น
