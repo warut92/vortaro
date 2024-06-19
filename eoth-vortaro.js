@@ -2316,9 +2316,9 @@ spirito [9] จิตวิญญาณ, จิตใจ → animo
 spiti [9] //(tr)// ท้าทาย
 splito [9] เศษไม้, เศษกระจกที่แตก
 spongo [9] ฟองน้ำ
-sporto [8] กีฬา; sportisto = sportulo นักกีฬา
+sporto [8] กีฬา; sportisto นักกีฬา = sportulo
 sprita {UL} [8] มีไหวพริบ
-spuro [9] หลักฐาน
+spuro [9] ร่องรอย, หลักฐาน
 stacio [4] สถานี
 stadio [9] ระยะ, ขั้น
 stalo {UL} [7] คอกสัตว์
