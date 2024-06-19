@@ -2318,7 +2318,7 @@ splito [9] เศษไม้, เศษกระจกที่แตก
 spongo [9] ฟองน้ำ
 sporto [8] กีฬา; sportisto นักกีฬา = sportulo
 sprita {UL} [8] มีไหวพริบ
-spuro [9] ร่องรอย, หลักฐาน
+spuro [9] ร่องรอย, หลักฐาน @19-06-2024 09:44:51@
 stacio [4] สถานี
 stadio [9] ระยะ, ขั้น
 stalo {UL} [7] คอกสัตว์
@@ -3755,10 +3755,10 @@ kazerno ค่ายทหาร, โรงนอนขนาดใหญ่
 kazino บ่อนคาสิโน
 KD ย่อมาจาก kompakta disko ซีดี
 kebabo เคบับ
-keĉapo, keĉupo ซอสมะเขือเทศ
+keĉapo/keĉupo ซอสมะเขือเทศ
 keglo พินโบว์ลิ่ง; kelgoludo {SPO} โบว์ลิ่ง >> (rul)globludo
 kekso ขนมปังกรอบ, ขนมอบกรอบ
-kelonio เต่าตนุ
+kelonio {ZOO} เต่าตนุ @19-06-2024 09:44:34@
 kepo หมวกผ้าไม่มีปีก
 kermeso สวนสนุก; templa kermeso งานวัด
 keroseno น้ำมันก๊าช = lampoleo
