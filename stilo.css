@@ -11,7 +11,7 @@ body {
 }
 
 #titolo, center {
-  font-family: consolas;
+  font-family: Tahoma;
   font-size: 20px;
 }
 
@@ -20,12 +20,12 @@ a {
 }
 
 b {
-  font-family: consolas;
+  font-family: Tahoma;
   color: blue;
 }
 
 h {
-  font-family: Tahoma;
+  font-family: Verdana;
   font-size: 25px;
 }
 
