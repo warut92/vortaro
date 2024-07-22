@@ -11,7 +11,7 @@ body {
 }
 
 #titolo, center {
-  font-family: Tahoma;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 20px;
 }
 
@@ -20,7 +20,7 @@ a {
 }
 
 b {
-  font-family: Tahoma;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: blue;
 }
 
@@ -35,7 +35,7 @@ h {
 }
 
 #enigo {
-  font-family: "Loma", sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 22px;
   border: 2px solid #89E682;
   border-radius: 4px;
