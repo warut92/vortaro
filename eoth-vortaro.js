@@ -3775,7 +3775,7 @@ klabo กระบอง
 klaĉi //(ntr)// นินทา: ili kraĉas pri vi พวกเขานินทาคุณ; kraĉaĵo เรื่องนินทา; prikraĉi นินทากันถึงเรื่อง
 klaki //(ntr)// เสียงดังคลิก; alklaki คลิก
 klano ตระกูล
-klapo สิ่งที่ไว้ปิดบางอย่าง
+klapo {TEK} ฝาปิด, ประตูบานพับ, หน้าต่างบานพับ @30-08-2024 14:27:40@
 klasifiki //(tr)// แบ่งประเภทให้ระบบ
 klaŭno ตัวตลก
 klaŭzo {JUR} มาตรา
@@ -3838,7 +3838,6 @@ konfronti //(tr)// เผชิญ
 Kongo {GEOG} {POL} ประเทศคองโก @26-05-2024 12:10:49@
 kongrui //(ntr)// สอดคล้องกัน, ถูกคอ, เท่ากัน: ni kongruas (unu kun la alia) เราถูกคอกัน
 konjako ชื่อบรั่นดีประเภทหนึ่งของฝรั่งเศส
-Konkeno ขอนแก่น
 konko {ZOO} หอย; konkaĵo เปลือกหอย; konkego หอยสังข์; konkoj หอย; konkulo สัตว์น้ำจำพวกหอย กุ้ง ปู
 konkreta รูปธรรม
 konkubino หญิงที่กินอยู่กับชายโดยไม่ได้แต่งงาน
