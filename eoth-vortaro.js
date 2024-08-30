@@ -4354,21 +4354,21 @@ putino โสเภณี, ดอกทอง
 puzlo เกมต่อชิ้นส่วนภาพ, จิ๊กซอว์
 <!-- R -->
 raboti //(tr)// ไส (ด้วยกบ); rabotilo กบไสไม้; rabotaĵo ขี้กบไสไม้ @25-08-2024 15:59:06@
-radaro เรดาร์
+radaro {TEK} เรดาร์ = radilokalizilo @30-08-2024 18:23:35@
 radiumo {KEM} //(ธาตุ)// เรเดียม (Ra) @11-04-2024 21:36:28@
-radiuso เส้นรัศมี
-rafini //(tr)// กลั่น; rafinejo โรงกลั่น
-rajo {ZOO} ปลากระเบน
-rakedo ไม้ตี; tenisrakedo ไม้เทนนิส; volanluda rakedo ไม้แบดมินตัน
-raketo {AVI} จรวด >> fuzilo
-rakito โรคกระดูกอ่อน
-Ramajano รามเกียรติ์
-rambutano เงาะ
-Ranguno ย่างกุ้ง
-rapo ผักกาดชนิดหนึ่ง
-rara หายาก; raraĵo ของหายาก
-raso เชื้อ(ชาติ), เผ่าพันธุ์ วงศ์, ตระกูล; rasismo ลัทธิเหยียดผิว
-raspi //(tr)// ขูด, เทียบกับ >> raboti; raspaĵoj ขี้กบ, ขี้เลื่อย: kokosraspaĵoj มะพร้าวขูด
+radiuso {MAT} เส้นรัศมี, {ANA} กระดูกปลายแขนท่อนนอก @30-08-2024 18:26:10@
+rafini //(tr)// {KEM} กลั่น; rafinejo โรงกลั่น @30-08-2024 18:26:54@
+rajo {ZOO} ปลากระเบน @30-08-2024 18:27:40@
+rakedo {SPO} ไม้ตี; tenisrakedo ไม้เทนนิส; badmintonrakedo ไม้แบดมินตัน @30-08-2024 18:29:16@
+raketo {TEK} {AVI} จรวด, {MIT} ขีปนาวุธ @30-08-2024 18:31:32@
+rakito {MED} โรคกระดูกอ่อน @30-08-2024 18:33:11@
+Ramajano {BELE} {HIN} รามเกียรติ์ @30-08-2024 18:33:11@
+rambutano {KUI} {BOT} เงาะ; rambutanarbo/rambutanujo ต้นเงาะ @30-08-2024 18:33:11@
+Ranguno {GEOE} ย่างกุ้ง อดีตเมืองหลวงประเทศเมียนมาร์ @30-08-2024 18:46:26@
+rapo {BOT} ผักกาดชนิดหนึ่ง @30-08-2024 18:46:26@
+rara หายาก; raraĵo ของหายาก @30-08-2024 18:46:26@
+raso {ZOO} {BOT} {AGR} {HOR} พันธุ์; rasismo การเหยียดเชื้อชาติ, ลัทธิเหยียดผิว; rasisto ผู้ที่เหยียดเชื้อชาติ @30-08-2024 18:47:12@
+raspi //(tr)// ขูด; raspilo ที่ขูด, เครื่องขูด; raspaĵoj สิ่งที่ขูดออกมา, ขี้กบ, ขี้เลื่อย @30-08-2024 18:51:17@
 ratifo สัตยาบัน; ratifi //(tr)// ให้สัตยาบัน
 reaktoro {AVI} {FIZ} เครื่องควบคุมพลัง >> nuklea, เครื่องยนต์เจ็ท
 recitalo {MUZ} การเดี่ยวเครื่องดนตรี
