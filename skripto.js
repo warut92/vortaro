@@ -90,7 +90,7 @@ function sercxi() {
   if (str_sxablono.charCodeAt(0) > 500) {
     // console.log("อักษรไทย")
     document.getElementById('sercxoLingvo').innerHTML = "ค้นหาตรงตัว"
-    document.getElementById('titolo').innerHTML = " พจนานุกรมเอสเปรันโต-ไทย"
+    document.getElementById('titolo').innerHTML = " พจนานุกรมเอสเปรันโต-ไทย (beta)"
     if (document.getElementById('checkbox').checked) {
       serĉa_komenclitero = " "
       porTajaSercxo = "(,||;|| ||$)"
@@ -98,7 +98,7 @@ function sercxi() {
   } else if (str_sxablono.charCodeAt(0) < 500) {
     // console.log("อักษรละติน")
     document.getElementById('sercxoLingvo').innerHTML = "kapvorto"
-    document.getElementById('titolo').innerHTML = "  Reta Esperanto-Taja Vortaro"
+    document.getElementById('titolo').innerHTML = "  Reta Esperanto-Taja Vortaro (beta)"
     if (document.getElementById('checkbox').checked) {
       serĉa_komenclitero = "<h>"
       precizaSercxo = 1
