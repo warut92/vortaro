@@ -3247,30 +3247,31 @@ dividendo {EKON} เงินปันผลรายปี @13-10-2024 09:23:05
 divorci {JUR} //(ntr)// หย่า = eksedziĝi, eksedziniĝi, eksgeedziĝi; divorco {JUR} การหย่า @13-10-2024 09:23:05@ 
 dizelo {TEK} {AUT} น้ำมันดีเซล, เครื่องยนต์ที่ใช้น้ำมันดีเซล ประดิษฐ์โดย Rudolf Diesel ในปี 1892 @13-10-2024 09:27:53@
 dizerti {MIL} //(ntr)// หนีทหาร; dizerto การหนีทหาร; dizertinto ผู้ที่หนีทหาร @13-10-2024 09:29:13@
-docento อาจารย์มหาวิทยาลัย
-dogmo ความเชื่อ, หลักความเชื่อ, หลักข้อเชื่อ
-dojeno ผู้มีอาวุโสสูงสุด
-doko (บริเวณ)ท่าเรือ, (dokoj) โรงเก็บสินค้าที่ท่าเรือ
-dokta มีความรู้, ทรงคุณวุฒิ
-doktrino หลักคำสอน, ลัทธิ
-dolaro //(หน่วยเงิน)// {EKON} ดอลล่าร์
-domestiki //(tr)// ทำให้เชื่อง, ทำให้เคยชิน, ทำให้ชอบบ้าน, ทำให้อยู่ในบ้าน
-domicilo {JUR} ภูมิลำเนา, บ้าน
-domini >> superregi
-dosiero แฟ้มเอกสาร, {KOMP} ไฟล์ >> arkivo, ข้อมูล; dosierujo ตู้แฟ้ม
-dozo ปริมาณ (ของยา); dozi //(tr)// จัด (ยา)
-drako มังกร
-draŝi //(tr)// นวด (ข้าว), เฆี่ยน; draŝilo เครื่องนวด (ข้าว)
-drato สายไฟ, ลวด; dratreto (kontraŭmoskita) มุ้งลวด; fandodrato ฟีวส์ kp cirkvitgardilo/pikdrato ลวดหนาม
-dreni //(tr)// ระบาย; drenilo ท่อระบาย
-drivi {AVI} //(ntr)// เดินทาง {MAR}, ลอยไป, ล่องไป
-drozofilo แมงหวี่
-duala สอง(ข้อ); dualismo ลักธิที่ถือว่ามนุษย์แบ่งออกเป็นสองภาค คือ กายและใจ
-dubli //(tr)// พากย์; dublo การพากย์ภาพยนตร์หรือละคร
-dukto ท่อ; akvodukto สะพานส่งน้ำ; naftodukto ท่อส่งน้ำมัน
-duno เนินทราย
-dura = malmola
-durio ทุเรียน
+docento {PED} อาจารย์มหาวิทยาลัย @13-10-2024 10:37:09@
+dogmo {REL} ความเชื่อ, หลักความเชื่อ; dogmaro {REL} คำสอนทางศาสนา @13-10-2024 10:39:15@
+dojeno //(malofte)// ผู้มีอาวุโสสูงสุด = plejaĝulo @13-10-2024 10:40:48@
+doko {MAR} ท่าเรือ; dokisto {MAR} กรรมกรท่าเรือ @13-10-2024 10:42:44@
+dokta //(malofte)// มีความรู้, ทรงคุณวุฒิ = multescia, erudicia @13-10-2024 10:54:25@
+doktrino {PSI} {REL} {SCI} หลักคำสอน, ลัทธิ; doktrini //(tr)// (ke) ให้หลักคำสอน (ว่า) @13-10-2024 11:08:19@
+dolaro //(หน่วยเงิน)// {EKON} ดอลล่าร์ @13-10-2024 11:08:19@
+domestiki //(tr)// ทำให้เชื่อง [ESPDIC] @13-10-2024 11:08:19@
+domicilo {JUR} ภูมิลำเนา, ที่อยู่ทางการ @13-10-2024 11:10:42@
+domini //(tr)// ครอบงำ, มีอำนาจเหนือ, มีอิทธิพลเหนือ, ปกครอง = superregi; domino การครอบงำ, การมีอำนาจเหนือ, การมีอิทธิพลเหนือ @13-10-2024 11:12:31@
+dosiero เอกสารข้อมูล, {JUR} ประวัติบุคคล (ตำรวจ), {KOMP} ไฟล์; dosierujo แฟ้มเอกสาร, {KOMP} ไดเรกทอรี่, โฟลเดอร์; endosierigi เก็บเข้าเป็นข้อมูล; subdosierujo {KOMP} ไดเรกทอรี่ย่อย; dosiersistemo {KOMP} ระบบการเก็บแฟ้มข้อมูล @13-10-2024 11:32:04@
+dozo {MED} ปริมาณของยา; dozi //(tr)// จัด, ให้ (ยา); trodozo/superdozo การใช้ยาเกินขนาด @13-10-2024 11:34:45@
+drako {MIT} มังกร, {SPO} ว่าว; Drako {AST} กลุ่มดาวมังกร; flugdrako {SPO} ว่าว = kajto @13-10-2024 11:36:53@
+draŝi {ARG} //(tr)// นวด, ตี, //(f)// ฟาดอย่างแรง; draŝo/draŝado {ARG} การนวด; draŝaĵo {ARG} สิ่งที่ได้หลังจากการนวด; draŝejo {AGR} ลานนวด; draŝilo {AGR} ไม้นวด; tradraŝi {AGR} นวดจนหมดไม่เหลือ; fera draŝilo {AGR} กระดานนวด; draŝmaŝino {AGR} เครื่องนวด @13-10-2024 11:48:34@
+drato {TEK} ลวด, สายไฟ; pikdrato/pikildrato ลวดหนาม; elektrodrato สายไฟ @13-10-2024 11:51:13@
+dreni //(tr)// {AGR} {MED} ระบาย; drenilo ท่อระบาย @13-10-2024 11:53:54@
+drivi {AVI} //(ntr)// {MAR} {AVI} ล่องลอย, ปลิว; drivo การล่องลอย, การปลิวไป; fordrivi ล่องลอยไปไกล; kontinentodrivo/kontinenta drivo {GEOL} ทวีปเคลื่อน @13-10-2024 12:01:16@
+drozofilo {ZOO} แมลงวันผลไม้ = bananmuŝo @13-10-2024 12:09:33@
+dualo {GRA} จำนวนสอง, {MAT} ปริภูมิคู่ @13-10-2024 12:07:03@
+dualismo {PSI} {REL} {POL} ทวินิยม @13-10-2024 12:10:02@
+dubli //(tr)// พากย์; dublo การพากย์; dublisto นักพากย์ @13-10-2024 12:11:01@
+dukto {ANA} {FIZL} {TEK} ท่อ; sendukta {FIZL} ไร้ท่อ;  akvodukto {ARK} {TEK} สะพานส่งน้ำ; gasdukto {TEK} ท่อก๊าซ naftodukto {TEK} ท่อส่งน้ำมันดิบ; ovodukto {ANA} ท่อนำไข่; spermpdukto {ANA} ท่อส่งตัวอสุจิ @13-10-2024 12:16:33@
+duno {GEOG} เนินทราย; neĝduno {GEOG} เนินหิมะ @13-10-2024 12:19:38@
+dura //(poezie)// แข็ง = malmola @13-10-2024 12:19:38@
+durio {KUI} {BOT} ทุเรียน; duriarbo/duriujo {BOT} ต้นทุเรียน @13-10-2024 12:19:38@
 <!-- E -->
 eburo งาช้าง (หรือสัตว์อื่น) = dentego; ebura สีงา, ทำด้วยงา @29-07-2024 17:29:11@
 egipto ชาวอียิปต์; Egiptio {GEOG} {POL} ประเทศอียิปต์ @03-08-2024 23:15:16@
