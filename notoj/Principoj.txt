@@ -1,5 +1,10 @@
 Principoj
-หลักการในการเลือกคำศัพท์ในภาษาไทย
+# หลักการในการเลือกคำศัพท์ในภาษาไทย
 1. เป็นคำที่คนไทยใช้อยู่แล้ว
 2. หากไม่มีคำที่ใช้จริงให้หาคำที่ใกล้เคียงกับความหมาย
 3. ใช้ประโยคที่มีความกระชับ
+4. บางครั้งมีการใช้คำศัพท์บัญญัติของราชบัณฑิต สำหรับคำเฉพาะทาง
+
+# trajto de tiu ĉi vortaro
+1. uzu Retan Vortaron kiel modelon
+2. prenas unue vortojn de la vortaro Esperanto - Taja de Geoffrey Sutton kiel bazajn vortojn.

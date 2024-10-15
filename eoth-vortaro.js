@@ -3417,24 +3417,24 @@ formato {TIP} {KIN} รูปแบบ, {KOMP} ฟอร์แมต @15-10-2024
 forsto {HOR} ป่าไม้ที่ได้รับการอนุรักษ์ @15-10-2024 11:40:38@
 fortreso {ARK} {MIT} ป้อมปราการ >> fortikaĵo @15-10-2024 11:40:38@
 fortuno ความโชคดี, เคราะห์ดี, ดวงดี; Fortuno เทพีฟอร์ชูนา; fortuni //(ntr)// โชคดี, เคราะห์ดี, ดวงดี; misfortuno/malfortuno ความโชคร้าย, เคราะห์ร้าย, ดวงไม่ดี = malbonŝanco @15-10-2024 11:45:35@
-fosilio ฟอซซิล
-fotografio การถ่ายภาพ >> fotoarto
-fragmito (หญ้า)กก
-frakcio เศษส่วน >> ono; frakciigi แยก
-framasono สมาชิกองค์กรฟรีเมสัน; framasonismo องค์กรฟรีเมสัน
-framo โครงร่าง
-franco ชาวฝรั่งเศส: la franca (lingvo) ภาษาฝรั่งเศส; Francio {GEOG} {POL} ประเทศฝรั่งเศส
-fraŭdi //(tr)// ฉ้อ, โกง, ปอกลอก
-frekventi //(tr)// เยี่ยมเยียนอย่างเป็นประจำ >> vizitadi
-frida เย็นจัด; fridujo ตู้เย็น
-fuelo เชื้อเพลิง
-furoro สมัยนิยม, ความนิยม: furora libro หนังสือขายดี; furora vorto คำที่นิยมใช้กันในปัจจุบัน; furore vendiĝas ขายดิบขายดี
-furunko ฝี (เล็ก ๆ บนผิวหนัง)
-fusilo ปืนยาว
-futuro {GRA} อนาคตกาล, อนาคต >> estonteco
-fuzelaĝo {AVI} ลำตัวเครื่องบิน
-fuzeo (สาย)ชนวน(ระเปิด)
-fuzi //(ntr)// ลุกไหม้อย่างช้า ๆ
+fosilio {MIN} ฟอซซิล; fosilia ฟอซซิล; fosiliiĝi กลายเป็นฟอซซิล @15-10-2024 17:12:10@
+fotografio {BELE} {BELA} การถ่ายภาพ = fotografarto @15-10-2024 17:12:10@
+fragmito {BOT} หญ้าจำพวกอ้อหรือกก (Phragmites) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Riet_Phragmites_australis_planten.jpg/128px-Riet_Phragmites_australis_planten.jpg"> @15-10-2024 17:12:10@
+frakcio {MAT} เศษส่วน, {SCI} ส่วน, {POL} แผนก, กลุ่ม; frakcia เกี่ยวกับส่วน; frakciigi ทำให้แยกออกเป็นส่วน ๆ; frakciiĝi กลายเป็นส่วน ๆ @15-10-2024 17:16:39@
+framasono สมาชิกองค์กรฟรีเมสัน; framasonismo องค์กรฟรีเมสัน @15-10-2024 17:17:08@
+framo {TEK} โครงร่าง, ขอบข่ายงาน @15-10-2024 17:18:10@
+franco ชาวฝรั่งเศส; franca เกี่ยวกับฝรั่งเศส: la franca lingvo ภาษาฝรั่งเศส; Francio/Francujo {GEOG} {POL} ประเทศฝรั่งเศส @15-10-2024 17:45:19@
+fraŭdi {JUR} {EKON} //(tr)// โกง, ฉ้อโกง, หลอกลวง; fraŭdo {EKON} การโกง, การฉ้อโกง, การหลอกลวง; fraŭdisto ผู้ที่อยู่ได้ด้วยการโกง; defraŭdi //(tr)// โกง, ฉ้อโกง, หลอกลวง @15-10-2024 17:50:19@
+frekventi //(tr)// เยี่ยมเยียนอย่างเป็นประจำ = vizitadi; frekventulo/frekventanto ผู้ที่มาเยี่ยมเยียนอย่างเป็นประจำ @15-10-2024 17:51:15@
+frida //(neologismo)// เย็น = malvarma; fridi //(ntr)// เย็น; frido ความเย็น = malvarmo; fridujo ตู้เย็น @15-10-2024 17:53:18@
+fuelo เชื้อเพลิง = bruligaĵo; fueli //(tr)// เติมเชื้อเพลิง @15-10-2024 18:17:06@
+furoro สิ่งที่ฮิต, ความนิยม; furori //(ntr)// ฮิต, นิยม @15-10-2024 18:17:06@
+furunko {MED} ฝีขนาดเล็กบนผิวหนัง
+fusilo ปืนไรเฟิล; fusilisto {MIL} ทหารปืนไรเฟิล @15-10-2024 18:17:06@
+futuro {GRA} อนาคตกาล, //(malofte)// อนาคต = estonteco; futurismo {BELA} อนาคตนิยม; futuristo นักอนาคตนิยม @15-10-2024 18:30:18@
+fuzelaĝo {AVI} ลำตัวเครื่องบิน @15-10-2024 18:30:18@
+fuzeo //(PIV)// ชนวนระเปิด @15-10-2024 18:30:18@
+fuzi {TEK} //(ntr)// ลุกไหม้อย่างช้า ๆ[?] @15-10-2024 18:30:18@
 <!-- G -->
 galango ข่า
 galanta ปากหวาน, เจ้าชู้; galantulo คนเจ้าชู้
