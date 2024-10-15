@@ -3389,34 +3389,34 @@ filantropo ผู้ที่มีใจรักเพื่อนมนุษ
 filatelo/filatelio {POSX} การสะสมดวงตราไปรษณีย์; filatelisto/filateliisto นักสะสมดวงตราไปรษณีย์ @14-10-2024 22:00:11@
 fileo //(PIV)// {KUI} ชิ้นเนื้อวัวหรือกวาง @14-10-2024 22:04:50@
 filharmonio {MUZ} ชื่อของสมาคมดนตรีหรือสถานที่แสดงดนตรีประเทศต่าง ๆ, วงดนตรีวงซิมโฟนีออร์เคสตรา @14-10-2024 22:05:52@
-Filipinoj {GEOG} {POL} ประเทศฟิลิปปินส์; filipinano ชาวฟิลิปปินส์
-filistro คนป่าเถื่อนไม่รู้จักความเจริญ; filistreco ความป่าเถื่อน
-filologio นิรุกติศาสตร์
-filtri //(tr)// กรอง, {KEM} filtrado การกรอง, {KEM} filtraĵo สิ่งกรอง; filtriĝi ได้รับการกรอง; filtrilo ที่/เครื่องกรอง
-finalo ตอนจบ, รอบสุดท้าย >> fin(aĵ)o; finalisto ผู้เข้ารอบสุดท้าย
-Finnlando {GEOG} {POL} ประเทศฟินแลนด์
-fisko การคลัง; fiska jaro ปีงบประมาณ; fiska politiko นโยบายการคลัง; fiska stampo, fiskomarko อากรสแตมป์; la fiska juro ประมวลรัษฎากร
-fiziologio สรีรวิทยา
-fizionomio สีหน้า, ลักษณะโดยรวม >> aspekto, mieno
-fjordo อ่าวลึกแคบตามชายทะเลที่เป็นภูเขา
-flako แอ่งน้ำ
-flanelo ผ้าสักหลาดอ่อน; kotonflanelo ผ้ายสำลี
-flanĝo หน้าแปลน
-flano {KUI} ขนมแป้งอบเปิดหน้ามีไส้เป็นผลไม้ ของหวาน หรือไข่
-flegmo ความอืดอาด, ความไม่แยแส, ความไม่ใส่ใจ
-fleksio {LIN} การเปลี่ยนรูปคำ, การผัน; fleksi(iĝ)i ผัน
-floko เกล็ด, ปอย, ปุย (สิ่งที่เป็นชิ้นเล็ก ๆ): floko de neĝo เกล็ดหิมะ >> skvamo
-floto กองเรือ(รบ) >> (milit)ŝiparo
-folkloro คติชาวบ้าน, วัฒนธรรมพื้นบ้าน
-fonduo ฟองดูว์ (น้ำจิ้มร้อน ๆ ทำด้วยเนยแข็งละลายผสมไวน์ ใช้จุ่มขนมปังชิ้นเล็ก ๆ)
-fonduso มูลนิธิ
-fonemo {FON} หน่วยเสียง
-fonetiko {FON} สัทศาสตร์
-forci //(tr)// ปลูกในเรือนกระจก; forcejo เรือนกระจก; forceja efiko ภาวะเรือนกระจก, ปรากฏการณ์เรือนกระจก
-formato รูปแบบ
-forsto ป่าไม้; forstumi //(tr)// รักษา(และปลูก)ป่า; forstkultivo การป่าไม้, วนศาสตร์
-fortreso เขตป้อม, ป้อมปราการ >> fortikaĵo
-fortuno โชคดี, เคราะห์ดี, ดวงดี
+Filipinoj {GEOG} {POL} ประเทศฟิลิปปินส์; filipina เกี่ยวกับฟิลิปินส์; filipinano ชาวฟิลิปปินส์ @15-10-2024 07:14:12@
+filistro ผู้ที่ไม่สนใจในเรื่องศิลป์หรือวัฒนธรรม; filistra ไม่สนใจในเรื่องศิลป์หรือวัฒนธรรม @15-10-2024 07:16:45@
+filologio {LIN} {SCI} นิรุกติศาสตร์, มนุษย์ศาสตร์; filologia {LIN} {SCI} เกี่ยวกับนิรุกติศาสตร์; filofogiisto {LIN} {SCI} นักนิุกติศาสตร์ @15-10-2024 07:19:58@
+filtri //(tr)// กรอง, {KEM} filtrado การกรอง, {KEM} filtraĵo สิ่งกรอง; filtrilo ที่/เครื่องกรอง; filtriĝi ได้รับการกรอง @15-10-2024 07:21:17@
+finalo {MUZ} ตอนจบ, {SPO} รอบสุดท้าย >> fin(aĵ)o; finalano {SPO} ผู้เข้ารอบสุดท้าย; duonfinalo {SPO} การแข่งขันรอบก่อนชิงชนะเลิศ; kvaronfinalo {SPO}การแข่งขันรอบก่อนรองชนะเลิศ @15-10-2024 07:24:47@
+finno ชาวฟินแลนด์; finna เกี่ยวกับฟินแลนด์: finna lingvo {LIN} ภาษาฟินแลนด์; Finnlando/Finnujo {GEOG} {POL} ประเทศฟินแลนด์ @15-10-2024 07:27:16@
+fisko {EKON} การคลัง; fiska {EKON} เกี่ยวกับการคลัง, ภาษี @15-10-2024 07:29:23@
+fiziologio {FIZ} {SCI} สรีรวิทยา; fiziologiisto {FIZ} นักสรีรวิทยา @15-10-2024 07:30:47@
+fizionomio ลักษณะสีหน้าและท่าทีโดยรวม @15-10-2024 07:55:24@
+fjordo {GEOG} ฟยอร์ด, อ่าวลึกแคบที่มีหน้าผาสูง <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lysefjorden_fjord.jpg/330px-Lysefjorden_fjord.jpg">
+flako แอ่งน้ำ @15-10-2024 08:02:50@
+flanelo {TEKS} ผ้าสักหลาดอ่อน @15-10-2024 08:03:44@
+flanĝo {TEK} หน้าแปลน <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flanschverbindung_Gasleitung.jpg/330px-Flanschverbindung_Gasleitung.jpg"> @15-10-2024 08:09:43@
+flano {KUI} ขนมแป้งอบชนิดหนึ่งรูปร่างกลม <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flan_2.jpg/180px-Flan_2.jpg"> @15-10-2024 08:09:43@
+flegmo การวางเฉย; flegma วางเฉย; flegmulo ผู้ที่วางเฉย @15-10-2024 09:21:09@
+fleksii {LIN} //(tr)// ผัน; fleksio {GRA} การผันคำ, การเปลี่ยนรูปคำ; fleksia {LIN} ผัน; fleksiaĵo {LIN} คำที่มีการผัน; fleksiebla{GRA} ผันได้; fleksiilo {LIN} ตัวลงท้ายหรือตัวอักษรไว้สำหรับการผัน; neeblfleksia/senfleksia {GRA} ผันไม่ได้ @15-10-2024 10:11:43@
+floko เกล็ดเล็ก ๆ (สิ่งที่เป็นชิ้นเล็ก ๆ ปลิวลมได้): //floko de neĝo เกล็ดหิมะ//, {KUI} เมล็ดธัญพืช @15-10-2024 10:15:58@
+floto {MIL} กองเรือรบ, {MAR} กองเรือ; aerofloto/aerfloto {AVI} ฝูงบิน @15-10-2024 10:18:03@
+folkloro {BELA} วัฒนธรรมพื้นบ้าน, คติชาวบ้าน; folklora เกี่ยวกับวัฒนธรรมพื้นบ้าน; folkloristo ผู้เชี่ยวชาญด้านวัฒธรรมพื้นบ้าน @15-10-2024 10:20:08@
+fonduo {KUI} ฟองดูว์ (น้ำจิ้มร้อน ๆ ทำด้วยเนยแข็งละลายผสมไวน์ ใช้จุ่มขนมปังชิ้นเล็ก ๆ) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fondue_dish.jpg/375px-Fondue_dish.jpg"> @15-10-2024 10:23:02@
+fonduso {EKON} กองทุน >> fondaĵo @15-10-2024 10:23:02@ 
+fonemo {FON} หน่วยเสียง @15-10-2024 11:03:31@
+fonetika {FON} เกี่ยวกับสัทศาสตร์; fonetiko {FON} {LIN} สัทศาสตร์, ระบบเสียง @15-10-2024 11:03:31@
+forci {HOR} //(tr)// ปลูกในเรือนกระจก; forcejo {HOR} เรือนกระจก; forceja efiko {EKOL} {FIZ} ภาวะเรือนกระจก, ปรากฏการณ์เรือนกระจก @15-10-2024 11:06:20@
+formato {TIP} {KIN} รูปแบบ, {KOMP} ฟอร์แมต @15-10-2024 11:40:38@
+forsto {HOR} ป่าไม้ที่ได้รับการอนุรักษ์ @15-10-2024 11:40:38@
+fortreso {ARK} {MIT} ป้อมปราการ >> fortikaĵo @15-10-2024 11:40:38@
+fortuno ความโชคดี, เคราะห์ดี, ดวงดี; Fortuno เทพีฟอร์ชูนา; fortuni //(ntr)// โชคดี, เคราะห์ดี, ดวงดี; misfortuno/malfortuno ความโชคร้าย, เคราะห์ร้าย, ดวงไม่ดี = malbonŝanco @15-10-2024 11:45:35@
 fosilio ฟอซซิล
 fotografio การถ่ายภาพ >> fotoarto
 fragmito (หญ้า)กก
