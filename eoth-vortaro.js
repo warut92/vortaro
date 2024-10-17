@@ -3452,20 +3452,20 @@ gejo เกย์, ชายที่ชอบเพศเดียวกัน,
 geko {ZOO} ตุ๊กแก @16-10-2024 20:44:04@
 gelo //(PIV)// ความหนาวเยือกแข็ง, ความหนาวจัด = frosto @16-10-2024 20:44:04@
 gemo {MIL} {BELA} พลอย, //(f)// สิ่งที่มีค่าที่มีเพียงชิ้นเดียว, สมบัติ; gemisto ช่างทำพลอย @16-10-2024 20:44:04@
-generatoro ไดนาโม, เครื่อง(ให้)กำเนิดไฟฟ้า
-generi //(tr)// สืบพันธุ์, ออกลูก, ให้กำเนิด; genera เกี่ยวกับอวัยวะเพศหรือการสืบพันธุ์, ที่ก่อกำเนิด, (eksteraj) generiloj, generaj organoj อวัยวะเพศ
-genetiko พันธุศาสตร์
-genitivo {LIN} สัมพันธการกที่แสดงความเป็นเจ้าของ
-geno ยีน
-genocido การฆ่าล้างเผ่าพันธ์
-genro {LIN} ลึงค์, เพศ: ina หญิง; neŭtra กลาง; vira ชาย
-geologio ธรณีวิทยา
-geometrio เรขาคณิต; geometria figuro รูปเรขาคณิต
-gerilo สงครามกองโจร; gerilanaro กองโจร
-germano ชาวเยอรมัน: la germana (lingvo) ภาษาเยอรมัน; Germanio {GEOG} {POL} ประเทศเยอรมนี
-gerontologio {MED} พฤฒาวิทยา, ชราภาพวิทยา
-geto สลัม
-gibono {ZOO} ชะนี
+generatoro {ELE} {TEK} เครื่องกำเนิดไฟฟ้า @17-10-2024 11:02:06@
+generi //(tr)// ให้กำเนิด; generado การให้กำเนิด; genera เกี่ยวกับการให้กำเนิด: //genera organo อวัยวะสืบพันธุ์//; genero การให้กำเนิด, เชื้อสาย; regeneri //(tr)// ทำให้เกิดใหม่ @17-10-2024 11:13:48@ 
+genetiko {BIO} พันธุศาสตร์; genetika เกี่ยวกับพันธุ์ศาสตร์; genetikisto นักพันธุ์ศาสตร์ @17-10-2024 11:15:23@
+genitivo {LIN} สัมพันธการก (การกแสดงความเป็นเจ้าของ ในภาษาเอสเปรันโตแสดงโดยการใช้คำบุพบท) @17-10-2024 11:17:42@
+geno {BIO} ยีน; genaro {BIO} จีโนม (กลุ่มยีนในเซลล์ของสิ่งมีชีวิต) @17-10-2024 11:17:42@
+genocido {JUR} การฆ่าล้างเผ่าพันธ์ = gentomurdo @17-10-2024 11:41:57@
+genro {GRA} ลิงก์, {LIN} {BOT} {ZOO} {POL} เพศ; aĵgenro/neŭtra genro {GRA} นปุงสกลิงค์, ไม่ระบุเพศ, เพศของสิ่งของ; ingenro/ina genro {GRA} อิตถีลิงค์, เพศหญิง; ulgenro {GRA} เพศของคน; virgenro/vira genro{GRA} ปุงลิงค์, เพศชาย; cisgenra เพศโดยกำเนิด; cisgenrulo ผู้ที่มีเพศโดยกำเนิด; transgenra {GRA} เพศไม่โดยกำเนิด; transulgenro {GRA} ผู้ที่มีเพศไม่เหมือนตอนเกิด @17-10-2024 11:41:57@
+geologio {GEOL} {SCI} ธรณีวิทยา; geologiisto {GEOL} นักธรณีวิทยา @17-10-2024 11:41:57@
+geometrio {MAT} เรขาคณิต, รูปทรงเรขาคณิต; geometria {MAT} เกี่ยวกับเรขาคณิต: //geometria figuro รูปทรงเรขาคณิต//; geometriisto นักเรขาคณิต @17-10-2024 11:41:57@
+gerilo {MIL} สงครามกองโจร; gerilano {MIL} ทหารกองโจร; gerilanaro {MIL} กองโจร @17-10-2024 11:47:48@
+germano ชาวเยอรมัน; germana เกี่ยวกับเยอรมัน: //la germana (lingvo) ภาษาเยอรมัน//; Germanio/Germanujo {GEOG} {POL} ประเทศเยอรมนี; judgermana ยิดดิช; (la) judgermana lingvo ภาษายิดดิช @17-10-2024 11:47:48@
+gerontologio {SCI} {MED} ชราภาพวิทยา, พฤฒาวิทยา @17-10-2024 11:50:41@
+geto สลัม, ชุมชนแออัด @17-10-2024 11:50:41@
+gibono {ZOO} ชะนี @17-10-2024 11:50:41@
 gimnasto นักกายบริหาร; gimnastiko กายบริหาร
 gimnazio โรงเรียนมัธยมศึกษา
 ginekologio {MED} นรีเวชศาสตร์, นรีเวชวิทยา, วิทยาเพศหญิง
