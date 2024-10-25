@@ -598,7 +598,7 @@ esprimi {UL} [7] //(tr)// แสดง, กล่าว
 establi [9] //(tr)// สถาปนา, ก่อตั้ง
 esti {UL} [2] //(ntr)// เป็น, อยู่, คือ; ĉeesti เข้าร่วม; estigi [9] เป็นเหตุ, ทำให้เกิดขึ้น; foresti จากไปไกล
 estimi {UL} [5] //(tr)// เคารพ → respekti
-estingi {UL} [6] //(tr)// ดับ (ไฟ)
+estingi {UL} [6] //(tr)// ดับ (ไฟ); estingiĝi ไฟดับ, หยุดส่องแสง; brulestingisto/fajroestingisto นักดับเพลิง; fajrestingilo อุปกรณ์ดับเพลิง @25-10-2024 12:03:43@
 -estr- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงการเป็นหัวหน้า: urbo เมือง, urbestro เจ้าเมือง; estro ผู้นำ, หัวหน้า = ĉefo
 -et- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงขนาดที่เล็ก: hundo สุนัข, hundeto สุนัขตัวเล็ก
 etaĝo {UL} [7] ชั้นของอาคาร
@@ -696,7 +696,7 @@ firmao [x] บริษัท = kompanio
 fiŝo {UL} [4] {ZOO} ปลา; fiŝisto นักตกปลา, คนเลี้ยงปลา, คนขายปลา
 fiziko [8] ฟิสิกส์; fizka กายภาพ; fizkistoนักฟิสิกส์
 flago [6] ธง → standardo
-flagri [9] //(ntr)// (เกี่ยวกับแสง) แวบ, วาบ, กระพือปีก
+flagri [9] //(ntr)// (เกี่ยวกับแสง) ส่องแสง, แวววับ, (เกี่ยวกับธง) สะบัดพลิ้วไหว @25-10-2024 11:59:10@
 flamo [7] เปลวไฟ
 flanko {UL} [2] ข้าง, ด้าน
 flari {UL} [8] //(tr)// ดม
@@ -4058,8 +4058,8 @@ merdo >> fekaĵo
 mergi //(tr)// แช่, หายเข้าไป, ผสมกลมกลืน; mergiĝi หายเข้าไป
 Merkuro ดาวพุธ
 metaforo คำอุปมา
-meteorito แร่ของดาวที่ตกลงมา
-meteoro ผีพุ่งใต้, อุกกาบาต, ดาวตก
+meteorito {AST} อุกกาบาต = aerolito @25-10-2024 11:47:48@
+meteoro {AST} ดาวตก, ผีพุ่งไต้; meteorŝtono {AST} อุกกาบาต = aerolito, meteorito @25-10-2024 11:53:48@
 meteorologio อุตุนิยมวิทยา >> veterscienco
 meteorologo นักอุตุนิยมวิทยา >> vetersciencisto
 metriko เมตริก
@@ -5155,7 +5155,6 @@ likvidi {EKON} //(tr)// ปิด, ยกเลิก (กิจการ) @01-0
 kvoto {EKON} โควต้า @01-01-2023-w@
 kvitanco ใบเสร็จรับเงิน, ใบเสร็จ @01-01-2023-w@
 kvizo (เกม) ถามตอบปัญหา, ควิซโชว์ @01-01-2023-w@
-trempi //(tr)// จิ้ม, หมัก, แช่ @01-01-2023-w@
 patologio {MED} พยาธิวิทยา @01-01-2023-w@
 lezi {MED} //(tr)// ทำให้บาดเจ็บ, ทำให้ได้รับความเสียหาย; lezo การเปลี่ยนแปลงที่ผิดปกติหรือความเสียหายอวัยวะ @01-01-2023-w@
 poliomjelito {MED} โรคโปลิโอ, โรคไข้ไขสันหลังอักเสบ @01-01-2023-w@
@@ -5430,5 +5429,7 @@ halucinacio {MED} {PSI} อาการประสาทหลอน = halucio 
 kapreolo {ZOO} กวางขนาดเล็กชนิดหนึ่ง (Capreolus) @14-10-2024 22:04:16@
 galanto {BOT} กาแลนธัส, หยาดหิมะ @16-10-2024 20:44:45@
 gelozo {KEM} {KUI} วุ้น @16-10-2024 20:44:45@
+propulsi {MAS} ขับเคลื่อน; propolso การขับเคลื่อน @25-10-2024 11:44:13@
+aerolito {AST} อุกกาบาต @25-10-2024 11:44:13@
 >.
 `
