@@ -64,16 +64,16 @@ pre {
 @media (prefers-color-scheme: dark) {
   body {
     color: white;
-    background: #0c0432;
+    background: #010409;
     border: 1px solid white;
   }
   input {
     color: white;
-    background: #0c0432;
+    background: #010409;
     /* background: #121212; */
   }
   b {
-    color: #809fff;
+    color: #89E682;
   }
   a {
     color: white;
