@@ -7,7 +7,7 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!-- A -->/g, '--------------<br>
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\>\./g, '')
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\{\U\L\}/g, '')
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[a-z-].*)(\[)/g, '<h1>$</h1>$2')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
 //aldoni etikedon
