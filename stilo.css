@@ -101,5 +101,7 @@ img {
 }
 
 fak {
+  vertical-align: super;
   color: green;
+  font-size: 10px;
 }

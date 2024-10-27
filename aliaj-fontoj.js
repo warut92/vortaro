@@ -1,7 +1,9 @@
+//ĉe komputiloj
 document.addEventListener("click", function() {
   viduFontojn()
 })
 
+//ĉe poŝtelefonoj
 document.addEventListener("touchstart", function() {
   viduFontojn()
 })
