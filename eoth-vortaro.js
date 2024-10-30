@@ -3454,10 +3454,10 @@ gloto {ANA} ช่องเส้นเสียง; glota เกี่ยวก
 gluteo {ANA} แก้มก้น = sidvango @29-10-2024 20:58:38@
 gorilo {ZOO} ลิงกอริลลา @29-10-2024 20:58:38@
 grafiko {BELA} ภาพกราฟฟิก; grafika เกี่ยวกับกราฟฟิก; grafikaĵo {BELA} ภาพกราฟฟิก, {TEK} กราฟ; grafikisto {BELA} ศิลปินภาพกราฟฟิก @29-10-2024 20:58:38@
-gramofono เครื่องเล่นจานเสียง >> diskoludilo
+gramofono {TEK} เครื่องเล่นแผ่นเสียง = sondiskludilo/diskludilo, เครื่องบันทึกเสียง @30-10-2024 21:54:34@
 granato {KUI} ลูกทับทิม; granatarbo/granatujo {BOT} ต้นทับทิม @29-10-2024 21:01:02@
 granito {MIN} หินแกรนิต; granita จากหินแกรนิต, //(f)// ดื้อ, หัวแข็ง @29-10-2024 21:01:02@
-grapolo กลุ่ม (สิ่งของหรือคน), ช่อ, กระจุก
+grapolo {BOT} ช่อ, กระจุก @30-10-2024 22:02:19@
 gratifiki //(tr)// ให้เงินทิป, ให้เงินโบนัส; gratifiko เงินรางวัล, เงินทิป, เงินโบนัส >> trinkmono
 gravito แรงโน้มถ่วง, แรงดึงดูด
 gravuri //(tr)// แกะ, สลัก, ฝัง; gravuristo ช่างแกะ
@@ -5439,5 +5439,6 @@ gelozo {KEM} {KUI} วุ้น @16-10-2024 20:44:45@
 propulsi {MAS} ขับเคลื่อน; propolso การขับเคลื่อน @25-10-2024 11:44:13@
 aerolito {AST} อุกกาบาต @25-10-2024 11:44:13@
 artikulacio {FON} การเกิดเสียง; artikulacia {FON} เกี่ยวกับการเกิดเสียง; artikulacii {FON} //(tr)// ทำให้เกิดเสียง @29-10-2024 20:53:59@
+infloresko {BOT} การเรียงตัวของดอกในกิ่ง = floraro @30-10-2024 22:02:36@
 >.
 `
