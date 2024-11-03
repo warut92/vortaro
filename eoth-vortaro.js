@@ -2449,7 +2449,7 @@ tago {UL} [5] วัน; tage [w] ในเวลากลางวัน; ĉiut
 tajli [8] //(tr)// แต่ง(รูปร่าง), ตัดแต่ง
 tajloro {UL} [8] ช่างตัดเสื้อ
 tajpi [9] //(tr)// พิมพ์; tajpilo [w] พิมพ์ดีด
-taksi [7] //(tr)// ประเมิน, ประเมินค่า
+taksi [7] //(tr)// ประเมิน, ประเมินค่า, //(ark.)// เห็นคุณค่า; takso การประเมิน, การประเมินค่า; mistaksi //(tr)// ตัดสินผิด, พิจารณาผิด; netaksebla/nesubtaksebla ประเมินค่าไม่ได้; pritaksi//(tr)// ประเมิน, ประมาณ, พิจารณา; subtaksi //(tr)// ประเมินต่ำกว่า; supertaksi //(tr)// ประเมินมากเกินไป @03-11-2024 11:28:16@
 taksio [x] รถแท็กซี่
 takto [9] {MEK} {MUZ} จังหวะ → ritmo
 talento [x] ความสามารถพิเศษ
@@ -3216,7 +3216,7 @@ diskrimini //(ReVo)// //(malofte)// แบ่งแยก = distingi; diskrimino
 dispepsio {MED} อาหารไม่ย่อย @13-10-2024 08:36:24@
 dispozicio {MED} {PSI} อาการเริ่มป่วย, แนวโน้มรับโรค {JUR} พินัยกรรม, คำสั่ง, การจัดเรียง, {SCI}[?] การจัดเรียง @13-10-2024 08:51:20@
 distili {KEM} //(tr)// กลั่น; distilado การกลั่น; distilejo โรงกลั่น; distililo อุปกรณ์สำหรับการกลั่น @13-10-2024 08:51:20@
-distrikto {POL} จังหวัด, เขต, {THA} ตำบล, เขต; subdistrikto รูปแบบการปกครองที่ย่อยจาก distrikto, {THA} หมู่บ้าน[?] @13-10-2024 09:00:49@
+distrikto {POL} จังหวัด, เขต, {THA} อำเภอ, เขต; subdistrikto รูปแบบการปกครองที่ย่อยจาก distrikto, {THA} ตำบล, แขวง  @03-11-2024 12:36:50@
 diurno {KAL} หนึ่งวัน 24 ชั่วโมง = tagnokto; diurna ตลอดทั่งวัน @13-10-2024 09:02:43@
 divano โซฟาตุรกี (ไม่มีที่พักแขนและหลัง ตกแต่งด้วยหมอน) <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/FrancisLevettLiotard.jpg">; {HIS} สภาตรุกี @13-10-2024 09:17:37@
 dividendo {EKON} เงินปันผลรายปี @13-10-2024 09:23:05@
@@ -3458,19 +3458,19 @@ gramofono {TEK} เครื่องเล่นแผ่นเสียง = s
 granato {KUI} ลูกทับทิม; granatarbo/granatujo {BOT} ต้นทับทิม @29-10-2024 21:01:02@
 granito {MIN} หินแกรนิต; granita จากหินแกรนิต, //(f)// ดื้อ, หัวแข็ง @29-10-2024 21:01:02@
 grapolo {BOT} ช่อ, กระจุก @30-10-2024 22:02:19@
-gratifiki //(tr)// ให้เงินทิป, ให้เงินโบนัส; gratifiko เงินรางวัล, เงินทิป, เงินโบนัส >> trinkmono
-gravito แรงโน้มถ่วง, แรงดึงดูด
-gravuri //(tr)// แกะ, สลัก, ฝัง; gravuristo ช่างแกะ
-grejso หินทราย = sabloŝtono
-grilo จิ้งหรีด
-groŝo //(f)// เหรียญที่มีมูลค่าน้อยมาก
-grumbli //(ntr)// กล่าวด้วยความไม่พอใจ
+gratifiki {EKON} //(tr)// ให้เงินรางวัล, ให้เงินตอบแทน; gratifiko {EKON} เงินรางวัล, เงินตอบแทน >>  bonifiko,trinkmono @03-11-2024 12:04:24@
+gravito {FIZ} ความโน้มถ่วง, แรงดึงดูด; graviti //(ntr)// ดึงดูด; sengravito/sengraviteco/malaltgraviteco {FIZ} สภาพไร้น้ำหนัก @03-11-2024 12:04:24@
+gravuri //(tr)// แกะ, สลัก, แกะสลัก; gravuraĵo/gravuro {BELA} งานแกะสลัก; gravuristo ช่างแกะ, ช่างสลัก; gravurilo สิ่วแท่งแกะสลัก, เครื่องมือแกะสลัก @03-11-2024 12:04:24@
+grejso {MIN} หินทราย = sabloŝtono @03-11-2024 12:04:24@
+grilo {ZOO} จิ้งหรีด @03-11-2024 12:04:24@
+groŝo {EKON} เหรียญที่มีมูลค่าน้อยมาก @03-11-2024 12:04:24@
+grumbli //(ntr)// บ่น, ว่า, กล่าวด้วยความไม่พอใจ; grumblema ขี้บ่น; grumblulo คนขี้บ่น; postgrumbli //(ntr)// ว่าลับหลัง @03-11-2024 12:04:24@
 grunti //(ntr)// ทำเสียงอย่างหมู @13-04-2024 12:23:50@
-gruzo (ก้อน)กรวด
-gubernio อำเภอ, แขวง >> distrikto; guberniestro นายอำเภอ; subgubernio กิ่งอำเภอ: vicestro de subgubernio ปลัดอำเภอ
-gujavo (ผลไม้) ฝรั่ง
-guŝo ฝัก: faboguŝo ฝักถั่ว
-gvati //(tr)// จับตา, อยู่ยาม; gvatisto ทหารยาม
+gruzo {HOR} กรวด; gruzero ก้อนกรวดเล็ก ๆ @03-11-2024 12:33:20@
+gubernio {POL} จังหวัด //(ญี่ปุ่น)//, เขตผู้ว่าการ //(ประเทศอาหรับ)//; guberniestro {POL} ผู้ว่าราชการ @03-11-2024 12:33:20@
+gujavo {KUI} ฝรั่ง; gujavarbo/gujavujo {BOT} ต้นฝรั่ง @03-11-2024 12:33:20@
+guŝo {BOT} {KUI} ฝักถั่ว @03-11-2024 12:33:20@
+gvati //(tr)// จับตา, เฝ้ายาม, อยู่ยาม; gvatisto {MIL} ทหารยาม @03-11-2024 12:33:20@
 <!-- Ĝ -->
 Ĝakarto {GEOG} {POL} กรุงจาการ์ตา @21-03-2024 17:59:44@
 ĝelo {KEM} เจล @09-04-2024 22:28:06@
