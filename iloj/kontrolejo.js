@@ -13,6 +13,7 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1<
 //aldoni etikedon
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
 
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/IMG:\[(.*)\]/g, '<img src="$1">')
 
 //konverti al ARRAY
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);

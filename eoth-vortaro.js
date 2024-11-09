@@ -2979,16 +2979,16 @@ banala น่าเบื่อ, ไม่น่าสนใจ, ธรรมด
 banderolo กระดาษห่อสิ่งของ, {1} {EKON} {POSX} แผ่นจ่าหน้าซอง1[?], {POSX} พัสดุ, จดหมาย; {2} ป้ายแสดงข้อความ @09-11-2024 17:40:02@
 bangalo {GEOG} บังกาโลว์ (เมืองทางใต้ในประเทศอินเดีย) @09-11-2024 18:00:11@
 banjano {BOT} ต้นไทร @09-11-2024 18:00:11@
-bankedo งานเลี้ยง; bankedi เลี้ยงแขก
-bankiero = bankisto
-bankroti //(ntr)// เจ๊ง, ล่มจม, ล้มละลาย
-banto โบ: bantigi kravaton ผูกไท
-barako {MIL} {MED} ที่พักชั่วคราว
-barĝo เรือบรรทุกท้องแบน
-barometro เครื่องวัดความอากาศ
-basbalo >> bazopilko
+bankedo งานเลี้ยง = festeno @09-11-2024 22:13:53@
+bankiero {EKON} พนักงานธนาคาร = bankisto @09-11-2024 22:13:53@
+bankroti {EKON} //(ntr)// ล้มละลาย, //(f)// เจ๊ง, ล่มจม; bankroto {EKON} ภาวะล้มละลาย @09-11-2024 22:13:53@
+banto {TEKS} โบ, ปมเชือก @09-11-2024 22:13:53@
+barako {MIL} {MED} ที่พักชั่วคราว @09-11-2024 22:13:53@
+barĝo {SHI} เรือบรรทุกท้องแบน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Peniche_%281%29.jpg/330px-Peniche_%281%29.jpg]; haŭlbarĝo {SHI} เรือลากท้องแบน @09-11-2024 22:13:53@
+barometro {FIZ} {MET} บาโรมิเตอร์ (เครื่องวัดกดความอากาศ) @09-11-2024 22:13:53@
+basbalo {SPO} กีฬาเบสบอล >> bazopilko //(PIV)// @09-11-2024 22:13:53@
 baseno {HOR} สระน้ำ, {GEOG} ที่ราบลุ่ม @21-03-2024 17:59:44@
-baskulo กระดานหก, ไม้กระดก; baskuli //(ntr)// กระดก, โยกขึ้นลง, แกว่งไปมา; rompbaskulo = levstango ชะแลง
+baskulo {TEK} สะพานหก, ตาเต็ง, {SPO} กระดานหก, ไม้กระดก, {KOMP} สลับ, {KOMP} ทริกเกอร์; baskuli //(ntr)// กระดก, โยกขึ้นลง, แกว่งไปมา; rompbaskulo //(Viki)// = levstango ชะแลง @09-11-2024 22:13:53@
 baso {MUZ} เสียงต่ำ, เสียงเบส
 bastardo ลูกนอกทะเบียนสมรส >> aminfano
 bataliono กองพัน
