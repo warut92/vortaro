@@ -2884,7 +2884,7 @@ apendico ภาคผนวก, {MED} ไส้ติ่ง >> aldono; apendicit
 aperitivo อาหารเรียกน้ำย่อย
 aperta >> malferma
 aplombo ความมั่นใจในตนเอง, ความปราศจากความประหม่า
-apopleksio ลมปัจจุบัน
+apopleksio {MED} โรคอัมพาตฉับพลัน, โรคลมปัจจุบัน, โรคลมเหตุหลอดเลือดสมอง, โรคหลอดเลือดสมองเฉียบพลัน @30-11-2024 15:22:10@
 aposteriora สิ่งที่อยู่บนพื้นฐานของข้อเท็จจริงหรือประสบการณ์: aposteriora lingvo ภาษาประดิษฐ์ที่มีส่วนมาจากภาษาธรรมชาติ
 apreci //(tr)// เห็นคุณค่า, แสดงความพอใจ, ชื่นชม = aprezi
 aprezi //(tr)// เห็นคุณค่า, แสดงความพอใจ, ชื่นชม
@@ -4660,7 +4660,7 @@ tabuo ข้อห้าม
 tabureto เก้าอี้ไม่มีพนัก
 taĉmento หน่วยทหารที่ถูกส่งไปปฏิบัติการ >> unuo, skipo, teamo
 taĝiko ชาวทาจิก: la taĝika (lingvo) ภาษาทาจิก; Taĝikio ประเทศทาจิกิสถาน
-tajdo กระแสน้ำ
+tajdo {MAR} น้ำขึ้นน้ำลง; alta tajdo //(evidente)// น้ำทะเลสูง; malalta tajdo //(evidente)// น้ำทะเลลง; nigra tajdo/naftotajdo {EKOL} น้ำมันรั่วไหลลงทะเล @30-11-2024 15:34:35@
 tajfuno พายุไต้ฝุ่น
 taktiko กลยุทธ, เคล็ด, {MIL} ยุทธวิธี
 talk(opudr)o แป้ง
@@ -5448,5 +5448,10 @@ koncesii {EKON} {JUR} //(tr)// ให้สัมปาท, อนุญาต; 
 pomado น้ำมันใส่ผม; pomadi //(tr)// ใส่น้ำมันใส่ผม @09-11-2024 18:00:33@
 dugongo {ZOO} พะยูน @17-11-2024 22:57:04@
 falango {ANA} กระดูกข้อนิ้ว, {MIL} ขบวนทัพ, {HIS} รูปขบวนทหารแฟแลงซ์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Greek_Phalanx.jpg/465px-Greek_Phalanx.jpg], {HIS} {POL} ชื่อชุมชนตามแนวคิดของ Charles Fourier; falangejo {HIS} {POL} สถานที่ที่เรียกว่าฟาแลงก์สแตร์ตามแนวคิดของ Charles Fourier @17-11-2024 22:57:04@
+konjunkturo เหตุการณ์ทั้งหลาย, ภาวะฉุกเฉิน, {EKON} [?] @30-11-2024 15:29:49@
+fluso {MAR} น้ำขึ้น; flusi //(ntr)// น้ำขึ้น; malflusi //(ntr)// น้ำลง; malfluso {MAR} น้ำลง; flusejo {MAR} ส่วนชายฝั่งที่อยู่ระหว่างระดับน้ำขึ้นที่สูงที่สุดกับที่ลงต่ำที่สุด @30-11-2024 15:44:04@
+moduli/modulacii {MUZ} //(tr)// ปรับเสียง, เปลี่ยนระดับเสียง, {TELE} {ELE} ปรับคลื่น, ปรับความถี่; modulado/modulacio การปรับเสียง, การเปลี่ยนระดับเสียง, การปรับคลื่น, การปรับความถี่ @30-11-2024 15:52:37@
+modulo {MAT} ค่าสัมบูรณ์, มอดุลัส, {KOMP} มอดุโล, {TEK} โมดูล; submodulo {MAT} มอดุลัสย่อย[?] @30-11-2024 15:57:07@
+somnambulo {MED} ผู้ที่เดินละเมอ; somnambuli //(ntr)// เดินละเมอ @30-11-2024 15:59:57@
 >.
 `
