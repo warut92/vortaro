@@ -33,18 +33,22 @@ vortaro = vortaro.concat(E_alfabeto)
 let cxiuj_vortoj_HTML = vortaro;
 //ŝanĝi  /// al tag <i> kaj aliaj
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
-
+//forigi la etikedon HTML kommento
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '---')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\>\./g, '')
+//forigi la markon por vortoj de la unua libro
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\{\U\L\}/g, '')
+//ŝanĝi >> al la signo →
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\>\>/g, '→')
+//konverti la fakideksojn kun speciala etikedo
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[a-z-].*)(\[)/g, '<h1>$</h1>$2')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
-
+//por redakt-dato
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
+//la etikedo por bildoj
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/IMG:\[(.*)\]/g, '<img src="$1">')
 
 //konverti al ARRAY
