@@ -786,8 +786,7 @@ let theo_vortaro = `ก
 หลัง/หลังจาก post
 หลัง dorso
 หลานชาย (ลูกชายของลูก) nepo
-หลาย(มากกว่าหนึ่งสิ่งแต่ไม่
-มากนัก) kelkaj
+หลาย(มากกว่าหนึ่งสิ่งแต่ไม่มากนัก) kelkaj
 หวัง/ความหวัง espero
 หวาน dolĉa
 หว่าน semi
@@ -1070,5 +1069,5 @@ let theo_vortaro = `ก
 อุตสาหกรรม industrio
 อุบัติเหตุ akcidento
 เอกลักษณ์ unika
-หมดหวัง/สิ้นหวัง senespera, despera, perdi esperon, malespera
+หมดหวัง/สิ้นหวัง senespera-despera-perdi esperon-malespera
 `
