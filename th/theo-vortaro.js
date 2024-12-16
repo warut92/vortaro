@@ -895,14 +895,14 @@ let theo_vortaro = `ก
 ฉลาด inteligenta
 ชกมวย boksi
 ชอบมากกว่า preferi
-ชัยชนะ venki
+ชัยชนะ venko
 ช้าง elefanto
 ชายแดน/เขตแดน limo
 ชายหาด plaĝo
 ชื่นชม admiri
 เชื่อฟัง obei
 เชือก ŝnuro
-ซอกแซก zigzaga
+ซอกแซก/ซิกแซก zigzaga
 ซอส saŭco
 ซิป zipo
 โซ่/ตรวน ĉeno
@@ -1070,4 +1070,5 @@ let theo_vortaro = `ก
 อุตสาหกรรม industrio
 อุบัติเหตุ akcidento
 เอกลักษณ์ unika
+หมดหวัง/สิ้นหวัง senespera, despera, perdi esperon, malespera
 `
