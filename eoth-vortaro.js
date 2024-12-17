@@ -3940,16 +3940,16 @@ lupeo {FOT} แว่นขยาย @27-07-2024 18:47:06@
 lutro {ZOO} นาก (สัตว์); marlutro {ZOO} นากทะเล @27-07-2024 18:47:06@
 <!-- M -->
 Madrido {POL} {GEOG} กรุงมาดริด (เมืองหลวงประเทศสเปน) @01-12-2024 13:10:14@
-magistrato สภาเมือง; magistratano สมาชิกของสภา, เทศมนตรี; magistratejo ศาลากลาง
-magmo หินหนืด, แม็กม่า
-magnetofono เครื่องบันทึกเสียง, เครื่องเล่นเทป
-magra ผอม, น้อย
-Mahajano (ศาสนาพุทธ) มหายาน
-majno {ZOO} นกสาลิกา, นกขุนทอง
-majoritato >> ① plimulto, ② pliaĝeco
-majoro (นาย)พันตรี
-Makabuĉo มาฆะบูชา
-makaronio มักกะโรนี
+magistrato {POL} สภาเมือง; magistratano สมาชิกของสภาเมือง; magistratejo ศาลากลาง @17-12-2024 21:39:16@
+magmo {GEOL} หินหนืด, แม็กม่า, {MAT} กรุปพอยด์ = grupoido @17-12-2024 21:39:16@
+magnetofono เครื่องบันทึกเสียง, เครื่องเล่นเทป IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Akai_GX_635D_-_edit.jpg/330px-Akai_GX_635D_-_edit.jpg] @17-12-2024 21:39:16@
+magra //(poezie)// ผอม, //(f)// น้อย, ไม่สมบูรณ์; malmagra สมบูรณ์, อุดมสมบรูณ์ @17-12-2024 21:39:16@
+Mahajano {BUD} มหายาน; mahajana เกี่ยวกับมหายาน @17-12-2024 21:39:16@
+majno {ZOO} //(PIV)// นกขุนทอง @17-12-2024 21:39:16@
+majoritato/maĵorio //(malofte)// {POL} ส่วนใหญ่,ส่วนมาก = plimulto @17-12-2024 21:39:16@
+majoro {MIL} พันตรี, นาวาอากาศตรี @17-12-2024 21:39:16@
+Makabuĉo {THA} {BUD} มาฆะบูชา @17-12-2024 21:39:16@
+makaronio {KUI} มักกะโรนี @17-12-2024 21:39:16@
 makleri //(ntr)// ค้าขายอย่างนายหน้าซื้อขาย, เป็นนายหน้า; makleraĵo ค่าบริการ, ค่าคอมมิสชั้น, ค่านายหน้า; makleristo คนกลาง, นายหน้า(ซื้อขาย)
 maksimo ศีล: la kvin maksimoj de budhismo ศีลห้าของศาสนาพุทธ; observi maksimon ถือศีล; maksimaro ศีลธรรม
 makzelo ขากรรไกร

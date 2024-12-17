@@ -1,0 +1,60 @@
+🏠	Arkitekturo
+⚔ 	Armeoj
+🔭	Astronomio kaj astrofiziko
+✈ 	Aviado
+🔬	Bakteri- kaj virus-ologio
+☆ 	Belartoj
+♧ 	Beletro
+ב 	Biblio hebrea kaj judismo
+⚥ 	Biologio kaj fiziologio (inkl. genetikon, ĉelbiologion, embriologion)
+🍁	Botaniko (inkl. vegetaĵan anatomion)
+☸ 	Budhismo
+☼ 	Ekologio kaj ekologiismo
+£ 	Ekonomiko kaj financo
+⏚ 	Elektro kaj elektrotekniko
+⚗ 	Farmacio
+🚂	Fervojoj
+Φ 	Filozofio
+☐ 	Fiziko (inkl. optikon)
+📷	Fotografio kaj kinotekniko
+⛰ 	Geodezio kaj topografio
+🌄	Geografio
+⊕ 	Geologio (inkl. mineralogion kaj petrologion)
+⛨ 	Heraldiko
+♜ 	Historio
+☪ 	Islamo
+⚖ 	Juro
+Ⓚ 	Kemio kaj biokemio
+✉ 	Komerco
+💻	Komputiko
+👥	Komunuza senco
+🏢	Konstrutekniko
+✞ 	Kristanismo
+🍴	Kuirarto kaj gastronomio
+Λ 	Lingvoscienco (inkl. fonetikon) kaj filologio
+♠ 	Ludoj
+⚓	Marnavigado kaj ŝipoj
+∆ 	Matematiko (inkl. Geometrion)
+Ⓜ 	Materiismo historia
+⚕ 	Medicino kaj kirurgio
+❄ 	Meteologio
+☉ 	Mitologio (Helena kaj Roma; alia, se precizigite)
+𝅘𝅥𝅰 	Muziko
+💀	Paleontologio
+ש 	Poeziece uzata termino
+Σ 	Politiko
+Π 	Prahistorio
+Ψ 	Psikologio kaj psikiatrio
+Θ 	Religioj (ĝeneralaĵoj; diversaj religioj escepte de budhismo, judismo, kristanismo kaj islamo)
+💡	Sciencoj
+🅢 	Sociologio
+🎭	Spektakloj (inkl. kinoaktoradon)
+⛷ 	Sporto
+📈	Statistiko
+Ⓣ 	Teknikoj (inkl. mekanikon kaj metalurgion)
+▦ 	Teksindustrio kaj vestoj
+☇ 	Telekomunikoj (inkl. radiofonion, videaĵojn kaj elektroakustikon)
+📖	Tipografarto kaj libroj
+⛗ 	Trafiko
+🚐	Veturiloj teraj
+♉	Zoologio
