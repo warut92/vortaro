@@ -3967,30 +3967,30 @@ manilkaro //(PIV)// ละมุด @22-12-2024 22:40:36@
 manuskripto เอกสารที่เขียนด้วยลายมือ, {TIP} ต้นฉบับ @22-12-2024 22:40:36@
 maratono {SPO} การวิ่งมาราธอน; duonmaratono ฮาล์ฟมาราธอน @22-12-2024 22:44:39@
 marcipano {KUI} ขนมมาร์ซิแพน (เป็นของหวานที่มีน้ำตาล น้ำผึ้ง และอัลมอนด์บดเป็นส่วนประกอบหลัก) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Marzipanschwein.jpg/330px-Marzipanschwein.jpg] @22-12-2024 22:44:39@
-marĉandi //(ntr)// {EKON} ต่อรองราคา, ต่อราคา; marĉandado การต่อรองราคา, การต่อราคา; nemarĉandema ไม่ต่อราคา @09-01-2025 12:14:27@
-margarino เนยเทียม
-marini //(tr)// หมัก(อาหารในน้ำปรุงรส)
-marioneto หุ่นกระบอก
-Markso มาร์กซ์; Marksismo ลัทธิมาร์กซ์
-marmoro หินอ่อน
-Marso ดาวอังคาร
-martiro {REL} ผู้ที่ยอมถูกทรมานหรือตายต่อความเชื่อ
-masakro การฆาตรกรรมหมู่
-masiva ใหญ่โต, หนัก
-masklo {BIO} เพศชาย
-masturbi //(tr)// สำเร็จความใคร่ด้วยตนเอง
-matĉo การแข่งขัน, นัด
-materialo อุปกรณ์, วัสดุ, วัตถุ
-matineo มหรสพตอนกลางวัน
-matrico แม่พิมพ์, แมทริกซ์
-matrikulo เลขทะเบียน: matrikulo (aŭta) แผ่นเลขหมายรถยนต์, ป้ายทะเบียนรถยนต์; matrikuli //(tr)//, enmatrikuligi ลงทะเบียน, จดทะเบียน: matrikuli aŭton ตีทะเบียนรถ; matrikuliĝi ขึึ้นทะเบียน
-maŭzoleo ที่บรรจุศพ
-mava = malbona ไม่ดี, แย่
-mecenato ผู้อุปถัมภ์ที่ร่ำรวย
-meĉo ไส้ตะเกียง, ไส้เทียนไข, สายชนวน, ชนวนระเบิด; meĉaĵo เศษไม้ ฯลฯ ที่ใช้จุดไฟ
-medaliono ล็อกเกต, ป้ายทรงวงกลมหรือวงรี
-mediano จำนวนในชุด, ค่ากลาง
-medo เหล้าน้ำผึ้ง
+marĉandi //(ntr)// {EKON} ต่อรองราคา, ต่อราคา; marĉandado การต่อรองราคา, การต่อราคา; nemarĉandema ไม่ชอบต่อราคา @09-01-2025 12:14:27@
+margarino {KUI} เนยเทียม @11-01-2025 18:47:52@
+marini //(tr)// {KUI} หมัก (ก่อนนำไปประกอบอาหาร) = pekli @11-01-2025 18:47:52@
+marioneto {TEA} หุ่นเชิด IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mexicano_marioneta_lou.jpg/270px-Mexicano_marioneta_lou.jpg]; marioneta registaro รัฐบาลหุ่นเชิด @11-01-2025 18:47:52@
+Markso {PERS} คาร์ล มาร์กซ์ //(Karl Marx (1818-1883))// เป็นผู้ก่อตั้งลัทธิมาร์กซ์; marksismo {FIL} {POL} ลัทธิมาร์กซ์ @11-01-2025 18:47:52@
+marmoro {MIN} หินอ่อน @11-01-2025 18:47:52@
+Marso {MIT} เทพเจ้าแห่งสงคราม, {AST} ดาวอังคาร; marsa {AST} เกี่ยวกับดาวอังคาร; marsano ชาวดาวอังคาร @11-01-2025 18:47:52@
+martiro {REL} ผู้ที่ยอมถูกทรมานหรือตายต่อความเชื่อ; martirigi/martiri ทรมานเนื่องจากความเชื่อ @11-01-2025 18:47:52@
+masakri //(tr)// ฆาตรกรรมหมู่, สังหารหมู่ = amasbuĉi, amasmurdi; masakro การฆาตกรรมหมู่, การสังหารหมู่ @11-01-2025 18:47:52@ 
+masiva หนาแน่น, หนัก, ใหญ่โต; masivo/masivaĵo กลุ่มของวัตถุสิ่งของที่มีมากมายและหนาแน่น @11-01-2025 18:47:52@
+masklo //(malofte)// {BIO} สิ่งมีชีวิตเพศชาย; maskla //(malofte)// เพศชาย; masklismo บุรุษนิยม, ชายเป็นใหญ่ = maĉismo @11-01-2025 18:47:52@
+masturbi //(tr)// สำเร็จความใคร่ด้วยตนเอง @11-01-2025 18:47:52@
+maĉo/matĉo {SPO} การแข่งขัน, นัด @11-01-2025 18:47:52@
+materialo วัตถุดิบ, สิ่งที่จำเป็น, อุปกรณ์, วัสดุ; materiala เกี่ยวกับวัตถุดิบ, เกี่ยวกับเงิน; materialismo วัตถุนิยม; materialisto {SCI} {FIL} นักวัตถุนิยม; krudmaterialo {EKON} วัตถุดิบ; naturmaterialo/natura materialo วัตถุดิบจากธรรมชาติ @11-01-2025 18:47:52@
+matineo //(PIV)// {TEA} มหรสพตอนกลางวัน
+matrico {TEK} {TIP} แม่พิมพ์, {FOT} {KIN} ฟิล์มเนกาทีฟ, {GEOL} [?], {MAT} {KOMP} เมทริกซ์; matrici //(tr)// พิมพ์ด้วยแม่พิมพ์ @11-01-2025 19:04:51@
+matrikulo ตารางรายชื่อผู้ที่เป็นสมาชิกขององค์กร; matrikuli //(tr)// /enmatrikuligi ลงทะเบียน, จดทะเบียน @11-01-2025 19:20:09@
+maŭzoleo {ARK} สุสานขนาดใหญ่ @11-01-2025 19:20:09@
+mava //(malofte)// //(poezie)// ไม่ดี, แย่ = malbona @11-01-2025 19:20:09@
+mecenato ผู้อุปถัมภ์ที่ร่ำรวย; mecenata เกี่ยวกับผู้อุปถัมภ์ที่ร่ำรวย; mecenati //(tr)// ให้การสนับสนุน, อุปถัมภ์; mecenateco การอุปถัมภ์ @11-01-2025 19:20:09@
+meĉo ไส้ตะเกียง, ไส้เทียนไข, สายชนวน, {MIL} ชนวนระเบิด; meĉaĵo วัสดุสำหรับเป็นชนวนติดไฟ @11-01-2025 19:20:09@
+medaliono {BELA} ล็อกเกต, {BELA} ป้ายสลักรูปนูนต่ำทรงวงกลมหรือวงรี @11-01-2025 19:20:09@
+mediano {MAT} มัธยฐาน, ค่ามัธยฐาน, แนวกลาง @11-01-2025 19:20:09@
+medo เหล้าน้ำผึ้ง 
 medolo ไขกระดูก
 Mekongo แม่น้ำโขง
 meleagro {ZOO} ไก่งวง
@@ -4726,7 +4726,7 @@ tiko อาการเขม่น
 tiktaki //(ntr)// เสียงดังติ๊กต๊อก (อย่างเสียงนาฬิกาเดิน)
 tildo เครื่องหมายทิวเดอ ( ~ ), เครื่องหมายตัวหนอน
 timida >> timema
-tindro เศษไม้(ที่ใช้จุดไฟ)
+tindro วัสดุสำหรับเป็นชนวนติดไฟ @11-01-2025 19:20:09@
 tino ถังไม้
 tinuso {ZOO} ปลาทูน่า
 tipografo ผู้ชำนาญการพิมพ์; tipografio การจัดหน้าตัวพิมพ์
