@@ -3990,24 +3990,22 @@ mecenato ผู้อุปถัมภ์ที่ร่ำรวย; mecenata 
 meĉo ไส้ตะเกียง, ไส้เทียนไข, สายชนวน, {MIL} ชนวนระเบิด; meĉaĵo วัสดุสำหรับเป็นชนวนติดไฟ @11-01-2025 19:20:09@
 medaliono {BELA} ล็อกเกต, {BELA} ป้ายสลักรูปนูนต่ำทรงวงกลมหรือวงรี IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Simonino.jpg/330px-Simonino.jpg] @11-01-2025 19:20:09@
 mediano {MAT} มัธยฐาน, ค่ามัธยฐาน, แนวกลาง @11-01-2025 19:20:09@
-medo เหล้าน้ำผึ้ง 
-medolo ไขกระดูก
-Mekongo แม่น้ำโขง
-meleagro {ZOO} ไก่งวง
-melodio ทำนองเพลง; frazmelodio เสียงสูงต่ำ >> intonacio, entonigo
-melongeno มะเขือ
-memorando บันทึก
-menstruo ระดู, ประจำเดือน, รอบเดือน = monataĵo , menstrutuko, higiena tuko ผ้าซับระดู
-mento มินต์ (พืช)
-meo (กลุ่มชาติพันธุ์) ชาวแม้ว: la mea (lingvo) ภาษาแม้ว
-merdo >> fekaĵo
-mergi //(tr)// แช่, หายเข้าไป, ผสมกลมกลืน; mergiĝi หายเข้าไป
-Merkuro ดาวพุธ
-metaforo คำอุปมา
+medo {KUI} เหล้าน้ำผึ้ง = mielvino @12-01-2025 18:30:08@
+medolo {ANA} ไขกระดูก, {BOT} ไส้อ่อนของพืชบางประเภท; ĝismedola //(frazaĵo)// เข้ากระดูก, อยู่ในสายเลือด = ĝisosta; spina medolo {ANA} ไขสันหลัง = mjelo @12-01-2025 18:30:08@
+Mekongo {GEOG} แม่น้ำโขง @12-01-2025 18:30:08@
+meleagro {ZOO} ไก่งวง @12-01-2025 18:30:08@
+melodio {MUZ} ทำนอง, ทำนองเพลง; melodia {MUZ} เป็นทำนอง; frazmelodio {LIN} ทำนองเสียง = intonacio @12-01-2025 18:30:08@
+melongeno {BOT} {KUI} มะเขือ @12-01-2025 18:30:08@
+memorando {POL} บันทึกข้อความ @12-01-2025 18:30:08@
+menstrui {FIZ} มีประจำเดือน, เป็นประจำเดือน; menstruo {FIZ} ประจำเดือน, รอบเดือน, ระดู = monataĵo, virina ordinaraĵo, monata elfluo //(PIV)// @12-01-2025 18:30:08@
+mento {BOT} {KUI} มินต์; pipromento {BOT} {KUI} เปปเปอร์มินต์ @12-01-2025 18:30:08@
+merdo //(vulgare)// ขี้, อุจจาระ = fekaĵo @12-01-2025 18:30:08@
+mergi //(tr)// แช่, หายเข้าไป; mergiĝi จุ่ม, จม, หายเข้าไป; mergiĝo การจุ่ม, การแช่; elmergi [?]; elmergiĝi {?}; submergebla ŝipo เรือที่สามารถดำน้ำได้ @12-01-2025 18:30:08@
+Merkuro {MIT} เทพเมอคิวรี่, เทพเจ้าแห่งการสื่อสาร, {AST} ดาวพุธ @12-01-2025 18:35:33@
+metaforo {BELE} {LIN} คำเปรียบเทียบ, คำอุปมาอุปไมย @12-01-2025 18:35:33@
 meteorito {AST} อุกกาบาต = aerolito @25-10-2024 11:47:48@
 meteoro {AST} ดาวตก, ผีพุ่งไต้; meteorŝtono {AST} อุกกาบาต = aerolito, meteorito @25-10-2024 11:53:48@
-meteorologio อุตุนิยมวิทยา >> veterscienco
-meteorologo นักอุตุนิยมวิทยา >> vetersciencisto
+meteorologio/meteologio {MET} {SCI} อุตุนิยมวิทยา; meteorologiisto/meteologiisto {MET} {SCI} นักอุตุนิยมวิทยา; Monda Organizaĵo pri Meteorologio/Monda Organizaĵo pri Meteologio //(MOM)//องค์การอุตุนิยมวิทยาโลก @12-01-2025 18:38:44@
 metriko เมตริก
 metropoliteno //(ark.)// = metroo
 migdalo เมล็ดอัลมอนด์
@@ -5154,7 +5152,6 @@ meandro {GEOG} แม่น้ำคดเคี้ยว @01-01-2023-w@
 sapei //(tr)// {MIL} ขุดเพื่อทำลายฐานราก, ขุดทำลาย @01-01-2023-w@
 karcero คุกใต้ดิน, คุก = malliberejo @01-01-2023-w@
 kamufli //(tr)// พราง, ซ่อนความรู้สึก = kaŝmaski @01-01-2023-w@
-mistifiki //(tr)// หยอก, หลอกแกล้ง = mistifi @01-01-2023-w@
 apokalipso {BIB} พระธรรมวิวรณ์; apokalipsa เลวร้ายอย่างวันสิ้นโลก @01-01-2023-w@
 kapitulaco {MIL} การยอมจำนน, การยอมแพ้ @01-01-2023-w@
 likvidi {EKON} //(tr)// ปิด, ยกเลิก (กิจการ) @01-01-2023-w@
@@ -5223,7 +5220,7 @@ universo จักรวาล, สากลโลก @01-01-2023-w@
 aspergi //(tr)// พรมน้ำ; aspergilo เครื่องพ่นน้ำ @01-01-2023-w@
 subjunkcio {LIN} สันธานเชื่อมประโยคหลักกับประโยครอง @01-01-2023-w@
 monsinjoro {KRI} มงซินญอร์ (Monsignor) เป็นตำแหน่งทรงเกียรติที่พระสันตะปาปามอบให้บาทหลวงที่ทำงานให้กับศาสนจักรคาทอลิกดีเป็นพิเศษ @01-01-2023-w@
-mistika {REL} น่าเลื่อมใส, น่าศรัทธา @01-01-2023-w@
+mistika {REL} น่าเลื่อมใส, น่าศรัทธา[?] @01-01-2023-w@
 nebulozo {AST} เนบิวลา @01-01-2023-w@
 nektaro {BIO} น้ำหวานจากเกสรดอกไม้ @01-01-2023-w@
 bucero {ZOO} นกเงือก @01-01-2023-w@
