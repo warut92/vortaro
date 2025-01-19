@@ -4028,23 +4028,23 @@ mitulo {ZOO} หอยแมงภู่ IMG:[https://upload.wikimedia.org/wikip
 mobilizi //(tr)// {MIL} ระดมกำลัง, ระดมพล; mobilizo การระดมกำลัง, การระดมพล; malmobilizi //(tr)// {MIL} ถอนกำลัง, ลดกำลัง; malmobilizo การถอนกำลัง, การลดกำลัง @14-01-2025 18:32:38@
 modli //(tr)// ปั้น; moldilo อุปกรณ์สำหรับปั้น @14-01-2025 18:42:22@
 modo {TEKS} แฟชั่น, ทันสมัย, ความนิยม; moda เกี่ยวกับแฟชั่น; modemulo ชายผู้ตามแฟชั่น; modistino {TEKS} หญิงผู้ตามแฟชั่น; eksmoda ล้าสมัย; elmodiĝi/eksmodiĝi //(ntr)// ล้าสมัย; enmodiĝi //(ntr)// กลายเป็นแฟชั่น; laŭmoda ตามแฟชั่น, ตามความนิยม, โก้ @14-01-2025 18:42:22@
-modo {GRA} มาลา เช่น neŭtrala modo (infinitivo): i-finaĵo, reala modo (indikativo) นิเทศมาลา เช่น as-finaĵo, is-finaĵo, os-finaĵo, vola modo (imperativo) อาณัติมาลา เช่น u-finaĵo, imaga modo (kondicionalo) เงื่อนไขมาลา เช่น us-finaĵo
-molesti รังแก
-monarkio พระมหากษัตริย์: absoluta monarkio สมบูรณาญาสิทธิราช; konstitucia monarkio พระมหากษัตริย์ภายใต้รัฐธรรมนูญ
-monopolo การผูกขาด, การมีเอกสิทธิ์; monopoligi ผูกขาด
-Monopolo เกมเศรษฐี
-morfemo {LIN} หน่วยของภาษาที่มีความหมายที่เล็กที่สุด, หน่วยคำ >> vortelemento
-moro ขนบธรรมเนียม, วิถีชีวิต
-mortero ปูนก่อสร้าง
-Moskvo กรุงมอสโก
-mugilo {ZOO} ปลากระบอก
-muko: okulmuko ขี้ตา
-muldi //(tr)// พิมพ์ (ในแม่พิมพ์); muldilo แม่พิมพ์
-municipo เทศบาล
-muskato จันทน์เทศ
-musko ขี้ตะไคร่
-muslino ผ้ามัสลิน
-musono มรสุม: musona sezono หน้ามรสุม
+modo {GRA} มาลา (เป็นประเภททางไวยากรณ์ที่ใช้กับคำกริยา มีหน้าที่แสดงว่าผู้พูดมีต่อทัศนคติต่อเหตุการณ์หรือเรื่องที่พูดอย่างไร) = moduso, {GRA} = verba modalo @19-01-2025 19:31:14@
+molesti //(malofte)// //(tr)// รังแก, กลั่นแกล้ง @19-01-2025 19:31:14@
+monarkio {JUR} การปกครองโดยมีพระมหากษัตริย์เป็นประมุข, ราชาธิปไตย, ระบอบกษัตริย์: absoluta monarkio สมบูรณาญาสิทธิราช; konstitucia monarkio พระมหากษัตริย์ภายใต้รัฐธรรมนูญ, {POL} ประเทศที่ปกครองโดยกษัตริย์ @19-01-2025 19:31:14@
+monopolo การผูกขาด, การมีเอกสิทธิ์; monopoligi //(tr)// ผูกขาด @19-01-2025 19:31:14@
+Monopolo //(Viki)// เกมเศรษฐี
+morfemo {GRA} หน่วยคำ (หน่วยของภาษาที่มีความหมายที่เล็กที่สุด) >> vortero @19-01-2025 19:31:14@
+moro วิถีชีวิต, ขนบธรรมเนียม, จารีต; facilmora วิถีชีวิตที่เรียบง่าย @19-01-2025 19:31:14@
+mortero {KON} ปูนก่อสร้าง @19-01-2025 19:31:14@
+Moskvo {GEOG} กรุงมอสโก (เมืองหลวงประเทศรัสเซีย); moskvano ชาวเมืองมอสโก; Moskvo-rivero {GEOG} แม่น้ำมอสควา @19-01-2025 19:31:14@
+mugilo {ZOO} ปลากระบอก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mugil_cephalus1.jpg/450px-Mugil_cephalus1.jpg] @19-01-2025 19:31:14@
+muko {FIL} สารคัดหลั่ง, เมือก; muka เป็นเมือก; nazmuko {FIL} น้ำมูก; nazmukulo //(vulgare)// เด็กเล็กที่มีนิสัยดื่อซน @19-01-2025 19:31:14@
+muldi //(tr)// {TEK} พิมพ์ (ด้วยแม่พิมพ์); muldo การพิมพ์หรือสิ่งที่พิมพ์ออกมา; muldadการพิมพ์; muldaĵo สิ่งที่พิมพ์ออกมา; muldilo แม่พิมพ์, เบ้าหล่อ, บล็อก; muldisto ช่างพิมพ์; elmuldigi เอาออกจากแม่พิมพ์ @19-01-2025 19:31:14@
+municipo {POL} เทศบาล @19-01-2025 19:31:14@
+muskato {KUI} ลูกจันทน์เทศ; muskatarbo/muskatujo ต้นจันทน์เทศ; muskatvino {KUI} ไวน์มัสกัต @19-01-2025 19:31:14@
+musko {BOT} มอสส์ @19-01-2025 19:31:14@
+muslino {TEKS} ผ้ามัสลิน (เป็นผ้าชนิดบาง) @19-01-2025 19:31:14@
+musono {MET} ลมมรสุม; somera musono {MET} {KAL} ลมมรสุมฤดูร้อน; vintra musono {MET} {KAL} ลมมรสุมฤดูหนาว @19-01-2025 19:31:14@
 <!-- N -->
 nabo {TEK} ดุมล้อ, ศูนย์กลาง, {KOMP} ฮับ @22-04-2024 23:52:16@
 nafto {MIN} น้ำมันดิบ; naftoputo {TEK} บ่อน้ำมัน; naftoŝipo {MAR} เรือบรรทุกน้ำมัน @23-04-2024 12:03:38@
