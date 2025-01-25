@@ -4651,23 +4651,21 @@ svetero เสื้อกันหนาว
 ŝramano {BUD} {HIN} พระที่ถือสันโดษ @24-03-2024 18:11:50@
 ŝutro {ARKI} บานเกล็ดชัตเตอร์; rulŝutro {ARKI} บานเกล็ดชัตเตอร์; latŝutro บานเกล็ดชัตเตอร์ไม้ @24-03-2024 18:11:50@
 <!-- T -->
-T-ĉemizo เสื้อ (ยืดคอกลม)
-tabano {ZOO} ตัวเหลือบ
-tabo {KOMP} แท็บ
-tabuo ข้อห้าม
-tabureto เก้าอี้ไม่มีพนัก
-taĉmento หน่วยทหารที่ถูกส่งไปปฏิบัติการ >> unuo, skipo, teamo
-taĝiko ชาวทาจิก: la taĝika (lingvo) ภาษาทาจิก; Taĝikio ประเทศทาจิกิสถาน
+tabano {ZOO} ตัวเหลือบ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gemeine_Viehbremse_Tabanus_bromius_1.jpg/360px-Gemeine_Viehbremse_Tabanus_bromius_1.jpg] @19-01-2025 19:35:25@
+tabo {KOMP} {TIP} แท็บ @25-01-2025 12:14:48@
+tabuo {REL} ข้อห้าม; tabua เกี่ยวกับข้อห้าม, เป็นสิ่งต้องห้าม; tabui //(tr)// รักษาหรือห้ามไว้ด้วยข้อห้าม @25-01-2025 12:14:48@
+tabureto เก้าอี้ไม่มีพนัก, เก้าอี้หัวโล้น IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TabouretAFDB.jpg/255px-TabouretAFDB.jpg] @25-01-2025 12:14:48@
+taĉmento {MIL} หน่วยทหารที่ถูกส่งไปปฏิบัติการ; taĉmenti //(tr)// เข้าร่วมกับหน่วยทหาร @25-01-2025 12:14:48@
 tajdo {MAR} น้ำขึ้นน้ำลง; alta tajdo //(evidente)// น้ำทะเลสูง; malalta tajdo //(evidente)// น้ำทะเลลง; nigra tajdo/naftotajdo {EKOL} น้ำมันรั่วไหลลงทะเล @30-11-2024 15:34:35@
-tajfuno พายุไต้ฝุ่น
-taktiko กลยุทธ, เคล็ด, {MIL} ยุทธวิธี
-talk(opudr)o แป้ง
-talpo {ZOO} ตัวตุ่น
-tamarindo มะขาม: tamrinda kremaĵo น้ำมะขาม
-tanko {MIL} รถถัง
-tantiemo ส่วนแบ่งในผลกำไร
-taoismo {REL} ลัทธิเต๋า
-tapioko แป้งมันสำปะหลัง
+tajfuno {MET} ไต้ฝุ่น, พายุไต้ฝุ่น @25-01-2025 12:14:48@
+taktiko {MIL} ยุทธวิธี, กลยุทธ, //(f)// เคล็ดลับ @25-01-2025 12:14:48@
+talk(opudr)o แป้ง[?] @25-01-2025 13:04:03@
+talpo {ZOO} ตัวตุ่น; talpejo ที่อยู่อาศัยของตัวตุ่น, รังตุ่น, //(komune)// ทางเดินที่ตัวตุ่นขุด @25-01-2025 13:04:03@
+tamarindo {BOT} มะขาม @25-01-2025 13:04:03@
+tanko {MIL} รถถัง @25-01-2025 13:04:03@
+tantiemo {EKON} ส่วนแบ่งในผลกำไร @25-01-2025 13:04:03@
+tao/daŭo {FIL} เต๋า; daŭismo/taoismo {FIL} {REL} ลัทธิเต๋า; taoisto/daŭisto {REL} นักพรตเต๋า (เต้าชื่อ) @25-01-2025 13:04:03@
+tapioko {KUI} แป้งมันสำปะหลัง @25-01-2025 13:04:03@
 taroko ไพ่ทาโรต์, ไพ่ยีปซี
 tatuo รอยสัก
 taŭro >> virbovo, Taŭro {AST} ราศีพฤษก
@@ -4952,6 +4950,7 @@ Sud-Afriko {GEOG} {POL} ประเทศแอฟริกาใต้
 Sud-Koreio {GEOG} {POL}ประเทศเกาหลีใต้
 svedo ชาวสวีเดน: svedleda เกี่ยวกับหนังกลับชนิดนุ่ม; la sveda (lingvo) ภาษาสวีเดน; Svedio {GEOG} {POL} ประเทศสวีเดน
 sviso ชาวสวิตเซอร์แลนด์; Svisio/Svislando {GEOG} {POL} ประเทศสวิตเซอร์แลนด์
+taĝiko ชาวทาจิก: la taĝika (lingvo) ภาษาทาจิก; Taĝikio ประเทศทาจิกิสถาน
 tajo [x] คนไทย, ชาวไต; taja [x] เกี่ยวกับไทย, เกี่ยวกับไต: la taja (lingvo) ภาษาไทย; Tajlando [x] {GEOG} {POL} ประเทศไทย; tajlandano [w] คนไทย @28-10-2024 22:15:30@
 Tajvano {GEOG} {POL} ไต้หวัน; tajvanano ชาวไต้หวัน
 Tanzanio {GEOG} {POL} ประเทศแทนซาเนีย; tanzaniano ชาวแทนซาเนีย
@@ -5456,5 +5455,7 @@ kronometro {TEK} นาฬิกาที่มีความเที่ยง
 perimetro {MAT} เส้นรอบรูป, เส้นรอบวง @12-12-2024 20:18:27@
 despera หมดหวัง, สิ้นหวัง, ซึ่งทำโดยไม่สนอะไรทั้งนั้น, เอาเป็นเอาตาย; desperulo คนหมดหวัง, ผู้ที่สิ้นหวัง, ผู้ที่ทำทุกอย่างโดยไม่สนความเสี่ยง @16-12-2024 21:25:58@
 maksilo {ANA} ขากรรไกรบน @22-12-2024 18:45:42@
+incesto การร่วมประเวณีกับญาติสนิท = sangadulto @25-01-2025 12:14:48@
+manioko {BOT} มันสำปะหลัง @25-01-2025 13:04:03@
 >.
 `
