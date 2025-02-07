@@ -4666,14 +4666,14 @@ tanko {MIL} รถถัง @25-01-2025 13:04:03@
 tantiemo {EKON} ส่วนแบ่งในผลกำไร @25-01-2025 13:04:03@
 tao/daŭo {FIL} เต๋า; daŭismo/taoismo {FIL} {REL} ลัทธิเต๋า; taoisto/daŭisto {REL} นักพรตเต๋า (เต้าชื่อ) @25-01-2025 13:04:03@
 tapioko {KUI} แป้งมันสำปะหลัง @25-01-2025 13:04:03@
-taroko ไพ่ทาโรต์, ไพ่ยีปซี
-tatuo รอยสัก
-taŭro >> virbovo, Taŭro {AST} ราศีพฤษก
-taŭtologio การใช้คำซ้ำกันโดยไม่จำเป็น
-taŭzi //(tr)// ขยี้ (ผม), ทำให้ยุ่ง; taŭzita หย็อกหย็อย, รุงรัง
-taverno โรงขายเหล้า, ผับ
-Teherano/Tehrano เตหะราน
-teismo เทวนิยม >> ateismo
+taroko {SPO} ไพ่ทาโรต์, ไพ่ยีปซี @07-02-2025 22:06:51@
+tatui //(tr)// สัก, สักยันต์; tatuaĵo/tatuo //(PIV)// รอยสัก @07-02-2025 22:06:51@
+taŭro {ZOO} วัวตัวผู้ = virbovo; Taŭro //(PIV)// {AST} กลุ่มดาววัว, กลุ่มดาวพฤษภ, ราศีพฤษก @07-02-2025 22:06:51@
+taŭtologio {FIL} การใช้คำซ้ำกันโดยไม่จำเป็น ซึ่งคำเหล่านั้นมีความหมายเหมือนกัน @07-02-2025 22:06:51@
+taŭzi //(tr)// ขยี้, ขยำ, ทำให้ยุ่ง; taŭzi la nervojn //(frazaĵo)// ปั่นประสาท, ยั่วโมโหอย่างต่อเนื่อง @07-02-2025 22:06:51@
+taverno ร้านเหล้า @07-02-2025 22:06:51@
+Teherano/Tehrano {GEOG} {POL} เตหะราน (เมืองหลวงประเทศอิหร่าน) @07-02-2025 22:06:51@
+teismo {FIL} เทวนิยม = deismo, >> ateismo @07-02-2025 22:06:51@
 teknologio เทคโนโลยี, วิชาการ: teknologio de informado kaj komunikado (ย่อ TIKO) เทคโนโลยีสารสนเทศ
 teko กระเป๋าเอกสาร; tekkomputilo คอมพิวเตอร์แบบหิ้ว
 tektono ไม้สัก; tektonarbo ต้นสัก; tektonligno ไม้สัก
