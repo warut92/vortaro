@@ -4674,20 +4674,20 @@ taŭzi //(tr)// ขยี้, ขยำ, ทำให้ยุ่ง; taŭzi la 
 taverno ร้านเหล้า @07-02-2025 22:06:51@
 Teherano/Tehrano {GEOG} {POL} เตหะราน (เมืองหลวงประเทศอิหร่าน) @07-02-2025 22:06:51@
 teismo {FIL} เทวนิยม = deismo, >> ateismo @07-02-2025 22:06:51@
-teknologio เทคโนโลยี, วิชาการ: teknologio de informado kaj komunikado (ย่อ TIKO) เทคโนโลยีสารสนเทศ
-teko กระเป๋าเอกสาร; tekkomputilo คอมพิวเตอร์แบบหิ้ว
-tektono ไม้สัก; tektonarbo ต้นสัก; tektonligno ไม้สัก
-tele ใช้เติมหน้าคำ แปลว่า ไกลหรือโทร- เช่น telobjektivo เลนส์ที่ขยายภาพที่อยู่ไกลให้เห็นใหญ่ขึ้น
-telekso เทเล็กซ์ (ชื่อโทรเลขสาธารณะ)
-telemetro เครื่องหาระยะ
-telepatio โทรจิต
-teleskopo กล้องโทรทรรศน์, กล้องดูดาว
-telfero รถกระเช้าที่ลากด้วยสายเคเบิลหรือสายเชือก
-telkele {EKON} ไม่มีประกัน
-tembro ลักษณะของเสียงพูดหรือเสียงเครื่องดนตรี น้ำเสียง, โทนเสียง, สีสันของเสียง = sonkoloro
-temperamento นิสัยใจคอ, วิสัย
-tempio {ANA} ขมับ
-templo วัด, โบสถ์; temploira tago วันไปวัด; templulo เด็กวัด
+teĥnologio/teknologio {TEK} เทคโนโลยี; teĥnologia/ teknologia เกี่ยวกับเทคโนโลยี; teĥnologiisto/teknologiisto {TEK} ผู้เชี่ยวชาญทางเทคโนโลยี = teĥnologo, teknologo @08-02-2025 22:10:17@
+teko กระเป๋าเอกสาร @08-02-2025 22:30:16@
+tektono {BOT} ต้นสัก, ไม้สัก @08-02-2025 22:30:16@
+tele //(pref)// โทร-, ทางไกล : //telekomuniki, telekopio, telemezuri, teleobjektivo, teleregi, teletajpilo, televido// @08-02-2025 22:30:16@
+telekso {TEL} เทเลกซ์ (ชื่อโทรเลขสาธารณะ); teleksilo/ teleksaparato/teleksmaŝino {TEL} เครื่องรับส่งเทเลกซ์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Telex_machine_ASR-32.jpg/1024px-Telex_machine_ASR-32.jpg] @08-02-2025 22:30:16@
+telemetro {TEK} เครื่องวัดระยะทางไกล, โทรมาตร = telemezurilo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dropsonde_U.S._Air_Force.jpeg/800px-Dropsonde_U.S._Air_Force.jpeg] @08-02-2025 22:43:34@
+telepatio {PSI} โทรจิต @08-02-2025 22:43:34@
+teleskopo {AST} {FOT} กล้องโทรทรรศน์, กล้องดูดาว; Teleskopo {AST} กลุ่มดาวกล้องโทรทรรศน์; raditeleskopo/radioteleskopo กล้องโทรทรรศน์วิทยุ @08-02-2025 22:43:34@
+telfero {TRA} รถกระเช้าที่ลากด้วยสายเคเบิลหรือสายเชือก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Telef%C3%A9rico_Salta.jpg/800px-Telef%C3%A9rico_Salta.jpg] @08-02-2025 22:43:34@
+telkele //(PIV)// //(Komerco)// ไม่มีการรับประกัน, ไม่มีประกัน @08-02-2025 22:45:32@
+tembro {MUZ} โทนเสียง, สีสันของเสียง, {FON} น้ำเสียง = sonkoloro @08-02-2025 22:51:06@
+temperamento นิสัยใจคอ, อารมณ์ @08-02-2025 22:51:06@
+tempio {ANA} ขมับ @08-02-2025 22:51:06@
+templo วัด, โบสถ์, วิหาร @08-02-2025 22:51:06@
 tempuro (อาหารญี่ปุ่น) เทมปุระ
 tenaca {TEK} ไม่เปราะบาง, ทนทาน
 tenajlo คีม
