@@ -4696,18 +4696,20 @@ tenebro //(poezie)// ความมืดสนิท, ความมืดม
 tenio {ZOO} {MED} พยาธิตัวตืด @12-02-2025 12:06:22@
 tenoro {MUZ} โทนเสียงเทเนอน์, นักร้องเพลงที่มีเสียงระดับสูงสุดของผู้ชาย = tenorulo @12-02-2025 12:06:22@
 tensio {ELE} แรงไฟฟ้า, {MED} ความตึงเครียด, //(f)// ความเครียด; kontinua tensio/konstanta tensio {ELE} ไฟฟ้ากระแสตรง @12-02-2025 12:06:22@
-tenso {LIN} กาล = verba tempo เช่น simplaj, malsimplaj (kompleksaj) tensoj, prezenco >> nuntempo ปัจจุบันกาล เช่น as-finaĵo, preterito >> pasinta tempo อดีตกาล เช่น is-finaĵo, futuro >> venonta tempo อนาคตกาล เช่น os-finaĵo
-teologo นักเทววิทยา; teologiio เทววิทยา, ศาสนศาสตร์
-terakoto เครื่องปั้นดินเพาชนิดไม่เคลือบเนื้อสีอิฐ; terakotkolora สีอิฐ
-terapeŭto = terapiisto นักบำบัดโรค
-terapio การบำบัด; terapiisto นักบำบัดโรค
-teraplano ยานที่แล่นลอยไปตามผิวดินหรือผิวน้ำ
-Teravado (ศาสนาพุทธ) นิกายเถรวาท
-termino {LIN} คำศัพท์เฉพาะทาง; terminaro พจนานุกรมศัพท์เฉพาะ: matematika terminaro พจนานุกรมศัพท์คณิตศาสตร์; ekonomia terminaro พจนานุกรมศัพท์เศรษฐศาสตร์
-terminologio ศัพทวิทยา (วิชาว่าด้วยคำศัพท์)
-termito ปลวก; termitejo จอมปลวก
-termo {MAT} พจน์
-termo เกี่ยวกับความร้อน เช่น termdinamiko อุณหพลศาสตร์; termmetro เครื่องวัดอุณหภูมิ, ปรอท
+tenso {GRA} กาล @12-02-2025 13:41:06@
+teologo {REL} นักเทววิทยา @12-02-2025 13:41:06@ 
+teologiio {REL} เทววิทยา, ศาสนศาสตร์; teologiisto นักเทววิทยา @12-02-2025 13:41:06@
+terakoto เทอราคอตต้า (วัสดุที่ทำมาจากดินที่ถูกเผาเพื่อใช้ในการทำเครื่องปั้นดินเผามีเนื้อสีอิฐ); terakota เกี่ยวกับเทอราคอตต้า; terakotaĵo {BELA} เครื่องปั่นดินเผาเทอราคอตต้า IMG:[https://upload.wikimedia.org/wikipedia/commons/a/af/Terracotta_horse_from_Bishnupur_Bankura.jpg] @12-02-2025 13:41:06@
+terapeŭto //(PIV)// //(ark.)// นักบำบัดโรค = terapiisto @12-02-2025 13:41:06@
+terapio {MED} การบำบัด; terapii บำบัด; terapiisto  {MED} นักบำบัดโรค; galvanoterapio {MED} การบำบัดด้วยไฟฟ้า; seroterapio {MED} การบำบัดด้วยเซรุ่ม; hormonterapio {MED} การบำบัดด้วยฮอร์โมน @12-02-2025 13:41:06@
+teraplano //(PIV)// เรือสะเทินน้ำสะเทินบก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LCAC-55_maneuvers_to_enter_the_well_deck.jpg/1024px-LCAC-55_maneuvers_to_enter_the_well_deck.jpg] @12-02-2025 14:00:10@
+Teravado {BUD} นิกายเถรวาท; Teravada เกี่ยวกับเถรวาท @12-02-2025 14:00:10@
+termino {LIN} คำศัพท์เฉพาะทาง; terminaro {LIN} พจนานุกรมศัพท์เฉพาะ; terminaristo //(malofte)// ผู้ที่ศึกษาเกี่ยวกับคำศัพท์เฉพาะทาง @12-02-2025 14:00:10@
+terminologio {LIN} ศัพทวิทยา (วิชาว่าด้วยคำศัพท์), ศัพท์บัญญัติ, พจนานุกรมศัพท์เฉพาะทางฉบับสมบูรณ์ @12-02-2025 14:00:10@
+termito ปลวก; termitejo //(PIV)// จอมปลวก @12-02-2025 14:00:10@
+termo {MAT} พจน์ @12-02-2025 14:00:10@
+termo {ARK} โรงอาบน้ำของชาวโรมันโบราณ @12-02-2025 14:00:10@
+termo- //(PIV)// เกี่ยวกับความร้อน @12-02-2025 14:00:10@
 termoso กระติกท้ำร้อนหรือน้ำเย็น >> varmbotelo
 termostato เครื่องปรับอุณหภูมิให้คงที
 teroro ความหวั่นกลัวเป็นการใหญ่; teror(iz)i //(tr)// ทำให้ตกใจ, ทำให้หวาดกลัว; terorismo ลัทธิก่อการร้าย; teroristo ผู้ก่อการร้าย
