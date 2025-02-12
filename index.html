@@ -23,11 +23,17 @@
 <input id="checkbox" type="checkbox" onclick="sercxi()">
 <label id="sercxoLingvo">kapvorto</label><br>
 <input id="enigo" name="via_ujo" oninput="sercxi()" onfocus="sercxi()"></input>
+<button id="forigi" onclick="forigi()">🗑</button>
 <span id="aliaj-fontoj"></span>
 <script>
 type="text/javascript">
 document.getElementById("enigo").addEventListener("keyup",
 function(event){eotajpu(this,event);}, true);
+//forigi enigaĵojn
+function forigi() {
+  document.getElementById("enigo").value = "";
+  sercxi();
+}
 </script>
 <div id="preciza_eligo"></div>
 <div id="eligo"></div>

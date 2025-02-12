@@ -41,8 +41,16 @@ h {
   font-size: 22px;
   border: 2px solid #89E682;
   border-radius: 4px;
-  width: 100%;
+  width: 90%;
   padding: 0;
+}
+
+#forigi {
+  font-size: 19px;
+  color: aliceblue;
+  border: 2px solid #89E682;
+  border-radius: 4px;
+  background-color: black;
 }
 
 label {
