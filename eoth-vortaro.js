@@ -4688,14 +4688,14 @@ tembro {MUZ} โทนเสียง, สีสันของเสียง, 
 temperamento นิสัยใจคอ, อารมณ์ @08-02-2025 22:51:06@
 tempio {ANA} ขมับ @08-02-2025 22:51:06@
 templo วัด, โบสถ์, วิหาร @08-02-2025 22:51:06@
-tempuro (อาหารญี่ปุ่น) เทมปุระ
-tenaca {TEK} ไม่เปราะบาง, ทนทาน
-tenajlo คีม
-tendeno แถบเอ็น
-tenebro ความมืดมน, ความหมองเศร้า = mallumo
-tenio {ZOO} ตัวตืด
-tenor(ul)o {MUZ} นักร้องเพลงที่มีเสียงระดับสูงสุดของผู้ชาย, โทนเสียงเทเนอน์
-tensio {ELE} {MED} ความตึงเครียด
+tempuro {KUI} เทมปุระ (อาหารญี่ปุ่น) @12-02-2025 12:06:22@
+tenaca //(malofte)// ไม่เปราะบาง, ทนทาน @12-02-2025 12:06:22@
+tenajlo {TEK} คีม IMG:[https://upload.wikimedia.org/wikipedia/commons/1/18/Pincers.jpg] @12-02-2025 12:06:22@
+tendeno {ANA} เอ็นกล้ามเนื้อ = kartilago @12-02-2025 12:06:22@
+tenebro //(poezie)// ความมืดสนิท, ความมืดมิด, ความมืดมน; tenebra มืดสนิท, มืดมิด, มืดมน @12-02-2025 12:06:22@
+tenio {ZOO} {MED} พยาธิตัวตืด @12-02-2025 12:06:22@
+tenoro {MUZ} โทนเสียงเทเนอน์, นักร้องเพลงที่มีเสียงระดับสูงสุดของผู้ชาย = tenorulo @12-02-2025 12:06:22@
+tensio {ELE} แรงไฟฟ้า, {MED} ความตึงเครียด, //(f)// ความเครียด; kontinua tensio/konstanta tensio {ELE} ไฟฟ้ากระแสตรง @12-02-2025 12:06:22@
 tenso {LIN} กาล = verba tempo เช่น simplaj, malsimplaj (kompleksaj) tensoj, prezenco >> nuntempo ปัจจุบันกาล เช่น as-finaĵo, preterito >> pasinta tempo อดีตกาล เช่น is-finaĵo, futuro >> venonta tempo อนาคตกาล เช่น os-finaĵo
 teologo นักเทววิทยา; teologiio เทววิทยา, ศาสนศาสตร์
 terakoto เครื่องปั้นดินเพาชนิดไม่เคลือบเนื้อสีอิฐ; terakotkolora สีอิฐ
@@ -5459,5 +5459,6 @@ manioko {BOT} มันสำปะหลัง @25-01-2025 13:04:03@
 kavaliro ชายสูงศักดิ์ที่เป็นที่หมายปองของหญิง, อัศวิน, {SPO} ม้า (หมากรุก) @04-02-2025 21:28:52@
 teŭtono {HIS} ชาวทิวทัน (ชนเผ่าเยอรมันที่อพยบจากคาบสมุทรจัตแลนด์จนถึงอิตาลี 120 ก่อนคริสตกาล) @04-02-2025 21:28:52@
 rabeno {REL} รับบี (ผู้นำในศาสนายูดาห์) @04-02-2025 21:28:52@
->.
+kastoro {ZOO} บีเวอร์ (สัตว์เลี้ยงลูกด้วยนมฟันแทะในเขตฮอลอาร์กติก) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/440px-American_Beaver.jpg] @12-02-2025 12:06:22@
+kriĉi //(ntr)// ส่งเสียงแหลมดังอย่างนก; kriĉ //(sonimito)// เสียงแหลมดัง; kriĉo เสียงแหลมดัง @12-02-2025 12:06:22@
 `
