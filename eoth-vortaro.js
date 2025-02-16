@@ -3712,7 +3712,7 @@ katedro เก้าอี้ตำแหน่งศาสตราจารย
 katoliko ผู้ที่นับถือคริสต์ศาสนานิกายโรมันคาทอลิก; katolikismo คริสต์ศาสนานิกายโรมันคาทอลิก
 katuno ผ้าฝ้าย
 kaviaro คาเวียร์
-kazeo นมที่ข้นแข็ง; sojkazeo เต้าหู้
+kazeo {KUI} นมที่มีเนื้อข้นและเป็นครีม; sojkazeo เต้าหู้ @16-02-2025 10:20:54@
 kazerno ค่ายทหาร, โรงนอนขนาดใหญ่
 kazino บ่อนคาสิโน
 KD ย่อมาจาก kompakta disko ซีดี
@@ -4730,13 +4730,14 @@ tipografo {TIP} ผู้ชำนาญการพิมพ์ = tipografiisto
 tipografio การจัดหน้าตัวพิมพ์; tipografia เกี่ยวกับการจัดตัวพิมพ์; tipografiisto {TIP} ผู้ชำนาญการพิมพ์ @12-02-2025 16:09:30@
 tirano {POL} ทรราช, {HIS} ผู้ปกครองแบบเผด็จการในยุคกรีกโบราณ; tirana เกี่ยวกับทรราช; tirani //(x)// กระทำหรือปกครองแบบทรราช, กดขี่, แกล้ง, ข่มเหง, บีบบังคับ; tiraneco ระบบการปกครองแบบทรราช @16-02-2025 09:57:18@
 toasto การดื่มอวยพร = tosto, {KUI} ขนมปังปิ้ง = rostpano @16-02-2025 10:04:40@
-tofeo ลูกอม, ทอฟฟี่
-tofuo เต้าหู้ = sojkazeo
-tohuvabohuo ความยุ่งเหยิง
-Tokio กรุงโตเกียว
-toksino {MED} พิษ
-tokso {KEM} ยาพิษ; toksologio พิษวิทยา
-tomjamo ต้มยำ
+tofeo //(PIV)// {KUI} ลูกอมทอฟฟี่ (ทำจากคาราเมล) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/QS_Toffee_Penny_RPMG.jpg/330px-QS_Toffee_Penny_RPMG.jpg] @16-02-2025 10:20:54@
+tofuo/toŭfuo/tohuo {KUI} เต้าหู้ = sojkazeo @16-02-2025 10:20:54@
+tohuvabohuo //(malofte)// ความยุ่งเหยิง, อลหม่าน @16-02-2025 10:46:42@
+Tokio {GEOG} โตเกียว (เมืองหลวงประเทศญี่ปุ่น) @16-02-2025 10:20:54@ 
+toksino {FIZL} พิษ, ชีวพิษ @16-02-2025 10:46:42@
+tokso //(PIV)// {MED} {BIO} ยาพิษ; toksa เป็นพิษ; toksaĵo ยาพิษ, สารพิษ; maltoksigo/sentoksigo 	การขับสารพิษ, การถอนพิษ @16-02-2025 10:46:42@
+toksologio/toksikologio {MED} พิษวิทยา = venenoscienco @16-02-2025 10:46:42@
+tomjamo {THA} ต้มยำ @16-02-2025 10:46:42@
 tonelo {MAR} หน่วยความจุอย่างหนึ่งของเรือ; tonelaro ความจุภายในเรือ
 toniko {MED} ยาบำรุง, {MUZ} โน้ตโทนิก (โน้ตขั้นที่ 1 ของบันไดเสียง)
 Tonkino อ่าวตังเกี๋ย

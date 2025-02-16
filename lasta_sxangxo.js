@@ -1,1 +1,1 @@
- let lastaTempo = "16-02-2025 10:03:55";
+ let lastaTempo = "16-02-2025 10:46:18";
