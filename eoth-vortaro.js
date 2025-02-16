@@ -4738,16 +4738,17 @@ toksino {FIZL} พิษ, ชีวพิษ @16-02-2025 10:46:42@
 tokso //(PIV)// {MED} {BIO} ยาพิษ; toksa เป็นพิษ; toksaĵo ยาพิษ, สารพิษ; maltoksigo/sentoksigo 	การขับสารพิษ, การถอนพิษ @16-02-2025 10:46:42@
 toksologio/toksikologio {MED} พิษวิทยา = venenoscienco @16-02-2025 10:46:42@
 tomjamo {THA} ต้มยำ @16-02-2025 10:46:42@
-tonelo {MAR} หน่วยความจุอย่างหนึ่งของเรือ; tonelaro ความจุภายในเรือ
-toniko {MED} ยาบำรุง, {MUZ} โน้ตโทนิก (โน้ตขั้นที่ 1 ของบันไดเสียง)
-Tonkino อ่าวตังเกี๋ย
-tonsilo ต่อมทอนซิล
-topografio ภูมิประเทศ
-tornado พายุหมุน, พายุทอร์นาโด, ลมงวงช้าง
-torni //(tr)// กลึง; tornilo เครื่องกลึง; tornisto ช่างกลึง
-tornistro = dorsosako กระเป๋าเป้
-torpedo ตอร์ปิโด; torpedi //(tr)// ยิงด้วยตอร์ปิโด
-torso ลำตัว
+tonelo {SHI} หน่วยความจุของเรือ มีค่าเท่ากับ 2.83 ม<sup>3</sup>; tonelaro //(PIV)// ความจุภายในเรือ @16-02-2025 18:18:06@
+toniko {MED} ยาบำรุง, {KUI} น้ำโทนิค @16-02-2025 18:18:06@
+toniko {MUZ} โน้ตโทนิก (โน้ตลำดับที่ 1 ของบันไดเสียง) @16-02-2025 18:18:06@
+Tonkino //(PIV)// {GEOG} ตังเกี๋ย (เป็นส่วนที่อยู่ทางเหนือสุดของประเทศเวียดนาม) @16-02-2025 18:18:06@
+tonsilo {ANA} ต่อมทอนซิล @16-02-2025 18:18:06@
+topografio {GEOD} การทำแผนที่และอธิบาย; topografiisto {GEOD} นักทำแผนที่ @16-02-2025 18:18:06@
+tornado {MET} พายุหมุน, พายุทอร์นาโด, ลมงวงช้าง @16-02-2025 18:18:06@
+torni //(tr)// กลึง, ขึ้นรูปด้วยแป้นหมุน (หม้อ); tornilo/tornmaŝino {TEK} เครื่องกลึง, แป้นหมุนสำหรับขึ้นรูป; pottornilo {TEK} แป้นหมุนสำหรับขึ้นรูปหม้อ; tornisto ช่างกลึง, ช่างปั้นหม้อ @16-02-2025 18:18:06@
+tornistro กระเป๋าเป้ = dorsosako IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schweizer_tornister.jpg/192px-Schweizer_tornister.jpg] @16-02-2025 18:18:06@
+torpedo {MIL} ตอร์ปิโด; torpedi //(tr)// ยิงด้วยตอร์ปิโด @16-02-2025 18:18:06@
+torso {ANA} ลำตัว, {BELA} รูปปั้นลำตัว @16-02-2025 18:18:06@
 tosti //(tr)// ดื่มอวยพร
 totala ทั้งหมด, ทุก; totalo จำนวนทั้งหมด; totalismo ระบอบการปกครองแบบเผด็จการเบ็จเสร็จหรือเผด็จการขั้นสมบูรณ์
 totemo รูปสลักบนเสาอินเดียแดง
