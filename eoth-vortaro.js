@@ -2745,18 +2745,18 @@ aborti //(x)// {MED} แท้ง //(f)// ไร้ผล, ล้มเหลว
 absorbi //(tr)// หมกมุ่นอยู่กับ (ต่อความคิด, ความระมัดระวัง); absorbiĝi หมกหมุ่น, ตั้งใจจดจ่อ @01-03-2025 10:08:00@
 acero {BOT} ต้นเมเปิล IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Acer_saccharum.jpg/330px-Acer_saccharum.jpg] @01-03-2025 10:14:49@
 adekvata เหมาะสม, {FIL} ครบถ้วนสมบูรณ์, ถูกต้อง @01-03-2025 10:14:49@
-administracio {POL} คณะกรรมการการจัดการ, ตึกอำนวยการ >> administristaro/administrejo 
-admiralo {MAR} {MIL} นายพลเรือ, พลเรือเอก 
-adoleski //(ntr)// เป็นวัยรุ่น, เข้าสู่วัยรุ่น; adoleskanto หนุ่มสาว, วัยรุ่น, เยาวชน 
+administracio {POL} คณะกรรมการการจัดการ = administristaro, การจัดการ, การอำนวยการ = administrado, อาคารอำนวยการ, ตึกอำนวยการ = administrejo @02-03-2025 10:45:18@
+admiralo {MAR} {MIL} นายพลเรือ, พลเรือเอก = ŝiparestro @02-03-2025 10:45:59@
+adolesko ช่วงวัยรุ่น; adoleska เกี่ยวกับวัยรุ่น; adoleski //(ntr)// เป็นวัยรุ่น, อยู่ในช่วงวัยรุ่น; adoleskulo/adoleskanto หนุ่มสาว, วัยรุ่น, เยาวชน @02-03-2025 10:57:55@
 adolto = plenkreskulo 
-adrenalino {FIZL} ฮอร์โมนอะดรีนาลีน 
-adstringa {MED} สมาน, ประสาน 
-adulti //(ntr)// ล่วงประเวณี, เล่นชู้ 
-aerobiko {SPO} แอโรบิค 
-aerodromo {AVI} สนามบิน (ขนาดเล็ก) 
-afikso {LIN} กลุ่มจำพวกหน่วยคำเติม เช่น ปัจจัย, อุปสรรค, อาคม 
+adrenalino {FIZL} ฮอร์โมนอะดรีนาลีน @02-03-2025 11:06:00@ 
+adstringa {MED} สมาน, ประสาน (เนื้อเยื่อ) @02-03-2025 11:06:00@
+adulti //(ntr)// ล่วงประเวณี, มีชู้, คบชู้; adulto การล่วงประเวณี, การคบชู้; adulta เกี่ยวกับการล่วงประเวณีการมีชู้; adultado การล่วงประเวณี, การคบชู้ (อย่างต่อเนื่อง); adultaĵo //(malofte)// = adulto; adultema ชอบคบชู้; adultigi //(malofte)// ทำให้มีชู้; adultulo/adultino ชาย/หญิงที่คบชู้; sangadulto การร่วมประเวณีกับญาติสนิท @02-03-2025 11:06:00@
+aerobiko {SPO} การออกกำลังกายแอโรบิก @02-03-2025 11:36:24@ 
+aerodromo {AVI} สนามบิน (ขนาดเล็ก) >> flughaveno, aerhaveno @02-03-2025 11:36:24@
+afikso {GRA} พยางค์กลุ่มจำพวกหน่วยคำเติม; antaŭafikso {GRA} พยางค์เติมหน้าคำ = prefikso; ĉirkaŭafikso {GRA} พยางค์เติมคำที่มีทั้งด้านหน้าและด้านหลัง; enafikso {GRA} พยางค์ที่เติมเข้าไปในระหว่างคำ; postafikso {GRA} พยางค์เติมท้ายคำ = sufikso; ŝajnafikso {GRA} พยางค์ที่ดูเหมือนว่าเป็นหน่วยคำเติม @02-03-2025 11:36:24@
 aforismo คำพังเพยสั้น ๆ 
-afrodizio {MED} {BIO} ความรู้สึกทางเพศ; afrodiziigaĵo 
+afrodizio //(PIV)// {MED} {BIO} ความรู้สึกทางเพศ; afrodiziigaĵo ยากระตุ้นความรู้สึกทางเพศ @02-03-2025 11:38:15@
 agaci //(tr)// ทำให้เปรี้ยวเข็ดฟัน, ทำให้จี๊ดขึ้นสมอง, รบกวน >> iriti 
 agaragaro {KUI} วุ้น 
 agendo รายการธุระ, สมุดบันทึกสิ่งที่ต้องทำในแต่ละวัน, สมุดโน้ต 
