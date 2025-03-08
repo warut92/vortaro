@@ -2772,19 +2772,19 @@ aha! //(int)// อาฮ่า @07-03-2025 09:21:28@
 aidoso/aideso //(akr)// {BAK} {MED} โรคเอดส์; aidosulo ผู้ที่เป็นโรคเอดส์ @07-03-2025 09:51:50@
 aj!/aŭ! //(int)// โอ๊ย @07-03-2025 09:51:50@
 Ajutajo {THA} อยุธยา: la Ajutaja Periodo สมัยกรุงศรีอยุธยา @07-03-2025 09:51:50@
-aĵura //(PIV)// {TEKS} ลายลูกไม้ปลายผ้า, //(ReVo)// ลักษณะงานแบบเปิดหรือโปร่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Handkerchief%2C_embroidered_initials%2C_%27H.S.%27---in_button-_hole_embroidery._Made_in_Germany_or_Switzerland%2C_19th_century._LACMA_60.41.105_%282_of_2%29.jpg/330px-Handkerchief%2C_embroidered_initials%2C_%27H.S.%27---in_button-_hole_embroidery._Made_in_Germany_or_Switzerland%2C_19th_century._LACMA_60.41.105_%282_of_2%29.jpg] @07-03-2025 09:51:50@
-akaĵuo {KUI} มะม่วงหิมพานต์; akaĵuarbo/akaĵuujo {BOT} ต้นมะม่วงหิมพานต์ 
-akapari {EKON} //(tr)// กว้านซื้อ >> monopoligi, แย่งชิง 
-akcesora เสริม, เพิ่มเติม, ประกอบ; akcesoraĵo ส่วนประกอบเสริม 
-akcipitro {ZOO} เหยี่ยวนกเขา 
-akcizo {EKON} ภาษีสรรพสามิต 
-akĉento {LIN} {FON} สำเนียง 
-anarĥio/anarkio {POL} อนาธิปไตย; anarĥiismo/anarkiismo/anarkismo {POL} ลัทธิอนาธิปไตย; anarĥiisto/anarkiisto/anarkisto {POL} ผู้นิยมลัทธิอนาธิปไตย 
-aklami //(tr)// โห่ร้องยินดี
-akomodi //(tr)// ทำให้ถูก, ทำให้เหมาะสม
-akreo = akro (หน่วยพื้นที่) เอเคอร์
-akrobato นักกายกรรม
-akselo รักแร้
+aĵura //(PIV)// {TEKS} ลายลูกไม้ปลายผ้า, //(ReVo)// ลักษณะงานแบบเปิดหรือโปร่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sidi_Saiyyad_Ni_Jaali.jpg/330px-Sidi_Saiyyad_Ni_Jaali.jpg] @07-03-2025 09:51:50@
+akaĵuo {KUI} มะม่วงหิมพานต์; akaĵuarbo/akaĵuujo {BOT} ต้นมะม่วงหิมพานต์; akaĵunukso {KUI} เม็ดมะม่วงหิมพานต์ @08-03-2025 09:35:23@ 
+akapari {EKON} //(tr)// กว้านซื้อ, ช่วงชิง, แย่งชิง @08-03-2025 09:46:35@
+akcesora ส่วนเสริม, เพิ่มเติม, ประกอบ; akcesoraĵo ส่วนประกอบเสริม @08-03-2025 09:46:35@
+akcipitro {ZOO} เหยี่ยวนกเขา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Northern_Goshawk_ad_M2.jpg/147px-Northern_Goshawk_ad_M2.jpg] @08-03-2025 09:46:35@
+akcizo {EKON} ภาษีสรรพสามิต; akcizi {EKON} เสียภาษีสรรพสามิต; akcizisto {EKON} เจ้าหน้าที่ภาษีสรรพสามิต; urba akcizo {EKON} ศุลกากร = dogano @08-03-2025 09:46:35@
+akĉento {LIN} {FON} สำเนียง @08-03-2025 09:57:38@
+anarĥio/anarkio {POL} อนาธิปไตย; anarĥiismo/anarkiismo/anarkismo {POL} ลัทธิอนาธิปไตย; anarĥiisto/anarkiisto/anarkisto {POL} ผู้นิยมลัทธิอนาธิปไตย; anarĥiulo/anarkiulo ผู้ที่ใช้ชีวิตแบบไม่มีกฎระเบียบ, ผู้นิยมลัทธิอนาธิปไตย @08-03-2025 09:57:38@
+aklami //(x)// โห่ร้องยินดี @08-03-2025 10:28:55@
+akomodi //(tr)// ทำให้ถูก, ทำให้เหมาะสม; akomodo การปรับให้ถูกต้อง, การทำให้เหมาะสม; akomodiĝi ปรับให้ถูกต้อง, เหมาะสม; akomodiĝema ปรับตัวได้ง่าย @08-03-2025 10:28:55@
+akreo/akro (หน่วยพื้นที่) เอเคอร์ @08-03-2025 10:28:55@
+akrobato {TEA} นักกายกรรม; akrobati //(ntr)// แสดงกายกรรม; akrobataĵo กายกรรม @08-03-2025 10:28:55@
+akselo {ANA} รักแร้, {BOT} บริเวณที่กิ่งของต้นไม้เติบโต @08-03-2025 10:28:55@
 aksiomo {MAT} {SCI} สัจพจน์, ข้อความที่ยอมรับว่าเป็นจริงโดยไม่ต้องพิสูจน์
 akupunturo การฝังเข็ม
 akustiko {FIZ} สวนศาสตร์ (วิชาว่าด้วยเสียง), ความสามารถในการได้ยินเสียง
@@ -2855,7 +2855,6 @@ anemio โลหิตจาง
 anestezi {MED} //(tr)// ให้ยาชา; anestezantaĵo/anestezilo ยาชา @20-09-2024 21:56:22@
 angino โรคหลอดเลือดหัวใจตีบ
 angio เส้นเลือด
-
 angoro ความทุกข์ใจ, ความกังวลใจ
 anheli //(ntr)// หอบ, หายใจไม่ทั่วท้อง
 animacio การสร้างภาพเคลื่อนไหว, แอนิเมชัน
