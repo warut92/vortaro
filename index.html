@@ -21,8 +21,10 @@
 <a href="pri.html"><pre id="statistiko"></pre></a>
 <script  src="./lasta_sxangxo.js"></script>
 <input id="checkbox" type="checkbox" onclick="sercxi()">
-<label id="sercxoLingvo">kapvorto</label><br>
-<input id="enigo" name="via_ujo" oninput="sercxi()" onfocus="sercxi()"></input>
+<label id="sercxoLingvo">kapvorto</label>
+<input id="checkbox" type="checkbox" onclick="tujsercxi()" />
+<label id="sercxoLingvo">PIV</label><br>
+<input class="enigo" id="enigo" name="via_ujo" oninput="sercxi();PIVtujsercxi()" onfocus="sercxi()"></input>
 <button id="forigi" onclick="forigi()">⌫</button><br>
 <span id="aliaj-fontoj"></span>
 <script>
@@ -36,10 +38,12 @@ function forigi() {
   document.getElementById("enigo").focus()
 }
 </script>
-<div id="preciza_eligo"></div>
+<div id="piv_vortoj"></div>
 <div id="eligo"></div>
 <!-- partial -->
 <div id="tuto" style="display:none"></div>
+<script src="./tujsercxo/tujsercxo.js"></script>
+<script src="./tujsercxo/piv_vortoj.js"></script>
 <script src="./eoth-vortaro.js"></script>
 <script src="./skripto.js"></script>
 <script src="./aliaj-fontoj.js"></script>

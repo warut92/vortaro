@@ -193,13 +193,13 @@ document.addEventListener('keydown', function(event) {
 
 // Register service worker to control making site work offline
 //prenitaj de https://github.com/mdn/pwa-examples/blob/main/a2hs/index.js
-if ('serviceWorker' in navigator) {
-  navigator.serviceWorker
-    .register('/sw.js')
-    .then(() => {
-      console.log('Service Worker Registered');
-    });
-}
+// if ('serviceWorker' in navigator) {
+//   navigator.serviceWorker
+//     .register('/sw.js')
+//     .then(() => {
+//       console.log('Service Worker Registered');
+//     });
+// }
 
 //โหลดคำจาก hash และดำเนินการรัน sercxi()
 if (location.hash) {
