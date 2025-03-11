@@ -2792,13 +2792,14 @@ akuta {MAT} แหลม, {MED} อย่างแรง, รุนแรง, {F
 akvarelo {BELA} จิตรกรรมสีน้ำ, ภาพที่ระบายด้วยสีน้ำ @08-03-2025 14:22:14@
 akvario พิพิธภัณฑ์สัตว์น้ำ, ตู้กระจกเลื้ยงปลา, อะควาเรียม @08-03-2025 14:22:14@
 akvedukto สะพานส่งน้ำ = akvodukto IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Aqueduct_of_Segovia_02.jpg/320px-Aqueduct_of_Segovia_02.jpg] @08-03-2025 14:22:14@
-Alasko รัฐอะแลสกา
-alciono {ZOO} นกกระเต็น
-alegorio อุปมานิทัศน์, ศิลปะที่ใช้สัญลักษณ์แทนความหมายโดยตรงในภาษาเขียน
-alergio โรคภูมิแพ้
-alfa ตัวอักษรกรีก α แอลฟา, ลำดับแรก; alfpartiklo(j) (หรือ alfradio(j)) อนุภาคแอลฟา (หรือ รังสีแอลฟา)
-algebro {MAT} พีชคณิต
-alĥemio >> alkemio
+Alasko {GEOG} {POL} รัฐอะแลสกา @11-03-2025 14:42:14@
+alciono/alcedo {ZOO} นกกระเต็น IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Alcedo_atthis_2_%28Marek_Szczepanek%29.jpg/330px-Alcedo_atthis_2_%28Marek_Szczepanek%29.jpg] @11-03-2025 14:42:14@
+alegorio {BELE} อุปมานิทัศน์, ศิลปะที่ใช้สัญลักษณ์แทนความหมายโดยตรงในภาษาเขียน; alegoria เกี่ยวกับอุปมานิทัศน์ @11-03-2025 14:42:14@
+alergio {FIZ} {MED} โรคภูมิแพ้; alergia แพ้; alergiiga ทำให้เกิดการแพ้ @11-03-2025 14:42:14@
+alfa //(PIV)// ตัวอักษรกรีกแอลฟา (A, α) @11-03-2025 14:47:28@
+alfo {LIN} ตัวอักษรกรีกแอลฟา (A, α) @11-03-2025 14:47:28@
+algebro {MAT} พีชคณิต @11-03-2025 14:47:28@
+alĥemio/alkemio การเล่นแร่แปรธาตุ; alĥemiisto/alkemiisto นักเล่นแร่แปรธาตุ @11-03-2025 14:47:28@ 
 alianco สมาพันธ์ (ระหว่างรัฐ), ความสัมพันธ์/การร่วมมือ; aliancano คนหรือประเทศที่อยู่กลุ่มเดียวกัน, พันธมิตร: la Aliancanoj ฝ่ายสัมพันธมิตร (ในสงครามโลกครั้งที่สอง)
 alibio {JUR} คำกล่าวอ้างที่ผู้ถูกกล่าวหาอ้างว่าได้อยู่ที่อื่นขณะเกิดเหตุ >> senkulpigo, preteksto
 aliel หาไม่, มิฉะนั้น = ali(manier)e
