@@ -16,6 +16,8 @@ function tujsercxi() {
 function PIVtujsercxi() {
     if (i == 0) {
         let str_sxablono = enigo.value  
+        if (str_sxablono.length >= 1) {
+            console.log(str_sxablono);
             //piv_vortoj venas de la dosiero piv_vortoj.js    
             const PIV_VORTOJ = piv_vortoj.split("\n")
             piv_vortoj = piv_vortoj.replace(/   /g, "+")
@@ -29,6 +31,7 @@ function PIVtujsercxi() {
             const REZULTO_JOIN = REZULTO.join("</span><span onclick=\"preniPIVvortojn(this)\">,");
             let rezulto = REZULTO_JOIN.toString().replace(/^<\/span>/g,"").replace(/,/g,"<br>")
            pivDiv.innerHTML = "<span onclick=\"preniPIVvortojn(this)\">" + rezulto
+        }
     }
 }
 
