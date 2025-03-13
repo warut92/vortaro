@@ -5468,5 +5468,6 @@ lofio {ZOO} ปลาตกเบ็ต, ปลาแองเกอร์ฟิ
 cenotafo {ARK} อนุสาวรีย์รำลึกถึงผู้วายชนม์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/HiroshimaCenotaph6996.jpg/375px-HiroshimaCenotaph6996.jpg] @27-02-2025 17:32:44@
 rekvizito {KIN} {TEA} พร๊อพ, อุปกรณ์ประกอบฉาก; rekvizitisto {KIN} {TEA} นักจัดอุปกรณ์ประกอบฉาก @27-02-2025 17:32:44@
 lontana //(malofte)// ไกล, ทางไกล = malproksima @28-02-2025 21:29:09@
+rifo หินโสโครก, //(f)// อุปสรรค, สิ่งอันตราย @13-03-2025 08:12:18@
 >.
 `
