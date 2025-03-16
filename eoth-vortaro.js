@@ -2807,14 +2807,14 @@ alies {GRA} //(evitinde)// ของคนอื่น, เป็นของค
 aligatoro {ZOO} แอลลิเกเตอร์, จระเข้ตีนเป็ด IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Florida_alligator_%287143519441%29.jpg/330px-Florida_alligator_%287143519441%29.jpg]; aligatori {ESP} พูดภาษาอื่นในการประชุมภาษาเอสเปรันโตโดยที่ภาษานั้นเป็นภาษาแม่เพียงส่วนหนึ่งของผู้เข้าร่วมประชุม @13-03-2025 17:52:16@
 alimento {JUR} ค่าเลี้ยงดู @15-03-2025 12:04:19@
 alineo วรรค, ตอน, {TIP} //(akr)// การย่อหน้า @15-03-2025 12:04:19@
-aliteracio {POE} สัมผัสอักษร ++
-alkalo {KEM} ด่าง, แอลคาไล; alkaleca/alkala มีความเป็นด่าง ++
-alĥemio/alkemio  วิชาเล่นแร่แปรธาตุ, alĥemiisto/alkemiisto นักเล่นแร่แปรธาตุ ++
-alkovo ช่องในพนังห้องสำหรับตั้งเตียง = litŝranko, dormŝranko IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chambre_de_Lannes.JPG/180px-Chambre_de_Lannes.JPG] ++
-almanako ปฏิทินประจำปีชนิดพิสดารที่มีเหตุการณ์ต่าง ๆ ระบุไว้ด้วยรวมทั้งสถิติข้อมูลต่าง ๆ ที่น่าสนใจ, สมพัตสร ++
-alo สิ่งที่มีลักษณะเป็นปีก: {ANA} ปีกจมูก, {TEK} ปีกของกังหัน, {AKRI} อาคารรองลักษณะเป็นปีกด้านข้างที่ต่อจากอาคารหลัก; {POL} {MIL} ฝ่ายรุนแรง ++
-alojo โลหะผสม, อัลลอย ++
-alpako {ZOO} อัลปากา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alpaca_%2831562329701%29.jpg/216px-Alpaca_%2831562329701%29.jpg] ++
+aliteracio {POE} สัมผัสอักษร @16-03-2025 11:32:14@
+alkalo {KEM} ด่าง, แอลคาไล; alkaleca/alkala มีความเป็นด่าง @16-03-2025 11:32:14@
+alĥemio/alkemio  วิชาเล่นแร่แปรธาตุ, alĥemiisto/alkemiisto นักเล่นแร่แปรธาตุ @16-03-2025 11:32:14@
+alkovo ช่องในพนังห้องสำหรับตั้งเตียง = litŝranko, dormŝranko IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chambre_de_Lannes.JPG/180px-Chambre_de_Lannes.JPG] @16-03-2025 11:32:14@
+almanako ปฏิทินประจำปีชนิดพิสดารที่มีเหตุการณ์ต่าง ๆ ระบุไว้ด้วยรวมทั้งสถิติข้อมูลต่าง ๆ ที่น่าสนใจ, สมพัตสร @16-03-2025 11:32:14@
+alo สิ่งที่มีลักษณะเป็นปีก: {ANA} ปีกจมูก, {TEK} ปีกของกังหัน, {AKRI} อาคารรองลักษณะเป็นปีกด้านข้างที่ต่อจากอาคารหลัก; {POL} {MIL} ฝ่ายรุนแรง @16-03-2025 11:32:14@
+alojo โลหะผสม, อัลลอย @16-03-2025 11:32:14@
+alpako {ZOO} อัลปากา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alpaca_%2831562329701%29.jpg/216px-Alpaca_%2831562329701%29.jpg] @16-03-2025 11:32:14@
 alparo {EKON} ราคาเดิม
 alpo ภูเขากับทุ่งหญ้าในส่วนกลางของยุโรป; alpisto นักไต่เขา, Alpoj เทือกเขาแอลป์
 altano ดาดฟ้า
