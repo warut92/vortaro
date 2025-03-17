@@ -2827,14 +2827,14 @@ ambigua //(malofte)// {BELE} {LIN} กำกวม; ambiguo/ambigueco //(malofte
 amboso ทั่งตีเหล็ก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ambo%C3%9F_klein.jpg/180px-Ambo%C3%9F_klein.jpg] , {ANA} กระดูกทั่ง = inkudo @16-03-2025 14:48:18@
 ambulatorio //(PIV)// {ARKI} สนานเดินเล่นหน้าบ้าน, ที่ว่างสำหรับเดินหรือยืนชมการแสดงในโรงละคร, {MED} ภาคผู้ป่วยนอกของโรงพยาบาล @16-03-2025 14:51:58@
 amelo {KUI} แป้ง, {KEM} สารอาหารพวกคาร์โบไฮเดรตที่มีขนาดโมเลกุลใหญ่ประกอบด้วยน้ำตาลโมเลกุลเดี่ยวเป็นจำนวนมาก; ameli/amelumi  ลงแป้ง @16-03-2025 14:53:24@
-amendi {JUR} //(tr)// แก้ไขหรือเพิ่มเติมกฎหมาย
-amnestio {JUR} นิรโทษกรรม
-amnezio {MED} ภาวะสูญเสียความทรงจำ
-amoniako {KEM} แอมโมเนีย, แอมโมเนียม; salamoniako แอมโมเนียมคลอไรด์ = amonia klorido
-amonio {KEM} แอมโมเนียมไอออน
-amortizi //(tr)// ผ่อนใช้หนี้, ตั้งทุนล้าง; amortizo เงินทุนที่กันไว้เพื่อการชำระหนี้, การเสื่อมค่า, amortizilo โช้คอัพ
-ampero {ELE} แอมแปร์
-ampleksi ครอบ, บรรจุ, ประกอบด้วย, มี, ยืดยาว, สวมกอด; ampleksigi ขยาย
+amendi {JUR} //(tr)// แก้ไขหรือเพิ่มเติมกฎหมาย; amendo {JUR} การแก้ไขกฎหมาย @17-03-2025 09:20:22@
+amnestio {JUR} การนิรโทษกรรม; amnestii //(tr)// นิรโทษกรรม @17-03-2025 09:53:34@
+amnezio {MED} {PSI} ภาวะสูญเสียความทรงจำ @17-03-2025 09:53:34@
+amoniako {KEM} แอมโมเนีย [NH<sub>3</sub>]; salamoniako {KEM} แอมโมเนียมคลอไรด์ [NH<sub>4</sub>Cl] = amonia klorido @17-03-2025 09:53:34@
+amonio {KEM} แอมโมเนียมไอออน [NH<sub>4</sub><sup>+</sup>] @17-03-2025 09:53:34@
+amortizi //(tr)// ผ่อนใช้หนี้, หักกลบลบล้าง, {ELE} {FIZ} {AUT} {FER} ลดการสั่นสะเทือน; amortizilo {FIZ} {AUT} {FER} โช้คอัพ = dampilo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ein-%26Zweirohrsto%C3%9Fd%C3%A4mpfer.jpg/320px-Ein-%26Zweirohrsto%C3%9Fd%C3%A4mpfer.jpg] @17-03-2025 09:53:34@
+ampero {ELE} แอมแปร์ (หน่วยของกระแสไฟฟ้า) @17-03-2025 09:53:34@
+amplekso ขอบเขต, ขนาด; ampleksa ขอบเขต, ขนาด, ครอบคลุม; ampleksi ครอบคลุม, ประกอบด้วย; grandampleksa/multampleksa ครอบคลุมมาก, ลึงซึ้ง; korpampleksa ร่างใหญ่; ampleksigi ขยายให้ครอบคลุม @17-03-2025 09:53:34@
 amplifi //(tr)// ขยาย(ความมถี่)เสียง
 amputi {MED} //(tr)// ตัดออก, ผ่าออก >> fortranĉi
 Amsterdamo กรุงอัมสเตอร์ดัม
