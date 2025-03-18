@@ -2848,13 +2848,13 @@ analogio ความคล้ายคลึงกัน = analogeco; analogia 
 ananaso {BOT} สับปะรด; ananasujo {BOT} ต้นสับปะรด IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Pineapple_victoria_dsc07770.jpg/196px-Pineapple_victoria_dsc07770.jpg] @18-03-2025 08:46:05@
 anatemi {REL} //(tr)// แช่งด่า; anatemo คำแช่งด่า @18-03-2025 08:49:21@
 anatomio {ANA} {SCI} กายวิภาคศาสตร์; anatomiisto {ANA} นักกายวิภาคศาสตร์ @18-03-2025 08:49:21@
-anĉo {MUZ} ลิ้นปี่
-anĉovo {ZOO} ปลาแอนโชวี
-Andoj เทือกเขาแอนดีส
-anemio โลหิตจาง
+anĉo {MUZ} ลิ้นปี่ @18-03-2025 21:10:22@
+anĉovo {KUI} {ZOO} ปลาแอนโชวี IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Engraulis_encrasicolus_Gervais_flipped.jpg/320px-Engraulis_encrasicolus_Gervais_flipped.jpg] @18-03-2025 21:10:22@
+Andoj {GEOG} เทือกเขาแอนดีส (เทือกเขาที่วางตัวขนานกับด้านตะวันตกของทวีปอเมริกาใต้ เป็นเทือกเขาที่ยาวที่สุดในโลก) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nasa_anden.jpg/128px-Nasa_anden.jpg] @18-03-2025 21:10:22@
+anemio {MED} ภาวะโลหิตจาง @18-03-2025 21:10:22@
 anestezi {MED} //(tr)// ให้ยาชา; anestezantaĵo/anestezilo ยาชา @20-09-2024 21:56:22@
-angino โรคหลอดเลือดหัวใจตีบ
-angio เส้นเลือด
+angino {MED} โรคอักเสบที่ลำคอ @18-03-2025 21:10:22@
+angio {ANA} เส้นเลือด @18-03-2025 21:10:22@
 angoro ความทุกข์ใจ, ความกังวลใจ
 anheli //(ntr)// หอบ, หายใจไม่ทั่วท้อง
 animacio การสร้างภาพเคลื่อนไหว, แอนิเมชัน
