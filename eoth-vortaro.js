@@ -2855,18 +2855,18 @@ anemio {MED} ภาวะโลหิตจาง @18-03-2025 21:10:22@
 anestezi {MED} //(tr)// ให้ยาชา; anestezantaĵo/anestezilo ยาชา @20-09-2024 21:56:22@
 angino {MED} โรคอักเสบที่ลำคอ @18-03-2025 21:10:22@
 angio {ANA} เส้นเลือด @18-03-2025 21:10:22@
-angoro ความทุกข์ใจ, ความกังวลใจ
-anheli //(ntr)// หอบ, หายใจไม่ทั่วท้อง
-animacio การสร้างภาพเคลื่อนไหว, แอนิเมชัน
-anizo (เมล็ดหรือต้น) แอนิซ
-anksio วิตกกังวล; ankise ด้วยความวิตกกังวล, อย่างวิตก
-anofelo {ZOO} ยุงก้นปล่อง >> malaria moskito
-anomalio ของวิปริต
-anonima ไม่ระบุชื่อ, นิรนาม
-anono น้อยหน่า
-antagonisto ผู้ต่อต้าน
-antarkta เกี่ยวกับบริเวณขั้วโลกใต้
-antemo เพลงชาติ
+angoro ความทุกข์ใจ, ความกังวลใจ = timego; angori //(tr)// ทุกข์ใจ, กังวลใจ; angora ทุกข์ใจ, กังวลใจ @19-03-2025 08:33:35@
+anheli //(ntr)// หอบ; anhelo อาการหอบ @19-03-2025 08:33:35@
+animacio {KIN} การสร้างภาพแอนิเมชัน; animaciaĵo ภาพแอนิเมชัน, ผลงานแอนิเมชัน @19-03-2025 08:33:35@
+anizo {KUI} ผลของต้นเทียนสัตตบุษย์, ลูกแอนิซ; anizujo {BOT} ต้นเทียนสัตตบุษย์, ต้นแอนิซ; stelanizo {BOT} โป๊ยกั้ก, จันทน์แปดกลีบ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dried_Star_Anise_Fruit_Seeds.jpg/320px-Dried_Star_Anise_Fruit_Seeds.jpg] @19-03-2025 08:33:35@
+anksio {PSI} ความวิตกกังวล; anksia วิตกกังวล; ankise ด้วยความวิตกกังวล, อย่างวิตก @19-03-2025 08:33:35@
+anofelo //(PIV)// {ZOO} ยุงก้นปล่อง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anopheles_stephensi.jpeg/320px-Anopheles_stephensi.jpeg] @19-03-2025 08:33:35@
+anomalio ความวิปริต; anomalia วิปริต @19-03-2025 08:33:35@
+anonima ไม่ระบุชื่อ, นิรนาม; anonimulo บุคคลนิรนาม @19-03-2025 08:33:35@
+anono {KUI} ลูกน้อยหน่า; anonarbo/anonujo ต้นน้อยหน่า IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Annona_diversifolia.jpg/180px-Annona_diversifolia.jpg]
+antagonisto //(malofte)// ผู้ต่อต้าน, ผู้เป็นปรปักษ์, ศัตรู @19-03-2025 08:33:35@
+Antarkto {GEOG} ขั้วโลกใต้; antarkta {GEOG} เกี่ยวกับบริเวณขั้วโลกใต้ @19-03-2025 08:33:35@
+antemo //(PIV)// {MUZ} เพลงที่มีคำร้องมาจากไบเบิล, //(ReVo)// {BOT} ต้นไม้ชนิดหนึ่ง @19-03-2025 08:33:35@
 anti → kontraŭ
 antibiotiko ยาปฏิชีวนะ
 anticipi //(tr)// ทำนาย, คาดหวัง, จ่ายก่อน
