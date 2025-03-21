@@ -2874,10 +2874,11 @@ antidoto {MED} ยาแก้พิษ, ยาถอนพิษ =  kontraŭven
 antipatio ความเกลียดชังกัน, ความรังเกียจ; antipatia เกลียดชัง, รังเกียจ; antipatii //(x)// เกลียดชัง, รังเกียจ @20-03-2025 09:05:15@
 antologio {TIP} {BELA} หนังสือรวบรวมบทประพันธ์ของหลายนักเขียน
 antonimo {LIN} คำตรงข้าม; antonimeco {LIN} การมีความหมายตรงข้าม @20-03-2025 09:05:15@
-antracito ถ่านหินชนิดแข็งและเป็นเงา
-antropologo นักมานุษยวิทยา; antropologio มานุษยวิทยา
-apatio ความไม่มีใจ
-apelacii //(ntr)// (al) อุทธรณ์: apelacia kortumo ศาลอุทธรณ์, ขอร้อง, ร้องเรียน
+antracito {MIN} แอนทราไซต์, ถ่านหินชนิดแข็ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Antracita.jpg/297px-Antracita.jpg] @21-03-2025 08:41:04@
+antropologo {SCI} นักมานุษยวิทยา = antropologiisto @21-03-2025 08:41:04@  
+antropologio {SCI} มานุษยวิทยา; antropologiisto นักมานุษยวิทยา @21-03-2025 08:41:04@
+apatio ความขาดความกระตือรือร้น, ไม่ยินดียินร้าย, เฉยเมยไร้อารมณ์ใด ๆ ทั้งสิ้น = malvigleco, indiferenteco @21-03-2025 08:41:04@
+apelacii //(ntr)// {JUR} (al) อุทธรณ์, //(f)// ขอร้อง, ร้องเรียน; apelacio {JUR} การอุธรณ์ @21-03-2025 08:41:04@
 apendico ภาคผนวก, {MED} ไส้ติ่ง >> aldono; apendicito {MED} โรคไส้ติ่งอักเสบ
 aperitivo อาหารเรียกน้ำย่อย
 aperta >> malferma
@@ -5137,7 +5138,6 @@ peticio {POL} คำร้อง, ข้อเรียกร้อง @01-01-20
 laringo {ANA} กล่องเสียง @01-01-2023-w@
 panegiro {BELE} คำสรรเสริญ @01-01-2023-w@
 arsenalo {MIL}  คลังแสง, กรมสรรพาวุธ = armilejo @01-01-2023-w@
-indiferenta ไม่น่าสนใจ, เฉย ๆ @01-01-2023-w@
 veŝto {TEKS} เสื้อกั๊ก @01-01-2023-w@
 karabeno {MIL} ปืนไรเฟิลชนิดหนึ่ง @01-01-2023-w@
 primato {ZOO} สัตว์เลี้ยงลูกด้วยนมที่มีพัฒนาการสูง เช่น มนุษย์ @01-01-2023-w@
