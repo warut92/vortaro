@@ -2932,16 +2932,16 @@ aspiri //(x)// ปรารถนาอย่างยิ่ง, หวังเ
 aspirino {MED} ยาแอสไพริน (CH<sub>3</sub>-CO-O-C<sub>6</sub>H<sub>4</sub>-COOH) @24-03-2025 09:21:42@
 asterio {ZOO} ปลาดาว = marstelo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estrella_de_mar_de_espinas_rojas_%28Protoreaster_linckii%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-06-01%2C_DD_06.jpg/240px-Estrella_de_mar_de_espinas_rojas_%28Protoreaster_linckii%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-06-01%2C_DD_06.jpg] @24-03-2025 09:21:42@
 asterisko เครื่องหมายดอกจัน >> steleto
-astmo โรคหืด
-astro ดาว (ดาวฤกษ์, ดาวเคราะห์, ดาวหาง)
-astrologio โหราศาสตร์
-astronaŭto มนุษย์อวกาศ = kosmonaŭto
-astronomio ดาราศาสตร์
-ataŝeo ผู้ช่วยทูต
-ateismo อเทวนิยม >> teismo, dikredanto
-ateisto ผู้ที่ไม่เชื่อว่ามีพระเจ้า, ผู้ถืออเทวนิยม
-atletiko การกีฬา **
-atleto นักกีฬา, ผู้ชายแข็งแรง
+astmo {MED} โรคหืด @24-03-2025 14:12:18@
+astro {AST} วัตถุทางดาราศาสตร์, วัตถุท้องฟ้า //(ได้แก่ ดาวฤกษ์, ดาวเคราะห์, ดาวหาง)//, //(f)// ดาวบนท้องฟ้า; nebulastro {AST} เนบิวลา = nebulozo @24-03-2025 14:12:18@
+astrologio โหราศาสตร์; astrologiisto โหร, ผู้เชี่ยวชาญด้านโหราศาสตร์ @24-03-2025 14:12:18@
+astronaŭto {AVI} นักบินอวกาศ, มนุษย์อวกาศ = kosmonaŭto @24-03-2025 14:12:18@
+astronomio {AST} {SCI} ดาราศาสตร์; astronomia เกี่ยวกับดาราศาสตร์, //(f)// มหาศาล, ใหญ่มาก, มหึมา; astronomiisto {AST} นักดาราศาสตร์ = astronomo @24-03-2025 14:12:18@
+ataŝeo ผู้ช่วยทูต, ผู้ช่วยพิเศษ @24-03-2025 14:12:18@
+ateismo {FIL} อเทวนิยม >> teismo; ateisma อเทวนิยม; ateismano ผู้ถืออเทวนิยม = liberpensulo, ateisto @24-03-2025 14:12:18@
+ateisto {REL} ผู้ที่ไม่เชื่อว่ามีพระเจ้า, ผู้ถืออเทวนิยม; ateista ที่ไม่เชื่อว่ามีพระเจ้า @24-03-2025 14:12:18@
+atletiko การกรีฑา = atletismo; malpeza atletiko กรีฑาเบา @24-03-2025 14:12:18@
+atleto {SPO} นักกีฬา, นักกรีฑา, //(f)// คนที่มีร่างกายแข็งแรง; atletismo {SPO} การกรีฑา = atletiko @24-03-2025 14:12:18@
 atribui //(tr)// ให้, มอบ, เห็นว่าเป็นของ, คิดว่าเกิดจาก
 atributo คุณลักษณะ, ลักษณะประจำตัว
 aŭ! //(int)// อ้าว
