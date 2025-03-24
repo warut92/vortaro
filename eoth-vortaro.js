@@ -2921,16 +2921,16 @@ arogi //(tr)// //(al si ion)// แอบอ้าง, เหมาเอา, ถ
 aromo กลิ่นหอม; aromi //(ntr)// ส่งกลิ่นหอม; aromaĵo พืชหรือยาที่มีกลิ่นหอม; aromigi ทำให้มีกลิ่นหอม @23-03-2025 14:44:05@
 artifiko กลอุบาย, เล่ห์เหลี่ยม; artifika ซึ่งมีกลอุบาย, ซึ่งมีเล่ห์เหลี่ยม; artifiki //(x)// ใช้/มีกลอุบาย, ใช้/มีเล่ห์เหลี่ยม; senartifika ไร้กลอุบาย, ไร้เล่ห์เหลี่ยม, น่าเชื่อถือ @23-03-2025 14:44:05@
 artiklo {EKON} ประเภทของสินค้า, สินค้า @23-03-2025 14:44:05@
-artilerio ปืนใหญ่
-artrito ข้อต่ออักเสบ
-asbesto แร่ใยหิน
-ascendi //(ntr)// ขึ้นไป = supreniri
-asigni //(tr)// ระบุ, แจ้ง
-asimili //(tr)// ซึมซับ, รับ, {BIO} ดูดซึม...เข้าไปในร่างกาย, {POL} ทำให้ผสมกลมกลืน, {FON} กลืนเสียง
-asparago หน่อไม้ฝรั่ง
-aspiri //(al / tr)// ปรารถนา, อยาก, หวังเป็นอย่างยิ่ง
-aspirino แอสไพริน
-asterio {ZOO} ปลาดาว = marstelo ++
+artilerio {MIL} ปืนใหญ่, เหล่าทหารปืนใหญ่; artileriano/artileriisto {MIL} ทหารปืนใหญ่ IMG:[https://upload.wikimedia.org/wikipedia/commons/9/9a/Artillerie_de_campagne_allemande_pre-1914.jpg] @24-03-2025 08:55:30@
+artrito {MED} ภาวะข้อต่ออักเสบ @24-03-2025 09:21:42@
+asbesto {MIN} {TEK} {TEKS} แร่ใยหิน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Asbestos_fibres.jpg/318px-Asbestos_fibres.jpg] @24-03-2025 09:21:42@
+ascendi //(malofte)// //(x)// ขึ้นไป, ไปข้างบน = supreniri, alsupri @24-03-2025 09:21:42@
+asigni //(tr)// ระบุ, แจ้ง, กำหนด, {EKON} ระบุ, แจ้ง, กำหนด //(เกี่ยวกับเงิน)//; asigno, asignaĵo การระบุ/แจ้ง/กำหนด, เอกสารแจ้ง, เอกสารมอบหมาย @24-03-2025 09:21:42@
+asimili //(tr)// ซึมซับ, รับ, {BIO} ดูดซึม...เข้าไปในร่างกาย, {POL} ทำให้ผสมกลมกลืน, {FON} กลืนเสียง; asimilo/asimilado การซึบซับ, การรับบางอย่างเข้าไป; asimiliĝi ถูกซึมซับ, ได้รับเอาเข้าไป; asimilismo การปรับตัว, การทำให้กลมกลืนกับวัฒนธรรม/วิถีชีวิต @24-03-2025 09:21:42@
+asparago {BOT} หน่อไม้ฝรั่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Asparagus-Bundle.jpg/94px-Asparagus-Bundle.jpg] @24-03-2025 09:21:42@
+aspiri //(x)// ปรารถนาอย่างยิ่ง, หวังเป็นอย่างยิ่ง; aspiro การปราถนาอย่างยิ่ง, ความหวังอย่างยิ่ง @24-03-2025 09:21:42@
+aspirino {MED} ยาแอสไพริน (CH<sub>3</sub>-CO-O-C<sub>6</sub>H<sub>4</sub>-COOH) @24-03-2025 09:21:42@
+asterio {ZOO} ปลาดาว = marstelo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estrella_de_mar_de_espinas_rojas_%28Protoreaster_linckii%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-06-01%2C_DD_06.jpg/240px-Estrella_de_mar_de_espinas_rojas_%28Protoreaster_linckii%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-06-01%2C_DD_06.jpg] @24-03-2025 09:21:42@
 asterisko เครื่องหมายดอกจัน >> steleto
 astmo โรคหืด
 astro ดาว (ดาวฤกษ์, ดาวเคราะห์, ดาวหาง)
@@ -2940,7 +2940,7 @@ astronomio ดาราศาสตร์
 ataŝeo ผู้ช่วยทูต
 ateismo อเทวนิยม >> teismo, dikredanto
 ateisto ผู้ที่ไม่เชื่อว่ามีพระเจ้า, ผู้ถืออเทวนิยม
-atletiko การกีฬา ++
+atletiko การกีฬา **
 atleto นักกีฬา, ผู้ชายแข็งแรง
 atribui //(tr)// ให้, มอบ, เห็นว่าเป็นของ, คิดว่าเกิดจาก
 atributo คุณลักษณะ, ลักษณะประจำตัว
@@ -2948,7 +2948,7 @@ aŭ! //(int)// อ้าว
 aŭditorio ห้องฟัง, ห้องประชุม
 aŭguro ลาง, ลางสังหรณ์, นิมิต >> antaŭsigno; bonaŭgura มงคล: bonaŭgura momento ฤกษ์ดี
 aŭkcio การประมูล; aŭkcii //(tr)// ประมูล
-aŭspicio ① ลาง, สิ่งที่จะเกิดขึ้นในอนาคต, ② (มักอยู่ในรูปพหูพจน์) การป้องกัน, การอุปถัมภ์, การเชิดชู ++
+aŭspicio ① ลาง, สิ่งที่จะเกิดขึ้นในอนาคต, ② (มักอยู่ในรูปพหูพจน์) การป้องกัน, การอุปถัมภ์, การเชิดชู **
 aŭtenta/aŭtentika แท้, จริง >>  vera; aŭtenttikaĵo ของจริง, เนื้อแท้
 aŭtografo ลายมือผู้มีชื่อเสียง
 avanci //(ntr)// เลื่อนขั้น, เลื่อนระดับ, เลื่อนตำแหน่ง, {MIL} บุกเข้าดินแดนศัตรู, //(tr)// = antaŭpagi จ่ายก่อน
