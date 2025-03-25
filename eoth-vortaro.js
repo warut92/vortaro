@@ -4128,18 +4128,18 @@ oscili {FIZ} {ELE} //(ntr)// แกว่งไปมา, กวัดแกว�
 ovario {ANA} {BOT} รังไข่ @22-04-2024 23:35:29@
 ozono {KEM} โอโซน (O<sub>3</sub>) @22-04-2024 23:35:29@
 <!-- P -->
-paciento {MED} คนไข้ = kuracato ++
-pacifismo >> pacismo
-padelo ใบของใบจักร ใบพัด กังหัน พาย ฯลฯ; padelrado วงล้อกังหันขนกดใหญ่
-pado ทางเดิน
-pagajo ไม้พาย: remi per pagajo พายเรือ; pagaji //(ntr)// พาย
-pagano คนเพเกน, คนนอกศาสนา; pagnismo ลัทธิเพเกน
-pagodo เจดีย์ >> stupao
-paguro {ZOO} ปูเสฉวน
-pajaco ตัวตลก
-pakto กติกาสัญญา, ข้อตกลง
-palia (lingvo); la ภาษาบาลี
-pampelmuso ส้มโอ
+paciento {MED} คนไข้ = kuracato @25-03-2025 08:05:15@
+pacifismo {POL} ความรักสันติ, ความรักสงบ = pacismo @25-03-2025 08:23:24@
+padelo {TEK} ใบพัด, ใบกังหัน ใบพาย; padeli {SPO} //(ntr)// พาย @25-03-2025 08:23:24@
+pado {TRA} ทางเดิน, เส้นทาง @25-03-2025 08:23:24@
+pagajo {SPO} ไม้พาย (เรือ) @25-03-2025 08:23:24@
+pagano {REL} ผู้ที่นับถือลัทธิเพเกน, คนนอกศาสนา; pagnismo {REL} ลัทธิเพเกน; novpaganismo {REL} ลัทธิเพเกนสมัยใหม่ @25-03-2025 08:23:24@
+pagodo {AKRI} เจดีย์ >> stupao @25-03-2025 08:23:24@
+paguro {ZOO} ปูเสฉวน = ermitokrabo //(Viki)// IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/991127-Chabahar-IMG_6650-HermitCrab-2.jpg/330px-991127-Chabahar-IMG_6650-HermitCrab-2.jpg] @25-03-2025 08:23:24@
+pajaco ตัวตลก = foira amuzisto IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/SAND_Maurice_Masques_et_bouffons_05.jpg/134px-SAND_Maurice_Masques_et_bouffons_05.jpg] @25-03-2025 08:23:24@
+pakto //(malofte)// {JUR} สนธิสัญญา, //(f)// คำประกาศ @25-03-2025 08:23:24@
+Palio/palia //(PIV)// {LIN} {BUD} ภาษาบาลี @25-03-2025 08:26:47@
+pampelmuso {KUI} ส้มโอ; pampelmusarbo/pampelmusujo ต้นส้มโอ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/330px-Pomelo_fruit.jpg] @25-03-2025 08:26:47@
 panaceo ยาแก้สารพัดโรค = universala kuracilo
 pandito บัณฑิต >> komentisto
 panelo แผงหน้าปัด(รถยนต์ เครื่องบิน ฯลฯ), แผงควบคุม, ผ้ายาวแสดงคำขวัญ, ป้าย
@@ -5475,5 +5475,12 @@ rangifero //(PIV)// {ZOO} กวางแคริบู, กวางเรน�
 stalaktito {MIN} หินย้อย IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Stalactites_-_Treak_Cliff_Cavern.jpg/330px-Stalactites_-_Treak_Cliff_Cavern.jpg] @23-03-2025 11:27:53@
 stalagmito {MIN} หินงอก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Teufelsh%C3%B6hle%2C_Kaiser_Barbarossa_mit_Zaubergarten.jpg/320px-Teufelsh%C3%B6hle%2C_Kaiser_Barbarossa_mit_Zaubergarten.jpg] @23-03-2025 11:27:53@
 arkeologo {ARKE} นักโบราณคดี = arkeologiisto @23-03-2025 14:12:01@
+jardo {MAR} คานใบเรือ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TopGallantYard.jpg/330px-TopGallantYard.jpg] @25-03-2025 08:05:15@
+gibi {MAR} เปลี่ยนทิศทางเรือด้วยการเปลี่ยนใบเรือไปอีกทาง @25-03-2025 08:05:15@
+bivako {MIL} {SPO} การหยุดพักชั่วคราว; bivaki  {MIL} {SPO} //(ntr)// หยุดพักชั่วคราว @25-03-2025 08:05:15@
+holdo {MAR} ห้องเก็บสินค้าใต้ท้องเรือ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Paper_roll_loaded_on_ship.jpg/250px-Paper_roll_loaded_on_ship.jpg] @25-03-2025 08:05:15@
+jardo (หน่วยวัดความยาว) หลา @25-03-2025 08:05:15@
+rumo {KUI} เหล้ารัม @25-03-2025 08:05:15@
+moruo {BOT} ปลาคอดแอตแลนติก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg/320px-Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg] @25-03-2025 08:05:15@
 >.
 `
