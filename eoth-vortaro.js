@@ -4154,14 +4154,14 @@ paragrafo {JUR} วรรค, ตอน, ข้อความสั้น ๆ, 
 paralizi //(tr)// ทำให้เป็นอัมพาต; paralizo {MED} โรคอัมพาต; paralizulo ผู้ที่เป็นอัมพาต @26-03-2025 17:07:35@
 parazito {EKOL} ปรสิต, //(f)// แมงดา, คนที่เกาะคนอื่นกิน; paraziti //(x)// เป็นปรสิต, เกาะกิน; parazitato; parazitismo/paraziteco {EKOL} ภาวะปรสิต; ekstera parazito {EKOL} พาราสิตภายนอก; interna parazito {EKOL} พาราสิตภายใน @26-03-2025 17:07:35@
 parcelo แปลงที่ดิน; disparceligi/disparceli //(tr)// แบ่งแปลงที่ดิน @26-03-2025 17:07:35@
-parentezo เครื่องหมายวงเล็บ, ข้อความในวงเล็บ; parenteze ว่าแต่ว่า
-participo {LIN} ในภาษาเอสเปรันโตหมายถึงสถานะของกริยา ได้แก่ จะกระทำ กำลังกระทำ หรือ กระทำไปแล้ว แต่มิได้แสดงกาล ซึ่งแบ่งได้สองประเภท คือเป็นผู้กระทำ aktiva และเป็นผู้ถูกกระทำ pasiva
-partiklo {FIZ} อนุภาค >> ero, peceto
-partnero พันธมิตร, ผู้ร่วมงาน, หุ้นส่วน, ภาคี, แฟน; partneriĝi (kun) เข้าหุ้น
-pasiva เฉื่อย; pasivo {LIN} กรรมวาจก, ถูกกระทำ, {EKON} หนี้สิน
-pasteĉo ปาเต (ฝรั่งเศส: pâté) เป็นอาหารยุโรปประเภทหนึ่ง ในภาษาฝรั่งเศสหมายถึงเนื้อบดผสมไขมัน, อาหารมีเปลือกกรอบทำด้วยแปังอบ >> pirogo (rusa pasteĉo), torto
-pastelo ลูกอมเม็ดเล็ก ๆ
-pasteŭrizi //(tr)// ฆ่าเชื้อ
+parentezo {GRA} ข้อความอธิบายแทรก, {TIP} เครื่องหมายวงเล็บ = krampo; parenteza เกี่ยวกับข้อความในวงเล็บ, ข้อความที่กล่าวไปแล้ว; parenteze อีกอย่างหนึ่ง, ว่าแต่ว่า, ที่ได้เขียนไว้ในวงเล็บ @27-03-2025 08:35:26@
+participo {GRA} มาลาในภาษาเอสเปรันโตแสดงสถานะกริยา แต่มิได้แสดงกาล ซึ่งแบ่งได้สองประเภท 1.ผู้กระทำ (aktiva) ได้แก่ จะกระทำ กำลังกระทำ และได้กระทำไปแล้ว 2. ผู้ถูกกระทำ (pasiva) จะถูกกระทำ กำลังถูกกระทำ และได้ถูกกระทำไปแล้ว @27-03-2025 08:35:26@
+partiklo {FIZ} {MIN} อนุภาค, //(่komune)// สิ่งที่เล็กมาก = korpusklo; kontraŭpartiklo ปฏิยานุภาค = antipartiklo @27-03-2025 08:58:50@
+partnero {EKON} {POL} พันธมิตร, หุ้นส่วน, {SPO} ผู้เล่นในทีม, แฟน, คนรัก; partneri (kun) เป็นพันธมิตร, ร่วมเป็นหุ้นส่วน @27-03-2025 08:58:50@
+pasiva {GRA} เกี่ยวกับกรรมวาจก, เป็นผู้ถูกกระทำ, เฉื่อยชา, เฉื่อย, ไม่มีปฏิกริยา, ไม่โต้ตอบ; pasivo {GRA} กรรมวาจก, ถูกกระทำ, {EKON} หนี้สิน; pasivi อยู่เฉย ๆ, ไม่ทำอะไร; pasivigi ผันให้เป็นกรรมวาจก; kontraŭpasivo อกรรมกริยาวาจก[?] @27-03-2025 08:58:50@
+pasteĉo {KUI} ปีแยรอกี = pirogo, ปาเต //(Fr: pâté)// เป็นอาหารยุโรปประเภทหนึ่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pates_p1150435.jpg/281px-Pates_p1150435.jpg] @27-03-2025 08:58:50@
+pastelo {MED} ลูกอมเม็ดเล็ก ๆ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flickr_-_cyclonebill_-_Poletter_%283%29.jpg/320px-Flickr_-_cyclonebill_-_Poletter_%283%29.jpg] @27-03-2025 09:10:29@
+pasteŭrizo {BIO} {KUI} การพาสเจอร์ไรส์; pasteŭrizi {BIO} {KUI} //(tr)// พาสเจอร์ไรส์, ฆ่าเชื้อ @27-03-2025 09:10:29@
 pastoro ศิษยาภิบาล
 paŝtelo ดินสอเทียน, ภาพเขียนด้วยดินสอเทียน
 patroli //(ntr)// การลาดตระเวณ; patrolo ผู้ เครื่องบิน หรือ ฯลฯ ที่ออกลาดตระเวน: polica patrolaŭto รถสายตรวจของตำรวจ
@@ -5482,5 +5482,6 @@ jardo (หน่วยวัดความยาว) หลา @25-03-2025 08:0
 rumo {KUI} เหล้ารัม @25-03-2025 08:05:15@
 moruo {BOT} ปลาคอดแอตแลนติก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg/320px-Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg] @25-03-2025 08:05:15@
 konkava เว้า @25-03-2025 17:36:39@
+lento {BOT} {KUI} ถั่วเลนทิล; lenta เกี่ยวกับถั่วเลนทิล; lentoforma รูปร่างแบบถั่วเลนทิล @27-03-2025 09:10:29@
 >.
 `
