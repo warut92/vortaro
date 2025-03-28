@@ -4130,7 +4130,7 @@ ozono {KEM} โอโซน (O<sub>3</sub>) @22-04-2024 23:35:29@
 <!-- P -->
 paciento {MED} คนไข้ = kuracato @25-03-2025 08:05:15@
 pacifismo {POL} ความรักสันติ, ความรักสงบ = pacismo @25-03-2025 08:23:24@
-padelo {TEK} ใบพัด, ใบกังหัน ใบพาย; padeli {SPO} //(ntr)// พาย @25-03-2025 08:23:24@
+padelo {TEK} ใบพัด, ใบกังหัน, ใบพาย; padeli {SPO} //(ntr)// พาย @25-03-2025 08:23:24@
 pado {TRA} ทางเดิน, เส้นทาง @25-03-2025 08:23:24@
 pagajo {SPO} ไม้พาย (เรือ) @25-03-2025 08:23:24@
 pagano {REL} ผู้ที่นับถือลัทธิเพเกน, คนนอกศาสนา; pagnismo {REL} ลัทธิเพเกน; novpaganismo {REL} ลัทธิเพเกนสมัยใหม่ @25-03-2025 08:23:24@
@@ -4142,47 +4142,45 @@ Palio/palia //(PIV)// {LIN} {BUD} ภาษาบาลี @25-03-2025 08:26:47@
 pampelmuso {KUI} ส้มโอ; pampelmusarbo/pampelmusujo ต้นส้มโอ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/330px-Pomelo_fruit.jpg] @25-03-2025 08:26:47@
 panaceo {MIT} {MED} ยาแก้สารพัดโรค @25-03-2025 17:36:39@
 pandito {HIN} บัณฑิต @25-03-2025 17:36:39@
-panelo {AKRI} แผ่นกระดานสี่เหลี่ยมที่กรุ (บริเวณประตู, หน้าต่างหรือผนัง), {KOMP} {TEK} แผงหน้าปัด, แผงควบคุม, กลุ่มผู้เชี่ยวชาญสำหรับการอภิปราย, การอภิปรายหมู่; kontrolpanelo {KOMP} {TEK} แผงหน้าปัด, แผงควบคุม; regpanelo/stirpanelo แผงหน้าปัด(รถ), แผงควบคุม(รถ); sunpanelo {TEK} โซล่าเซลล์; paneldiskuto  การอภิปรายหมู่ @25-03-2025 17:36:39@
+panelo 1. {AKRI} แผ่นกระดานสี่เหลี่ยมที่กรุ (บริเวณประตู, หน้าต่างหรือผนัง), 2. {KOMP} {TEK} แผงหน้าปัด, แผงควบคุม, 3.กลุ่มผู้เชี่ยวชาญสำหรับการอภิปราย, 4. การอภิปรายหมู่; kontrolpanelo {KOMP} {TEK} แผงหน้าปัด, แผงควบคุม; regpanelo/stirpanelo แผงหน้าปัด(รถ), แผงควบคุม(รถ); sunpanelo {TEK} โซล่าเซลล์; paneldiskuto การอภิปรายหมู่ @25-03-2025 17:36:39@
 paniko ความตื่นตกใจ; paniki //(ntr)// ตื่นตกใจ, หวั่นวิตก, //(evitinde)// //(tr)// panikigi; panikigi ทำให้หวั่นวิตก; ekpaniki //(ntr)// ทำให้ตื่นตกใจ, ทำให้หวั่นวิตก @25-03-2025 17:36:39@
-panoramo ภาพกว้าง, ทัศนียภาพรวม, {BELA} {TEK} รูปภาพประเภทหนึ่ง[?], //(f)// ทิวทัศน์; panorami มองไปรอบ ๆ, //(f)// นำเสนอรอบด้าน @25-03-2025 17:36:39@ 
+panoramo 1. ภาพกว้าง, ทัศนียภาพรวม, 2. {BELA} {TEK} รูปภาพประเภทหนึ่ง[?], //(f)// ทิวทัศน์; panorami มองไปรอบ ๆ, //(f)// นำเสนอรอบด้าน @25-03-2025 17:36:39@ 
 papajo {KUI} มะละกอ; papajarbo/papajujo {BOT} ต้นมะละกอ @25-03-2025 17:36:39@
 papriko {KUI} พริกปาปริกา @25-03-2025 17:36:39@
-paradigmo {SCI} {HIS} {FIL} กระบวนทัศน์, แนวคิดของโลก, ตัวอย่างที่ชัดเจน, แบบฉบับ, {LIN} รูปต่าง ๆ ของคำที่ผันทางไวยากรณ์, {KOMP} [?]; paradigma เป็นแบบอย่าง, เป็นวิธีการ, {LIN} แสดงส่วนประกอบตามรูปแบบไวยากรณ์ @25-03-2025 17:36:39@
-parado {MIL} ขบวนทหารพาเหรด, //(f)// ขบวนพาเหรด, งานรื่นเริง;parada เกี่ยวกับขบวนพาเหรด; paradi เดินพาเหรด; por parado //(frazaĵo)// อวด, โชว์ @25-03-2025 17:36:39@
-parafo {JUR} {TIP} ลายเส้นที่เพิ่มเติมต่อจากลายเซ็น, ลายเซ็นอย่างย่อ; parafi เซ็นอย่างย่อ [?] @26-03-2025 17:07:35@
-paragrafo {JUR} วรรค, ตอน, ข้อความสั้น ๆ, {TIP} เครื่องหมายแสดงวรรคตอน [§, ¶], //(evidente)// = alineo @26-03-2025 17:07:35@
+paradigmo 1. {SCI} {HIS} {FIL} กระบวนทัศน์, แนวคิดของโลก, ตัวอย่างที่ชัดเจน, แบบฉบับ, 2. {LIN} รูปต่าง ๆ ของคำที่ผันทางไวยากรณ์, 3. {KOMP} [?]; paradigma 1. เป็นแบบอย่าง, เป็นวิธีการ, 2. {LIN} แสดงส่วนประกอบตามรูปแบบไวยากรณ์ @25-03-2025 17:36:39@
+parado 1. {MIL} ขบวนทหารพาเหรด, //(f)// ขบวนพาเหรด, 2. งานรื่นเริง; parada เกี่ยวกับขบวนพาเหรด; paradi เดินพาเหรด; por parado //(frazaĵo)// อวด, โชว์ @25-03-2025 17:36:39@
+parafo {JUR} {TIP} ลายเส้นที่เพิ่มเติมต่อจากลายเซ็น, ลายเซ็นที่มีการตกแต่ง; parafi เซ็นให้มีลวดลาย @28-03-2025 15:51:19@
+paragrafo 1. {JUR} วรรค, ตอน, ข้อความสั้น ๆ, 2. {TIP} เครื่องหมายแสดงวรรคตอน [§, ¶], //(evidente)// = alineo @26-03-2025 17:07:35@
 paralizi //(tr)// ทำให้เป็นอัมพาต; paralizo {MED} โรคอัมพาต; paralizulo ผู้ที่เป็นอัมพาต @26-03-2025 17:07:35@
-parazito {EKOL} ปรสิต, //(f)// แมงดา, คนที่เกาะคนอื่นกิน; paraziti //(x)// เป็นปรสิต, เกาะกิน; parazitato; parazitismo/paraziteco {EKOL} ภาวะปรสิต; ekstera parazito {EKOL} พาราสิตภายนอก; interna parazito {EKOL} พาราสิตภายใน @26-03-2025 17:07:35@
+parazito {EKOL} ปรสิต, //(f)// แมงดา, คนที่เกาะคนอื่นกิน; paraziti //(x)// 1. เป็นปรสิต, 2. เกาะกิน; parazitato; parazitismo/paraziteco {EKOL} ภาวะปรสิต; ekstera parazito {EKOL} พาราสิตภายนอก; interna parazito {EKOL} พาราสิตภายใน @26-03-2025 17:07:35@
 parcelo แปลงที่ดิน; disparceligi/disparceli //(tr)// แบ่งแปลงที่ดิน @26-03-2025 17:07:35@
-parentezo {GRA} ข้อความอธิบายแทรก, {TIP} เครื่องหมายวงเล็บ = krampo; parenteza เกี่ยวกับข้อความในวงเล็บ, ข้อความที่กล่าวไปแล้ว; parenteze อีกอย่างหนึ่ง, ว่าแต่ว่า, ที่ได้เขียนไว้ในวงเล็บ @27-03-2025 08:35:26@
+parentezo 1. {GRA} ข้อความอธิบายแทรก, 2. {TIP} เครื่องหมายวงเล็บ = krampo; parenteza เกี่ยวกับข้อความในวงเล็บ, ข้อความที่กล่าวไปแล้ว; parenteze 1. อีกอย่างหนึ่ง, ว่าแต่ว่า,  2. ที่ได้เขียนไว้ในวงเล็บ @27-03-2025 08:35:26@
 participo {GRA} มาลาในภาษาเอสเปรันโตแสดงสถานะกริยา แต่มิได้แสดงกาล ซึ่งแบ่งได้สองประเภท 1.ผู้กระทำ (aktiva) ได้แก่ จะกระทำ กำลังกระทำ และได้กระทำไปแล้ว 2. ผู้ถูกกระทำ (pasiva) จะถูกกระทำ กำลังถูกกระทำ และได้ถูกกระทำไปแล้ว @27-03-2025 08:35:26@
 partiklo {FIZ} {MIN} อนุภาค, //(่komune)// สิ่งที่เล็กมาก = korpusklo; kontraŭpartiklo ปฏิยานุภาค = antipartiklo @27-03-2025 08:58:50@
-partnero {EKON} {POL} พันธมิตร, หุ้นส่วน, {SPO} ผู้เล่นในทีม, แฟน, คนรัก; partneri (kun) เป็นพันธมิตร, ร่วมเป็นหุ้นส่วน @27-03-2025 08:58:50@
-pasiva {GRA} เกี่ยวกับกรรมวาจก, เป็นผู้ถูกกระทำ, เฉื่อยชา, เฉื่อย, ไม่มีปฏิกริยา, ไม่โต้ตอบ; pasivo {GRA} กรรมวาจก, ถูกกระทำ, {EKON} หนี้สิน; pasivi อยู่เฉย ๆ, ไม่ทำอะไร; pasivigi ผันให้เป็นกรรมวาจก; kontraŭpasivo อกรรมกริยาวาจก[?] @27-03-2025 08:58:50@
+partnero 1. {EKON} {POL} พันธมิตร, หุ้นส่วน,2. {SPO} ผู้เล่นในทีม, 3. แฟน, คนรัก; partneri (kun) เป็นพันธมิตร, ร่วมเป็นหุ้นส่วน @27-03-2025 08:58:50@
+pasiva 1. {GRA} เกี่ยวกับกรรมวาจก, เป็นผู้ถูกกระทำ, 2. เฉื่อยชา, เฉื่อย, 3. ไม่มีปฏิกริยา, ไม่โต้ตอบ; pasivo {GRA} กรรมวาจก, ถูกกระทำ, {EKON} หนี้สิน; pasivi อยู่เฉย ๆ, ไม่ทำอะไร; pasivigi ผันให้เป็นกรรมวาจก; kontraŭpasivo อกรรมกริยาวาจก[?] @27-03-2025 08:58:50@
 pasteĉo {KUI} ปีแยรอกี = pirogo, ปาเต //(Fr: pâté)// เป็นอาหารยุโรปประเภทหนึ่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pates_p1150435.jpg/281px-Pates_p1150435.jpg] @27-03-2025 08:58:50@
 pastelo {MED} ลูกอมเม็ดเล็ก ๆ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flickr_-_cyclonebill_-_Poletter_%283%29.jpg/320px-Flickr_-_cyclonebill_-_Poletter_%283%29.jpg] @27-03-2025 09:10:29@
 pasteŭrizo {BIO} {KUI} การพาสเจอร์ไรส์; pasteŭrizi {BIO} {KUI} //(tr)// พาสเจอร์ไรส์, ฆ่าเชื้อ @27-03-2025 09:10:29@
-pastoro ศิษยาภิบาล
-paŝtelo ดินสอเทียน, ภาพเขียนด้วยดินสอเทียน
-patroli //(ntr)// การลาดตระเวณ; patrolo ผู้ เครื่องบิน หรือ ฯลฯ ที่ออกลาดตระเวน: polica patrolaŭto รถสายตรวจของตำรวจ
-paŭsi //(tr)// ลอกภาพ (ใช้กระดาษบางทาบ); paŭspapero กระดาษลอกลาย
-pavilono ศาลา, กระโจม
-pavimo วัสดุปูถนน พื้น ฯลฯ; pavimi //(tr)// ปูหิน ไม้ ฯลฯ, ลาดยาง
-pazigrafio ระบบการเขียนสากลประเภทหนึ่งที่แสดงความหมายของคำโดยตรงโดยไม่จำเป็นต้องมีเสียงอ่าน
-peĉo น้ำมันดิน
-pedagogio วิชาการสอน, วิชาครู = edukscienco
-pedalo กระได(รถจักรยาน ฯลฯ); pedaligi ป่ัน, ถีบ
-pederasto = pederastiulo ชายที่ร่วมเพศทางทวารหนักกับเด็กผู้ชาย; pederastio ลักษณะของชายที่มีความรู้สึกทางเพศกับเด็กชาย
-pedofilio ลักษณะของผู้ที่ชอบร่วมเพศกับเด็ก; pedofiliulo ผู้ชอบร่วมเพศกับเด็ก
-peguo ชาวมอญ(เขมร)
-Pekino กรุงปักกิ่ง
-pekteno หอยแครง
-pelikano {ZOO} นกกระทุง
-pelvo ชาม, อ่าง(ล้างหน้า), กระดุกชิงกราน >> kuvo, (emajla) lavpelvo กะละมัง
-persimono ลูกพลับ (ชนิดหนึ่ง)
-perspektivo ① {BELA} ภาพสองมิติ ② ทิวทัศน์ ③ มุมมอง, ทัศนะ; longperspektiva วิสัยทัศน์กว้างไกล
-peruko ผมปลอม
-petardo ประทัด
+pastoro {KRI} ศิษยาภิบาล @28-03-2025 15:08:41@
+paŝtelo 1. ดินสอเทียน, 2. ภาพเขียนด้วยดินสอเทียน; paŝtelaĵo {BELA} ภาพเขียนด้วยดินสอเทียน @28-03-2025 15:09:44@
+patrolo 1. {MIL} กองลาดตระเวน, 2. กองลูกเสือ; patroli //(ntr)//ลาดตระเวน @28-03-2025 15:51:19@
+paŭsi //(tr)// 1. ลอกภาพ (ใช้กระดาษลอกลาย), 2. เลียนแบบ; paŭsado การลอกลาย; paŭsaĵo/paŭso สิ่งที่มีการลอกลาย, {LIN} คำเลียนแบบ @28-03-2025 15:51:19@
+pavilono ซุ้ม, กระโจม, พลับพลา, ศาลา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Leibniztempel_Hannover.jpg/330px-Leibniztempel_Hannover.jpg] @28-03-2025 15:51:19@
+pavimo {KON} {TRA}  วัสดุปูถนน/พื้นห้อง; pavimi //(tr)// ปูถนน, ปูพื้น; pavimero ชิ้นวัสดุปูถนน/พื้นห้อง IMG:[https://upload.wikimedia.org/wikipedia/eo/7/75/PavumitavojoHennebert.jpeg] @28-03-2025 15:51:19@
+pazigrafio {LIN} {TIP} ระบบการเขียนประเภทหนึ่งที่แสดงความหมายของคำโดยตรงโดยไม่จำเป็นต้องมีเสียงอ่าน @28-03-2025 15:51:19@
+peĉo น้ำมันดิน; terpeĉo //(komune)// ยางมะตอย = asfalto @28-03-2025 15:51:19@
+pedagogio {PED} วิชาการสอน, วิชาครู = didaktiko; pedagogia เกี่ยวกับการสอน = priinstrua; pedagogiisto ผู้เชี่ยวชาญด้านการสอน @28-03-2025 15:51:19@
+pedalo {TEK} คันเหยียบ; pedali //(tr)// ปั่น, ถีบ(จักรยาน) @28-03-2025 15:51:19@
+pedofilio {MED} {POL} ลักษณะของผู้ที่ชอบร่วมเพศกับเด็ก; pedofiliulo ผู้ชอบร่วมเพศกับเด็ก @28-03-2025 17:30:39@
+Pekino {GEOG} {POL} กรุงปักกิ่ง //(เมืองหลวงประเทศจีน)// @28-03-2025 17:30:39@
+pekteno //(PIV)// {ZOO} หอยแครง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pecten_maximus_Pilgermuschel.jpg/320px-Pecten_maximus_Pilgermuschel.jpg] @28-03-2025 17:30:39@
+pelikano {ZOO} นกกระทุง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SpotbilledPelican.jpg/330px-SpotbilledPelican.jpg] ; pelikanoformaj นกที่มีรูปร่างอยู่ในอันดับนกกระทุง @28-03-2025 17:30:39@
+pelvo 1. กะลามัง, อ่าง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Swamp_kauri_bowl.jpg/330px-Swamp_kauri_bowl.jpg], 2. {ANA} กระดูกเชิงกราน; pelveto อ่างใบเล็ก; lavpelvo กะละมังใส่น้ำ @28-03-2025 18:04:41@
+persimono {BOT} ลูกพลับ; persimonujo {BOT} ต้นพลับ; persimonujo orienta {BOT}  ลูกพลับตะวันออก; persimonujo japana {BOT}  ลูกพลับญี่ปุ่น; persimonujo virginia {BOT}  ลูกพลับอเมริกา @28-03-2025 18:04:41@
+perspektivo 1. {BELA} ทัศนมิติ, 2. ทิวทัศน์, 3. //(f)// มุมมอง, ทัศนะ; longperspektiva/longtempa perspektivo ในระยะยาว;mallongperspektiva ในระยะสั้น; senperspektiva ไร้อนาคต, ไม่มีทัศนวิสัย @28-03-2025 18:04:41@
+peruko ผมปลอม, วิก @28-03-2025 18:04:41@
+petardo ประทัด, {MIL} ระเบิดประตูหรือกำแพงในการทำสงครามสมัยโบราณ @28-03-2025 18:04:41@
 petro ส่วนประกอบของเปลือกโลก >> ŝtono, roko
 petroselo ผักชีฝรั่ง
 piedestalo ฐาน
@@ -4820,7 +4818,7 @@ vermiĉelo {KUI} เส้นหมี่อิตาเลียน @03-03-2025
 vertebro {ANA} กระดูกสันหลัง; vertebraro {ANA} กระดูกซี่โครง = spino; vertebruloj {ZOO} สัตว์มีกระดูกสันหลัง; senvertebruloj {ANA} สัตว์ไม่มีกระดูกสันหลัง @29-07-2024 15:38:50@
 vertiĝo {MED} อาการเวียนศีรษะ, อาการเวียนหัว, อาการวิงเวียน = kapturno; vertiĝi //(ntr)// เวียนศีรษะ, เวียนหัว, หน้ามืด; vertiĝigi ทำให้เวียนศีรษะ, ทำให้เวียนหัว @29-07-2024 15:43:58@
 vervo ความร่าเริง, ความมีชีวิตชีวา; verva ร่าเริง, มีชีวิตชีวา @29-07-2024 15:48:20@
-vestiblo ห้องกลางติดกับประตูหน้า @29-07-2024 15:56:37@
+vestiblo {ARKI} ห้องกลางติดกับประตูหน้า IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Whitehouse-vestibule.png/250px-Whitehouse-vestibule.png], {ANA} โพรงทางเข้า @28-03-2025 15:51:19@
 veterano ผู้ที่มีประสบการณ์, ทหารผ่านศึก @29-07-2024 15:57:23@
 veterinaro {MED} สัตวแพทย์ = bestokuracisto @29-07-2024 15:58:16@
 video {KIN} การถ่ายวิดีโอ, วิดีโอ; videaĵo {KIN} วิดีโอ; muzikvideo มิวสิควิดีโอ @15-03-2024 18:53:02@

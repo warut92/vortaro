@@ -44,6 +44,12 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\>\>/g, '→')
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[a-z-].*)(\[)/g, '<h1>$</h1>$2')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
+//por sencoj
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(1)\. /gm, '① ')
+.replace(/(2)\. /gm, '② ')
+.replace(/(3)\. /gm, '③ ')
+.replace(/(4)\. /gm, '④ ')
+.replace(/(5)\. /gm, '⑤ ')
 //por redakt-dato
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
 //la etikedo por bildoj
