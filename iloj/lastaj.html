@@ -14,8 +14,8 @@
     <a href="pri.html"><pre id="statistiko"></pre></a>
     <h3>พจนานุกรมเอสเปรันโต-ไทย</h3>
     <h3>การเปลี่ยนแปลงล่าสุด</h3>
-    <button onclick="redaktejoTipo(0)">คำแก้ไข</button>
-    <button onclick="redaktejoTipo(1)">คำเพิ่มใหม่</button>
+    <!-- <button onclick="redaktejoTipo(0)">คำแก้ไข</button>
+    <button onclick="redaktejoTipo(1)">คำเพิ่มใหม่</button> -->
     <p>รวมรวมทั้งหมด <span id="st_lastaj"></span> คำ</p>
     <a href="https://github.com/warut92/vortaro/commit/master" target="_blank"><p>ดูการเปลี่ยแปลงที่ Github</p></a>
     <div id="lastaj">
@@ -28,6 +28,12 @@
     let vortaro_HTML = vortaro
     //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
     vortaro = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
+
+    //la etikedo por bildoj
+    // vortaro = vortaro.replace(/IMG:\[(.*)\]/g, '<img src="$1">')
+
+    //konverti la fakideksojn kun speciala etikedo
+    vortaro = vortaro.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
     vortaro = vortaro.replace(/\n/gm, '<br>')
     vortaro = vortaro.split(/<br>/g)
 

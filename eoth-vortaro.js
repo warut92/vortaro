@@ -5483,5 +5483,6 @@ rumo {KUI} เหล้ารัม @25-03-2025 08:05:15@
 moruo {BOT} ปลาคอดแอตแลนติก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg/320px-Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg] @25-03-2025 08:05:15@
 konkava เว้า @25-03-2025 17:36:39@
 lento {BOT} {KUI} ถั่วเลนทิล; lenta เกี่ยวกับถั่วเลนทิล; lentoforma รูปร่างแบบถั่วเลนทิล @27-03-2025 09:10:29@
+resurso/risurco ทรัพยากร @28-03-2025 10:19:53@
 >.
 `
