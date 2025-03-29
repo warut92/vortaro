@@ -4181,17 +4181,17 @@ persimono {BOT} ลูกพลับ; persimonujo {BOT} ต้นพลับ; 
 perspektivo 1. {BELA} ทัศนมิติ, 2. ทิวทัศน์, 3. //(f)// มุมมอง, ทัศนะ; longperspektiva/longtempa perspektivo ในระยะยาว;mallongperspektiva ในระยะสั้น; senperspektiva ไร้อนาคต, ไม่มีทัศนวิสัย @28-03-2025 18:04:41@
 peruko ผมปลอม, วิก @28-03-2025 18:04:41@
 petardo ประทัด, {MIL} ระเบิดประตูหรือกำแพงในการทำสงครามสมัยโบราณ @28-03-2025 18:04:41@
-petro ส่วนประกอบของเปลือกโลก >> ŝtono, roko
-petroselo ผักชีฝรั่ง
-piedestalo ฐาน
-pigmento สีผิว
-pigmeo ชนเผ่าพวกหนึ่งมีรูปร่างเตี้ยเล็กที่อาศัยอยู่ในทวีปแอฟริกา, คนตัวเล็กมาก
-pigri = mallaboremi
-piĵamo ชุดนอน
-pilolo ยาเม็ด
-pingveno {ZOO} นกเพนกวิน
-pino สน
-pirato โจรสลัด
+petro {GEOL} หิน (ที่เป็นส่วนของเปลือกโลก) = rokaĵo @29-03-2025 13:59:59@
+petroselo {BOT} {KUI} พาร์สลีย์, ผักชีฝรั่ง[?] IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Petroselinum.jpg/171px-Petroselinum.jpg] @29-03-2025 13:59:59@
+piedestalo {ARKI} ฐานสี่เหลี่ยมของอนุเสาวรีย์/เสา/หรือสิ่งก่อสร้าง = soklo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Soissons_%2802%29_Cath%C3%A9drale_Saint-Gervais_et_Saint-Protais_Priant_de_Marie_Cr%C3%A8vec%C5%93ur_01.JPG/180px-Soissons_%2802%29_Cath%C3%A9drale_Saint-Gervais_et_Saint-Protais_Priant_de_Marie_Cr%C3%A8vec%C5%93ur_01.JPG] @29-03-2025 13:59:59@
+pigmento {BIO} สีผิว, {KEM} สารสี; pigmenta เกี่ยวกับสีผิว; pigmenti //(tr)// ย้อมสิ; pigmentiĝo การย้อมสี, การเกิดสี; hiperpigmentiĝo {MED} การสร้างสีผิวมากผิดปกติ @29-03-2025 13:59:59@
+pigmeo 1. {MIT} ชาวตัวเล็ก, คนแคระ, 2. ชนเผ่าพวกหนึ่งมีรูปร่างเตี้ยเล็กที่อาศัยอยู่ในทวีปแอฟริกา, 3. คนตัวเล็กมาก = malgrandegulo @29-03-2025 13:59:59@
+pigra ขี้เกียจ = maldiligenta; pigri //(x)// ขี้เกียจ = maldiligenti; pigro/pigreco ความขี้เกียจ, ความเกียจคร้าน = maldiligento; pigrulo คนขี้เกียจ, คนเกียจคร้าน = maldiligentulo @29-03-2025 14:53:28@
+piĵamo {TEKS} ชุดนอน @29-03-2025 14:53:28@
+pilolo {MED} ยาเม็ด @29-03-2025 14:53:28@
+pingveno {ZOO} นกเพนกวิน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Penguins_walking_-Moltke_Harbour%2C_South_Georgia%2C_British_overseas_territory%2C_UK-8.jpg/330px-Penguins_walking_-Moltke_Harbour%2C_South_Georgia%2C_British_overseas_territory%2C_UK-8.jpg] @29-03-2025 14:53:28@
+pino {BOT} ต้นสน; ruĝa pino {BOT} ต้นสนแดง [?] @29-03-2025 14:53:28@
+pirato {MAR} โจรสลัด; pirati //(ntr)// ปล้น (อย่างโจรสลัด); aerpirato {AVI} สลัดอากาศ, โจรจี้เครื่องบิน; retpirato {KOMP} แฮคเกอร์ @29-03-2025 14:53:28@
 Pireneoj เทือกเขาพิเรนีส
 pirogo อาหารมีเปลือกกรอบทำด้วยแปังอบ  >> pasteĉo, เรือที่ขุดจากต้นไม้
 pirotekniko การทำดอกไม้ไฟ; piroteknikaĵo ดอกไม้เพลิง >> artfajraĵo
@@ -5482,5 +5482,6 @@ moruo {BOT} ปลาคอดแอตแลนติก IMG:[https://upload.wi
 konkava เว้า @25-03-2025 17:36:39@
 lento {BOT} {KUI} ถั่วเลนทิล; lenta เกี่ยวกับถั่วเลนทิล; lentoforma รูปร่างแบบถั่วเลนทิล @27-03-2025 09:10:29@
 resurso/risurco ทรัพยากร @28-03-2025 10:19:53@
+homogena {SCI} ซึ่งมีคุณสมบัติเหมือนกัน, ที่เป็นเนื้อเดียวกัน {MAT} เอกพันธ์; homogeneco ความเป็นแบบเดียวกัน, ภาวะเอกพันธุ์ ; malhomogeneco ความต่างแบบกัน, ภาวะวิวิธพันธุ์ @29-03-2025 13:44:36@
 >.
 `
