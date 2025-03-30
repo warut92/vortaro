@@ -4204,18 +4204,18 @@ pitoreska {BELA} น่าเขียนรูป, น่าวาดรูป 
 pivoto แกนหมุน, เดือยหมุน[?]; pivoti //(ntr)// หมุนรอบเดือยหรือแกน @29-03-2025 18:01:27@
 placebo {MED} ยาหลอก = ŝajnkuracilo //(Viki)// @29-03-2025 18:01:27@
 placento {ANA} รก, {BOT} รกพืช, พลาเซนตา @29-03-2025 18:01:27@
-plagiati //(tr)// ขโมยความคิดหรืองานเขียน; plagiato โจรกรรมทางวรรณกรรม, การลอกเลียนวรรณกรรม
-plaki //(tr)// ชุบด้วยโลหะ, เคลือบ, ดาดด้วยไม้ลายบาง ๆ; plako แผ่นป้าย, {FOT} แผ่นถ่ายภาพ
+ plagiato {BELA} {JUR} การขโมยความคิด, การขโมยคัดลอกผลงานหรือบทประพันธ์; plagiati //(tr)// ขโมยความคิดด, คัดลอกผลงาน @30-03-2025 10:43:23@
+plako 1. {FOT} แผ่นถ่ายภาพ = fota plato //(Viki)// IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/MHNT_PHa_912_T009.jpg/317px-MHNT_PHa_912_T009.jpg], 2. แผ่นป้ายติดผนัง/อนุสาวรีย์ @30-03-2025 10:43:23@
 plateno {KEM} //(ธาตุ)// แพลทินัม, ทองคำขาว (Pt) @11-04-2024 21:36:28@
-platformo ยกพื้น, ฐานปืน, นโยบาย(ของพรรคการ)
-plaŭdi //(ntr)// เสียงของคลื่นซัดเข้าหาฝั่ง
-Plejadoj {AST} ดาวลุกไก่
-plejdo ผ้าห่ม
-plektro {MUZ} ปิ๊ก (กีตาร์ ฯลฯ)
-ploceo {ZOO} นกกระจาบ >> teksobirdo
-plozivo (สัทศาสตร์) เสียงพยัญชนะกัก, เสียงพยัญชนะหยุด, เสียงพยัญชนะระเบิด
-pluki //(tr)// เด็ด, เก็บ: pluki florojn เด็ดดอกไม้
-Plutono {AST} ดาวพลูโต
+platformo {FER} ชานชลา, {KON} ยกพื้น, {MAR} แท่นในทะเล, //(f)// การประชุมปรึกษาหารือ; gasplatformo แท่นขุดเจาะก๊าซ; naftoplatformo แท่นขุดเจาะน้ำมัน @30-03-2025 10:43:23@
+plaŭdi //(ntr)// เสียงของคลื่นซัดเข้าหาฝั่ง; plaŭd //(sonimito)// เสียงของคลื่นซัดเข้าหาฝั่ง; plaŭdado เสียงของคลื่นซัดเข้าหาฝั่ง; plaŭdejo ชายฝั่งที่มี่คลื่นซัด; plaŭdigi ทำให้เกิดคลื่นซัด; manplaŭdi //(ntr)// //(malofte)// ปรบมือเสียงเหมือนคลื่น @30-03-2025 10:43:23@
+Plejadoj {AST} กระจุกดาวลูกไก่, กระจุกดาวไพลยาดีส, วัตถุเมสสิเยร์ M45, ดาวพี่น้องทั้งเจ็ด = Sep Fratinoj IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/320px-Pleiades_large.jpg] @30-03-2025 10:43:23@
+plejdo {TEKS} ผ้าคลุมสำหรับเดินทาง //(PIV)// ลายสกอต @30-03-2025 11:12:26@
+plektro {MUZ} ปิ๊ก; plektri //(tr)// ใช้ปิ๊กดีด @30-03-2025 11:12:26@
+ploceo //(PIV)// {ZOO} นกกระจาบ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Blackbreastedweaver_DSC_6530_040813_dadri.jpg/266px-Blackbreastedweaver_DSC_6530_040813_dadri.jpg] @30-03-2025 11:12:26@
+plosivo/plozivo {FON} เสียงพยัญชนะหยุด, เสียงพยัญชนะระเบิด, เสียงพยัญชนะกัก[?]; glota plosivo {FON} เสียงระเบิด เส้นเสียง @30-03-2025 11:12:26@
+pluki //(tr)// เด็ด, ใช้มือดึงออก; plukado/pluko การเด็ด, การใช้มือดึงออก @30-03-2025 11:12:26@
+Plutono {MIT} เทพผู้ครองโลกบาดาลในเทพปกรณัมกรีกโรมัน, {AST} ดาวพลูโต IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/250px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg] @30-03-2025 11:12:26@
 pneŭmata ที่เกี่ยวกับอากาศหรือก๊าซ, ขยาย
 pneŭmonio โรคปอดบวม
 Pnompeno กรุงพนมเปญ
@@ -4276,7 +4276,7 @@ psikozo จิตวิปลาส, วิกลจริต
 psoriazo โรคสะเก็ดเงิน
 puĉo {POL} รัฐประหาร >> ŝtatrenverso
 pugo ก้น
-Puketo ภูเก็ต
+Puketo {THA} ภูเก็ต
 pulio รอก (เครื่องกลอย่างหนึ่งใช้ดึงสิ่งของ)
 pulso {BIO} ชีพจร, {MUZ} จังหวะ
 pundo //(หน่วยเงิน)// {EKON} ปอนด์
@@ -5038,7 +5038,6 @@ paraŝuto {AVI} {SPO} ร่มชูชีพ; paraŝuti //(ntr)// โดดร
 ŝmaci //(ntr)// กินเสียงดัง, จูบเสียงดัง @01-01-2023-w@
 kompetenti //(ntr)// ทรงคุณวุฒิ, มีคุณสมบัติครบถ้วน, มีความสามารถ; kompetento คุณวุฒิ @01-01-2023-w@
 grefti //(tr)// ต่อกิ่ง @01-01-2023-w@
-pluki //(tr)// เด็ด, ใช้มือดึงออก @01-01-2023-w@
 reciti //(tr)// ท่อง, กล่าว (แบบไม่ดูบท) @01-01-2023-w@
 koriefo นักร้องนำ, //(f)// ผู้นำ, หัวหน้าแก๊ง @01-01-2023-w@
 piliero เสาขนาดใหญ่ @01-01-2023-w@
