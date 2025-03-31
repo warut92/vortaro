@@ -53,7 +53,9 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(1)\. /gm, '① ')
 //por redakt-dato
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
 //la etikedo por bildoj
-cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/IMG:\[(.*)\]/g, '<img src="$1">')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/IMG:\[(.*)\]/gm, '<img src="$1">')
+//solvi cimon ĉe IMG
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<i>upload/gm, 'https://upload')
 
 //konverti la fakideksojn kun speciala etikedo
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
