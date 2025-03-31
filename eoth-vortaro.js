@@ -4223,20 +4223,20 @@ podio โพเดียม, เวทีสำหรับพูด; podia disk
 pogromo การจลาจลโพกรม (การก่อการจลาจลหรือการสังหารหมู่ชาวยิว) @31-03-2025 15:34:35@
 pojno {ANA} ข้อมือ = manartiko @31-03-2025 15:34:35@
 pokalo 1. แก้วดื่มเครื่องดื่มราคาแพง, 2. {SPO} ถ้วยกีฬา, 3. {SPO} //(metonimie)// การแข่งขันชิงถ้วย; Pokalo {AST} กลุ่มดาวถ้วย IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CraterCC.jpg/163px-CraterCC.jpg] @31-03-2025 15:34:35@
-polekso นิ้วโป้ง, นิ้วหัวแม่มือ
-polemiko กรณีพิพาท; polemikaĵo ข้อถกเถียงสาธารณะ, บทวิจารณ์
-poligamio ประเพณีมีภรรยาหรือสามีหลายคนในเวลาเดียวกัน
-poliso กรมธรรม์ประกันภัย
-polmo ฝ่ามือ
-polpo {ZOO} ปลาหมึกยักษ์
-ponardo กริช; ponardi //(tr)// แทง (ด้วยกริช)
-poreo ต้นกระเทียม  พืชคล้ายหอม
-pornografio สิ่งลามก; pornografiaĵo ภาพโป๊, สื่อลามก
-poro รูขุมขน
-potencialo เป็นไปได้, มีความสามารถ; potenciala สามารถจะเป็นไปได้
-povra = kompatinda, malriĉa
-pozi //(ntr)// ทำท่า, โพสท่า; pozisto/pozistino{BELA} ผู้แสดงแบบ; pozo ท่าทาง
-pozitiva ด้านบวก, ด้านดี
+polekso //(malofte)// {ANA} นิ้วโป้งมือ @31-03-2025 16:04:02@
+polemiko ข้อโต้แย้ง (เอกสาร); polemiki //(tr)// เขียนข้อโต้แย้ง @31-03-2025 16:04:02@
+poligamio {GEN} {JUR} การมีภรรยาหรือสามีหลายคน; poligamiulo ผู้ที่มีมีภรรยาหรือสามีหลายคน @31-03-2025 16:06:48@
+poliso {EKON} {JUR} กรมธรรม์ประกันภัย @31-03-2025 17:48:41@
+polmo {ANA} ฝ่ามือ = manplato @31-03-2025 17:48:41@
+polpo {ZOO} ปลาหมึกยักษ์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Octopus_sinensis.jpg/240px-Octopus_sinensis.jpg] @31-03-2025 17:48:41@
+ponardo {MIL} กริช IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dolch.jpg/320px-Dolch.jpg]; ponardi //(tr)// แทง (ด้วยกริช); panardego //(akr)// หลาว = lanco
+poreo {BOT} {KUI} ต้นหอม IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prei_winter_Farinto_geoogst.jpg/139px-Prei_winter_Farinto_geoogst.jpg] @31-03-2025 17:48:41@
+pornografio/porno {BELA} {BELE} สิ่งลามก; pornografiaĵo/pornaĵo ภาพโป๊, สื่อลามก @31-03-2025 17:48:41@
+poro {ANA} รูขุมขน, {FIZ} ช่องเล็ก ๆ; pora/poreca/porhava มีรูพรุน @31-03-2025 17:48:41@
+potencialo {MAT} ศักย์, {FIZ} ศักย์ไฟฟ้า, //(evitinde)// ศักยภาพ, ความสามารถ; potencialhava {MAT} มีศักย์; potenciala diferenco {ELE} ความต่างศักย์ไฟฟ้า = tensio; skalara potencialo ศักย์สกาลาร์; vektora potencialo ศักย์เวกเตอร์ @31-03-2025 17:48:41@
+povra {POE} น่าสงสาร, ขาดแคลน, ยากจน; povrulo ผู้ที่น่าสนสาร @31-03-2025 17:48:41@
+pozi //(tr)// 1. {BELA} ทำท่า, โพสท่า, 2. ทำหน้าตา; pozo ท่าทาง, สีหน้า; pozisto {BELA} นายแบบ = modelo @31-03-2025 17:48:41@
+pozitiva ด้านบวก, ด้านดี; pozitivo; pozitivismo; pozitivisto; malpozitiva; nepozitiva
 precedenco เรื่องราวแต่ก่อน; senprecedenca ไม่มีแบบมาก่อน
 precepto คำสั่งสอน, ศีล >> instruo, ordono
 precioza พยายามพูดให้น่าสนใจ, น่าสนใจ
