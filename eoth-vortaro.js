@@ -4236,16 +4236,16 @@ poro {ANA} รูขุมขน, {FIZ} ช่องเล็ก ๆ; pora/porec
 potencialo {MAT} ศักย์, {FIZ} ศักย์ไฟฟ้า, //(evitinde)// ศักยภาพ, ความสามารถ; potencialhava {MAT} มีศักย์; potenciala diferenco {ELE} ความต่างศักย์ไฟฟ้า = tensio; skalara potencialo ศักย์สกาลาร์; vektora potencialo ศักย์เวกเตอร์ @31-03-2025 17:48:41@
 povra {POE} น่าสงสาร, ขาดแคลน, ยากจน; povrulo ผู้ที่น่าสนสาร @31-03-2025 17:48:41@
 pozi //(tr)// 1. {BELA} ทำท่า, โพสท่า, 2. ทำหน้าตา; pozo ท่าทาง, สีหน้า; pozisto {BELA} นายแบบ = modelo @31-03-2025 17:48:41@
-pozitiva ด้านบวก, ด้านดี; pozitivo; pozitivismo; pozitivisto; malpozitiva; nepozitiva
-precedenco เรื่องราวแต่ก่อน; senprecedenca ไม่มีแบบมาก่อน
-precepto คำสั่งสอน, ศีล >> instruo, ordono
-precioza พยายามพูดให้น่าสนใจ, น่าสนใจ
-precipiti //(tr)// {KEM} ทำให้ตกตะกอน, นอนก้น
-predo เหยื่อ; predi //(tr)// ล่าเหยื่อ
+pozitiva 1. อย่างยืนยัน, อย่างแน่นอน, 2. อย่างเป็นไปได้, 3. {SCI} {FIL} ในทางปฏิบัติ, 4. {GRA} ไม่มีการเปรียบเทียบ, 5. {TEK} {SCI} ด้านบวก, ด้านดี, {FOT} (ภาพ)โพสิทีฟ, {ELE} {FIZ} (ไฟฟ้า)ขั้วบวก, 6. {MAT} (จำนวน)บวก; pozitivo {FOT} ภาพโพสิทีฟ, {GRA} ไม่มีการเปรียบเทียบ; pozitivismo {FIL} ปฏิฐานนิยม, ทฤษฎีที่ว่าความรู้ได้จากการรับโดยตรงมากกว่าการเทียบเคียง; pozitivisto ผู้ที่เชื่อในปฏิฐานนิยม; malpozitiva 1. ปฏิเสธ, ไม่น่าเชื่อถือ, 2. {ELE} ขั้วลบ = negativa, 3. {FOT} เนกาทีฟ = negativa; nepozitiva {MAT} (จำนวน)ลบ @01-04-2025 09:29:05@
+precedenco/precedento {JUR} คำพิพากษาในคดีก่อน ซึ่งนำมาเป็นมาตรฐานในการตัดสินคดีต่อ ๆ ไป; senprecedenca ที่ไม่เคยเกิดขึ้นมาก่อน @02-04-2025 10:51:54@
+precepto //(malofte)// คำสั่งสอน, ศีล @02-04-2025 10:51:54@
+precioza //(malofte)// ที่สละสลวยหรือหยดย้อยเกินไป; preciozismo {BELA} {BELE} สำนวนอลังการ @02-04-2025 10:51:54@
+precipiti //(tr)// {KEM} ทำให้ตกตะกอน, {MET} ทำให้เกิด(ฝน/หิมะ/น้ำค้าง/ละออง); precipitaĵo {KEM} {MET} ตะกอน, สิ่งที่ตกลงมา(ฝน/หิมะ/น้ำค้าง/ละออง) @02-04-2025 10:51:54@
+predo {EKO} เหยื่อ = ĉasaĵo; predi //(tr)// ล่าเหยื่อ = ĉasakiri @02-04-2025 10:51:54@
 prefikso {GRA} คำอุปสรรค, หน่วยคำเติมหน้า >> afikso, sufikso
 prestiĝo การยอมรับนับถือ, การเป็นที่ยอมรับ
 preterito {GRA} อดีตกาล
-preventi {MED} //(tr)// ป้องกัน = antaŭmalhelpi: preventi koncipon คุมกำเนิด; preventado การป้องกัน = malhelpado
+preventi {MED} //(tr)// ป้องกัน = antaŭmalhelpi: preventi koncipon คุมกำเนิด; preventado การป้องกัน = malhelpado **
 prezenco {GRA} ปัจจุบันกาล >> nuntempo
 primo; prima  ตัวเฉพาะ
 printi //(tr)// {KOMP} พิมพ์, ปริ้นท์; printilo เครื่องพิมพ์, เครื่องปริ้นท์
@@ -5482,5 +5482,7 @@ konkava เว้า @25-03-2025 17:36:39@
 lento {BOT} {KUI} ถั่วเลนทิล; lenta เกี่ยวกับถั่วเลนทิล; lentoforma รูปร่างแบบถั่วเลนทิล @27-03-2025 09:10:29@
 resurso/risurco ทรัพยากร @28-03-2025 10:19:53@
 homogena {SCI} ซึ่งมีคุณสมบัติเหมือนกัน, ที่เป็นเนื้อเดียวกัน {MAT} เอกพันธ์; homogeneco ความเป็นแบบเดียวกัน, ภาวะเอกพันธุ์ ; malhomogeneco ความต่างแบบกัน, ภาวะวิวิธพันธุ์ @29-03-2025 13:44:36@
+aerosolo {KEM} ละออง @02-04-2025 10:51:54@
+brokato //(PIV)// {TEKS} ผ้าหนาและหนักทอจากเส้นไหมทองหรือเงิน, ผ้ายก = brokaĵo @02-04-2025 10:51:54@
 >.
 `
