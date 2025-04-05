@@ -4255,28 +4255,28 @@ proceduro ขั้นตอน, กระบวนการ, วิธีดำ
 procesio {REL} ขบวนแห่ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bamberki_Boze_Cialo1.jpg/200px-Bamberki_Boze_Cialo1.jpg]; procesii ntr เดินขบวนแห่ @04-04-2025 13:59:09@
 produktiva มีอำนาจผลิต = produktema; produktiveco ความสามารถในการผลิต, {EKON} ผลิตภาพ @04-04-2025 13:59:09@
 profilo 1. ด้านข้างของใบหน้า, รูปด้านข้าง, 2. {ARKI} {TEK} แบบร่างของวัตถุ, 3. ภาพรวมของลักษณะทั้งหมด, 4. {KOMP} โปรไฟล์; profile (ใบหน้า)จากด้านข้าง @04-04-2025 13:59:09@
-prognozo การพยากรณ์, การคาดคะเน; prognozi //(tr)// พยากรณ์; veterprogreso {MET} การพยากรณ์อากาศ
+prognozo การพยากรณ์, การคาดคะเน; prognozi //(tr)// พยากรณ์; veterprogreso {MET} การพยากรณ์อากาศ @05-04-2025 13:40:43@
 proklami //(tr)// ประกาศ (อย่างเป็นทางการ), แถลง; proklamo การ/คำประกาศอย่างเป็นทางการ, คำแถลง @04-04-2025 13:59:09@
-proporcio สัดส่วน; proporcie ตามสัดส่วน
-prostato ต่อมลูกหมาก
-prostitui //(tr)// ขายบริการทางเพศ; prostituto/prostitutino ผู้ขายบริการทางเพศ, โสเภณี
-protagonisto = ĉefrolulo, ĉefrolanto ตัวเอก
-protestanto {KRI} โปรเตสแตนต์, คริสเตียน
-protezo {MED} {TEK} อวัยวะเทียม: denta protezo ฟันปลอม; krura protezo ขาเทียม
-protokolo สนธิสัญญา {EKON} โพรโทคอล หรือศัพท์บัญญัติว่า เกณฑ์วิธี; protokoli //(tr)// ทำสนธิสัญญา, จดบันทึกรายงานการประชุม, {KOMP} ชื่อล็อกอิน (ติดต่อเข้า); vivprotokolo ประวัติส่วนตัว, ประวัติย่อ
-protono {FIZ} โปรตอน
-prototipo ตัวต้นแบบ
-pruda หวงเนื้อหวงตัว, เคร่งครัด (เรื่องเพศ)
+proporcio สัดส่วน; proporcia มีสัดส่วน; proporcie al/proporcie kun //(prepoziciaĵo)// มีสัดส่วนต่อ; malproporcia ไม่ได้สัดส่วน @05-04-2025 13:40:43@
+prostato {ANA} ต่อมลูกหมาก @05-04-2025 13:40:43@
+prostitui //(tr)// ขายบริการทางเพศ, ขายตัว; prostituado การขายบริการทางเพศ; prostituejo ซ่อง = bordelo; prostituito ผู้ที่ขายบริการทางเพศ; prostituitino ผู้หญิงที่ขายบริการทางเพศ; prostituisto/prostituistino ผู้หญิงที่ขายบริการทางเพศเป็นอาชีพ, โสเภณี @05-04-2025 13:40:43@
+protagonisto {BELE} {KIN} {TEA} ตัวเอก, พระเอก = ĉefrolulo @05-04-2025 13:40:43@
+protestanto {KRI} {POL} ผู้ที่นับถือศาสนาคริสต์นิกายโปรเตสแตนต์, คริสเตียน; protestanta เกี่ยวกับนิกายโปรเตสแตนต์; protestantismo ศาสนาคริสต์นิกายโปรเตสแตนต์ @05-04-2025 13:40:43@
+protezo {MED} {TEK} อวัยวะเทียม: //denta protezo ฟันปลอม, krura protezo ขาเทียม//; protezi {MED} {TEK} ทำ/ติดตั้งอวัยวะเทียม; protezisto {MED} {TEK} นักกายอุปกรณ์ @05-04-2025 14:14:04@
+protokolo 1. รายงานการประชุม, 2. {KOMP} แฟ้มลงบันทึกเข้าออก, ปูม, 3. {KOMP} {RET} โพรโทคอล; protokoli //(x)// จดบันทึกรายงานการประชุม; vivprotokolo ประวัติส่วนตัว, เรซูมเม่ @05-04-2025 14:14:04@
+protono {FIZ} โปรตอน; kontraŭprotono แอนติโปรตอน = antiprotono @05-04-2025 14:14:04@
+prototipo 1. {TEK} ตัวต้นแบบ, 2. ต้นแบบดั้งเดิม; prototipa ต้นแบบ @05-04-2025 14:14:04@
+pruda เคร่งครัด (เรื่องเพศ), หวงเนื้อหวงตัว; prudeco ความเคร่งครัดเกินไป; prudulo คนเคร่งครัดเกินไป; malpruda อนาจาร, ลามกอนาจาร @05-04-2025 14:14:04@
 pseŭdonimo นามแฝง >> kaŝnomo
 psikiatrio จิตเวชศาสตร์
 psikiatro จิตแพทย์
 psiko; psiĥo จิตใจ; psika; psike ทางจิต; psikanalizo จิตวิเคราะห์; psikopatio ความผิดปกติทางจิต
-psikologo นักจิตวิทยา
+psikologo นักจิตวิทยา **
 psikozo จิตวิปลาส, วิกลจริต
 psoriazo โรคสะเก็ดเงิน
 puĉo {POL} รัฐประหาร >> ŝtatrenverso
 pugo ก้น
-Puketo {THA} ภูเก็ต
+Puketo {THA} ภูเก็ต **
 pulio รอก (เครื่องกลอย่างหนึ่งใช้ดึงสิ่งของ)
 pulso {BIO} ชีพจร, {MUZ} จังหวะ
 pundo //(หน่วยเงิน)// {EKON} ปอนด์
