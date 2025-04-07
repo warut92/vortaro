@@ -4374,23 +4374,23 @@ saguo {KUI} สาคู @06-04-2025 16:52:17@
 sakeo {KUI} เหล้าสาเก @06-04-2025 16:52:17@
 sakri //(ntr)// พูดหยาบคาย; sakro/sakraĵo คำหยาบคาย @06-04-2025 16:52:17@
 sakrilegio/sakrilego {REL} การลบหลู่สิ่งศักดิ์สิทธิ์/ศาสนา/ศาสนสถาน; sakrilegia/sakrilega ลบหลู่สิ่งศักดิ์สิทธิ์; sakrilegii/sakrilegi //(ntr)// ลบหลู่สิ่งศักดิ์สิทธิ์; sakrilegiulo ผู้ที่ตั้งใจลบหลู่สิ่งศักดิ์สิทธิ์ @06-04-2025 16:52:17@
-saksofono {MUZ} แซ็กโซโฟน
-sakuro {BOT} ต้นซากุระ
-salamo ไส้กรอกหมูปนเนื้อวัว
-saldo {EKON} ในการทำบัญชี ความแตกต่างหนี้สินกับเงินคงเหลือ; saldi //(tr)// งบบัญชี >> bilanci
-salikoko {ZOO} กุ้ง: salikoka pasto กะปิ
-Salomonoj หมู่เกาะโซโลมอน
-salpetro ดินประสิว
-samgo {BUD} สังฆะ; samgestro พระสังฆราช
-samplo ตัวอย่าง (โดยวิธีสุ่มในการทดลอง)
-samurajo ซามูไร
-sandalo รองเท้าแตะ
-sanitara เกี่ยวกับสุขภาพอนามัยของสาธารณะ
-sankcio การอนุมัติ, การลงโทษ, การบีบบังคับชาติอื่นทางเศรษฐกิจ; sankcii อนุญาต(อย่างเป็นทางการ), อนุมัติ(อย่างเป็นทางการ), ลงโทษ
-sanskrita (lingvo), la (ภาษา)สันสกฤต
-santalo ไม้จันทน์
-sapoto ละมุด
-sardino {ZOO} ปลาซาร์ดีน
+saksofono {MUZ} แซ็กโซโฟน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Yamaha_YAS-25_20040517.jpg/100px-Yamaha_YAS-25_20040517.jpg]  @07-04-2025 09:31:21@
+sakuro {BOT} ต้นซากุระ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2007_Sakura_of_Fukushima-e_007_rotated.jpg/100px-2007_Sakura_of_Fukushima-e_007_rotated.jpg] @07-04-2025 09:31:21@
+salamo {KUI} ซาลามี ไส้กรอกอิตาลี (รสจัด) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Salami_aka.jpg/150px-Salami_aka.jpg] @07-04-2025 09:31:21@
+saldo {EKON} ยอดคงเหลือ (ความแตกต่างหนี้สินกับเงินคงเหลือ) >> bilanco; saldi //(tr)// คำนวณยอดคงเหลือ @07-04-2025 09:31:21@
+salikoko {ZOO} กุ้ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Giant_Malaysian_Prawn.JPG/150px-Giant_Malaysian_Prawn.JPG] @07-04-2025 09:31:21@
+Salomonoj {GEOG} {POL} หมู่เกาะโซโลมอน @07-04-2025 09:46:18@
+salpetro {KEM} ดินประสิว (KNO<sub>3</sub>) @07-04-2025 09:46:18@
+samgo {BUD} สังฆะ @07-04-2025 09:46:18@
+samplo {SCI} {MAT} กลุ่มตัวอย่าง, ตัวอย่าง @07-04-2025 09:46:18@
+samurajo {HIS} {MIL} ซามูไร IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Samurai_with_sword.jpg/191px-Samurai_with_sword.jpg] @07-04-2025 09:46:18@
+sandalo {TEKS} รองเท้าแตะ @07-04-2025 09:46:18@
+sanitara/sanitaria สุขอนามัย; sanitaristo/sanitariisto  เจ้าหน้าที่สาธารณสุข @07-04-2025 10:26:28@
+sankcio {JUR} การอนุมัติอย่างเป็นทางการ, การอนุญาตอย่างเป็นทางการ, //(evidente)// การคว่ำบาตร = sankciumo; sankcii //(tr)// อนุญาต(อย่างเป็นทางการ), อนุมัติ(อย่างเป็นทางการ); sankciumo การคว่ำบาตร @07-04-2025 10:26:28@
+Sanskrito {LIN} ภาษาสันสกฤต; sanskrita เกี่ยวกับภาษาสันสกฤต; sanskritidaj lingvoj กลุ่มภาษาสันสกฤต @07-04-2025 10:26:28@
+santalo {BOT} ต้นไม้จันทน์ @07-04-2025 10:26:28@
+sapoto {BOT} ละมุด IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sapodilla_Malay_with_seeds.jpg/200px-Sapodilla_Malay_with_seeds.jpg] @07-04-2025 10:26:28@
+sardino {ZOO} ปลาซาร์ดีน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sardinops_sagax_caerulea.png/150px-Sardinops_sagax_caerulea.png] @07-04-2025 10:26:28@
 sargaso สาหร่ายทะเล
 sario ผ้าส่าหรี
 sarkasmi ประชด, ถากถาง
