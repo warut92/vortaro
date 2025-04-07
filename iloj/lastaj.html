@@ -5,32 +5,38 @@
     <link rel="manifest" href="vortaro.webmanifest">
     <meta name="description" content="พจนานุกรมเอสเปรันโต-ไทย Esperanto - Taja Interreta Vortaro">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="./ikono/android/android-launchericon-48-48.png">
+    <link rel="icon" href="../ikono/android/android-launchericon-48-48.png">
     <title>พจนานุกรมเอสเปรันโต-ไทย</title>
     <link rel="stylesheet" href="../stilo.css">
   </head>
   <body>
-    <script  src="./lasta_sxangxo.js"></script>
+    <script  src="../lasta_sxangxo.js"></script>
     <a href="pri.html"><pre id="statistiko"></pre></a>
     <h3>พจนานุกรมเอสเปรันโต-ไทย</h3>
     <h3>การเปลี่ยนแปลงล่าสุด</h3>
     <!-- <button onclick="redaktejoTipo(0)">คำแก้ไข</button>
     <button onclick="redaktejoTipo(1)">คำเพิ่มใหม่</button> -->
-    <p>รวมรวมทั้งหมด <span id="st_lastaj"></span> คำ</p>
+    <span id="statistiko"></span>
+    <span id="tuto" style="display: none;"></span>
+    <p>ตรวจสอบแก้ไข <span id="st_lastaj"></span> คำ</p>
+    <details>
+      <summary>สถิตตามวัน</summary>
+        <div id="statistiko_dato"></div>
+    </details>
     <a href="https://github.com/warut92/vortaro/commit/master" target="_blank"><p>ดูการเปลี่ยแปลงที่ Github</p></a>
-    <div id="lastaj">
-    </div>
+
+    
+    <div id="lastaj"></div>
   </body>
   <script  src="../eoth-vortaro.js"></script>
+  <script  src="../skripto.js"></script>
   <scrip>
     <script>
-
-    let vortaro_HTML = vortaro
     //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
-    vortaro = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
+    // vortaro = vortaro.replace(/\/\/([a-z]{1,10})\/\//g, '<i>$1</i>')
 
     //la etikedo por bildoj
-    // vortaro = vortaro.replace(/IMG:\[(.*)\]/g, '<img src="$1">')
+    vortaro = vortaro.replace(/IMG:\[(.*)\]/g, '<img src="$1">')
 
     //konverti la fakideksojn kun speciala etikedo
     vortaro = vortaro.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
@@ -52,7 +58,10 @@
     rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "<i>$1</i>")
 
     //reformatigi la datformon.
-    rezulto = rezulto.replace(/(\d{2})-(\d{2})-(\d{4}) (\d{2}):(\d{2}):(\d{2})/g, "$3$2$1/$4$5$6")
+    rezulto = rezulto
+    //-w estis la rimarkilo por vortoj redaktitaj antaŭ la reteja renovigo
+    .replace(/-w/g, " 00:00:00")
+    .replace(/(\d{2})-(\d{2})-(\d{4}) (\d{2}):(\d{2}):(\d{2})/g, "$3$2$1/$4$5$6")
     // console.log('REZULTO', rezulto)
 
     //ARRAY
@@ -91,5 +100,25 @@
 
     //STRING
     document.getElementById("lastaj").innerHTML = re_aranĝita_rezulto;
+console.log(re_aranĝita_rezulto);
+    //STATISTIKO LAŬ LA DATOJ
+    //forigi ĉion krom la datoj kaj aranĝi ilin al linioj.
+    let statistiko_dato_str = re_aranĝita_rezulto.replace(/<br><hr>/g,"\n").replace(/.*(?=@\d)/g,"").replace(/\/.*/g,"").replace(/@/g,"🕧")
+    // console.log(statistiko_dato_str);
+
+    const statistiko_dato_ARR = statistiko_dato_str.split("\n")
+
+    const fojo = {};
+
+    statistiko_dato_ARR.forEach(date => {
+      fojo[date] = (fojo[date] || 0) + 1;
+    });
+
+    let statistiko = ""
+    for (const date in fojo) {
+      statistiko += `${date} = ${fojo[date]} คำหลัก<br>`;
+    }
+    // console.log(statistiko);
+    document.getElementById('statistiko_dato').innerHTML = statistiko
   </script>
 </html>

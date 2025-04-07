@@ -46,15 +46,15 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
 //por sencoj
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(1)\. /gm, '① ')
-.replace(/(2)\. /gm, '➁ ')
+.replace(/(2)\. /gm, '② ')
 .replace(/(3)\. /gm, '③ ')
 .replace(/(4)\. /gm, '④ ')
 .replace(/(5)\. /gm, '⑤ ')
 .replace(/(6)\. /gm, '⑥ ')
-.replace(/(7)\. /gm, '➆ ')
-.replace(/(8)\. /gm, '➇ ')
-.replace(/(9)\. /gm, '➈ ')
-.replace(/(10)\. /gm, '➉ ')
+.replace(/(7)\. /gm, '⑦ ')
+.replace(/(8)\. /gm, '⑧ ')
+.replace(/(9)\. /gm, '⑨ ')
+.replace(/(10)\. /gm, '⑩ ')
 //por redakt-dato
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
 //la etikedo por bildoj
