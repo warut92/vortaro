@@ -35,12 +35,15 @@ aranĝo de la vortoj ĉe eoth-vortaro.js :
 
 ### Datoĝisdatigo
 
-tajpu `++` je la lasta punkto de la artikolo, post tio malfermi la terminalon ĉe la vojo de la vortaro, kaj ruligi sur la terminalo `python lasta_sxangxo.py` por aldoni la daton kaj precizan tempon aŭtomate.
+~~tajpu `++` je la lasta punkto de la artikolo, post tio malfermi la terminalon ĉe la vojo de la vortaro, kaj ruligi sur la terminalo `python lasta_sxangxo.py` por aldoni la daton kaj precizan tempon aŭtomate.~~
+
+Nun estas la maniero de **sinppet** per tajpi `/t` kaj `Enter` la daton kaj tempon aŭtomate aperas. Por la pliaj **snippet**oj, vidu ĉe la dosiero `.vscode/vortaro.code-snippet`
 
 ## Farado-vojoj.
 1. kontrolas ĉiujn vortojn de la ETV.
-2. pligrandigas la listo de BRE
+2. pligrandigas la listo de BRE.
 3. aldonas de tempo al la tempo novajn vortojn.
+4. prenos ĉiujn tradukojn al ReVo.
 
 ## Permesilo
 MIT

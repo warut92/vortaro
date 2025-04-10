@@ -1,0 +1,470 @@
+{
+	// Place your vortaro workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+  "transitiva": {
+		"scope": "javascript,typescript",
+		"prefix": "/tr",
+		"body": "//(tr)//",
+		"description": "transitiva"
+	},
+  "netransitiva": {
+		"scope": "javascript,typescript",
+		"prefix": "/ntr",
+		"body": "//(ntr)//",
+		"description": "netransitiva"
+	},
+  "x": {
+		"scope": "javascript,typescript",
+		"prefix": "/x",
+		"body": "//(x)//",
+		"description": "transitiva kaj netransitiva"
+	},
+	"figure": {
+		"scope": "javascript,typescript",
+		"prefix": "/f",
+		"body": "//(f)//",
+		"description": "figure"
+	},
+  "vulgare": {
+		"prefix": "/v",
+		"body": "//(vulgare)//",
+		"description": "vulgare"
+	},
+  "malofte": {
+		"prefix": "/malofte",
+		"body": "//(malfofte)//",
+		"description": "malofte"
+	},
+	"aldoni daton kaj timpon": {
+    	"prefix": "/t",
+		//@DD-MM-YYYY 00:00:00@
+    	"body": [
+        "@$CURRENT_DATE-$CURRENT_MONTH-$CURRENT_YEAR $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND@",
+    	],
+		"description": "เพิ่มวันที่เวลา"
+	},
+	"bildo": {
+		"prefix": "/img",
+		"body": "IMG:[$1]",
+		"description": "แทรกลิงก์รูปภาพ"
+	},
+	//fakindeksoj
+	"agrokulturo": {
+    "prefix": "/agr",
+    "body": "{AGR}",
+    "description": "เกษตรกรรม"
+  },
+  "arkeologio": {
+    "prefix": "/arke",
+    "body": "{ARKE}",
+    "description": "โบราณคดี"
+  },
+  "arkitekturo": {
+    "prefix": "/arki",
+    "body": "{ARKI}",
+    "description": "สถาปัตยกรรม"
+  },
+  "astronomio": {
+    "prefix": "/ast",
+    "body": "{AST}",
+    "description": "ดาราศาสตร์"
+  },
+  "aŭtomobiloj": {
+    "prefix": "/aut",
+    "body": "{AUT}",
+    "description": "ยานพาหนะ"
+  },
+  "aviado": {
+    "prefix": "/avi",
+    "body": "{AVI}",
+    "description": "การบิน"
+  },
+  "bakteriologio, virusologio": {
+    "prefix": "/bak",
+    "body": "{BAK}",
+    "description": "แบคทีเรียวิทยา, ไวรัสวิทยา"
+  },
+  "belartoj": {
+    "prefix": "/bela",
+    "body": "{BELA}",
+    "description": "วิจิตรศิลป์"
+  },
+  "beletro": {
+    "prefix": "/bele",
+    "body": "{BELE}",
+    "description": "วรรณวิจิตร"
+  },
+  "biblio": {
+    "prefix": "/bib",
+    "body": "{BIB}",
+    "description": "พระคริสต์ธรรมคำภีร์"
+  },
+  "biologio, biontologio": {
+    "prefix": "/bio",
+    "body": "{BIO}",
+    "description": "ชีววิทยา"
+  },
+  "botaniko": {
+    "prefix": "/bot",
+    "body": "{BOT}",
+    "description": "พฤกษศาสตร์"
+  },
+  "budhismo": {
+    "prefix": "/bud",
+    "body": "{BUD}",
+    "description": "พุทธศาสนา"
+  },
+  "ekologio": {
+    "prefix": "/ekol",
+    "body": "{EKOL}",
+    "description": "นิเวศวิทยา"
+  },
+  "ekonomiko, financo, komerco": {
+    "prefix": "/ekon",
+    "body": "{EKON}",
+    "description": "เศรษฐศาสตร์, การเงิน, การค้า"
+  },
+  "elektro": {
+    "prefix": "/ele",
+    "body": "{ELE}",
+    "description": "ไฟฟ้า"
+  },
+  "elektrotekniko": {
+    "prefix": "/elet",
+    "body": "{ELET}",
+    "description": "อิเล็กทรอนิกส์"
+  },
+  "esperantismo": {
+    "prefix": "/esp",
+    "body": "{ESP}",
+    "description": "เอสเปรันโตนิยม"
+  },
+  "fervojoj": {
+    "prefix": "/fer",
+    "body": "{FER}",
+    "description": "รถไฟ"
+  },
+  "filozofio": {
+    "prefix": "/fil",
+    "body": "{FIL}",
+    "description": "ปรัชญา"
+  },
+  "fiziko": {
+    "prefix": "/fiz",
+    "body": "{FIZ}",
+    "description": "ฟิสิกส์"
+  },
+  "fiziologio": {
+    "prefix": "/fizl",
+    "body": "{FIZL}",
+    "description": "สรีรวิทยา"
+  },
+  "fonetiko": {
+    "prefix": "/fon",
+    "body": "{FON}",
+    "description": "สัทศาสตร์"
+  },
+  "fotografio, optiko": {
+    "prefix": "/fot",
+    "body": "{FOT}",
+    "description": "การถ่ายภาพ, ทัศนศาสตร์"
+  },
+  "genealogio": {
+    "prefix": "/gen",
+    "body": "{GEN}",
+    "description": "ลำดับเครือญาติ"
+  },
+  "geodezio, topografio": {
+    "prefix": "/geod",
+    "body": "{GEOD}",
+    "description": "ภูมิมาตรศาสตร์, การแผนที่"
+  },
+  "geografio": {
+    "prefix": "/geog",
+    "body": "{GEOG}",
+    "description": "ภูมิศาสตร์"
+  },
+  "geologio": {
+    "prefix": "/geol",
+    "body": "{GEOL}",
+    "description": "ธรณีวิทยา"
+  },
+  "gramatiko": {
+    "prefix": "/gra",
+    "body": "{GRA}",
+    "description": "ไวยากรณ์"
+  },
+  "heraldiko": {
+    "prefix": "/her",
+    "body": "{HER}",
+    "description": "มุทราศาสตร์ (การออกแบบ)"
+  },
+  "hinduismo": {
+    "prefix": "/hin",
+    "body": "{HIN}",
+    "description": "ศาสนาฮินดู"
+  },
+  "historio": {
+    "prefix": "/his",
+    "body": "{HIS}",
+    "description": "ประวัติศาสตร์"
+  },
+  "homa anatomio, histologio": {
+    "prefix": "/ana",
+    "body": "{ANA}",
+    "description": "กายวิภาคศาสตร์, มิญชวิทยา"
+  },
+  "hortikulturo, arbokulturo, silvikulturo": {
+    "prefix": "/hor",
+    "body": "{HOR}",
+    "description": "พืชกรรมสวน (วิชาพืชสวน)"
+  },
+  "islamo": {
+    "prefix": "/isl",
+    "body": "{ISL}",
+    "description": "อิสลาม"
+  },
+  "juro": {
+    "prefix": "/jur",
+    "body": "{JUR}",
+    "description": "กฎหมาย"
+  },
+  "kalendaro, tempomezurado": {
+    "prefix": "/kal",
+    "body": "{KAL}",
+    "description": "ปฏิทิน, หน่วยเวลา"
+  },
+  "katolikismo": {
+    "prefix": "/kat",
+    "body": "{KAT}",
+    "description": "คาทอลิก"
+  },
+  "kemio, biokemio": {
+    "prefix": "/kem",
+    "body": "{KEM}",
+    "description": "เคมี, ไบโอเคมี"
+  },
+  "kinoarto": {
+    "prefix": "/kin",
+    "body": "{KIN}",
+    "description": "ภาพยนตร์"
+  },
+  "kirurgio": {
+    "prefix": "/kir",
+    "body": "{KIR}",
+    "description": "ศัลยกรรม"
+  },
+  "komputiko": {
+    "prefix": "/komp",
+    "body": "{KOMP}",
+    "description": "คอมพิวเตอร์"
+  },
+  "konstrutekniko": {
+    "prefix": "/kon",
+    "body": "{KON}",
+    "description": "การก่อสร้าง"
+  },
+  "kristanismo": {
+    "prefix": "/kri",
+    "body": "{KRI}",
+    "description": "ศาสนาคริสต์"
+  },
+  "kuirarto": {
+    "prefix": "/kui",
+    "body": "{KUI}",
+    "description": "อาหาร"
+  },
+  "lingvistiko, filologio": {
+    "prefix": "/lin",
+    "body": "{LIN}",
+    "description": "ภาษาศาสตร์, นิรุกติศาสตร์"
+  },
+  "maraferoj": {
+    "prefix": "/mar",
+    "body": "{MAR}",
+    "description": "ทะเล"
+  },
+  "maŝinoj, mekaniko": {
+    "prefix": "/mas",
+    "body": "{MAS}",
+    "description": "เครื่องกล"
+  },
+  "matematiko": {
+    "prefix": "/mat",
+    "body": "{MAT}",
+    "description": "คณิตศาสตร์"
+  },
+  "materialismo historia": {
+    "prefix": "/mah",
+    "body": "{MAH}",
+    "description": "วัตถุนิยมประวัติศาสตร์"
+  },
+  "medicino, farmacio": {
+    "prefix": "/med",
+    "body": "{MED}",
+    "description": "แพทยศาสตร์, เภสัชศาสตร์"
+  },
+  "meteologio": {
+    "prefix": "/met",
+    "body": "{MET}",
+    "description": "สภาพอากาศ"
+  },
+  "militaferoj": {
+    "prefix": "/mil",
+    "body": "{MIL}",
+    "description": "สงคราม"
+  },
+  "mineralogio": {
+    "prefix": "/min",
+    "body": "{MIN}",
+    "description": "แร่วิทยา"
+  },
+  "mitologio": {
+    "prefix": "/mit",
+    "body": "{MIT}",
+    "description": "ปรัมปราวิทยา"
+  },
+  "muziko": {
+    "prefix": "/muz",
+    "body": "{MUZ}",
+    "description": "ดนตรี"
+  },
+  "nomoj": {
+    "prefix": "/nom",
+    "body": "{NOM}",
+    "description": "ชื่อ"
+  },
+  "paleontologio": {
+    "prefix": "/pal",
+    "body": "{PAL}",
+    "description": "บรรพชีวินวิทยา"
+  },
+  "pedagogio": {
+    "prefix": "/ped",
+    "body": "{PED}",
+    "description": "การศึกษา"
+  },
+  "personoj": {
+    "prefix": "/pers",
+    "body": "{PERS}",
+    "description": "คน"
+  },
+  "poetiko, poezio": {
+    "prefix": "/poe",
+    "body": "{POE}",
+    "description": "กวี"
+  },
+  "politiko, sociologio, administrado": {
+    "prefix": "/pol",
+    "body": "{POL}",
+    "description": "การเมือง, สังคมศาสตร์, การบริหารจัดการ"
+  },
+  "poŝto": {
+    "prefix": "/posx",
+    "body": "{POSX}",
+    "description": "ไปรษณีย์"
+  },
+  "prahistorio": {
+    "prefix": "/pra",
+    "body": "{PRA}",
+    "description": "ก่อนประวัติศาสาตร์"
+  },
+  "presarto, libroj": {
+    "prefix": "/tip",
+    "body": "{TIP}",
+    "description": "การพิมพ์"
+  },
+  "psikologio, psikiatrio": {
+    "prefix": "/psi",
+    "body": "{PSI}",
+    "description": "จิตวิทยา"
+  },
+  "radiofonio": {
+    "prefix": "/rad",
+    "body": "{RAD}",
+    "description": "วิทยุ"
+  },
+  "religioj": {
+    "prefix": "/rel",
+    "body": "{REL}",
+    "description": "ศาสนา"
+  },
+  "retoj, Interreto": {
+    "prefix": "/ret",
+    "body": "{RET}",
+    "description": "เครือข่าย, อินเตอร์เน็ต"
+  },
+  "sciencoj": {
+    "prefix": "/sci",
+    "body": "{SCI}",
+    "description": "วิทยาศาสตร์"
+  },
+  "ŝipkonstruado, navigado": {
+    "prefix": "/shi",
+    "body": "{SHI}",
+    "description": "เรือ, การเดินเรือ"
+  },
+  "sporto, ludoj": {
+    "prefix": "/spo",
+    "body": "{SPO}",
+    "description": "กีฬา"
+  },
+  "teatro": {
+    "prefix": "/tea",
+    "body": "{TEA}",
+    "description": "การละคร"
+  },
+  "teknikoj": {
+    "prefix": "/tek",
+    "body": "{TEK}",
+    "description": "เทคนิค"
+  },
+  "teksindustrio, vestoj": {
+    "prefix": "/teks",
+    "body": "{TEKS}",
+    "description": "เสื้อผ้า"
+  },
+  "telekomunikoj": {
+    "prefix": "/tel",
+    "body": "{TEL}",
+    "description": "การสื่อสาร"
+  },
+  "trafiko": {
+    "prefix": "/tra",
+    "body": "{TRA}",
+    "description": "การจราจร"
+  },
+  "zoologio": {
+    "prefix": "/zoo",
+    "body": "{ZOO}",
+    "description": "สัตววิทยา"
+  },
+  "tha": {
+    "prefix": "/tha",
+    "body": "{THA}",
+    "description": "คำศัพท์ที่เกี่ยวกับประเทศไทย"
+  },
+  "PIV": {
+		"scope": "javascript,typescript",
+		"prefix": "/piv",
+		"body": "//(PIV)//",
+		"description": "de PIV"
+	},
+  "ReVo": {
+		"scope": "javascript,typescript",
+		"prefix": "/revo",
+		"body": "//(ReVo)//",
+		"description": "de Reta Vortaro"
+	},   
+  "Vikipedio": {
+		"scope": "javascript,typescript",
+		"prefix": "/viki",
+		"body": "//(Viki)//",
+		"description": "de Vikipedio"
+	},
+}
