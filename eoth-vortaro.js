@@ -3925,7 +3925,7 @@ lobo {ANA} พู, กระเปาะ, ติ่ง, {BOT} กลีบ; orel
 logaritmo {MAT} ลอการิทึม; dekuma logaritmo {MAT} ลอการิทึมสามัญ, ลอการิทึมที่ใช้ฐานสิบ; natura logaritmo {MAT} ลอการิทึมธรรมชาติ; nepera logaritmo {MAT} ลอการิทึมแบบเนเปียร์; ordinara logaritmo {MAT} ลอการิทึมสามัญ; kontraŭlogaritmo {MAT} แอนติลอการิทึม @27-07-2024 18:05:24@
 loĝio {TEA} ที่นั่งในโรงละครที่สร้างเป็นวงเหนือจากพื้นขึ้นไป, คอกสำหรับคนดูในโรงละคร, {ARKI} ระเบียง, {POL} ลอดจ์ (สถานที่ประชุมขององค์กรฟรีเมสัน) @27-07-2024 18:08:04@
 lokalizi กำหนดที่ตั้ง, กำหนดขอบเขต; lokalizo ที่ตั้ง; lokalizilo {TEK} {BIO} เครื่องบอกที่ตั้ง; radilokalizilo {TEK} เรดาร์; eĥolokalizilo/sonlokalizilo โซนาร์ (ระบบหาวัตถุใต้น้ำด้วยคลื่นเสียง) @27-07-2024 18:16:59@
-loligo //(PIV)// {ZOO} ปลาหมึกชนิดหนึ่ง (loligo) @27-07-2024 18:16:59@
+loligo //(PIV)// {ZOO} ปลาหมึกชนิดหนึ่ง //(loligo)// IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Arrow_squid.jpg/150px-Arrow_squid.jpg] @27-07-2024 18:16:59@
 lombardo {EKON} การจำนำ; lombardi {EKON} //(tr)// จำนำ; lombardejo {EKON} โรงรับจำนำ; lombardisto {EKON} ผู้รับจำนำ @27-07-2024 18:25:21@
 longano {BOT} ลำไย; longanarbo/longanujo {BOT} ต้นลำไย @27-07-2024 18:26:21@
 longitudo {GEOG} {AST} เส้นแวง, เส้นลองจิจูด → latitudo @27-07-2024 18:29:10@
@@ -4228,7 +4228,7 @@ polemiko ข้อโต้แย้ง (เอกสาร); polemiki //(tr)// 
 poligamio {GEN} {JUR} การมีภรรยาหรือสามีหลายคน; poligamiulo ผู้ที่มีมีภรรยาหรือสามีหลายคน @31-03-2025 16:06:48@
 poliso {EKON} {JUR} กรมธรรม์ประกันภัย @31-03-2025 17:48:41@
 polmo {ANA} ฝ่ามือ = manplato @31-03-2025 17:48:41@
-polpo {ZOO} ปลาหมึกยักษ์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Octopus_sinensis.jpg/240px-Octopus_sinensis.jpg] @31-03-2025 17:48:41@
+polpo {ZOO} หมึกยักษ์, หมึกสาย IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Octopus_sinensis.jpg/200px-Octopus_sinensis.jpg] @31-03-2025 17:48:41@
 ponardo {MIL} กริช IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dolch.jpg/320px-Dolch.jpg]; ponardi //(tr)// แทง (ด้วยกริช); panardego //(akr)// หลาว = lanco
 poreo {BOT} {KUI} ต้นหอม IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prei_winter_Farinto_geoogst.jpg/139px-Prei_winter_Farinto_geoogst.jpg] @31-03-2025 17:48:41@
 pornografio/porno {BELA} {BELE} สิ่งลามก; pornografiaĵo/pornaĵo ภาพโป๊, สื่อลามก @31-03-2025 17:48:41@
@@ -4425,15 +4425,15 @@ semestro {EKON} {KAL} {PED} เทอม, ภาคเรียน >> trimestro 
 semi- //(PIV)// {SCI} ครึ่ง, กึ่ง = duon- @10-04-2025 17:50:17@
 senila //(malfofte)// (ใช้กับคน) ชรา; senilaceo //(malfofte)// ความชราภาพ, ความเสื่อมสภาพ @10-04-2025 17:52:19@
 sensacio 1. ความประทับใจอย่างยิ่ง, 2. ความรู้สึกต่อการสัมผัส; sensacia ประทับใจ, ตื่นตาตื่นใจ, มีชื่อเสียง @10-04-2025 17:56:37@
-sentenco คติพจน์, ภาษิต >> proverbo
-sentimentala เกี่ยวกับความรู้สึกในใจ
-sepio {ZOO} ปลาหมึก
-sepsa {MED} ติดเชื้อ; kontraŭsepsa, kontraŭsepsaĵo ป้องกันการติดเชื้อ
-septo (เครื่องกั้น) ฉาก
-serenado เพลงประเภทหนึ่งที่ชายหนุ่มมักร้องใต้หน้าต่างบ้านของผู้หญิง
-serĝento สิบเอก
+sentenco {BELE} คติพจน์, ข้อคิด, สุภาษิต >> proverbo @10-04-2025 21:12:22@
+sentimentala ซึ่งมีอารมณ์อ่อนไหว; sentimentalo อารมณ์อ่อนไหว @10-04-2025 21:13:51@
+sepio {ZOO} หมึกกระดอง, {BELA} สีซีเปีย, สีน้ำตาลเข้ม IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/SpeyerTintenfisch.jpg/200px-SpeyerTintenfisch.jpg] @10-04-2025 21:15:11@
+sepso/sepsemio {MED} การติดเชื้อแบคทีเรีย; sepsa {MED} ติดเชื้อ; kontraŭsepsa ป้องกันการติดเชื้อ @10-04-2025 21:48:23@
+septo //(evitinde)// {ANA} ผนังกั้น = vando @10-04-2025 21:51:03@
+serenado {MUZ} เพลงรักในยามราตรี @10-04-2025 22:07:42@
+serĝento {MIL} สิบเอก; ĉefserĝento {MIL}
 serifo (ลักษณะของตัวพิมพ์) = literkalkano
-sero (สรีระวิยา) น้ำเหลือง; serumo (การรักษาโรค) เซรุ่ม
+sero (สรีระวิยา) น้ำเหลือง; serumo (การรักษาโรค) เซรุ่ม ++
 serpo {AGR} {TEK} เคียว @16-12-2024 21:19:53@
 servico เครื่องถ้วยชาม
 serviro (กีฬาแบดมินตัน เทนนิส ฯลฯ) การเสิร์ฟลูก
@@ -5488,5 +5488,6 @@ kosmogonio {AST} {MIT} การศึกษาเกี่ยวกับกา
 embriogenio //(arkaismo)// //(malofte)// {FIZL} การเกิดเอ็มบริโอ = embriogenezo @03-04-2025 08:07:27@
 profilaktiko/profilakto {MED} การป้องกันโรค; profilaktika/profilakta {MED} เกี่ยวกับการป้องกันโรค @03-04-2025 08:27:00@
 kojono //(vulgare)// ลูกอัณฑะ = testisko @10-04-2025 15:49:23@
+kalmaro {ZOO} หมึกกล้วย IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Calmar1.jpg/200px-Calmar1.jpg] @10-04-2025 21:39:17@
 >.
 `
