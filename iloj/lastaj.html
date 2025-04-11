@@ -40,6 +40,9 @@
 
     //la etikedo por bildoj
     vortaro = vortaro.replace(/IMG:\[(.*?)\]/g, '<img src="$1">')
+    //solvi cimon ĉe IMG
+    .replace(/https:<i>upload/gm, 'https://upload')
+    .replace(/https:<\/i>upload/gm, 'https://upload')
 
     //konverti la fakideksojn kun speciala etikedo
     vortaro = vortaro.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
