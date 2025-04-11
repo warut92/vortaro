@@ -18,15 +18,15 @@
     <button onclick="redaktejoTipo(1)">คำเพิ่มใหม่</button> -->
     <span id="statistiko"></span>
     <span id="tuto" style="display: none;"></span>
-    <span>ตรวจสอบแก้ไข <span id="st_lastaj"></span> คำ</span>
-    วันที่ <span id="lasta_dato"></span>
+    <span>✍️ตรวจสอบแก้ไข <span id="st_lastaj"></span> คำ</span>
+    🌥️ล่าสุดเมื่อ <span id="lasta_dato"></span>
     <script  src="../eoth-vortaro.js"></script>
     <script  src="../skriptoj/lasta_sxangxo.js"></script>
     <details>
-      <summary>สถิตตามวัน</summary>
+      <summary>📆สถิตตามวัน</summary>
         <div id="statistiko_dato"></div>
     </details>
-    <a href="https://github.com/warut92/vortaro/commit/master" target="_blank"><p>ดูการเปลี่ยแปลงที่ Github</p></a>
+    <a href="https://github.com/warut92/vortaro/commit/master" target="_blank"><p>🔎ดูการเปลี่ยแปลงที่ Github</p></a>
 
     
     <div id="lastaj"></div>
@@ -36,7 +36,7 @@
   <scrip>
     <script>
     //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
-    // vortaro = vortaro.replace(/\/\/(.*)\/\//g, '<i>$1</i>')
+    vortaro = vortaro.replace(/\/\/(.*?)\/\//g, '<i>$1</i>')
 
     //la etikedo por bildoj
     vortaro = vortaro.replace(/IMG:\[(.*?)\]/g, '<img src="$1">')
@@ -44,6 +44,7 @@
     //konverti la fakideksojn kun speciala etikedo
     vortaro = vortaro.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
     vortaro = vortaro.replace(/\n/gm, '<br>')
+    // vortaro = vortaro.replace(/^(.*)(@[\d]{8}\/[\d]{6})$/, '$2')
     vortaro = vortaro.split(/<br>/g)
 
     //serĉi nur array kiuj enhavas "[\d]"
@@ -53,23 +54,22 @@
     });
     //konverti ĝin al string kaj aldoni ĉe la fino <br>
     rezulto = rezulto.toString()
-    rezulto = rezulto.replace(/,(?!\s)/g, "<br>");
-
-    //STRING
-
-    //forigi informojn pri trajto de vortoj.
-    // rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "<i>$1</i>")
-
+    rezulto = rezulto.replace(/,(?!\s)/g, "\n");
+    
     //reformatigi la datformon.
-    rezulto = rezulto
     //-w estis la rimarkilo por vortoj redaktitaj antaŭ la reteja renovigo
-    .replace(/-w/g, " 00:00:00")
+    rezulto = rezulto.replace(/-w/g, " 00:00:00")
     .replace(/(\d{2})-(\d{2})-(\d{4}) (\d{2}):(\d{2}):(\d{2})/g, "$3$2$1/$4$5$6")
-    // console.log('REZULTO', rezulto)
+    console.log(rezulto);
+    //forigi la lastan @
+    rezulto = rezulto.replace(/@$/gm, '')
+    //forigi ĉion en la formato @(.*?)@, tio estis la datoj de antaŭaj redakt-datoj
+    rezulto = rezulto.replace(/ @(.*?)@ /gm, ' ').replace(/ @(.*?)@ /gm, ' ')
+    console.log('REZULTO', rezulto)
 
     //ARRAY
     //forigi \n kaj konverti al Array
-    rezulto = rezulto.split(/@<br>/gm)
+    rezulto = rezulto.split(/\n/gm)
 
     //aranĝi pere de dato
     rezulto.sort((a, b) => {
@@ -95,15 +95,16 @@
 
     //aranĝi laŭ esperanta ordo.
     let re_aranĝita_rezulto = rezulto
-
-    let statistiko_bro = re_aranĝita_rezulto.length
-    document.getElementById('st_lastaj').innerHTML = statistiko_bro.toLocaleString("en-US");
+    //montras kvanton de la redaktitaj vortoj
+    let kvanto_de_redaktoj = re_aranĝita_rezulto.length
+    document.getElementById('st_lastaj').innerHTML = kvanto_de_redaktoj.toLocaleString("en-US");
     //aldoni <br> per anstaŭigi la lastajn komojn
-    re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br><hr>");
+    re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br><hr>")
 
+    //MONTRU LA REDAKTITAJN LINIOJN ALŬ LA TAGO
     //STRING
     document.getElementById("lastaj").innerHTML = re_aranĝita_rezulto;
-console.log(re_aranĝita_rezulto);
+    // console.log(re_aranĝita_rezulto);
     //STATISTIKO LAŬ LA DATOJ
     //forigi ĉion krom la datoj kaj aranĝi ilin al linioj.
     let statistiko_dato_str = re_aranĝita_rezulto.replace(/<br><hr>/g,"\n").replace(/.*(?=@\d)/g,"").replace(/\/.*/g,"").replace(/@/g,"🕧")

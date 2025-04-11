@@ -83,7 +83,7 @@ Z [BRO],
     vortaro = vortaro.replace(/\n/gm, '<br>')
     vortaro = vortaro.split(/<br>/g)
     //serĉi nur array kiuj enhavas "[\d]"
-    let sxablono_regex = / \[\d*|x\]/;
+    let sxablono_regex = / \[\d{1}|x\]/;
     // let sxablono_regex = /-o/gm;
     let rezulto = vortaro.filter(function(str) {
     	return sxablono_regex.test(str);
