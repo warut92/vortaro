@@ -8,7 +8,7 @@ Oni povas kontribui tradukojn, novajn vortojn en la dosiero `eoth-vortaro.js`
 
 ท่านสามารถมีส่วนร่วมกับการเพิ่มคำแปล การเพิ่มคำได้ที่ไฟล์ `eoth-vortaro.js`
 
-[legi protokolon/อ่านบันทึก](./log.txt)
+[legi protokolon/อ่านบันทึก](./iloj/log.txt)
 
 ## Vortarumado
 

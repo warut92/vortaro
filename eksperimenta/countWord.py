@@ -1,5 +1,5 @@
 # Define the path to the external text file
-file_path = "C:\\Users\\User\\Documents\\GitHub\\vortaro\\eoth-vortaro.js"
+file_path = "../eoth-vortaro.js"
 
 # Open the file and read its content
 with open(file_path, "r", encoding="utf-8") as file:
