@@ -32,7 +32,7 @@ Z`
 vortaro = vortaro.concat(E_alfabeto)
 let cxiuj_vortoj_HTML = vortaro;
 //ŝanĝi  /// al tag <i> kaj aliaj
-cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.*?)\/\//g, '<i>$1</i>')
 //forigi la etikedon HTML kommento
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '---')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')
@@ -58,9 +58,10 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(1)\. /gm, '① ')
 //por redakt-dato
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
 //la etikedo por bildoj
-cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/IMG:\[(.*)\]/gm, '<img src="$1">')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/IMG:\[(.*?)\]/gm, '<img src="$1">')
 //solvi cimon ĉe IMG
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<i>upload/gm, 'https://upload')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<\/i>upload/gm, 'https://upload')
 
 //konverti la fakideksojn kun speciala etikedo
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
