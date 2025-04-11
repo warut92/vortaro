@@ -49,7 +49,7 @@ aranĝo de la vortoj ĉe eoth-vortaro.js :
 
 ~~tajpu `++` je la lasta punkto de la artikolo, post tio malfermi la terminalon ĉe la vojo de la vortaro, kaj ruligi sur la terminalo `python lasta_sxangxo.py` por aldoni la daton kaj precizan tempon aŭtomate.~~
 
-Nun estas la maniero de **sinppet** per tajpi `/t` kaj `Enter` la daton kaj tempon aŭtomate aperas. Por la pliaj **snippet**oj, vidu ĉe la dosiero `.vscode/vortaro.code-snippet`
+Nun estas la maniero de **snippet** per tajpi `/t` kaj `Enter` la daton kaj tempon aŭtomate aperas. Por la pliaj **snippet**oj, vidu ĉe la dosiero `.vscode/vortaro.code-snippet`
 
 ## Farado-vojoj.
 1. kontrolas ĉiujn vortojn de la ETV.

@@ -19,7 +19,6 @@
 
 <div id="titolo"> พจนานุกรมเอสเปรันโต-ไทย (beta)</div>
 <a href="./pri.html"><pre id="statistiko"></pre></a>
-<script  src="./skriptoj/lasta_sxangxo.js"></script>
 <input id="checkbox" type="checkbox" onclick="sercxi()">
 <label id="sercxoLingvo">kapvorto</label>
 <input id="checkbox" type="checkbox" onclick="tujsercxi()" />
@@ -29,15 +28,15 @@
 <button id="forigi" onclick="forigi()">⌫</button><br>
 <span id="aliaj-fontoj"></span>
 <script>
-type="text/javascript">
-document.getElementById("enigo").addEventListener("keyup",
-function(event){eotajpu(this,event);}, true);
-//forigi enigaĵojn
-function forigi() {
-  document.getElementById("enigo").value = "";
-  sercxi();
-  document.getElementById("enigo").focus()
-}
+  type="text/javascript">
+  document.getElementById("enigo").addEventListener("keyup",
+  function(event){eotajpu(this,event);}, true);
+  //forigi enigaĵojn
+  function forigi() {
+    document.getElementById("enigo").value = "";
+    sercxi();
+    document.getElementById("enigo").focus()
+  }
 </script>
 <div id="piv_vortoj"></div>
 <div id="eligo"></div>
@@ -46,6 +45,7 @@ function forigi() {
 <script src="./skriptoj/tujsercxo/tujsercxo.js"></script>
 <script src="./skriptoj/tujsercxo/piv_vortoj.js"></script>
 <script src="./eoth-vortaro.js"></script>
+<script  src="./skriptoj/lasta_sxangxo.js"></script>
 <script src="./skriptoj/skripto.js"></script>
 <script src="./skriptoj/aliaj-fontoj.js"></script>
 <script src="./skriptoj/hazardilo.js"></script>
