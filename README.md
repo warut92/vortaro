@@ -20,6 +20,18 @@ Temas pri polurado, la vortojn prenas de Reta Vortaro, inkluzive de kapvortoj ka
 
 Temas pri poluritaj vortoj venas de kontroli difinojn el ReVo unue, se iaokaze due el PIV. Poste estas kontroli vortaron de [Longdo](https://dict.longdo.com/) (Reta Taja-multlingva Vortaro-aro). Se troviĝas taja vorto, kiu ja kongruas kun la signifo/difino, mi prenas tiun vorton (ĉefe de la vortaro Lextrion), iaokaze se ne troviĝas la precizan tajan vorton, mi traduku la difinon al la taja. Temas pri la bildoj, mi ĉiam prenas de Vikipedio. Pro tio faciligas la komprenon de la vortoj.
 
+### หลักการในการเลือกคำศัพท์ในภาษาไทย
+1. เป็นคำที่คนไทยใช้อยู่แล้ว
+2. หากไม่มีคำที่ใช้จริงให้หาคำที่ใกล้เคียงกับความหมาย
+3. หากไม่มีตามข้อ 2 ให้ใช้ประโยคที่มีความกระชับ
+4. บางครั้งมีการใช้คำศัพท์บัญญัติของราชบัณฑิต สำหรับศัพท์คำเฉพาะทาง
+
+### maniero por taja traduko
+1. uzataj tajaj vortoj
+2. se ne ekzitas, proksim-signifaj vortoj.
+3. se ne taŭgas, traduku al mallonga farzo.
+4. iakaze, uzas terminojn de la Reĝa Akademio.
+
 ## Strukturo de la vortaro
 
 1 artikolo :
