@@ -4453,15 +4453,15 @@ siliko {MIN} 1. หินเหล็กไฟ, ฟลินต์ = fajroŝtono
 silueto ภาพซิลลูเอท, ภาพเงาทึบ; silueti //(tr)// ทำให้เป็นภาพซิลลูเอท; siluetiĝi เป็นภาพซิลลูเอท IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/GoetheVorEinemGrabmalMitWeiblicherBuesteS92.jpg/100px-GoetheVorEinemGrabmalMitWeiblicherBuesteS92.jpg] @12-04-2025 11:32:43@
 siluro {ZOO} ปลาเนื้ออ่อน (Silurus glanis) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Channelcat.jpg/100px-Channelcat.jpg] @12-04-2025 11:40:40@
 silvio {ZOO} นกกระจิบในวงศ์ Sylvia มีเสียงร้องไพเราะ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sylvia_borin_%28%C3%96rebro_County%29.jpg/100px-Sylvia_borin_%28%C3%96rebro_County%29.jpg] @12-04-2025 11:48:44@
-simbolo เครื่องหมาย, สัญลักษณ์; simboli //(tr)// เป็นสัญลักษณ์ของ, หมายถึง; simboligi เป็นเครื่องแสดง
-simfonio {MUZ} ซิมโฟนี
-simpozio การสัมมนาวิชาการ
-simptomo อาการ(โรค)
-simuli //(tr)// ลอกเลียน
-sindromo อาการโรค
-sinekuro ตำแหน่งซึ่งไม่มีหน้าที่
+simbolo เครื่องหมาย, สัญลักษณ์; simboli //(tr)// เป็นสัญลักษณ์ของ, แสดง, หมายถึง; simboligi แสดงสัญลักษณ์; simbolismo {BELA} {BELE} สัญลักษณ์นิยม; bildsimbolo {KOMP} {TEK} ไอคอน @12-04-2025 12:00:17@
+simfonio {MUZ} ซิมโฟนี @12-04-2025 12:00:47@
+simpozio การประชุมทางวิชาการ @12-04-2025 12:01:28@
+simptomo {MED} อาการของโรค, อาการ; simptomaro {MED} กลุ่มอาการ @12-04-2025 12:02:59@
+simuli //(tr)// {MED} {JUR} แสร้งทำ, อำพราง, {KOMP} จำลอง; simulado MED} {JUR} การแสร้งทำ, การอำพราง, {KOMP} การจำลอง; simulilo {TEK} {KOMP} ตัวจำลอง, โปรแกรมจำลอง @12-04-2025 12:06:53@
+sindromo {MED} กลุ่มอาการ = simptomaro @12-04-2025 12:08:12@
+sinekuro //(malfofte)// ตำแหน่งที่ไม่ต้องทำงาน @12-04-2025 12:10:04@
 singulti //(ntr)// สะอึก; singulto อาการสะอึก; plorsingulti ร้องสะอึกสะอื้น @28-09-2024 09:42:13@
-sinki //(ntr)// จม, ล่ม
+sinki //(ntr)// ล้ม(จากน้ำหนักตัวเอง), จม, ล่ม @12-04-2025 12:14:42@
 sinkopo {MUZ} จังหวะขัด, การเป็นลม
 sinkrona เกิดในเวลาเดียวกัน; sinkronigi ทำให้สอดคล้องกัน @12-04-2024 16:36:08@
 sinonimo คำพ้อง, คำเหมือน
