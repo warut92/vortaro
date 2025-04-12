@@ -4448,11 +4448,11 @@ Sidnejo {GEOG} {POL} ซิดนีย์ (เมืองท่าทางช
 siesto การนอนพักกลางวัน @11-04-2025 15:44:12@
 sifono 1. กาลักน้ำ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siphon_%28fcm%29.jpg/100px-Siphon_%28fcm%29.jpg], 2. {BIO} ท่อ, 3. ขวดทำน้ำโซดา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Soda_syphon_IMG_1505C.jpg/100px-Soda_syphon_IMG_1505C.jpg] @11-04-2025 15:56:03@
 sigeli //(tr)// ประทับตราครั่ง, //(f)// ประทับตรารับรอง, ผนึกอย่างดี; sigelo {UL} {TIP} ตราประทับ; sigelilo/sigelringo ที่ประทับตรา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Siegel.jpg/200px-Siegel.jpg] @11-04-2025 19:22:08@
-siglo อักษรตัวแรกหรือตัวอักษรที่นำมาใช้เป็นตัวอักษรย่อ
-siliko หินเหล็กไฟ
-silueto เงามืด
-siluro {ZOO} ปลาเค้า
-silvio {ZOO} นกกระจิบ
+siglo //(malfofte)// {GRA} ตัวอักษรย่อ @12-04-2025 11:27:07@
+siliko {MIN} 1. หินเหล็กไฟ, ฟลินต์ = fajroŝtono @12-04-2025 11:29:24@
+silueto ภาพซิลลูเอท, ภาพเงาทึบ; silueti //(tr)// ทำให้เป็นภาพซิลลูเอท; siluetiĝi เป็นภาพซิลลูเอท IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/GoetheVorEinemGrabmalMitWeiblicherBuesteS92.jpg/100px-GoetheVorEinemGrabmalMitWeiblicherBuesteS92.jpg] @12-04-2025 11:32:43@
+siluro {ZOO} ปลาเนื้ออ่อน (Silurus glanis) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Channelcat.jpg/100px-Channelcat.jpg] @12-04-2025 11:40:40@
+silvio {ZOO} นกกระจิบในวงศ์ Sylvia มีเสียงร้องไพเราะ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sylvia_borin_%28%C3%96rebro_County%29.jpg/100px-Sylvia_borin_%28%C3%96rebro_County%29.jpg] @12-04-2025 11:48:44@
 simbolo เครื่องหมาย, สัญลักษณ์; simboli //(tr)// เป็นสัญลักษณ์ของ, หมายถึง; simboligi เป็นเครื่องแสดง
 simfonio {MUZ} ซิมโฟนี
 simpozio การสัมมนาวิชาการ
