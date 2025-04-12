@@ -153,7 +153,7 @@ argilo [x] เครื่องปั้น
 argumento [x] การถกเถียง
 arko [8] ส่วนโค้ง; pafarko [w] ธนู
 armeo [7] กองทัพ
-armi [6] //(tr)// {MIL} ใช้อาวุธ; armo (ark.) = armilo [w] อาวุธ
+armi [6] //(tr)// {MIL} ใช้อาวุธ; armo //(ark)// = armilo [w] อาวุธ
 arterio [9] หลอดเลือดแดง
 artiko {ANA} ข้อต่อ, {TEK} ข้อต่อ, บานพับ; elartikigi ทำให้กระดูกเสื่อม; manartiko ข้อมือ @12-11-2024 22:09:00@
 artikolo [7] บทความ, {GRA} คำนำหน้านาม
@@ -1981,7 +1981,7 @@ probabla [8] น่าจะเป็นไปได้ → ebla
 problemo [8] ปัญหา; senprobleme [w] ไม่มีปัญหา
 procedi [8] //(ntr)// ดำเนินการ, จัดการ; procedo [w] การดำเนินการ, การจัดการ, วิธีการ
 procento [9] เปอร์เซ็นต์ = elcento
-proceso [8] {JUR} คดี, สำนวน, //(ark.)// กระบวนการ
+proceso [8] {JUR} คดี, สำนวน, //(ark)// กระบวนการ
 produkto [5] ผลิตภัณฑ์; produkti [w] //(tr)// ผลิต
 profesio [8] อาชีพ
 profesoro [9] ศาสตราจารย์, อาจารย์มหาวิทยาลัย
@@ -2448,7 +2448,7 @@ tago {UL} [5] วัน; tage [w] ในเวลากลางวัน; ĉiut
 tajli [8] //(tr)// แต่ง(รูปร่าง), ตัดแต่ง
 tajloro {UL} [8] ช่างตัดเสื้อ
 tajpi [9] //(tr)// พิมพ์; tajpilo [w] พิมพ์ดีด
-taksi [7] //(tr)// ประเมิน, ประเมินค่า, //(ark.)// เห็นคุณค่า; takso การประเมิน, การประเมินค่า; mistaksi //(tr)// ตัดสินผิด, พิจารณาผิด; netaksebla/nesubtaksebla ประเมินค่าไม่ได้; pritaksi//(tr)// ประเมิน, ประมาณ, พิจารณา; subtaksi //(tr)// ประเมินต่ำกว่า; supertaksi //(tr)// ประเมินมากเกินไป @03-11-2024 11:28:16@
+taksi [7] //(tr)// ประเมิน, ประเมินค่า, //(ark)// เห็นคุณค่า; takso การประเมิน, การประเมินค่า; mistaksi //(tr)// ตัดสินผิด, พิจารณาผิด; netaksebla/nesubtaksebla ประเมินค่าไม่ได้; pritaksi//(tr)// ประเมิน, ประมาณ, พิจารณา; subtaksi //(tr)// ประเมินต่ำกว่า; supertaksi //(tr)// ประเมินมากเกินไป @03-11-2024 11:28:16@
 taksio [x] รถแท็กซี่
 takto [9] {MUZ} จังหวะ → ritmo
 talento [x] ความสามารถพิเศษ
@@ -2739,7 +2739,7 @@ abdomeno {ANA} {ZOO} ช่องท้อง; abdomena เกี่ยวกั
 abituriento {PED} ผู้ที่เรียนจบชั้นมัธยมศึกษาแล้ว; abiturienteco การศึกษาระดับมัธยม; abiturientiĝi {PED} //(ntr)// จบชั้นมัธยมศึกษา; abiturienta ekzameno การสอบไล่ระดับชั้นมัธยม @28-02-2025 21:41:57@
 aboco ตัวอักษรละติน, หนังสือฝึกการอ่านพื้นฐาน = alfabetumo, ก.ข.ค., //(f)// เรื่องพื้นฐาน @01-03-2025 09:52:31@
 aboli/abolicii {JUR} //(tr)// ยกเลิก ล้มเลิก, //(f)// หยุด (กิจการ); abolo/abolicio {JUR} การยกเลิก @01-03-2025 10:03:51@
-aborigeno ชาวอะบอริจิน (ออสเตรเลีย), //(ark.)// ชนพื้นเมือง; aborigena เกี่ยวกับชาวอะบอริจิน @01-03-2025 10:03:51@
+aborigeno ชาวอะบอริจิน (ออสเตรเลีย), //(ark)// ชนพื้นเมือง; aborigena เกี่ยวกับชาวอะบอริจิน @01-03-2025 10:03:51@
 aborti //(x)// {MED} แท้ง //(f)// ไร้ผล, ล้มเหลว; aborto การแท้ง; abortigi {MED} ทำแท้ง, ทำให้แท้ง; abortaĵo/abortulo ลูกแท้ง @01-03-2025 10:03:51@
 absorbi //(tr)// หมกมุ่นอยู่กับ (ต่อความคิด, ความระมัดระวัง); absorbiĝi หมกหมุ่น, ตั้งใจจดจ่อ @01-03-2025 10:08:00@
 acero {BOT} ต้นเมเปิล IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Acer_saccharum.jpg/200px-Acer_saccharum.jpg] @01-03-2025 10:14:49@
@@ -4005,7 +4005,7 @@ meteorito {AST} อุกกาบาต = aerolito @25-10-2024 11:47:48@
 meteoro {AST} ดาวตก, ผีพุ่งไต้; meteorŝtono {AST} อุกกาบาต = aerolito, meteorito @25-10-2024 11:53:48@
 meteorologio/meteologio {MET} {SCI} อุตุนิยมวิทยา; meteorologiisto/meteologiisto {MET} {SCI} นักอุตุนิยมวิทยา; Monda Organizaĵo pri Meteorologio/Monda Organizaĵo pri Meteologio //(MOM)// องค์การอุตุนิยมวิทยาโลก @12-01-2025 18:38:44@
 metriko {POE} [เกี่ยวกับการศึกษาการแต่งบทกวี?], {MAT} เมตริก @13-01-2025 19:24:55@
-metropoliteno {FER} {TRA} //(ark.)// รถไฟใต้ดิน = metroo @13-01-2025 19:24:55@
+metropoliteno {FER} {TRA} //(ark)// รถไฟใต้ดิน = metroo @13-01-2025 19:24:55@
 migdalo {KUI} เมล็ดอัลมอนด์; sukermigdalo {KUI} อัลมอนด์เคลือบน้ำตาล; migdalarbo/migdalujo {BOT} ต้นอัลมอนด์ @13-01-2025 19:24:55@
 mikro- //(pref)// 10<sup>-6</sup> = 0.000001, {SCI} สิ่งที่เล็กมากที่ไม่สามารถเห็นได้ด้วยตาเปล่า, {ANA} เล็กผิดปกติ, //(f)// มินิ = mini- @13-01-2025 19:24:55@
 mikrobo จุลชีพ, จุลินทรีย์ = mikroorganismo @13-01-2025 19:24:55@
@@ -4696,7 +4696,7 @@ tenso {GRA} กาล @12-02-2025 13:41:06@
 teologo {REL} นักเทววิทยา @12-02-2025 13:41:06@
 teologiio {REL} เทววิทยา, ศาสนศาสตร์; teologiisto นักเทววิทยา @12-02-2025 13:41:06@
 terakoto เทอราคอตต้า (วัสดุที่ทำมาจากดินที่ถูกเผาเพื่อใช้ในการทำเครื่องปั้นดินเผามีเนื้อสีอิฐ); terakota เกี่ยวกับเทอราคอตต้า; terakotaĵo {BELA} เครื่องปั่นดินเผาเทอราคอตต้า IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sculpture_Aufgestuetzter_Kopf_Szelinski-Singer_Anders.JPG/204px-Sculpture_Aufgestuetzter_Kopf_Szelinski-Singer_Anders.JPG] @29-03-2025 17:10:42@
-terapeŭto //(PIV)// //(ark.)// นักบำบัดโรค = terapiisto @12-02-2025 13:41:06@
+terapeŭto //(PIV)// //(ark)// นักบำบัดโรค = terapiisto @12-02-2025 13:41:06@
 terapio {MED} การบำบัด; terapii บำบัด; terapiisto  {MED} นักบำบัดโรค; galvanoterapio {MED} การบำบัดด้วยไฟฟ้า; seroterapio {MED} การบำบัดด้วยเซรุ่ม; hormonterapio {MED} การบำบัดด้วยฮอร์โมน @12-02-2025 13:41:06@
 teraplano //(PIV)// เรือสะเทินน้ำสะเทินบก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LCAC-55_maneuvers_to_enter_the_well_deck.jpg/320px-LCAC-55_maneuvers_to_enter_the_well_deck.jpg] @12-02-2025 14:00:10@
 Teravado {BUD} นิกายเถรวาท; Teravada เกี่ยวกับเถรวาท @12-02-2025 14:00:10@
@@ -5182,7 +5182,7 @@ aŭtodafeo {KAT} การลงโทษพวกนอกรีตด้วย
 varpo {TEK} {TEKS} ด้ายตามยาวในหูกทอผ้า, ด้ายยืน @01-01-2023-w@
 vefto {TEK} {TEKS} ด้ายขวาง >> varpo @01-01-2023-w@
 elano ความกระฉับกระเฉง @01-01-2023-w@
-nacionalismo (ark.) ชาตินิยม = naciismo @01-01-2023-w@
+nacionalismo (ark) ชาตินิยม = naciismo @01-01-2023-w@
 kiraso {MIL} เสื้อเกราะ, เกราะ; {ZOO} กระดอง @01-01-2023-w@
 karapaco {ZOO} กระดอง = kiraso @01-01-2023-w@
 baldakeno เครื่องตกแต่งสำหรับแสดงฐานะที่ใช้ติดตั้งเหนือแท่นบูชา บัลลังก์ หรือเก้าอี้ หรือพระแท่นบรรทมหรือเตียง @01-01-2023-w@
@@ -5293,7 +5293,7 @@ falko {ZOO} นกเหยี่ยว @01-01-2023-w@
 mikrobiologio {BAK} {SCI} จุลชีววิทยา @01-01-2023-w@
 bakteriologio {BAK} {SCI} แบคทีเรียวิทยา @01-01-2023-w@
 virusologio {BAK} {SCI} ไวรัสวิทยา @01-01-2023-w@
-biontologio {SCI} //(ark.)// = biologio @01-01-2023-w@
+biontologio {SCI} //(ark)// = biologio @01-01-2023-w@
 oligarkio/oligarĥio {POL} คณาธิปไตย @01-01-2023-w@
 renegato ผู้ที่ละทิ้งศาสนา, ผู้ที่ละทิ้งพวกพ้อง, คนทรยศ = apostato @01-01-2023-w@
 mocio {POL} ญัตติ @01-01-2023-w@

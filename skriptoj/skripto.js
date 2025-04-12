@@ -67,6 +67,11 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<\/i>upload/gm, 'https://up
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
 //vinjetoj
 // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\{KEM\}/g, 'Ⓚ')
+// console.log(fakindeksoj_ARR_2);
+// fakindeksoj_ARR_2.forEach(([name, emoji]) => {
+//   const regex = new RegExp(`${name}`, 'gm');
+//   cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(regex, emoji);
+// });
 
 //konverti al ARRAY
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
@@ -93,7 +98,7 @@ disigitaj_vortoj_al_kunmetitaj_vortoj = disigitaj_vortoj_al_kunmetitaj_vortoj.fi
 
 //serĉi kvanton da vortoj
 let statistiko_disigitaj_vortoj = disigitaj_vortoj.filter(disigitaj_vortoj => disigitaj_vortoj !== "")
-document.getElementById("statistiko").innerHTML = statistiko_disigitaj_vortoj.length.toLocaleString("en-US") + " คำหลัก " + (disigitaj_vortoj_al_kunmetitaj_vortoj.length - statistiko_disigitaj_vortoj.length).toLocaleString("en-US") + " คำรอง " + rearangxita_dato + " ⚙️";
+document.getElementById("statistiko").innerHTML = statistiko_disigitaj_vortoj.length.toLocaleString("en-US") + " คำหลัก " + (disigitaj_vortoj_al_kunmetitaj_vortoj.length - statistiko_disigitaj_vortoj.length).toLocaleString("en-US") + " คำรอง " + rearangxita_dato + " 🏠";
 
 function sercxi() {
   let vortoj_Arr, i;
