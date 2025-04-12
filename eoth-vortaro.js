@@ -4462,25 +4462,24 @@ sindromo {MED} กลุ่มอาการ = simptomaro @12-04-2025 12:08:12@
 sinekuro //(malfofte)// ตำแหน่งที่ไม่ต้องทำงาน @12-04-2025 12:10:04@
 singulti //(ntr)// สะอึก; singulto อาการสะอึก; plorsingulti ร้องสะอึกสะอื้น @28-09-2024 09:42:13@
 sinki //(ntr)// ล้ม(จากน้ำหนักตัวเอง), จม, ล่ม @12-04-2025 12:14:42@
-sinkopo {MUZ} จังหวะขัด, การเป็นลม
+sinkopo 1. {MUZ} จังหวะขัด, 2. การเป็นลม @12-04-2025 17:25:08@
 sinkrona เกิดในเวลาเดียวกัน; sinkronigi ทำให้สอดคล้องกัน @12-04-2024 16:36:08@
-sinonimo คำพ้อง, คำเหมือน
-sintakso วากยสัมพันธ์ (การศึกษาว่าด้วยกฎของความสัมพันธ์ของแบบแผนองค์ประกอบของประโยคในภาษา)
-sintezo การสังเคราะห์: sinteza fibraĵo ผ้าใยสังเคราะห์; sintezi //(tr)// สังเคราะห์; fotosintezo การสังเคราะห์แสง
-sireno พะยูน, (เทพนิยาย) นางเงือก = marvirino, เสียงหวอ (ไซเรน) >> fajfilego, หญิงหลายใจ
-siringo ต้นไลแลค
-siropo น้ำเชื่อม
-sismo = seismo = tertremo แผ่นดินไหว
-skabio โรคหิด
-skadro กองพันทหารม้า, ฝูงเครื่องบิน
-skafaldo นั่งร้านที่ผูกขึ้นสำหรับสร้างอาคาร
-skafandro ชุดนักประดาน้ำ, {AVI} ชุดอวกาศ; sendependa skafandro, spirilo ตัวถังออกซิเจน; skafandristo นักประดาน้ำ
-Skajpo โปรแกรมสไกป์
-skalpo หนังหัว, หนังศีรษะ
-skandalo เรื่องอื้อฉาว
-skandi //(tr)// อ่านโดยพิจารณาหรือเน้นจังหวะ
-skandinavo ชาวสแกนดิเนเวีย; Skandinavio สแกนดิเนเวีย
-skani //(tr)// กวาดสายตา, สแกน; skanilo เครื่องสแกน
+sinonimo {LIN} คำพ้อง, คำเหมือน = samsencaĵo; sinonimeco การมีความหมายเหมือนกัน @12-04-2025 17:26:53@
+sintakso {GRA} วากยสัมพันธ์, หนังสือเรียนไวยากรณ์เรื่องวากยสัมพันธ์; sintaksa กี่ยวกับการสร้างประโยค @12-04-2025 17:28:50@
+sintezo การสังเคราะห์: sinteza fibraĵo ผ้าใยสังเคราะห์; sintezi //(tr)// สังเคราะห์; sintezilo {MUZ} อุปกรณ์สร้างเสียงสังเคราะห์; lumsintezo //(malfofte)// {BIO} การสังเคราะห์แสง = fotosintezo @12-04-2025 17:33:25@
+sireno 1. {MIT} ไซเรน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/NAMA_Sir%C3%A8ne.jpg/100px-NAMA_Sir%C3%A8ne.jpg], นางเงือก = marvirino IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Waterhouse_a_mermaid.jpg/100px-Waterhouse_a_mermaid.jpg], 2. //(f)// ผู้หญิงที่น่าหลงไหลแต่ไร้ใจ, 3. {TEK} หวอไซเรน; sirenoj {ZOO} สัตว์ที่อยู่ในอันดับพะยูน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sirenia_Diversity.jpg/100px-Sirenia_Diversity.jpg] @12-04-2025 17:42:32@
+siringo {BOT} ต้นไลลัก, ต้นซิริงกา = lilako IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Stockholm-lilac.jpg/100px-Stockholm-lilac.jpg] @12-04-2025 17:47:53@
+siropo {KUI} น้ำเชื่อม @12-04-2025 17:48:30@
+skabio {MED} โรคหิด @12-04-2025 19:09:16@
+skadro/skadrono/eskadrono {MIL} กองร้อยทหารม้า @12-04-2025 19:18:14@
+skafaldo {KON} นั่งร้าน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2512-%C3%A9chafaudage-R%C3%A9union.jpg/100px-2512-%C3%A9chafaudage-R%C3%A9union.jpg] @12-04-2025 19:20:10@
+skafandro {MAR} ชุดนักประดาน้ำ, {AVI} ชุดอวกาศ; skafandristo นักประดาน้ำ
+Skajpo {KOMP} {RET} {TEL} โปรแกรมสไกป์ @12-04-2025 19:38:25@
+skalpo {FIZL} หนังหัว, หนังศีรษะ @12-04-2025 19:42:00@
+skandalo เรื่องอื้อฉาว, เรื่องน่าอาย; skandali //(tr)// ทำให้เกิด เรื่องอื้อฉาวกับ @12-04-2025 19:45:25@
+skandi //(malfofte)// //(tr)// 1. อ่านเน้นทีละพยางค์, 2. {POE} อ่านพิจารณาทีละวรรค @12-04-2025 19:46:51@
+skandinavo ชาวสแกนดิเนเวีย; skandinava เกี่ยวกับชาวสแกนดิเนเวีย; Skandinavujo {GEOG} สแกนดิเนเวีย @12-04-2025 19:49:38@
+skani //(tr)// {KOMP} {TIP} สแกน; skanaĵo {KOMP} {TIP} ไฟล์สแกน skanilo {KOMP} {TEK} เครื่องสแกน @12-04-2025 19:52:43@
 skapolo กระดุกสะบัก
 skarabo {ZOO} แมลงปีกแข็ง
 skarlata; skarlato สีแดงสด
@@ -5560,5 +5559,6 @@ kojono //(vulgare)// ลูกอัณฑะ = testisko @10-04-2025 15:49:23@
 kalmaro {ZOO} หมึกกล้วย IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Calmar1.jpg/200px-Calmar1.jpg] @10-04-2025 21:39:17@
 adjudanto {MIL} จ่าสิบโท = vicsubleŭtenanto; ĉefadjudanto {MIL} จ่าสิบเอก @11-04-2025 09:28:13@
 marŝalo {MIL} จอมพล @11-04-2025 09:46:21@
+Skandinavio {GEOG} สแกนดิเนเวีย = Skandinavujo @12-04-2025 19:50:15@
 >.
 `
