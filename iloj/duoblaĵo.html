@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>duoblaĵo-listo</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            padding: 20px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h1>duoblaĵo-listo</h1>
+    <pre id="duplicates-list"></pre>
+    
+    <script src="../eoth-vortaro.js"></script>
+    <script>
+    const VORTARO_ARR = vortaro.trim().split("\n");
+    const seen = new Set();
+    const duplicates = new Set();
+
+    VORTARO_ARR.forEach(entry => {
+      const word = entry.split(" ")[0].trim();
+      if (seen.has(word)) {
+        duplicates.add(word);
+      } else {
+        seen.add(word);
+      }
+    });
+    
+    const list = document.getElementById("duplicates-list");
+    duplicates.forEach(word => {
+      const li = document.createElement("li");
+      li.textContent = word;
+      list.appendChild(li);
+    });
+
+    </script>
+</body>
+</html>
