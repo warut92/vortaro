@@ -32,7 +32,7 @@ Z`
 vortaro = vortaro.concat(E_alfabeto)
 let cxiuj_vortoj_HTML = vortaro;
 //ŝanĝi  /// al tag <i> kaj aliaj
-cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.*?)\/\//g, '<i>$1</i>')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/\((.*?)\)\/\//g, '<i>($1)</i>')
 //forigi la etikedon HTML kommento
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '---')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')

@@ -37,7 +37,7 @@
   <scrip>
     <script>
     //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
-    vortaro = vortaro.replace(/\/\/(.*?)\/\//g, '<i>$1</i>')
+    vortaro = vortaro.replace(/\/\/\((.*?)\)\/\//g, '<i>($1)</i>')
 
     //la etikedo por bildoj
     vortaro = vortaro.replace(/IMG:\[(.*?)\]/g, '<img src="$1">')
