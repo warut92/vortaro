@@ -4493,16 +4493,16 @@ skolopendro {ZOO} ตะขาบ @13-04-2025 11:44:47@
 skolto {MIL} ทหารสอดแนม, {SPO} ลูกเสือ; skoltismo กิจการลูกเสือ @13-04-2025 11:47:07@
 skombro {ZOO} ปลาแม็คเคอเรล; mallonga skombro {ZOO} ปลาทู @13-04-2025 11:52:36@
 skorpio {ZOO} แมงป่อง; skorpioj สัตว์ที่อยู่ในกลุ่มแมงป่อง; Skorpio {AST} กลุ่มดาวแมงป่อง, ราศีพฤศจิก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ScorpiusCC.jpg/100px-ScorpiusCC.jpg] @13-04-2025 11:55:06@
-skotero รถจักรยานยนต์เล็ก
-skripto ต้นร่าง
-skroto ถุงอัณฑะ
-skrupulo หลักธรรม, ศีลธรรม; skrupula ระมัดระวัง, พิถี
-skuti //(ntr)// ขี่จักรยานชนิดนี้สำหรับเด็ก; skutilo รถจักรยานสองล้อเล็ก ๆ สำหรับเด็ก
-skvaŝo กีฬาสควอช = kvarmurpilko
-slipo ใบ: moneltira slipo ใบเบิกเงิน
-slogano คำขวัญ = frapfrazo
-smeraldo มรกต: la Smeralda Budho พระแก้วมรกต; smerald(verd)a สีเขียวมรกต
-snobo ผู้ที่ตามสมัยนิยมอย่างไม่ลืมหูลืมตา
+skotero รถสกู๊ตเตอร์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Scooter-Baltmotors-Joy-R.jpg/100px-Scooter-Baltmotors-Joy-R.jpg] @13-04-2025 13:06:09@
+skripto สคริปต์, เอกสารต้นร่าง @13-04-2025 13:07:36@ 
+skroto {ANA} ถุงอัณฑะ = testikujo @13-04-2025 13:32:29@
+skrupulo 1. ความคำนึงถึงศีลธรรม, ความละอายใจ, ความกระดากใจ, 2. ความละเอียดรอบคอบ, ความพิถีพิถัน; skrupula ละเอียดรอบคอบ, พิถีพิถัน; skrupuli //(ntr)// ละอายใจ, กระดากใจ; senskrupula ความไม่คำนึงถึงศีลธรรม, ความไม่ละอายใจ @13-04-2025 13:20:40@
+skuti //(ntr)// เดินทางด้วยสกู๊ตเตอร์ไถด้วยขา; skutilo สกู๊ตเตอร์ไถด้วยขา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Razor_old_a.jpg/100px-Razor_old_a.jpg]; elektroskutilo/elektra skutilo สกู๊ตเตอร์ไฟฟ้า @13-04-2025 13:25:03@
+skvaŝo {SPO} กีฬาสควอช = kvarmurpilko //(PIV)// @13-04-2025 13:34:44@
+slipo สลิป, กระดาษใบเล็ก ๆ sliparo สลิปหลาย ๆ ใบ; kaŝslipeto/suflorslipeto กระดาษจดแอบเอาเข้าห้องสอบ @13-04-2025 13:44:23@
+slogano สโลแกน, คำขวัญ = frapfrazo; slogani //(x)// มีสโลแกนว่า @13-04-2025 13:46:19@
+smeraldo {MIN} มรกต IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gachalaemerald.jpg/100px-Gachalaemerald.jpg] @13-04-2025 13:47:30@
+snobo คนหัวสูง; snoba หัวสูง; snobi //(x)// ทำตัวหัวสูง, รังเกียจดูแคลนผู้อื่น; snobismo พฤติกรรมหรือทัศนคติของคนหัวสูง @13-04-2025 13:50:15@
 snuf //(sonimito)// (เสียงสูดดมฟุตฟิต); snufi //(ntr)//  สูด, สูดดม, สูดอากาศ; snufegi ดมอย่างสัตว์ @28-09-2024 09:42:41@
 sociologio สังคมวิทยา
 sociologo นักสังคมวิทยา
