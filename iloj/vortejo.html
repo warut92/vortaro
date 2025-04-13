@@ -32,7 +32,7 @@
   <textarea id="wordInput" oninput="rearrangeWords()" placeholder="prenu vortojn!"></textarea>
   <br><br>
   <button onclick="rearrangeWords()">aranĝi</button>
-  
+  <p id="vortoj"></p>
   <div id="output"></div>
   <br>
   <button onclick="copyResult()">Kopii!</button>
@@ -44,6 +44,8 @@
         .map(word => word.trim())
         .filter(word => word !== "");
       const result = words.join("; ");
+      console.log(result.split("; ").length);
+      document.getElementById("vortoj").textContent = result.split("; ").length + " vortoj";
       document.getElementById("output").textContent = result;
     }
     function copyResult() {
