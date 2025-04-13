@@ -4480,11 +4480,11 @@ skandalo เรื่องอื้อฉาว, เรื่องน่าอ
 skandi //(malfofte)// //(tr)// 1. อ่านเน้นทีละพยางค์, 2. {POE} อ่านพิจารณาทีละวรรค @12-04-2025 19:46:51@
 skandinavo ชาวสแกนดิเนเวีย; skandinava เกี่ยวกับชาวสแกนดิเนเวีย; Skandinavujo {GEOG} สแกนดิเนเวีย @12-04-2025 19:49:38@
 skani //(tr)// {KOMP} {TIP} สแกน; skanaĵo {KOMP} {TIP} ไฟล์สแกน skanilo {KOMP} {TEK} เครื่องสแกน @12-04-2025 19:52:43@
-skapolo กระดุกสะบัก
-skarabo {ZOO} แมลงปีกแข็ง
-skarlata; skarlato สีแดงสด
-skarlatino ไข้อีดำอีแดง
-skarpo สายโยง, สายคาด
+skapolo {ANA} กระดูกสะบัก, กระดูกไหล่ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Scapula_-_posterior_view2.png/100px-Scapula_-_posterior_view2.png] @13-04-2025 07:08:35@
+skarabo {ZOO} 1. //(komune)// แมลงปีกแข็ง, 2. แมลงปีกแข็งในวงศ์ Scarabaeidae IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Scarabaeus_ambiguus_Boheman%2C_1857_%282964358216%29.jpg/50px-Scarabaeus_ambiguus_Boheman%2C_1857_%282964358216%29.jpg]; cervoskarabo //(komune)// แมงคีม, ด้วงคีม (อยู่ในวงค์ Lucanidae) = lukano IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lucanus_cervus.jpg/50px-Lucanus_cervus.jpg]; foliskarabo //(komune)// ด้วงกินใบไม้ = krizomelo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Scarlet_lily_beetle_lilioceris_lilii.jpg/50px-Scarlet_lily_beetle_lilioceris_lilii.jpg]; grenskarabo //(komune)// ด้วงงวงข้าว = kalandro, kalandrao IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sitophilus_granarius_%28Linn%C3%A9%2C_1758%29.jpg/50px-Sitophilus_granarius_%28Linn%C3%A9%2C_1758%29.jpg]; lignoskarabo แมงทับ (ตัวอ่อนจะอยู่ในไม้และกินไม้นั้น); majskarabo //(komune)// แมงอีนูน = melolonto IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hanneton_commun_%28Melolontha_melolontha%29_%E2%99%80%2C_Parc_de_Woluw%C3%A9%2C_Bruxelles_%2851222810874%29.jpg/50px-Hanneton_commun_%28Melolontha_melolontha%29_%E2%99%80%2C_Parc_de_Woluw%C3%A9%2C_Bruxelles_%2851222810874%29.jpg]; mariskarabo //(komune)// แมลงเต่าทอง = kokcinelo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/BIEDRONA.JPG/50px-BIEDRONA.JPG]; orskarabo //(komune)// ด้วงกุหลาบ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cetonia-aurata.jpg/50px-Cetonia-aurata.jpg]; sterkoskarabo/sterkskarabo/fekskarabo //(komune)// ด้วงมูลสัตว์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Plum_dung_beetle_%28Anachalcos_convexus%29_1_of_4.jpg/50px-Plum_dung_beetle_%28Anachalcos_convexus%29_1_of_4.jpg] @13-04-2025 09:18:06@
+skarlato สีแดงเลือด; skarlata มีสีแดงเลือด @13-04-2025 09:25:39@
+skarlatino {MED} ไข้อีดำอีแดง @13-04-2025 09:26:22@
+skarpo 1. {TEKS} ผ้าพันคอ, 2. {TEKS} สายสะพาย IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Muehlberg_02_dieherrenchargierten.jpg/100px-Muehlberg_02_dieherrenchargierten.jpg], 3. แถบผ้าคล้องคอสำหรับแขวนมือหรือแขนที่บาดเจ็บ
 skeĉo {TEA} ละครเรื่องสั้น ๆ
 skeptiki //(ntr)//, skeptika ขี้สงสัย; skeptikismo วิมตินิยม, กังขาคติ
 skermi //(ntr)// เล่นกีฬาฟันดาบ
@@ -5160,7 +5160,6 @@ asisti //(tr)// ช่วย (อย่างเป็นทางการ); as
 ĉeko {EKON} ใบส่งจ่ายเงิน, เช็ค @01-01-2023-w@
 estuaro {GEOG} ชะวากทะเล @01-01-2023-w@
 vadi //(ntr)// เดินลุย, เดินย้ำไป (น้ำ, โคลน, หิมะ, ทราย) @01-01-2023-w@
-basko {TEKS} ชุดชั้นในยาวตั้งแต่อกถึงเอว @01-01-2023-w@
 purgatorio {KAT} สถานที่วิญญาณรับโทษทัณฑ์ก่อนขึ้นสวรรค์ @01-01-2023-w@
 ĉarlantano 1. คนที่อวดอ้างความพิเศษแต่จริง ๆ ไม่; 2. คาราวานคนขายยา @01-01-2023-w@
 edifi //(tr)// ทำใก้เกิดศรัทธา @01-01-2023-w@
