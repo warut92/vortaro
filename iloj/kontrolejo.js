@@ -1,30 +1,30 @@
-// //[1] preni vortaron de la dosiero th-vortaro.js kile STRING
-// let cxiuj_vortoj_HTML = vortaro;
-// //ŝanĝi  /// al tag <i> kaj aliaj
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '--------------<br>')
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!-- A -->/g, '--------------<br>')
-// // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')
-// // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\>\./g, '')
-// // cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\{\U\L\}/g, '')
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
-// //aldoni etikedon
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
+//[1] preni vortaron de la dosiero th-vortaro.js kile STRING
+let cxiuj_vortoj_HTML = vortaro;
+//ŝanĝi  /// al tag <i> kaj aliaj
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\/\/\((.*?)\)\/\//g, '<i>($1)</i>')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!--.*?-->/g, '--------------<br>')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<!-- A -->/g, '--------------<br>')
+// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/---/g, '')
+// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\>\./g, '')
+// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\{\U\L\}/g, '')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
+//aldoni etikedon
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
 
-// //la etikedo por bildoj
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/IMG:\[(.*?)\]/g, '<img src="$1">')
-// //solvi cimon ĉe IMG
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<i>upload/gm, 'https://upload')
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<\/i>upload/gm, 'https://upload')
+//la etikedo por bildoj
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/IMG:\[(.*?)\]/g, '<img src="$1">')
+//solvi cimon ĉe IMG
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<i>upload/gm, 'https://upload')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<\/i>upload/gm, 'https://upload')
 
-// //konverti al ARRAY
-// let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
+//konverti al ARRAY
+let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
 //por tuta vortaro
-// const tuta_vortaro_senspaceto = disigitaj_vortoj.filter(vorto => vorto !== "")
+const tuta_vortaro_senspaceto = disigitaj_vortoj.filter(vorto => vorto !== "")
 //eligi sur la ekrano
-document.getElementById('tuto').innerHTML = tuta_vortaro_senspaceto.toString().replace(/,(?!\s)/g, "<br>");
+document.getElementById('kontrolejo').innerHTML = tuta_vortaro_senspaceto.toString().replace(/,(?!\s)/g, "<br>");
 
 //krei la veriablon por elektita vorto.
 let elektitaVorto = "";
