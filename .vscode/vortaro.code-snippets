@@ -45,6 +45,12 @@
 		"body": "//(evitinde)//",
 		"description": "evitinde"
 	}, 
+  
+  "komune": {
+		"prefix": "/komune",
+		"body": "//(komune)//",
+		"description": "komune"
+	}, 
 	"aldoni daton kaj timpon": {
     	"prefix": "/t",
 		//@DD-MM-YYYY 00:00:00@
