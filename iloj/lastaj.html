@@ -35,7 +35,6 @@
     <div id="lastaj"></div>
   </body>
   <script  src="../eoth-vortaro.js"></script>
-  <script  src="../skripto.js"></script>
   <scrip>
     <script>
     //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
@@ -66,12 +65,12 @@
     //-w estis la rimarkilo por vortoj redaktitaj antaŭ la reteja renovigo
     rezulto = rezulto.replace(/-w/g, " 00:00:00")
     .replace(/(\d{2})-(\d{2})-(\d{4}) (\d{2}):(\d{2}):(\d{2})/g, "$3$2$1/$4$5$6")
-    console.log(rezulto);
+    // console.log(rezulto);
     //forigi la lastan @
     rezulto = rezulto.replace(/@$/gm, '')
     //forigi ĉion en la formato @(.*?)@, tio estis la datoj de antaŭaj redakt-datoj
     rezulto = rezulto.replace(/ @(.*?)@ /gm, ' ').replace(/ @(.*?)@ /gm, ' ')
-    console.log('REZULTO', rezulto)
+    // console.log('REZULTO', rezulto)
 
     //ARRAY
     //forigi \n kaj konverti al Array
@@ -110,11 +109,18 @@
     //MONTRU LA REDAKTITAJN LINIOJN ALŬ LA TAGO
     //STRING
     document.getElementById("lastaj").innerHTML = re_aranĝita_rezulto;
-    // console.log(re_aranĝita_rezulto);
+    console.log(re_aranĝita_rezulto);
     //STATISTIKO LAŬ LA DATOJ
     //forigi ĉion krom la datoj kaj aranĝi ilin al linioj.
-    let statistiko_dato_str = re_aranĝita_rezulto.replace(/<br><hr>/g,"\n").replace(/.*(?=@\d)/g,"").replace(/\/.*/g,"").replace(/@/g,"🕧")
-    // console.log(statistiko_dato_str);
+    //disigi ĝin al alenioj
+    let statistiko_dato_str = re_aranĝita_rezulto.replace(/<br><hr>/g,"\n")
+    
+    console.log(statistiko_dato_str);
+    //forigi ĉiajn antaŭaĵojn de @
+    statistiko_dato_str = statistiko_dato_str.replace(/.*(?=@\d)/g,"")
+    statistiko_dato_str = statistiko_dato_str.replace(/\/.*/g,"")
+    //ŝanĝi @ al emoĵio horloĝo
+    statistiko_dato_str = statistiko_dato_str.replace(/@/g,"🕧")
 
     const statistiko_dato_ARR = statistiko_dato_str.split("\n")
 
