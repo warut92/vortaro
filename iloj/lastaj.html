@@ -20,7 +20,7 @@
     <span id="statistiko"></span>
     <span id="tuto" style="display: none;"></span>
     <span>⚒️ตรวจสอบแก้ไข <span id="st_lastaj"></span> คำ</span>
-    🌥️ล่าสุดเมื่อ <span id="lasta_dato"></span>
+    🌥️ล่าสุดเมื่อ <span id="lasta_dato"></span><span id="statistiko_lasta_dato"></span>
     <script  src="../eoth-vortaro.js"></script>
     <script  src="../skriptoj/lasta_sxangxo.js"></script>
     <br>
@@ -109,13 +109,13 @@
     //MONTRU LA REDAKTITAJN LINIOJN ALŬ LA TAGO
     //STRING
     document.getElementById("lastaj").innerHTML = re_aranĝita_rezulto;
-    console.log(re_aranĝita_rezulto);
+    // console.log(re_aranĝita_rezulto);
     //STATISTIKO LAŬ LA DATOJ
     //forigi ĉion krom la datoj kaj aranĝi ilin al linioj.
     //disigi ĝin al alenioj
     let statistiko_dato_str = re_aranĝita_rezulto.replace(/<br><hr>/g,"\n")
     
-    console.log(statistiko_dato_str);
+    // console.log(statistiko_dato_str);
     //forigi ĉiajn antaŭaĵojn de @
     statistiko_dato_str = statistiko_dato_str.replace(/.*(?=@\d)/g,"")
     statistiko_dato_str = statistiko_dato_str.replace(/\/.*/g,"")
@@ -136,5 +136,8 @@
     }
     // console.log(statistiko);
     document.getElementById('statistiko_dato').innerHTML = statistiko
+    //prenas la lastan daton
+    const nur_lasta_dato = statistiko.split("<br>")[0]
+    document.getElementById('statistiko_lasta_dato').innerHTML = nur_lasta_dato.replace(/.*=/g, " = ")
   </script>
 </html>

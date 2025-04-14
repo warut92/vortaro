@@ -40,13 +40,14 @@
     function rearrangeWords() {
       const input = document.getElementById("wordInput").value;
       const words = input
+        .replace(/, /g,"/")
         .split("\n")
         .map(word => word.trim())
         .filter(word => word !== "");
-      const result = words.join("; ");
-      console.log(result.split("; ").length);
+      const result = words.join(" ; ");
+      // console.log(result.split("; ").length);
       document.getElementById("vortoj").textContent = result.split("; ").length + " vortoj";
-      document.getElementById("output").textContent = result;
+      document.getElementById("output").textContent = "; " + result;
     }
     function copyResult() {
   const text = document.getElementById("output").textContent;
