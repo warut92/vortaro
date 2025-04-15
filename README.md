@@ -8,7 +8,24 @@ Oni povas kontribui tradukojn, novajn vortojn en la dosiero `eoth-vortaro.js`
 
 ท่านสามารถมีส่วนร่วมกับการเพิ่มคำแปล การเพิ่มคำได้ที่ไฟล์ `eoth-vortaro.js`
 
-[legi protokolon/อ่านบันทึก](./iloj/log.txt)
+[legi protokolon/อ่านบันทึก](./notoj/log.txt)
+
+## Funkcioj (por uzanto)
+1. serĉi Esperantan vorton kun RegEx, ankaŭ nur kapvarojn.
+2. serĉi Tajan vorton kun RegEx, ankaŭ per preciza serĉo.
+3. serĉi per kapvortoj de PIV.
+4. disdoni serĉaĵon per reteja ligilo.
+5. pli-serĉi de la aliaj vortaroj: PIV, ReVo, Vikipedio, se la vorto mankas en la vortaro, aŭ per alklako al la Esperanta vorto sur la ekrano
+6. montri la kavanton de kapvortoj kaj subvortoj, kun la lasta redakt-dato.
+7. hazarda vorto
+8. legi la tuton de la vortaro.
+9. legi nur baza vortlisto laŭ  Bazaj radikoj Esperanto-Esperanto de Wouter F. Pilger kaj Ilustrita Oficiala Radikaro Esperanta por Lernanto (iOREL), kun mia aldono. _(prilaboranta)_
+
+## Funkcioj (por redaktanto)
+- _(aldonontaj)_
+
+## Historieto
+- _(aldonontaj)_
 
 ## Vortarumado
 
@@ -26,11 +43,11 @@ Temas pri poluritaj vortoj venas de kontroli difinojn el ReVo unue, se iaokaze d
 3. หากไม่มีตามข้อ 2 ให้ใช้ประโยคที่มีความกระชับ
 4. บางครั้งมีการใช้คำศัพท์บัญญัติของราชบัณฑิต สำหรับศัพท์คำเฉพาะทาง
 
-### maniero por taja traduko
+### Maniero por taja traduko
 1. uzataj tajaj vortoj
-2. se ne ekzitas, proksim-signifaj vortoj.
+2. se ne ekzitas, uzu proksimajn signifojn.
 3. se ne taŭgas, traduku al mallonga farzo.
-4. iakaze, uzas terminojn de la Reĝa Akademio.
+4. iakaze, uzas terminojn de la Reĝa Akademio Tajlanda.
 
 ## Strukturo de la vortaro
 
@@ -39,7 +56,7 @@ Temas pri poluritaj vortoj venas de kontroli difinojn el ReVo unue, se iaokaze d
 
 `//vorto//` konvertas aŭtomate al `<i>vorto</i>`
 
-aranĝo de la vortoj ĉe eoth-vortaro.js :
+Aranĝo de la vortoj ĉe eoth-vortaro.js :
 
 1. BRE [0] - [9] + privata aldono de iOREL
 2. ETV A - Z de [https://legacy.esperanto.org.uk/eldonoj/etv/](https://legacy.esperanto.org.uk/eldonoj/etv/) **Nun pulorata**
@@ -49,7 +66,7 @@ aranĝo de la vortoj ĉe eoth-vortaro.js :
 
 ~~tajpu `++` je la lasta punkto de la artikolo, post tio malfermi la terminalon ĉe la vojo de la vortaro, kaj ruligi sur la terminalo `python lasta_sxangxo.py` por aldoni la daton kaj precizan tempon aŭtomate.~~
 
-Nun estas la maniero de **snippet** per tajpi `/t` kaj `Enter` la daton kaj tempon aŭtomate aperas. Por la pliaj **snippet**oj, vidu ĉe la dosiero `.vscode/vortaro.code-snippet`
+Nun estas la maniero de **Snippet** per tajpi `/t` kaj `Enter` la daton kaj tempon aŭtomate aperas. Por la pliaj **Snippet**oj, vidu ĉe la dosiero `.vscode/vortaro.code-snippet`
 
 ## Farado-vojoj.
 1. kontrolas ĉiujn vortojn de la ETV.
@@ -57,5 +74,5 @@ Nun estas la maniero de **snippet** per tajpi `/t` kaj `Enter` la daton kaj temp
 3. aldonas de tempo al la tempo novajn vortojn.
 4. prenos ĉiujn tradukojn al ReVo.
 
-## Permesilo
+## Permesilo por kodoj
 MIT
