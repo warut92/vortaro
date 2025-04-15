@@ -110,9 +110,9 @@ img {
 }
 
 fak {
-  vertical-align: super;
-  color: orange;
-  font-size: 10px;
+  /* vertical-align: super; */
+  /* color: orange;
+  font-size: 10px; */
 }
 
 #hazardilo {

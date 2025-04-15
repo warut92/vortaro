@@ -65,13 +65,13 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<\/i>upload/gm, 'https://up
 
 //konverti la fakideksojn kun speciala etikedo
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
+
 //vinjetoj
-// cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\{KEM\}/g, 'Ⓚ')
 // console.log(fakindeksoj_ARR_2);
-// fakindeksoj_ARR_2.forEach(([name, emoji]) => {
-//   const regex = new RegExp(`${name}`, 'gm');
-//   cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(regex, emoji);
-// });
+fakindeksoj_ARR.forEach(([name, emoji, signifo]) => {
+  const regex = new RegExp(`${name}`, 'gm');
+  cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(regex,"<abbr title=\"" + signifo + "\">" + emoji + "</abbr>");
+});
 
 //konverti al ARRAY
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
