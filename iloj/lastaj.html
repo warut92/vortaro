@@ -115,14 +115,19 @@
     //disigi ĝin al alenioj
     let statistiko_dato_str = re_aranĝita_rezulto.replace(/<br><hr>/g,"\n")
     
-    // console.log(statistiko_dato_str);
+    //serĉas malĝustan formon, se estas :)
+    const regex = / $/gm;
+    if (regex.test(statistiko_dato_str)) {
+      alert('estas "@ "');
+    }
+
     //forigi ĉiajn antaŭaĵojn de @
     statistiko_dato_str = statistiko_dato_str.replace(/.*(?=@\d)/g,"")
     statistiko_dato_str = statistiko_dato_str.replace(/\/.*/g,"")
     //ŝanĝi @ al emoĵio horloĝo
     statistiko_dato_str = statistiko_dato_str.replace(/@/g,"🕧")
 
-    const statistiko_dato_ARR = statistiko_dato_str.split("\n")
+    const statistiko_dato_ARR = statistiko_dato_str.trim().split("\n")
 
     const fojo = {};
 
