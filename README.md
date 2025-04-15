@@ -11,15 +11,16 @@ Oni povas kontribui tradukojn, novajn vortojn en la dosiero `eoth-vortaro.js`
 [legi protokolon/อ่านบันทึก](./notoj/log.txt)
 
 ## Funkcioj (por uzanto)
-1. serĉi Esperantan vorton kun RegEx, ankaŭ nur kapvarojn.
-2. serĉi Tajan vorton kun RegEx, ankaŭ per preciza serĉo.
+1. serĉi Esperantan vorton, ankaŭ nur kapvarojn, kaj per `RegEx`.
+2. serĉi Tajan vorton, ankaŭ per preciza serĉo, kaj per `RegEx`. _(provizora)_
 3. serĉi per kapvortoj de PIV.
 4. disdoni serĉaĵon per reteja ligilo.
-5. pli-serĉi de la aliaj vortaroj: PIV, ReVo, Vikipedio, se la vorto mankas en la vortaro, aŭ per alklako al la Esperanta vorto sur la ekrano
+5. plu serĉi de la aliaj vortaroj: PIV, ReVo, Vikipedio, _se la vorto mankas en la vortaro_, aŭ per alklako al la Esperanta vorto sur la ekrano
 6. montri la kavanton de kapvortoj kaj subvortoj, kun la lasta redakt-dato.
-7. hazarda vorto
+7. hazarda vorto.
 8. legi la tuton de la vortaro.
 9. legi nur baza vortlisto laŭ  Bazaj radikoj Esperanto-Esperanto de Wouter F. Pilger kaj Ilustrita Oficiala Radikaro Esperanta por Lernanto (iOREL), kun mia aldono. _(prilaboranta)_
+10. legi la lastajn redaktitajn vortojn ordigitajn laŭ la tago, kun redakto-kvanto.
 
 ## Funkcioj (por redaktanto)
 - _(aldonontaj)_
