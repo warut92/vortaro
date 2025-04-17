@@ -2960,7 +2960,7 @@ bajoneto {MIL} ดาบปลายปืน @09-11-2024 16:57:12@
 bajto {KOMP} ไบต์ (หน่วยเก็บข้อมูลในคอมพิวเตอร์ 1 ไบต์เท่ากับ 8 บิต) @09-11-2024 16:57:12@
 bakalaŭro {PED} ผู้ได้รับปริญญาตรี @09-11-2024 16:57:12@
 balado {POE} บัลลาด (โคลงชนิดหนึ่ง) @09-11-2024 16:57:12@
-balanciero //(PIV)// {TEK} {MAR} ล้อสมดุล[?] @09-11-2024 16:57:12@
+balanciero //(PIV)// 1. {TEK} กงจักรสมดุลนาฬิกา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Floating_Balance_Escapement.gif/100px-Floating_Balance_Escapement.gif], {MAR} ไม้คานทรงตัวเรือ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Piroge.jpg/100px-Piroge.jpg] @09-11-2024 16:57:12@ @16-04-2025 20:31:33@
 balano {ZOO} เพรียงทะเล @09-11-2024 17:15:24@
 balano {ANA} ส่วนหัวอวัยะเพศชาย @09-11-2024 17:15:24@
 balasto อับเฉา (วัสดุใช้ถ่วงท้องเรือเพื่อไม่ให้เรือโคลง), หินทางรถไฟ, //(f)// สิ่งที่ไม่จำเป็น; balasta //(f)// สิ่งที่ไม่จำเป็น: //laste sed ne balaste สุดท้ายแต่ไม่ท้ายสุด// @09-11-2024 17:15:24@
