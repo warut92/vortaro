@@ -45,11 +45,15 @@
 		"body": "//(evitinde)//",
 		"description": "evitinde"
 	}, 
-  
   "komune": {
 		"prefix": "/komune",
 		"body": "//(komune)//",
 		"description": "komune"
+	},
+  "arkaismo": {
+		"prefix": "/arkaismo",
+		"body": "//(akr)//",
+		"description": "arkaismo"
 	}, 
 	"aldoni daton kaj timpon": {
     	"prefix": "/t",
