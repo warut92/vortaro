@@ -4602,19 +4602,19 @@ sukuri //(tr)// {MED} ปฐมพยาบาลเบื้องต้น; su
 ; sukurado ; sukurejo ; sukuristo/sukuranto
 sulfuro {KEM} //(ธาตุ)// กำมะถัน (S); sulfura acido กรดกำมะถัน @11-04-2024 21:36:28@
 superba น่าทึ่ง, น่าประทับใจ, ยอดเยี่ยม @16-04-2025 19:05:56@
-superlativo {GRA} การแสดงการเปรียบเทียบขั้นสุด @16-04-2025 19:07:29@
-supermarkto ห้างสรรพสินค้า, ซุปเปอร์มาร์เก็ต = superbazaro @16-04-2025 19:08:49@
-superstiĉo ความเชื่อโชคลาง: homo superstĉa คนเชื่อโชคเชื่อลาง
-surfo คลื่นซัดฝั่ง; surfi เล่นกระดานโต้คลื่น
-suro น่อง
-surogato สิ่งทดแทน
-suspendi //(tr)// ให้หยุดพัก
-suŝio {KUI} ชูชิ (อาหารญี่ปุ่น)
-sutro {REL} พระสูตร
-suturo {MED} เย็บแผล
-svahila (lingvo), la ภาษาสวาฮีลี
-svelta หุ่นเช้ง, อ้อนแอ้น, เอวบางร่างน้อย, บอบบาง: svelta talio เอวบาง
-svetero เสื้อกันหนาว
+superlativo {GRA} การแสดงการเปรียบเทียบขั้นสุด; absoluta superlativo {GRA}  การเปรียบเทียบขั้นสุด; relativa superlativo {GRA}  การเปรียบเทียบในกลุ่มที่เกี่ยวข้อง @16-04-2025 19:07:29@ @17-04-2025 12:56:20@
+supermarkto ห้างสรรพสินค้า, ซุปเปอร์มาร์เก็ต = ĉiovendejo @16-04-2025 19:08:49@ @17-04-2025 12:56:28@
+superstiĉo ความเชื่อโชคลาง, ความเชื่อไสยศาสตร์; superstiĉa มีโชค; superstiĉulo คนเชื่อโชคเชื่อลางหรือไสยศาสตร์ @17-04-2025 13:01:18@
+surfo {MAR} คลื่นซัดฝั่ง; surfi //(ntr)// 1. {SPO} เล่นกระดานโต้คลื่น, 2. {KOMP} ค้นหา(ในอินเตอร์เน็ต) @17-04-2025 13:20:00@
+suro {ANA} น่อง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gastrocnemius.png/100px-Gastrocnemius.png] @17-04-2025 13:21:40@
+surogato สิ่งทดแทน; surogata ทดแทน; surogati //(tr)// ใช้เป็นสิ่งทดแทน @17-04-2025 13:23:33@
+suspendi //(tr)// {JUR} ให้หยุดชั่วคราว, ระงับ; suspendo การส่งหยุดชั่วคราว, การระงับ @17-04-2025 13:27:11@
+suŝio {KUI} ซูชิ (อาหารญี่ปุ่น); suŝiejo ร้านซูชิ @17-04-2025 13:28:09@
+sutro {BUD} พระสูตร @17-04-2025 13:30:56@
+suturo {MED} เย็บแผล @17-04-2025 13:31:00@
+svahila ภาษาสวาฮีลี @17-04-2025 13:33:44@
+svelta เอวบางร่างน้อย, สเลนเดอร์; malsvelta อ้วน, รูปร่างไม่ดี @17-04-2025 13:36:02@
+svetero {TEKS} เสื้อกันหนาว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sweat01.jpg/100px-Sweat01.jpg] >> pulovero @17-04-2025 13:40:54@
 <!-- Ŝ -->
 ŝablono {TEK} {KOMP} แม่แบบ, แบบ @24-03-2024 15:15:35@
 ŝafto {TEK} เพลา; kamŝafto {AUT} เพลาลูกเบี้ยว; krankoŝafto {AUT} เพลาข้อเหวี่ยง @24-03-2024 15:15:35@
