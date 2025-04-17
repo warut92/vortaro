@@ -18,6 +18,7 @@
     <small id="lasta_dato"></small>
     <script  src="./eoth-vortaro.js"></script>
     <script  src="./skriptoj/lasta_sxangxo.js"></script>
+    <script  src="./skriptoj/vinjetoj.js"></script>
   </center>
   <br>
 <hr>
@@ -164,32 +165,22 @@
 <a href="https://github.com/warut92/vortaro" target="_blank" rel="noopener noreferrer" class="github" title="github"><svg width="32" viewBox="0 0 16 16" version="1.1" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg></a>
 </center>
 <script type="text/javascript">
-//kreu la suprajn tekstojn al tabela formo.
-function convertTable() {
-//prenas tekston
-let inputText = document.getElementById("txtinput").innerHTML;
+//prenas tekston de vinjetoj.js
+const fakindeksoj_ARR_streko = fakindeksoj.split("\n").map(part => part.trim());
 
-//disigi tekston per \n
-let newLineArr = inputText.split(/\n/g);
-
-//trovi la numbron de
-let newLineArrLen = newLineArr.length;
-
-//fari la varion
 let HTMLTableOutput = "";
 
 //aldoni html-tag al ĉiuj teksteron
-for (let i = 0; i < newLineArrLen; i++) {
-  HTMLTableOutput += "<tr><td>" + newLineArr[i] + "</td></tr>" + "\n";
+for (let i = 0; i < fakindeksoj_ARR_streko.length; i++) {
+  HTMLTableOutput += "<tr><td>" + fakindeksoj_ARR_streko[i] + "</td></tr>" + "\n";
   // console.log('HTMLTABLEOUTPUT', HTMLTableOutput)
 }
 
-//ŝanĝi spaceton per </td><td>
-HTMLTableOutput = HTMLTableOutput.replace(/\t/g, "</td><td>");
+//ŝanĝi aĵojn per </td><td>
+HTMLTableOutput = HTMLTableOutput.replace(/-/g, "</td><td>").replace(/,,/g, ", ")
 //elgi al la ekrano
 document.getElementById("output").innerHTML = "<table style=&#34width:100%&#34>\n" + HTMLTableOutput + "</table>"
-}
-convertTable()
+
 </script>
 
 </body>

@@ -6,7 +6,7 @@ let fakindeksoj =`{AGR}-🚜-agrokulturo-เกษตรกรรม
 {AVI}-🛩️-aviado-การบิน
 {BAK}-🦠-bakteriologio, virusologio-แบคทีเรียวิทยา, ไวรัสวิทยา
 {BELA}-🎨-belartoj-วิจิตรศิลป์
-{BELE}-🗞️-beletro-วรรณวิจิตร
+{BELE}-📚-beletro-วรรณวิจิตร
 {BIB}-📖-biblio-พระคริสต์ธรรมคำภีร์
 {BIO}-🔬-biologio, biontologio-ชีววิทยา
 {BOT}-🌳-botaniko-พฤกษศาสตร์
@@ -75,10 +75,10 @@ let fakindeksoj =`{AGR}-🚜-agrokulturo-เกษตรกรรม
 {TEKS}-🧣-teksindustrio, vestoj-เสื้อผ้า
 {TEL}-📞-telekomunikoj-การสื่อสาร
 {TRA}-🚦-trafiko-การจราจร
-{ZOO}-🦭-zoologio-สัตววิทยา
+{ZOO}-🦁-zoologio-สัตววิทยา
 {THA}-🇹🇭-tajlandaj aferoj-คำศัพท์ที่เกี่ยวกับประเทศไทย`
 
 const fakindeksoj_ARR = fakindeksoj.split("\n").map(line => line.split('-').map(part => part.trim()));
 
 const fakindeksoj_ARR_2 = fakindeksoj_ARR.map(item => [item[0], item[1]]);
-console.log(fakindeksoj_ARR_2);
+// console.log(fakindeksoj_ARR_2);
