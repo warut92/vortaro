@@ -1,33 +1,34 @@
-Komenclitero: '>' appears 1 times.
-Komenclitero: '`' appears 1 times.
-Komenclitero: '-' appears 48 times.
-Komenclitero: '<' appears 57 times.
-Komenclitero: 'ŭ' appears 2 times.
-Komenclitero: 'ĥ' appears 7 times.
-Komenclitero: 'z' appears 19 times.
-Komenclitero: 'ĵ' appears 22 times.
-Komenclitero: 'ĝ' appears 25 times.
-Komenclitero: 'u' appears 33 times.
-Komenclitero: 'j' appears 44 times.
-Komenclitero: 'ĉ' appears 60 times.
-Komenclitero: 'c' appears 64 times.
-Komenclitero: 'ŝ' appears 81 times.
-Komenclitero: 'o' appears 111 times.//
-Komenclitero: 'n' appears 116 times.//
-Komenclitero: 'h' appears 130 times.//
-Komenclitero: 'g' appears 148 times.//
-Komenclitero: 'i' appears 156 times.//
-Komenclitero: 'l' appears 171 times.// 240727
-Komenclitero: 'v' appears 182 times. // 240729
-Komenclitero: 'e' appears 200 times. // 240825
-Komenclitero: 'r' appears 216 times. // 240928
-Komenclitero: 'd' appears 251 times. // 241013
-Komenclitero: 'f' appears 261 times. 8 // 241103
-Komenclitero: 'b' appears 268 times. 7 // 241201
-Komenclitero: 'm' appears 300 times. 6 // 250119
-Komenclitero: 't' appears 310 times. 5 // 250227
-Komenclitero: 'a' appears 459 times. 4 // 250325
-Komenclitero: 'p' appears 492 times. 3 158 // 250405
-Komenclitero: 's' appears 522 times. 2 259
-Komenclitero: 'k' appears 626 times. 1 243
+Komenclitero: '>' => 1 linioj.
+Komenclitero: '`' => 1 linioj.
+Komenclitero: '-' => 48 linioj.
+Komenclitero: '<' => 57 linioj.
+Komenclitero: 'ŭ' => 2 linioj.
+Komenclitero: 'ĥ' => 7 linioj.
+Komenclitero: 'z' => 19 linioj.
+Komenclitero: 'ĵ' => 22 linioj.
+Komenclitero: 'ĝ' => 25 linioj.
+Komenclitero: 'u' => 33 linioj.
+Komenclitero: 'j' => 44 linioj.
+Komenclitero: 'ĉ' => 60 linioj.
+Komenclitero: 'c' => 64 linioj.
+Komenclitero: 'ŝ' => 81 linioj.
+Komenclitero: 'o' => 111 linioj.//
+Komenclitero: 'n' => 116 linioj.//
+Komenclitero: 'h' => 130 linioj.//
+Komenclitero: 'g' => 148 linioj.//
+Komenclitero: 'i' => 156 linioj.//
+Komenclitero: 'l' => 171 linioj.// 240727
+Komenclitero: 'v' => 182 linioj. // 240729
+Komenclitero: 'e' => 200 linioj. // 240825
+Komenclitero: 'r' => 216 linioj. // 240928
+Komenclitero: 'd' => 251 linioj. // 241013
+Komenclitero: 'f' => 261 linioj. 8 // 241103
+Komenclitero: 'b' => 268 linioj. 7 // 241201
+Komenclitero: 'm' => 300 linioj. 6 // 250119
+Komenclitero: 't' => 310 linioj. 5 // 250227
+Komenclitero: 'a' => 459 linioj. 4 // 250325
+Komenclitero: 'p' => 492 linioj. 3 158 // 250405
+Komenclitero: 's' => 522 linioj. 2 259 // 20250417
+Komenclitero: 'k' => 626 linioj. 1 243
 Total number of lines: 5388
+// mi intencas kontroli ĉiujn vortojn dum 3 jaroj. La unua jaro estas 2025 (20250418)

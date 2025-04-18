@@ -3648,18 +3648,18 @@ kalio {KEM} //(ธาตุ)// โพแทสเซียม (K) @11-04-2024 21
 kalko 1. ปูนขาว, 2. ปูนขาวสำหรับทาผนัง; kalki //(tr)// {KON} ทากำแพงให้เป็นสีขาว (โดยการใช้น้ำปูนขาวสำหรับทาผนังหรือกำแพง); kalkaĵo ปูนขาวสำหรับทาผนัง; kalkumi {AGR} โรยปูนขาว; kalkargilo {MIN} ดินสอพอง = marno; kalkoŝtono {MIN} หินปูน; kalko kaŭstika ปูนขาว, แคลเซียมออกไซด์ (CaO) = kalcioksido; kalko estingita น้ำปูนใส, แคลเซียมไฮดรอกไซด์ (Ca(OH)<sub>2</sub>) @18-04-2025 16:40:58@
 kalo {MED} ตาปลา, ผิวหน้งแข็งด้าน; kala เป็นตาปลา @18-04-2025 16:53:05@
 kalva 1. หัวล้าน, 2. //(f)// ไร้ต้นไม้พืชผล; kalvaĵo บริเวณหัวที่ล้าน; kalvulo คนหัวล้าน @18-04-2025 16:57:04@
-kambio {EKON} ตั๋วสัญญาใช้เงิน
-kamo {TEK} ลูกเบี้ยว; kamŝafto เพลาลูกเบี้ยว
-kamomilo ดอกคาโมไมล์
-kanabo กัญชา
-kanajlo คนเกเร; kanajli //(ntr)// เกเร, เกกมะเหรกเกเร
-kando น้ำเชื่อม >> siropo, kandi //(tr)// เชื่อม: kanda banano กล้วยเชื่อม
-kanelo ร่อง
-kanibalo มนุษย์กินคน
-kano (ต้น)อ้อ, (ต้น)กก, ไม้ไผ่, หวาย, อ้อย, ไม้ตะพด, ไม้เรียว; sukerkano ต้นอ้อย
-kanono ปืนใหญ่ >> pafilego
-kanoto เรือสำราญเปิดไว้
-kantalupo แคนตาลูป
+kambio {EKON} ตั๋วสัญญาใช้เงิน @18-04-2025 17:38:44@
+kamo //(PIV)// {TEK} ลูกเบี้ยว >> kamŝafto @18-04-2025 17:44:18@
+kamomilo {BOT} ดอกคาโมมายล์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Matricaria_February_2008-1.jpg/100px-Matricaria_February_2008-1.jpg] @18-04-2025 17:49:28@
+kanabo {BOT} กัญชา @18-04-2025 17:51:30@
+kanajlo คนเลว, คนชั่ว, คนพาล, คนที่น่านับถือ; kanajla เลว, ชั่ว, ไมน่านับถือ; kanajlaĵo การกระทำเลว, สิ่งเลว, สิ่งชั่ว ๆ; kanajlaro การกระทำชั่ว ๆ เลว ๆ; kanajlego = protokanajlo; kanajli //(ntr)// ทำเลว, ทำเรื่องชั่ว, ทำสิ่งที่ไม่ให้เกียรติ @18-04-2025 17:57:28@
+kando {KUI} น้ำตาลกรวด; kandi //(tr)// เคลือบน้ำตาล, เชื่อมน้ำตาล @18-04-2025 18:03:28@
+kanelo 1. {BELA} {ARKI} ร่อง, 2. {TEK} ร่อง (ในอุปกรณ์ต่าง ๆ, {MIL} ปืน, {MUZ} แผ่นเสียง); kaneli //(tr)// ทำให้เกิดร่อง @18-04-2025 18:10:37@
+kanibalo 1. {EKOL} สัตว์ที่กินสายพันธุ์เดียวกับ, 2. //(komune)// มนุษย์กินคน = hommanĝulo; kanibalismo {EKOL} การกินพวกเดียวกันเอง @18-04-2025 18:13:45@
+kano 1. {BOT} ต้นอ้อ, 2. ก้านต้นอ้อ (นำมาใช้เป็นอุปกรณ์ต่าง ๆ); sukerkano {BOT} ต้นอ้อย @18-04-2025 18:17:38@
+kanono {MIL} ปืนใหญ่ >> pafilego; kanoni //(tr)// {MIL} ยิงปีนใหญ่; kanonisto {MIL} ทหารปืนใหญ่; akvokanono ปืนฉีดน้ำแรงดันสูง = akvoĵetilo @18-04-2025 18:21:37@
+kanoto {SHI} //(PIV)// เรือพายสำหรับพายพักผ่อนหย่อนใจ, //(ReVo)// เรือสำหรับแข่งด้วยการพายหรือใช้ใบ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Norwegian_pram.jpg/100px-Norwegian_pram.jpg] >> kanuo @18-04-2025 18:30:39@
+kantalupo //(PIV)// {BOT} แคนตาลูป IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Canteloupe_and_cross_section.jpg/100px-Canteloupe_and_cross_section.jpg] @18-04-2025 18:32:57@
 kantino โรงอาหาร
 Kantono กวางตุ้ง = Gŭan(g)dongo, kantonano ชาวกวางตุ้ง: la kantona (lingvo) ภาษากวางตุ้ง
 kanuo เรือแคนู
@@ -4617,7 +4617,7 @@ svelta เอวบางร่างน้อย, สเลนเดอร์; 
 svetero {TEKS} เสื้อสเวตเตอร์, เสื้อกันหนาว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sweat01.jpg/100px-Sweat01.jpg] >> pulovero @17-04-2025 13:40:54@
 <!-- Ŝ -->
 ŝablono {TEK} {KOMP} แม่แบบ, แบบ @24-03-2024 15:15:35@
-ŝafto {TEK} เพลา; kamŝafto {AUT} เพลาลูกเบี้ยว; krankoŝafto {AUT} เพลาข้อเหวี่ยง @24-03-2024 15:15:35@
+ŝafto {TEK} เพลา; kamŝafto {AUT} เพลาลูกเบี้ยว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Nockenwelle_ani.gif/100px-Nockenwelle_ani.gif]; krankoŝafto {AUT} เพลาข้อเหวี่ยง @24-03-2024 15:15:35@
 ŝako {SPO} หมากรุก: //internacia ŝako หมากรุกสากล//; ŝak!/ŝakon! //(int)// รุกฆาต!; ŝakludo {SPO} การเล่นหมากรุก; ŝakpeco ตัวหมากรุก, ŝaktabulo กระดานหมากรุก; ŝakumita ที่มีลายตาหมากรุก @24-03-2024 15:15:35@
 ŝakri {EKON} //(tr)// ลักลอบค้า, ขายสิ่งผิดกฏหมาย @24-03-2024 18:11:50@
 ŝakto {TEK} {KON} ปล่อง, ท่อ (ส่งของ, คน); ŝtuparŝakto {ARKI} ปล่องบันได @24-03-2024 18:11:50@
