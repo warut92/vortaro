@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <input type="text" oninput="search(this.value)"><br>
+    <span id="eligo"></span>
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"></script> 
+    <script src="../eoth-vortaro.js"></script>
+    <script>
+        // console.log(vortaro);
+        vortaro = vortaro.replace(/\n/g,";")
+        const VORTARO_ARR = vortaro.split(";")
+        const options = {
+            includeScore: false
+        }
+
+        const fuse = new Fuse(VORTARO_ARR, options)
+        function search(v) {
+            const result = fuse.search(v)
+    
+            document.getElementById('eligo').innerHTML = JSON.stringify(result).replace(/\},\{/g,"<br>")
+
+        }
+    </script>   
+</body>
+</html>
