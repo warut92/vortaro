@@ -13,7 +13,7 @@
     <script  src="../lasta_sxangxo.js"></script>
     <a href="pri.html"><pre id="statistiko"></pre></a>
     <h3>พจนานุกรมเอสเปรันโต-ไทย</h3>
-    <a href="../pri.html">🏠 หน้าหลัก</a>
+    <a href="../pri.html">🏠 หน้าหลัก</a> <a href="../index.html" target="_blank">🔎 ค้นหา</a>
     <h3>การเปลี่ยนแปลงล่าสุด</h3>
     <!-- <button onclick="redaktejoTipo(0)">คำแก้ไข</button>
     <button onclick="redaktejoTipo(1)">คำเพิ่มใหม่</button> -->
@@ -137,12 +137,12 @@
 
     let statistiko = ""
     for (const date in fojo) {
-      statistiko += `${date} = ${fojo[date]} คำหลัก<br>`;
+      statistiko += `${date} = <progress style="height:20px;width:10%" value="${fojo[date]}" max="40" title="${fojo[date]}"></progress> ${fojo[date]} คำหลัก<br>`;
     }
-    // console.log(statistiko);
+    console.log(statistiko);
     document.getElementById('statistiko_dato').innerHTML = statistiko
     //prenas la lastan daton
     const nur_lasta_dato = statistiko.split("<br>")[0]
-    document.getElementById('statistiko_lasta_dato').innerHTML = nur_lasta_dato.replace(/.*=/g, " = ")
+    document.getElementById('statistiko_lasta_dato').innerHTML = nur_lasta_dato.replace(/🕧\d{8}/g, "")
   </script>
 </html>
