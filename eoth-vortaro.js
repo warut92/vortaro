@@ -3694,11 +3694,11 @@ karmezino สีแดงเข้ม; karmezina สีแดงเข้ม @20
 karmo {BUD} {REL} กรรม @20-04-2025 11:16:54@
 kartilago {ANA} กระดูกอ่อน @20-04-2025 11:17:54@
 kartoĉo 1. {MIL} {SPO} กระสุนปืน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/VariousCasings.jpg/100px-VariousCasings.jpg] >> kuglo, 2. ภาชนะใบเล็กสำหรับใส่น้ำมัน[?]; kartoĉego {MIL} ลูกกระสุนปืนใหญ่ @20-04-2025 11:21:47@
-kasacii {JUR} //(tr)// ทำให้เป็นโมฆะ
-kasavo มันสำปะหลัง
-kasedo ตลับเทป, เทปคาสเซ็ท; vidbenda kasedo เทปวีดีโอ
-kasko หมวกกันน็อค
-kastri //(tr)// ทำหมัน, ตอน
+kasacii {JUR} //(tr)// ทำให้เป็นโมฆะ; kasacio การทำให้เป็นโมฆะ @20-04-2025 14:40:51@
+kasavo 1. {KUI} แป้งมันสำปะหลัง, 2. {KUI} แพนเค้กทำจากแป้งมันสำปะหลัง @20-04-2025 14:42:52@
+kasedo {TEK} {FOT} {KOMP} เทปคาสเซ็ท, ตลับเทป; kasedilo {MUZ} {TEK} เครื่องเล่นเทป; kasedujo ที่เก็บเทป; kasedo kun turnebla ŝovkovrilo {FOT} [?]; almetkasedo {FOT} [?]; duobla kasedo {FOT} [?]; filmkasedo/vidkasedo/videokasedo เทปวีดีโอ; filmpakkasedo {FOT} [?]; kartoĉfilma kasedo {FOT} [?]; poŝkasedilo {MUZ} {TEK} ซาวด์อะเบาท์; ŝanĝkasedo {FOT} [?] @20-04-2025 14:55:23@
+kasko {MIL} หมวกกันน็อค @20-04-2025 14:57:58@
+kastri //(tr)// ทำหมัน, ตอน; kastrito ผู้ที่เป็นหมัน @20-04-2025 15:00:13@
 katastrofo ภัยพิบัติ, โศกนาฏกรรม; katastrofismo {SCI} ทฤษฎีมหาวิบัติ; naturkatastrofo ภัยพิบัติทางธรรมชาติ @21-03-2024 17:26:42@
 katedralo โบสถ์ใหญ่
 katedro เก้าอี้ตำแหน่งศาสตราจารย์หรือพระบิชอป
