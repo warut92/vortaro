@@ -3712,13 +3712,15 @@ kebabo {KUI} เคบับ IMG:[https://upload.wikimedia.org/wikipedia/commons
 keĉupo/keĉapo {KUI} ซอสมะเขือเทศ @21-04-2025 17:28:37@
 keglo พินโบว์ลิ่ง; keglaro อุปกรณ์ทั่งหมดสำหรับการเล่นโบว์ลิ่ง; kelgoludo {SPO} โบว์ลิ่ง @21-04-2025 17:30:55@
 kekso {KUI} ขนมปังกรอบ, แคร็กเกอร์[?] @21-04-2025 17:33:27@
-kelonio {ZOO} เต่าตนุ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Turtle_project_Bentota_C.jpg/100px-Turtle_project_Bentota_C.jpg] @19-06-2024 09:44:34@ @21-04-2025 17:36:37@
-kepo หมวกผ้าไม่มีปีก
-kermeso สวนสนุก; templa kermeso งานวัด
-keroseno น้ำมันก๊าช = lampoleo
-kibernetiko ไซเบอร์เนติกส์
-kiki = ŝoti แตะลูกฟุตบอล
-kilo กิโล
+ĥelonio/kelonio //(PIV)// {ZOO} เต่าตนุ = verda martestudo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Turtle_project_Bentota_C.jpg/100px-Turtle_project_Bentota_C.jpg] @19-06-2024 09:44:34@ @21-04-2025 17:36:37@
+kepo หมวกทหารทรงกระบอก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kepi_mg_3387.jpg/100px-Kepi_mg_3387.jpg] @21-04-2025 18:02:30@
+kermeso งานวัดประจำปี @21-04-2025 18:09:15@
+keroseno {KEM} น้ำมันก๊าด @21-04-2025 18:50:48@
+kibernetiko/cibernetiko {SCI} ไซเบอร์เนติกส์; kibernetikisto ผู้เชี่ยวชาญด้านไซเบอร์เนติกส์ @21-04-2025 18:53:07@
+kiki //(PIV)// แตะ(ลูกฟุตบอล) = ŝoti @21-04-2025 18:55:29@
+ŝoti แตะ(ลูกฟุตบอล) = kiki @21-04-2025 18:55:25@
+kilo {SHI} กระดูกงู(เรือ) 
+kilo //(evitinde)// //(komune)// กิโลกรัม = kiloo @21-04-2025 18:58:47@
 kimro ชาวเวลส์
 kinino ยาควินิน
 kirko {REL} โบสถ์คริสต์ >> preĝejo
@@ -5565,5 +5567,6 @@ kaŭstika 1. {KEM} {MED} ทำให้ไหม้, กัดกร่อน, 
 korsaro 1. {MAR} โจรสลัดของเรือปล้นสะเบียง, 2. {MAR} เรือปล้นสะเบียง @19-04-2025 12:27:55@
 dioksido {KEM} ไดออกไซด์ = duoksido;  karbondioksido/karbona dioksido/karbona duoksido {KEM} คาร์บอนไดออกไซด์ (CO<sub>2</sub>) @20-04-2025 09:23:49@
 korolo {BOT} วงกลีบดอก; korola folio กลีบดอก = petalo @20-04-2025 10:26:50@
+konsekri //(tr)// {REL} 1. อุทิศตนให้, บวช, ราชาภิเษก, 2. ถวาย @21-04-2025 18:07:49@
 >.
 `
