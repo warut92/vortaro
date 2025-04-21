@@ -3706,14 +3706,13 @@ katolika 1. {KRI} ศาสนจักร, 2. {KAT} {POL} โรมันคา
 katuno {TEKS} ผ้าฝ้าย, ผ้าคอตตอน @21-04-2025 08:01:03@
 kaviaro {KUI} ไข่ปลาคาร์เวียร์ @21-04-2025 08:14:31@
 kazeo {KUI} นมเนื้อข้นครีม; kazeigi ทำให้เป็นนมเนื้อข้นครีม; kazeiĝi กลายเป็นนมเนื้อข้นครีม; kazeigaĵo สารที่เอาไว้ใช้ในการหมัก; sojkazeo เต้าหู้ @16-02-2025 10:20:54@ @21-04-2025 08:21:53@
-kazerno ค่ายทหาร, โรงนอนขนาดใหญ่
-kazino บ่อนคาสิโน
-KD ย่อมาจาก kompakta disko ซีดี **
-kebabo เคบับ
-keĉapo/keĉupo ซอสมะเขือเทศ
-keglo พินโบว์ลิ่ง; kelgoludo {SPO} โบว์ลิ่ง >> (rul)globludo
-kekso ขนมปังกรอบ, ขนมอบกรอบ
-kelonio {ZOO} เต่าตนุ @19-06-2024 09:44:34@
+kazerno {MIL} ค่ายทหาร @21-04-2025 17:23:33@
+kazino 1. {SPO} {EKON} บ่อนคาสิโน, 2. บ่อน @21-04-2025 17:25:04@
+kebabo {KUI} เคบับ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/D%C3%B6ner_kebab_slicing.jpg/100px-D%C3%B6ner_kebab_slicing.jpg]; kebabejo {KUI} ร้านเคบับ @21-04-2025 17:27:55@
+keĉupo/keĉapo {KUI} ซอสมะเขือเทศ @21-04-2025 17:28:37@
+keglo พินโบว์ลิ่ง; keglaro อุปกรณ์ทั่งหมดสำหรับการเล่นโบว์ลิ่ง; kelgoludo {SPO} โบว์ลิ่ง @21-04-2025 17:30:55@
+kekso {KUI} ขนมปังกรอบ, แคร็กเกอร์[?] @21-04-2025 17:33:27@
+kelonio {ZOO} เต่าตนุ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Turtle_project_Bentota_C.jpg/100px-Turtle_project_Bentota_C.jpg] @19-06-2024 09:44:34@ @21-04-2025 17:36:37@
 kepo หมวกผ้าไม่มีปีก
 kermeso สวนสนุก; templa kermeso งานวัด
 keroseno น้ำมันก๊าช = lampoleo
