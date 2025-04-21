@@ -3719,9 +3719,9 @@ keroseno {KEM} น้ำมันก๊าด @21-04-2025 18:50:48@
 kibernetiko/cibernetiko {SCI} ไซเบอร์เนติกส์; kibernetikisto ผู้เชี่ยวชาญด้านไซเบอร์เนติกส์ @21-04-2025 18:53:07@
 kiki //(PIV)// แตะ(ลูกฟุตบอล) = ŝoti @21-04-2025 18:55:29@
 ŝoti แตะ(ลูกฟุตบอล) = kiki @21-04-2025 18:55:25@
-kilo {SHI} กระดูกงู(เรือ) 
+kilo {SHI} กระดูกงู(เรือ) @21-04-2025 19:10:47@
 kilo //(evitinde)// //(komune)// กิโลกรัม = kiloo @21-04-2025 18:58:47@
-kimro ชาวเวลส์
+kimro ชาวเวลส์; kimra เกี่ยวกับเวลส์; Kimrujo {GEOG} เวลส์; Nova Sud-Kimrujo/Novsudkimrujo รัฐนิวเซาท์เวลส์ (ประเทศออสเตรเลีย) = Novsudkimrio @21-04-2025 19:12:57@
 kinino ยาควินิน
 kirko {REL} โบสถ์คริสต์ >> preĝejo
 kirli //(tr)// คน, กวน; kirlo กระแสวน; kirlilo {KUI} ที่ตีไข่, เครื่องตีไข่; akvokirlo น้ำวน @21-03-2024 17:26:42@
@@ -4599,8 +4599,7 @@ sufikso {GRA} //(komune)// หน่วยคำเติมหลัง >> pref
 sukceno อำพัน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Spider_in_amber_%281%29.jpg/100px-Spider_in_amber_%281%29.jpg] @16-04-2025 15:43:56@
 sukijako {KUI} สุกียากี้ @16-04-2025 15:44:10@
 Sukotajo {THA} กรุงสุโขทัย:// la Sukotaja Periodo สมัยกรุงสุโขทัย// @16-04-2025 15:45:10@
-sukuri //(tr)// {MED} ปฐมพยาบาลเบื้องต้น; sukurekipaĵo ชุดปฐมพยาบาล; sukuristo ผู้ที่ผ่านการฝึกการปฐมพยาบาล
-; sukurado ; sukurejo ; sukuristo/sukuranto
+sukuri //(tr)// {MED} ปฐมพยาบาลเบื้องต้น; sukurekipaĵo ชุดปฐมพยาบาล; sukuristo ผู้ที่ผ่านการฝึกการปฐมพยาบาล; sukurado การปฐมพยาบาล; sukurejo ที่ปฐมพยาบาลปฐมพยาบาล; sukuristo/sukuranto ผู้ปฐมพยาบาล @21-04-2025 19:10:13@
 sulfuro {KEM} //(ธาตุ)// กำมะถัน (S); sulfura acido กรดกำมะถัน @11-04-2024 21:36:28@
 superba น่าทึ่ง, น่าประทับใจ, ยอดเยี่ยม @16-04-2025 19:05:56@
 superlativo {GRA} การแสดงการเปรียบเทียบขั้นสุด; absoluta superlativo {GRA}  การเปรียบเทียบขั้นสุด; relativa superlativo {GRA}  การเปรียบเทียบในกลุ่มที่เกี่ยวข้อง @16-04-2025 19:07:29@ @17-04-2025 12:56:20@
