@@ -55,6 +55,12 @@
 		"body": "//(akr)//",
 		"description": "arkaismo"
 	}, 
+  
+  "sonimito": {
+		"prefix": "/sonimito",
+		"body": "//(sonimito)//",
+		"description": "sonimito"
+	}, 
 	"aldoni daton kaj timpon": {
     	"prefix": "/t",
 		//@DD-MM-YYYY 00:00:00@
