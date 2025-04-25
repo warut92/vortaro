@@ -3802,18 +3802,17 @@ konspiri //(ntr)// สมรู้ร่วมคิด, สมคบคิด; 
 konstelacio {AST} กลุ่มดาว >> stelaro, stelfiguro @24-04-2025 21:05:39@
 konstipi //(tr)// {MED} ทำให้ท้องผูก; konstipa ทำให้ท้องผูก; konstipo/konstipeco ท้องผูก; konstipiĝo เกิดอาการท้องผูก @24-04-2025 21:08:07@
 kontenero {EKON} ตู้คอนเทนเนอร์ @24-04-2025 21:09:05@
-kontinento {GEOG} {GEOL} ทวีป
-kontinua ต่อเนื่อง: kontinua kurento {ELE} กระแสไฟฟ้าตรง; kontinue อย่างต่อเนื่อง
-konto บัญชี; kontisto สมุหบัญชี, คนทำบัญชี
-kontoro สำนักงาน >> oficejo
-kontrabandi //(tr)// ลับลอบ; kontrabandaĵo ของเถื่อน >> malaŭtenta, falsa
-kontrabaso {MUZ} ดับเบิลเบส
-kontrasto ความแตกต่าง, ความผิดแผกกัน; kontrasti //(tr / kun)// เทียบกับ (เพื่อที่จะได้เห็นความแตกต่าง)
-kontribui //(ntr)// สนับสนุน, บริจาค, ให้
-konturo เส้นรอบนอก konturi //(tr)// วาดเส้นรอบนอก
-kontuzi //(tr)// ทำให้ฟกช้ำ; kontuzo อาการฟกช้ำ, รอยช้ำ; kontuziĝi ชอกช้ำ, ช้ำใจ; kontuzita ฟก, ช้ำ: kontuzita brako /  la brako kontuziĝis แขนระบม
-konuso กรวย
-konveksa นูน
+kontinento 1. {GEOG} {GEOL} ทวีป, 2. //(evitinde)// ส่วนหนึ่งของโลก = mondoparto; kontinenta เกี่ยวกับทวีป; prakontinento {GEOL} มหาทวีป; subkontinento {GEOG} {GEOL} อนุทวีป, ทวีปย่อย; hinda subkontinento {GEOG} อนุทวีปอินเดีย @25-04-2025 07:02:58@
+kontinua ต่อเนื่อง; kontinui //(ntr)// ต่อเนื่อง, มีอย่างต่อเนื่อง; kontinueco ความต่อเนื่อง, ภาวะต่อเนื่อง; kontinuega {MAT} ความต่อเนื่องแบบเอกรูป; kontinuigi ทำให้ต่อเนื่อง; malkontinua ไม่ต่อเนื่อง @25-04-2025 07:08:29@
+kontoro สำนักงาน; kontoristo //(malofte)// เจ้าหน้าที่สำนักงาน @25-04-2025 07:14:01@
+kontrabandi //(tr)// ลับลอบนำเข้า; kontrabando {EKON} {JUR} การลักลอบนำเข้าสินค้า; kontrabandaĵo ของเถื่อน; kontrabandisto พ่อค้าของเถื่อน @25-04-2025 07:16:35@
+kontrabaso {MUZ} ดับเบิลเบส IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Busettosolano.jpg/100px-Busettosolano.jpg] @25-04-2025 07:17:55@
+kontrasto ความแตกต่าง; kontrasti //(x)// แตกต่างกับ, แสดงให้เห็นถึงความแตกต่าง; kontrastigi ทำให้เห็นถึงความแตกต่าง; kontraste al //(prepoziciaĵo)// หากเทียบกับ @25-04-2025 07:22:29@
+kontribui //(x)// ให้การช่วยเหลือ, สนับสนุน; kontribuo การให้การช่วยเหลือ, การสนับสนุน; kontribuaĵo สิ่งที่ช่วยเหลือ; kontribuanto/kontribuisto ผู้ให้การช่วยเหลือ, ผู้ที่ให้การสนับสนุน @25-04-2025 07:26:19@
+konturo เส้นรอบนอก, เส้นขอบ; konturi //(tr)// วาดเส้นรอบนอก; konturiĝi มีเส้นรอบนอก, เห็นเส้นรอบนอก @25-04-2025 07:28:03@
+kontuzi //(tr)// 1. {MED} ทำให้ฟกช้ำ, ระบม, 2. //(evitinde)// บาดเจ็บ; kontuzo อาการฟกช้ำ, รอยช้ำ @25-04-2025 07:29:31@
+konuso 1. {MAT} กรวย, 2. ทรงกรวย, 3. {BOT} ดอกที่มีลักษณะเป็นทรงกรวย = strobilo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pinus_coulteri_MHNT_Cone.jpg/100px-Pinus_coulteri_MHNT_Cone.jpg]; konuseto {ANA} เซลล์รูปกรวย @25-04-2025 07:34:47@
+konveksa นูน; dukonvenksa เป็นรูปโค้งสองด้าน @25-04-2025 07:36:11@
 konvencio ① จิตใต้สำนึก, ขนบ >> kutimo, ② ข้อตกลงระหว่างประเทศ, สัญญา
 konverti {ELE} {EKON} {REL} //(tr)// แปลงผัน, เปลี่ยน; konvertito ผู้ที่เปลี่ยนความเห็น, ผู้ที่เปลี่ยนศาสนา
 konvolvulo ผักบุ้ง
