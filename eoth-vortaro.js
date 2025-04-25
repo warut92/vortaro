@@ -3813,10 +3813,10 @@ konturo เส้นรอบนอก, เส้นขอบ; konturi //(tr)// 
 kontuzi //(tr)// 1. {MED} ทำให้ฟกช้ำ, ระบม, 2. //(evitinde)// บาดเจ็บ; kontuzo อาการฟกช้ำ, รอยช้ำ @25-04-2025 07:29:31@
 konuso 1. {MAT} กรวย, 2. ทรงกรวย, 3. {BOT} ดอกที่มีลักษณะเป็นทรงกรวย = strobilo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pinus_coulteri_MHNT_Cone.jpg/100px-Pinus_coulteri_MHNT_Cone.jpg]; konuseto {ANA} เซลล์รูปกรวย @25-04-2025 07:34:47@
 konveksa นูน; dukonvenksa เป็นรูปโค้งสองด้าน @25-04-2025 07:36:11@
-konvencio ① จิตใต้สำนึก, ขนบ >> kutimo, ② ข้อตกลงระหว่างประเทศ, สัญญา
-konverti {ELE} {EKON} {REL} //(tr)// แปลงผัน, เปลี่ยน; konvertito ผู้ที่เปลี่ยนความเห็น, ผู้ที่เปลี่ยนศาสนา
-konvolvulo ผักบุ้ง
-kooperativo สหกรณ์
+konvencio 1. ขนบ, ธรรมเนียมปฎิบัติ, 2. {JUR} {POL} สนธิสัญญา = traktato, 3. {HIS} การประชุมใหญ่; konvencia เกี่ยวกับขนบธรรมเนียมปฏิบัติ @25-04-2025 22:19:35@
+konverti //(tr)// 1. {REL} เปลี่ยน(ศาสนา), 2. //(f)// เปลี่ยนความเชื่อ, 3. {EKON} เปลี่ยน(สกุลเงิน), {FIZ} {TEK} เปลี่ยนสัญญาณ, {KOMP} เปลี่ยน(ชนิดของข้อมูล), คอนเวิร์ท; konvertiĝi 1. เปลี่ยนศาสนา, เปลี่ยนความเชื่อ, 2. //(f)// เปลี่ยนอุดมการณ์, 3. เปลี่ยนรูปแบบ; konvertiĝo {REL} การเปลี่ยนศาสนาหรือความเชื่อ; konvertilo {TEK} {KOMP} โปรแกรมเปลี่ยนชนิดของข้อมูล, โปรแกรมแปลงไฟล์; konvertito {REL} ผู้ที่เปลี่ยนศาสนาหรื่อความเชื่อ @25-04-2025 22:30:08@
+konvolvulo {BOT} พืชไม้ดอกรูปแตร @25-04-2025 22:35:10@
+kooperativo {EKON} สหกรณ์ = koopera societo; kooperativa เกี่ยวกับสหกรณ์ @25-04-2025 22:35:14@
 kopro เนื้อมะพร้าวตากแห้ง
 kopuli //(ntr)// ร่วมประเวณี, เสพสังวาส
 koralo ปะการัง
