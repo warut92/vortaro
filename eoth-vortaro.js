@@ -3817,32 +3817,32 @@ konvencio 1. ขนบ, ธรรมเนียมปฎิบัติ, 2. {JU
 konverti //(tr)// 1. {REL} เปลี่ยน(ศาสนา), 2. //(f)// เปลี่ยนความเชื่อ, 3. {EKON} เปลี่ยน(สกุลเงิน), {FIZ} {TEK} เปลี่ยนสัญญาณ, {KOMP} เปลี่ยน(ชนิดของข้อมูล), คอนเวิร์ท; konvertiĝi 1. เปลี่ยนศาสนา, เปลี่ยนความเชื่อ, 2. //(f)// เปลี่ยนอุดมการณ์, 3. เปลี่ยนรูปแบบ; konvertiĝo {REL} การเปลี่ยนศาสนาหรือความเชื่อ; konvertilo {TEK} {KOMP} โปรแกรมเปลี่ยนชนิดของข้อมูล, โปรแกรมแปลงไฟล์; konvertito {REL} ผู้ที่เปลี่ยนศาสนาหรื่อความเชื่อ @25-04-2025 22:30:08@
 konvolvulo {BOT} พืชไม้ดอกรูปแตร @25-04-2025 22:35:10@
 kooperativo {EKON} สหกรณ์ = koopera societo; kooperativa เกี่ยวกับสหกรณ์ @25-04-2025 22:35:14@
-kopro เนื้อมะพร้าวตากแห้ง
-kopuli //(ntr)// ร่วมประเวณี, เสพสังวาส
-koralo ปะการัง
-koriandro ผักชี(ไทย)
-korporacio สโมสร, บริษัท, การร่วมตัวของกลุ่มคนที่ทำอาชีพอย่างเดียวกันโดยมีจุดประสงค์เพื่อรักษาสิทธิของกลุ่ม
-korpuso {MIL} คณะ, เหล่า, {LIN} คลังข้อความ = tekstaro
-korupti //(tr)//ทุจริต, ฉ้อโกง, กินเมือง
-koruso >> ĥoro
-kosmetikaĵo เครื่องสำอาง
-kosmonaŭto {AVI} มนุษย์อวกาศ = astronaŭto
-koŝmaro ฝันร้าย >> sonĝaĉo
-koto โคลน; kota ขุ่น
-koturno {ZOO} นกกระทา
-kovi //(tr)// กก (ไข่/ลูก); kovilo เครื่องฟักไข่, เครื่องปรับสภาพอากาศ; elkovi //(tr)// ฟัก(ไข่), คิดอุบาย, วางแผน
-krabo ปู
+kopro {KUI} เนื้อมะพร้าวแห้ง @26-04-2025 06:55:03@
+kopuli //(PIV)// //(ntr)// {BIO} ผสมพันธ์, เพศสัมพันธ์ @26-04-2025 06:57:58@
+koralo {ZOO} ปะการัง; korala 1. ทำจากปะการัง, 2. มีสีเหมือนปะการัง @26-04-2025 07:01:01@
+koriandro {BOT} ผักชี @26-04-2025 07:03:54@
+korporacio 1. {EKON} สหภาพ, 2. {JUR} สหภาพ, สมาคม; korporaciema มีความต่อสู้อย่างสหภาพ @26-04-2025 07:10:10@
+korpuso 1. {MIL} กองกำลังทหาร, 2. {POL} กลุ่ม, คณะ, สมาพันธ์, {LIN} คลังศัพท์ = tekstaro @26-04-2025 07:13:09@
+korupti //(tr)// 1. {EKON} ติดสินบน, 2. ทุจริต, ฉ้อโกง; korupto/korupteco การทุจริต, การฉ้อราษฎร์บังหลวง, การคอร์รัปชั่น; nekoruptebla ทุจริตไม่ได้ @26-04-2025 07:16:23@
+koruso {MUZ} {TEA} การร้องประสานเสียง = ĥoro; korusano {MUZ} นักร้องประสานเสียง = ĥorano @26-04-2025 07:18:04@
+kosmetiko 1. การดูแลผิวผมและฟัน, 2. เครื่องสำอาง, 3. //(f)// การแต่งหน้า; kosmetikaĵo เครื่องสำอาง @26-04-2025 07:20:47@
+kosmonaŭto {AVI} มนุษย์อวกาศ = astronaŭto @26-04-2025 07:21:48@
+koŝmaro ฝันร้าย = inkubo; koŝmara 1. ฝันร้าย, 2. //(f)// เลวร้าย, น่ากลัว, น่าขยะแขยง; koŝmari //(ntr)// ฝันร้าย @26-04-2025 07:36:35@
+koto 1. โคลน, 2. //(f)// ความอับอาย, ความต้อยต่ำ, ความไร้เกียรติ; kota ขุ่นโคน; koti //(ntr)// 1. //(komune)// ปกคลุมไปด้วยโคลน, 2. //(evitinde)// ถ่ายอุจาระ; kotejo หลุมโคลน, บ่อโคลน; enkotiĝi ติดอยู่ในโคลน @26-04-2025 07:44:51@
+koturno {ZOO} นกกระทา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Brown_Quail.jpg/100px-Brown_Quail.jpg] @26-04-2025 07:46:52@
+kovi //(tr)// 1. กก(ไข่), 2. //(f)// เลื้ยงดูถนุถนอม, 3. //(f)// ซ่อน; kovado การกก; kovejo 1. รังนก(ที่กกไข่), 2. //(f)// รัง, แหล่งซ่องสุ่ม, 3. //(f)// สถานที่เกิด, จุดกำเนิด; kovilo {MED} {AGR} {BIO} ตู้ฟักไข่; elkovi //(tr)// 1. ทำให้ออกมาจากไข่, 2. //(f)// เกิด, คิดอุบาย, วางแผน; elkovaĵo/kovitaro ลูก ๆ ที่ออกมาจากการฟัก, แนวคิดต่าง ๆ ที่คิดไว้; elkoviĝi ออกจากไข่, ฟักไข่ @26-04-2025 07:55:38@
+krabo {ZOO} ปู; kraboj {ZOO} สิ่งมีชีวิตจำพวกปู @26-04-2025 07:57:45@
 kraki //(ntr)// ทำเสียงแตก, ทำเสียงดังลั่น; krako เสียงแตก; krakigi ทำให้เกิดเสียงลั่น; krakmaĉa (อาหาร) กรอบ
 kramfo ตะคิว
 kranko {TEK} ด้ามหมุน, ก้านหมุน, มือหมุน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Manovella1.jpg/100px-Manovella1.jpg] @12-12-2024 21:10:56@
-kraŝi //(ntr)// {AVI} ตก, (ยานยนต์) ชน, ปะทะ >> kolizii {EKON} ล้มละลาย, เจ็ง; kraŝ! //(int)// โครม(คราม)
-kratero ปล่อง (ภูเขาไฟหรือบนดวงจันทร์)
-kreko {ZOO} นกเป็ดน้ำ
-Kremlo เครมลิน
-krestomatio ชุมนุมเรื่องสั้นสำหรับหัดอ่าน
-kriminala เกี่ยวกับอาชญากรรม
-krispa หยิก, ย่น
-Kristo พระเยซูคริสต์; kristnasko คริสต์มาส; kristano ผู้ที่นับถือศาสนาคริสต์, คริสเตียน; kristanismo ศาสนาคริสต์
+kraŝi //(ntr)// 1. {AVI} ตก (เครื่องบิน), 2. {EKON} ตก (หุ้น);  kraŝ! //(sonimito)// โครม, ตู้ม; kraŝo 1. {AVI} การตก (เครื่องบิน), 2. {EKON} หุ้นตก, 3. {KOMP} การค้างของคอมพิวเตอร์ @26-04-2025 09:04:18@
+kratero 1. {HIS} หม้อดินกรีกโบราณ, 2. {GEOL} ปล่องภูเขาไฟ; frapkratero/frapokratero {GEOL} หลุมอุกาบาต @26-04-2025 09:07:59@
+kreko {ZOO} เป็ดปีกเขียว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg/100px-Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg] @26-04-2025 09:09:23@
+kremlo {ARKI} {MIL} ป้อมปราการในเมืองของประเทศรัสเชีย; Kremlo 1. เครมลินแห่งมอสโก (ป้อมปราการในมอสโก), 2. {POL} รัฐบาลรัสเซีย @26-04-2025 09:18:57@
+krestomatio หนังสือรวมเรื่องสั้นสำหรับหัดอ่าน @26-04-2025 09:24:44@
+kriminala {JUR} เกี่ยวกับอาชญากรรม; kriminalisto 1. {JUR} นักอาชญากรรมวิทยา, 2. ตำรวจสืบสวนอาชญากรรม @26-04-2025 09:26:47@
+krispo 1. {TEKS} ผ้าที่พับเป็นแผงใช้สวมรวบคอในศตวรรษที่ 16-17 IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Regentesses_of_St_Elizabeth_Hospital%2C_Haarlem_%28detail%29_by_Verspronck.jpg/100px-The_Regentesses_of_St_Elizabeth_Hospital%2C_Haarlem_%28detail%29_by_Verspronck.jpg], 2. {ANA} เยื่อแขวนลำไส้; krispa หยิกเป็นคลื่น (ผม), เป็นลอน; krispigi ทำให้เป็นลอน; krispigilo เครื่องหนีบผม @26-04-2025 09:36:29@
+Kristo {KRI} พระเยซูคริสต์; kristano {KRI} ผู้ที่นับถือศาสนาคริสต์, คริสเตียน; kristanigi ทำให้รับเข้าศาสนาคริสต์; kristaniĝi รับศาสนาคริสต์, เข้ารีต; kristanismo ศาสนาคริสต์; okcidenta kristanismo ศาสนาคริสต์ตะวันตก; orienta kristanismo ศาสนาคริสต์ตะวันออก; kristismo {KRI} //(malofte)// ศาสนาคริสต์; Kristanujo คริสต์จักร, ศาสนาคริสต์; Kristnasko {KRI} คริสต์มาส @26-04-2025 09:42:40@
 kriterio (หลัก)เกณฑ์, บรรทัดฐาน
 krizalido {ZOO} ดักแด้, แด็กแด้
 kroniko บันทึกเหตุการณ์
@@ -5567,5 +5567,8 @@ dioksido {KEM} ไดออกไซด์ = duoksido;  karbondioksido/karbona d
 korolo {BOT} วงกลีบดอก; korola folio กลีบดอก = petalo @20-04-2025 10:26:50@
 konsekri //(tr)// {REL} 1. อุทิศตนให้, บวช, ราชาภิเษก, 2. ถวาย @21-04-2025 18:07:49@
 glugli //(ntr)// เสียงน้ำเป็นฟอง; gluglo เสียงน้ำเป็นฟอง @22-04-2025 21:06:03@
+kopulo //(ReVo)// {GRA} กริยเชื่อม = ligverbo @26-04-2025 06:59:36@
+inkubo 1. ฝันร้าย, 2. {KAT} ปีศาจที่มาร่วมประเวณีกับผู้หญิงขณะนอนหลับ @26-04-2025 07:41:33@
+citadelo {ARKI} {MIL} เนินปราสาท @26-04-2025 09:13:33@
 >.
 `
