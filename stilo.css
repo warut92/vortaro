@@ -109,10 +109,14 @@ img {
   width: fit-content;
 }
 
-fak {
-  /* vertical-align: super; */
-  /* color: orange;
-  font-size: 10px; */
+/* fak {
+  vertical-align: super;
+  color: orange;
+  font-size: 10px;
+} */
+
+.nigro {
+  color: #010409;
 }
 
 #hazardilo {

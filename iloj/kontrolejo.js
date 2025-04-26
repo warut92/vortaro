@@ -45,7 +45,7 @@ document.addEventListener("click", function() {
       document.getElementById('ligiloj').innerHTML = "";
       frenesteto.style.display = 'none';
     } else {
-      document.getElementById('ligiloj').innerHTML = "vidu :<i>“" + elektitaVorto + "”</i> en <a href=\"https://vortaro.net/#" + elektitaVorto + "\" target=\"_blank\">PIV</a>" + ", <a href=\"https://reta-vortaro.de/revo/dlg/index-2m.html?q=" + elektitaVorto + "\" target=\"_blank\">ReVo</a>" + ", <a href=\"https://eo.wikipedia.org/wiki/" + elektitaVorto + "\" target=\"_blank\">Vikipedio</a>";
+      document.getElementById('ligiloj').innerHTML = "vidu :<i>“" + elektitaVorto + "”</i> en <a class=\"nigro\" href=\"https://vortaro.net/#" + elektitaVorto + "\" target=\"_blank\">PIV</a>" + ", <a class=\"nigro\" href=\"https://reta-vortaro.de/revo/dlg/index-2m.html?q=" + elektitaVorto + "\" target=\"_blank\">ReVo</a>" + ", <a class=\"nigro\" href=\"https://eo.wikipedia.org/wiki/" + elektitaVorto + "\" target=\"_blank\">Vikipedio</a>";
 
       frenesteto.style.display = 'block';
     }
