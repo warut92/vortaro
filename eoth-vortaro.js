@@ -5034,16 +5034,16 @@ prepucio {ANA} 1. หนังหุ้มปลายองคชาต, 2. ห
 hidranto หัวก๊อกน้ำสำหรับดับเพลิง @01-01-2023-w@ @28-04-2025 18:58:56@
 orakolo 1. ผู้ทำนาย, 2. คำทำนาย = orakolaĵo, 3. สถานที่ทำนาย = orakolejo; orakoli //(ntr)// กล่าวคำทำนาย @01-01-2023-w@ @28-04-2025 19:00:04@
 manio 1. {PSI} ความคลั่งไคล้, 2. //(komune)// ความคลั่งไคล้, ความบ้า; maniulo คนบ้า, ผู้ที่คลั่งไคล้ในบางอย่าง; gigantmanio {PSI} ความรู้สึกว่าตัวเองมีอำนาจหรือมีความสำคัญ = megalomanio @01-01-2023-w@ @28-04-2025 19:07:13@
-vertico {MAT} จุดยอด, จุดตัดของมุม = tranĉopunkto @01-01-2023-w@
-poligono {MAT} รูปทรงหลายเหลี่ยม = plurlatero @01-01-2023-w@
-trilatero รูปสามเหลี่ยม = triangulo @01-01-2023-w@
-pledi //(ntr)// แก้ต่าง; pledo คำแก้ต่าง; pledado การแก้ต่าง @01-01-2023-w@
-permanenta ถาวร = daŭra, konstanta @01-01-2023-w@
-uverturo {MUZ} เพลงโหมโรง @01-01-2023-w@
-sinkretismo {FIL} {REL} การผสานความเชื่อ @01-01-2023-w@
-frekvenco {TEK} {FIZ} {ELE} คลื่นความถี่; alta frekvenco คลื่นความถี่สูง @01-01-2023-w@
-organizico องค์กร = organizaĵo; การบริหารองค์กร, การจัดการ = organizado @01-01-2023-w@
-smokingo ชุดทักซิโด @01-01-2023-w@
+vertico {MAT} จุดยอด, จุดตัดของมุม = tranĉopunkto @01-01-2023-w@ @02-05-2025 16:15:38@
+poligono 1. {BOT} พืชที่อยู่ในวงศ์ผักไผ่ //(Polygonaceae)//, 2. {BOT} พืชในวงศ์ผักไผ่ //(Polygonaceae)// มีเมล็ดสีดำ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Fagopyrum_esculentum_seed_001.jpg/100px-Fagopyrum_esculentum_seed_001.jpg] 3. {MAT} รูปทรงหลายเหลี่ยม = plurlatero @01-01-2023-w@ @02-05-2025 16:11:26@
+trilatero {MAT} รูปสามเหลี่ยม = triangulo @01-01-2023-w@ @02-05-2025 16:12:31@
+pledi //(ntr)// {JUR} แก้ต่าง; pledo คำแก้ต่าง; pledado การแก้ต่าง; pladanto ผู้แก้ต่าง @01-01-2023-w@ @02-05-2025 16:13:56@
+permanenta //(malofte)// ถาวร = konstanta @01-01-2023-w@ @02-05-2025 16:14:56@
+uverturo {MUZ} เพลงโหมโรง @01-01-2023-w@ @02-05-2025 16:15:53@
+sinkretismo {FIL} {REL} การผสานความเชื่อ @01-01-2023-w@ @02-05-2025 16:16:53@
+frekvenco 1. {TEK} {FIZ} {ELE} คลื่นความถี่, 2. ความถี่ = ofto; alta frekvenco {TEK} {FIZ} {ELE} คลื่นความถี่สูง @01-01-2023-w@ @02-05-2025 16:18:35@
+organizacio //(akr)// {POL} องค์กร = organizaĵo @01-01-2023-w@ @02-05-2025 16:24:50@
+smokingo //(PIV)// ชุดทักซิโด IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Man_wearing_black_tie.jpg/100px-Man_wearing_black_tie.jpg] @01-01-2023-w@ @02-05-2025 16:26:13@
 karoo/rombo {SPO}  (ไพ่) ข้าวหลามตัด @01-01-2023-w@
 trefo/trifolio {SPO}  (ไพ่) ดอกจิก @01-01-2023-w@
 kero/koro {SPO} (ไพ่) โพแดง @01-01-2023-w@
@@ -5162,7 +5162,7 @@ edifi //(tr)// ทำใก้เกิดศรัทธา @01-01-2023-w@
 vizio นิมิต; vizii //(tr)// นิมิต; viziulo ผู้ที่เห็นนิมิต @01-01-2023-w@
 broki //(tr)// {TEKS} ปักดอก, ปักดิ้น= teksbrodi @01-01-2023-w@
 brodi //(tr)// {TEKS} ปักลวดลายลงบนผ้า @01-01-2023-w@
-periferio ชานเมือง, {MAT} ขอบรอบนอก; periferia รอบนอก @01-01-2023-w@ @26-02-2025 07:58:59@
+periferio 1. ชานเมือง, 2. {MAT} ขอบรอบนอก; periferia รอบนอก @01-01-2023-w@ @26-02-2025 07:58:59@ @02-05-2025 16:27:58@
 prozelito ผู้เปลี่ยนศาสนา, ผู้เข้าร่วม @01-01-2023-w@
 disonanco {MUZ} เสียงไม่มีกลมกลืนกัน, //(f)// ความไม่กลมกลืนกัน @01-01-2023-w@
 kontricio ความสำนึกผืด = pento @01-01-2023-w@
