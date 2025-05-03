@@ -5060,11 +5060,11 @@ resurekti {REL} //(ntr)// ฟื้นขึ้นจากความตาย
 surikato {ZOO} เมียร์แคต IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Meerkat_feb_09.jpg/100px-Meerkat_feb_09.jpg] @01-01-2023-w@ @03-05-2025 09:34:39@
 hojli //(ntr)// หอน = hurli @01-01-2023-w@ @03-05-2025 09:35:50@
 metonimio {LIN} การใช้คำหรือวลีแทนคำอื่น: //„trinki la morton“ แทน „trinki la venenon“// @01-01-2023-w@ @03-05-2025 09:37:56@
-eŭforio ความรู้สึกอิ่มเอิบเป็นสุข, การมองโลกในแง่ดี; ความปลื้มปีติ @01-01-2023-w@
-hirta 1. (ขน) ตั้ง, 2. รกรุงรัง, ยุ่งเหยิง; hirtigi  ทำให้ตั้งขึ้น @01-01-2023-w@
-vinkto ตัวเย็บกระดาษ >> paperkrampo @01-01-2023-w@
-nito {TEK} หมุดย้ำ @01-01-2023-w@
-junto {TEK} การเชื่อมต่อ; junti //(tr)// ทำให้เชื่อมต่อกัน, ทำให้ติดกัน @01-01-2023-w@
+eŭforio ความรู้สึกอิ่มเอิบเป็นสุข, การมองโลกในแง่ดี; ความปลื้มปีติ @01-01-2023-w@ @03-05-2025 16:59:20@
+hirta 1. (ขน) ตั้ง, 2. รกรุงรัง, ยุ่งเหยิง; hirtigi ทำให้ตั้งขึ้น @01-01-2023-w@ @03-05-2025 17:00:37@
+vinkto 1. หมุดย้ำ = nito, 2. ตัวเย็บกระดาษ, ลูกแม็ก = krampo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Staplefasteners.jpg/100px-Staplefasteners.jpg]; vinkti 1. ใส่หมุดย้ำ, 2. เย็บด้วยตัวเย็บกระดาษ @01-01-2023-w@ @03-05-2025 17:04:33@
+nito {TEK} หมุดย้ำ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Rivet01.jpg/100px-Rivet01.jpg]; niti {TEK} ใส่หมุดย้ำ; nitnajlo ตะปูหมุดย้ำ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Blindnieten.JPG/100px-Blindnieten.JPG]; nitjunto การยึดด้วยหมุดย้ำ @01-01-2023-w@ @03-05-2025 17:08:56@
+junto {TEK} การเชื่อมต่อ (ในงานก่อสร้าง, งานช่าง, ไฟฟ้า); junti //(PIV)// //(tr)// ทำให้เชื่อมต่อกัน, ทำให้ติดกัน @01-01-2023-w@ @03-05-2025 17:12:38@
 suspiri //(ntr)// ถอนหายใจ = vespiri @01-01-2023-w@
 erozii //(tr)// กัดเซาะ, ทำให้พุพัง, ทำลาย = erodi @01-01-2023-w@
 karsto {GEOG} คาสต์ @01-01-2023-w@
