@@ -5579,5 +5579,6 @@ kopulo //(ReVo)// {GRA} กริยเชื่อม = ligverbo @26-04-2025 06
 inkubo 1. ฝันร้าย, 2. {KAT} ปีศาจที่มาร่วมประเวณีกับผู้หญิงขณะนอนหลับ @26-04-2025 07:41:33@
 citadelo {ARKI} {MIL} เนินปราสาท @26-04-2025 09:13:33@
 rizomo {BOT} เหง้า @26-04-2025 11:24:38@
+sfingo //(PIV)// {ZOO} ผีเสื้อกลางคืนชนิดหนึ่งมีปีกขนาดใหญ่อยู่ในวงศ์ //Sphingidae// IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sphinx_canadensis_MHNT_Cut_2010_0_473_-_Larsson%27s_Camp_Ontorio_Canada_-_male.jpg/100px-Sphinx_canadensis_MHNT_Cut_2010_0_473_-_Larsson%27s_Camp_Ontorio_Canada_-_male.jpg] @03-05-2025 17:29:03@
 >.
 `
