@@ -4910,6 +4910,10 @@ Kubo {GEOG} {POL} ประเทศคิวบา
 Kuvajto {GEOG} {POL} ประเทศคูเวต
 Laoso {GEOG} {POL} ประเทศลาว; laosa เกี่ยวกับลาว: la laosa (lingvo) ภาษาลาว; laosano ชาวลาว @28-10-2024 22:07:45@
 Libano {GEOG} {POL} ประเทศเลบานอน [redakonta]
+litovo ชาวลิทัวเนีย; litova เกี่ยวกับลิทัวเนีย; Litovujo {GEOG} {POL} ประเทศลิทัวเนีย @03-05-2025 11:58:55@
+Litovio {GEOG} {POL} ประเทศลิทัวเนีย @03-05-2025 11:58:58@
+latvo/leto ชาวลัตเวีย; latva เกี่ยวกับลัตเวีย; Latvujo {GEOG} {POL} ประเทศลัตเวีย @03-05-2025 12:01:45@
+Latvio {GEOG} {POL} ประเทศลัตเวีย @03-05-2025 12:01:41@
 malajo ชาวมลายู: la malaja (lingvo) ภาษามลายู
 Malajzio {GEOG} {POL} ประเทศมาเลเซีย; malajziano ชาวมาเลเซีย
 Malto {GEOG} {POL} ประเทศมอลตา
@@ -5540,7 +5544,7 @@ bivako {MIL} {SPO} การหยุดพักชั่วคราว; bivak
 holdo {MAR} ห้องเก็บสินค้าใต้ท้องเรือ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Paper_roll_loaded_on_ship.jpg/100px-Paper_roll_loaded_on_ship.jpg] @25-03-2025 08:05:15@
 jardo (หน่วยวัดความยาว) หลา @25-03-2025 08:05:15@
 rumo {KUI} เหล้ารัม @25-03-2025 08:05:15@
-moruo {BOT} ปลาคอดแอตแลนติก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg/100px-Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg] @25-03-2025 08:05:15@
+moruo {{ZOO} ปลาคอดแอตแลนติก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg/100px-Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg] @25-03-2025 08:05:15@ @03-05-2025 11:12:07@
 konkava เว้า @25-03-2025 17:36:39@
 lento {BOT} {KUI} ถั่วเลนทิล; lenta เกี่ยวกับถั่วเลนทิล; lentoforma รูปร่างแบบถั่วเลนทิล @27-03-2025 09:10:29@
 resurso/risurco ทรัพยากร @28-03-2025 10:19:53@
