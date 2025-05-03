@@ -1863,7 +1863,7 @@ pico [x] พิซซ่า
 piĉo [x] (ภาษาปาก) อวัยวะเพศหญิง = vulvo
 piedo {UL} [3] เท้า
 pigo [9] {ZOO} นกกางเขน
-piki {UL} [6] //(tr)// ทิ่ม; pika [w] เจ็บ, แสบ, //(f)// เผ็ด
+piki {UL} [6] //(tr)// 1. ทิ่, 2. //(f)// เจ็บ, เจ็บใจ, ทำให้โกรธ, ทำให้ตื่นเต้น; pika [w] 1. แหลม, คม, 2. //(f)// เจ็บ, แสบ, เผ็ด, 3. เกี่ยวกับไพ่โพดำ; piko {UL} 1. ความเจ็บจากการถูกทิ่ม, 2. //(f)// การทิ่มแทง, การถูกทำให้เจ็บปวด, 3. {SPO} โพดำ (ไพ่) (♠); pikaĵo สิ่งที่ทิ่ม, หนาม; pikema //(f)// ชอบทำร้ายจิตใจ; pikiĝema เปราะบาง (ทางจิตใจ), ขุ่นเคือง่าย; pikilo 1. สิ่งที่ทิ่ม, หนาม, 2. {ZOO} อวัยะของสัตว์ที่เอาไว้ทิ่มกัด; elpiki //(tr)// ทิ่มแล้วดึงออก, ควัก(ตา); enpiki //(tr)// ทำใหแน่นด้วยการทิ่มเข้าไป, ตอก(ตะปู); trapiki //(tr)// ทิ่มทะลุ, เสียบ; kornopiki แทงด้วยเขา, ขวิด; pikbastono {SPO} ไม้ปีนเขา; pikstango {HIS} {MIL} หอกแหลม @01-01-2023-w@ @03-05-2025 09:21:52@
 pilgrimi [x] //(ntr)// เดินทางแสวงบุญ
 pilko {UL} [6] ลูกบอล; piedpilko [w] ฟุตบอล
 pilo [8] {ELE} ถ่านไฟฉาย
@@ -4865,12 +4865,14 @@ Aŭstrio {GEOG} {POL} ประเทศออสเตรีย = Aŭstrujo @28
 Azerbajĝano {GEOG} {POL} ประเทศอาเซอร์ไบจาน; azerbajĝana เกี่ยวกับประเทศอาเซอร์ไบจาน; azerbajĝanano ชาวอาเซอร์ไบจาน; Okcidenta Azerbajĝano จังหวัดอาเซอร์ไบจานตะวันตก (ประเทศอิหร่าน); Orienta Azerbajĝano จังหวัดอาเซอร์ไบจานตะวันออก (ประเทศอิหร่าน) @28-04-2025 18:46:14@
 Bangladeŝo {GEOG} {POL} ประเทศบังกลาเทศ @28-04-2025 18:46:36@
 Barato {GEOG} {POL} ประเทศอินเดีย; barata เกี่ยวกับประเทศอินเดีย; baratano ชาวอินเดีย @28-04-2025 18:47:06@
-belgo ชาวเบลเยียม; Belgio {GEOG} {POL} ประเทศเบลเยียม
-Birmo {GEOG} {POL} (Mjanmao) ประเทศพม่า, ประเทศเมียนมา; birmano ชาวพม่า: la birma (lingvo) ภาษาพม่า
-Brazilo {GEOG} {POL} ประเทศบราซิล; brazilano ชาวบราซิล
-Brazilo {GEOG} {POL} ประเทศบราซิล; brazilano ชาวบราซิล
-brito ชาวที่มาจากเกาะอังกฤษ  รวมทั้งเวลส์และสกอตแลนด์; Britio {GEOG} {POL} เกาะบริเตน, อาณาจักรบริเตน
-Butano {GEOG} {POL} ประเทศภูฏาน
+belgo ชาวเบลเยียม; belga เกี่ยวกับเบลเยียม; Belgujo {GEOG} {POL} ประเทศเบลเยียม @03-05-2025 09:44:52@
+Belgio {GEOG} {POL} ประเทศเบลเยียม @03-05-2025 09:44:58@
+Birmo {GEOG} {POL} ประเทศพม่า, ประเทศเมียนมา; birma เกี่ยวกับพม่า: //la birma (lingvo) ภาษาพม่า// @03-05-2025 09:46:55@
+Mjanmao {GEOG} {POL} ประเทศเมียนมา, ประเทศพม่า @03-05-2025 09:46:50@
+Brazilo {GEOG} {POL} ประเทศบราซิล; brazila เกี่ยวกับบราซิล; brazilano ชาวบราซิล @03-05-2025 09:47:36@
+brito 1. {HIS} ชาวบริตัน, 2. ชาวบริติช; brita 1. เกี่ยวกับชาวบริตัน, 2. เกี่ยวกับบริติช, 3. เกี่ยวกับหมู่เกาะบริเตน; Britujo {GEOG} อาณาจักรบริเตนใหญ่; britujano ชาวบริติช; Brita Insularo/Britaj Insuloj หมู่เกาะบริเตน @03-05-2025 09:55:13@
+Britio 1. {GEOG} {POL} อาณาจักรบริเตนใหญ่, 2. {GEOG} เกาะบริเตน @03-05-2025 09:57:05@
+Butano {GEOG} {POL} ประเทศภูฏาน @03-05-2025 09:56:58@
 ĉeĥo ชาวเช็ก; Ĉeĥio {GEOG} {POL} ประเทศเช็ก [redakonta]
 ĉino ชาวจีน; ĉina จีน; la ĉina (lingvo) ภาษาจีน; Ĉinio {GEOG} {POL} ประเทศจีน [redakonta]
 Danio {GEOG} {POL} ประเทศเดนมาร์ก [redakonta]
@@ -5044,16 +5046,16 @@ sinkretismo {FIL} {REL} การผสานความเชื่อ @01-01-
 frekvenco 1. {TEK} {FIZ} {ELE} คลื่นความถี่, 2. ความถี่ = ofto; alta frekvenco {TEK} {FIZ} {ELE} คลื่นความถี่สูง @01-01-2023-w@ @02-05-2025 16:18:35@
 organizacio //(akr)// {POL} องค์กร = organizaĵo @01-01-2023-w@ @02-05-2025 16:24:50@
 smokingo //(PIV)// ชุดทักซิโด IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Man_wearing_black_tie.jpg/100px-Man_wearing_black_tie.jpg] @01-01-2023-w@ @02-05-2025 16:26:13@
-karoo/rombo {SPO}  (ไพ่) ข้าวหลามตัด @01-01-2023-w@
-trefo/trifolio {SPO}  (ไพ่) ดอกจิก @01-01-2023-w@
-kero/koro {SPO} (ไพ่) โพแดง @01-01-2023-w@
-piko {UL} {SPO} (ไพ่) โพดำ @01-01-2023-w@
-sintagmo {LIN} กลุ่มคำ = vortgrupo @01-01-2023-w@
-dorno หนาม; dornejo ดงหนาม @01-01-2023-w@
-resurekti //(ntr)// ฟื้นขึ้นจากความตาย @01-01-2023-w@
-surikato {ZOO} เมียร์แคต IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Meerkat_feb_09.jpg/100px-Meerkat_feb_09.jpg] @01-01-2023-w@
-hojli //(ntr)// หอน = tirboji @01-01-2023-w@
-metonimio {LIN} การใช้คำหรือวลีแทนคำอื่น @01-01-2023-w@
+karoo {SPO} ข้าวหลามตัด (ไพ่) (♢) @01-01-2023-w@ @03-05-2025 08:54:46@
+rombo 1. {MAT} รูปสี่เหลี่ยมขนมเปียกปูน, 2. {ZOO} ปลารูปร่างเป็นสี่เหลี่ยมขนมเปียกปูน; rombofiŝo {ZOO} ปลารูปร่างเป็นสี่เหลี่ยมขนมเปียกปูน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Scophthalmus_rhombus.jpg/100px-Scophthalmus_rhombus.jpg] @03-05-2025 08:59:13@
+trefo {SPO} ดอกจิก (ไพ่) (♣) @01-01-2023-w@ @03-05-2025 09:00:08@
+kero {SPO} โพแดง (ไพ่) (♡) @01-01-2023-w@
+sintagmo {LIN} วลี = vortgrupo; sintagma {LIN} เกี่ยวกับวลี @01-01-2023-w@ @03-05-2025 09:26:02@
+dorno 1. หนาม, 2. //(plurale)// พืชหนาม, 3. สิ่งที่มีหนาม, 4. //(f)// สิ่งน่ารำคาญ; dorna 1. มีหนาม, 2. //(f)// มีขวากหนาม, มีอุปสรรค; dornejo ดงหนาม = dornarbetaro @01-01-2023-w@ @03-05-2025 09:29:22@
+resurekti {REL} //(ntr)// ฟื้นขึ้นจากความตาย @01-01-2023-w@ @03-05-2025 09:34:29@
+surikato {ZOO} เมียร์แคต IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Meerkat_feb_09.jpg/100px-Meerkat_feb_09.jpg] @01-01-2023-w@ @03-05-2025 09:34:39@
+hojli //(ntr)// หอน = hurli @01-01-2023-w@ @03-05-2025 09:35:50@
+metonimio {LIN} การใช้คำหรือวลีแทนคำอื่น: //„trinki la morton“ แทน „trinki la venenon“// @01-01-2023-w@ @03-05-2025 09:37:56@
 eŭforio ความรู้สึกอิ่มเอิบเป็นสุข, การมองโลกในแง่ดี; ความปลื้มปีติ @01-01-2023-w@
 hirta 1. (ขน) ตั้ง, 2. รกรุงรัง, ยุ่งเหยิง; hirtigi  ทำให้ตั้งขึ้น @01-01-2023-w@
 vinkto ตัวเย็บกระดาษ >> paperkrampo @01-01-2023-w@
