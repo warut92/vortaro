@@ -2195,7 +2195,7 @@ sciuro [9] {ZOO} กระรอก
 se {UL} [1] //(kon)// ถ้า
 sed {UL} [1] //(kon)// แต่
 segi [8] //(tr)// เลื่อย; segilo [w] เลื่อย
-seĝo {UL} [4] เก้าอี้
+seĝo {UL} [4] เก้าอี้; apogseĝo/brakseĝo เก้าอี้ที่มีที่วางแขน; balancoseĝo/lulseĝo เก้าอี้โยก; kuŝseĝo/kuŝoseĝo เก้าอี้นอน; portoseĝo วอ, สะเรียง; rulseĝo/radseĝo เก้าอี้รถเข็นสำหรับคนป่วยหรือคนพิการ, วีลแชร์; turnoseĝo/pivotseĝo เก้าอี้หมุน @04-05-2025 10:55:56@
 seka {UL} [5] แห้ง; malseka [w] เปียก
 sekalo [9] ข้าวไรย์
 sekci [9] //(tr)// ผ่า, ชำแหละ
@@ -5072,9 +5072,8 @@ aneksi //(tr)// 1. {POL} ยึดครอง, ผนวก (ดินแดน
 komato {MED} อาการโคม่า, สภาพไม่รู้สึกตัว; komata เกี่ยวกับอาการโคมา @01-01-2023-w@ @04-05-2025 10:20:27@
 letargio 1. {FIZL} อาการสลบไสล, 2. //(f)// ความเซื่องซึม, ความง่วง @01-01-2023-w@ @04-05-2025 10:29:51@
 perversa 1. ชั่ว ๆ, ชั่วช้า, คดโกง; preverse ด้วยวิธีการชั่วช้า @01-01-2023-w@ @04-05-2025 10:32:07@
-palankeno เกี้ยว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gama2_crop.jpg/100px-Gama2_crop.jpg] @01-01-2023-w@
-portoseĝo วอ, สะเรียง @01-01-2023-w@
-manovri //(ntr)// ยักย้าย, หลบหลีก, จัดการ; manovro การยักย้าย, การหลบหลีก @01-01-2023-w@
+palankeno เกี้ยว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gama2_crop.jpg/100px-Gama2_crop.jpg] @01-01-2023-w@  @04-05-2025 10:51:00@
+manovri //(ntr)// 1. หลบหลีก, เคลื่อนไหว, 2. จัดการ, 3. //(f)// จัดการ, ยักย้ายถ่ายเท; manovro การยักย้าย, การย้ายที่; militmanovro {MIL}  การเคลื่อนทัพ @01-01-2023-w@ @04-05-2025 11:03:57@
 farmakologio {MED} เภสัชศาสตร์; farmakologo เภสัชกร @01-01-2023-w@
 farmacio {MED} เภสัชกรรม; farmaciaĵo = medikamento ยา; farmaciisto เภสัชกร @01-01-2023-w@
 silogismo วิธีการอ้างเหตุผลประเภทหนึ่งที่นำหลักฐานมาจากแหล่งที่สาม @01-01-2023-w@
