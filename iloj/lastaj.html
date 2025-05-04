@@ -139,7 +139,7 @@
     for (const date in fojo) {
       statistiko += `${date} = <progress style="height:20px;width:10%" value="${fojo[date]}" max="40" title="${fojo[date]}"></progress> ${fojo[date]} คำหลัก<br>`;
     }
-    console.log(statistiko);
+    // console.log(statistiko);
     document.getElementById('statistiko_dato').innerHTML = statistiko
     //prenas la lastan daton
     const nur_lasta_dato = statistiko.split("<br>")[0]
