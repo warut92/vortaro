@@ -27,6 +27,7 @@
     <button name="button" value="\[8\]" onclick="elektiGrupon(this.value)">[8]</button>
     <button name="button" value="\[9\]" onclick="elektiGrupon(this.value)">[9]</button>
     <button name="button" value="\[x\]" onclick="elektiGrupon(this.value)">[x]</button>
+    <button name="button" value="\[w\]" onclick="elektiGrupon(this.value)">[w]</button>
     <br>
     <button name="button" value="-o" onclick="elektiGrupon(this.value)">-o</button>
     <button name="button" value="-a" onclick="elektiGrupon(this.value)">-a</button>
@@ -80,6 +81,7 @@ Z [BRO],
     let vortaro_HTML = vortaro
     //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
     vortaro = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
+    vortaro = vortaro.replace(/@(.+?)@/g, '')
     vortaro = vortaro.replace(/\n/gm, '<br>')
     vortaro = vortaro.split(/<br>/g)
     //serĉi nur array kiuj enhavas "[\d]"
