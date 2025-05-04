@@ -5074,8 +5074,9 @@ letargio 1. {FIZL} อาการสลบไสล, 2. //(f)// ความเ
 perversa 1. ชั่ว ๆ, ชั่วช้า, คดโกง; preverse ด้วยวิธีการชั่วช้า @01-01-2023-w@ @04-05-2025 10:32:07@
 palankeno เกี้ยว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gama2_crop.jpg/100px-Gama2_crop.jpg] @01-01-2023-w@  @04-05-2025 10:51:00@
 manovri //(ntr)// 1. หลบหลีก, เคลื่อนไหว, 2. จัดการ, 3. //(f)// จัดการ, ยักย้ายถ่ายเท; manovro การยักย้าย, การย้ายที่; militmanovro {MIL}  การเคลื่อนทัพ @01-01-2023-w@ @04-05-2025 11:03:57@
-farmakologio {MED} เภสัชศาสตร์; farmakologo เภสัชกร @01-01-2023-w@
-farmacio {MED} เภสัชกรรม; farmaciaĵo = medikamento ยา; farmaciisto เภสัชกร @01-01-2023-w@
+farmakologio {MED} เภสัชศาสตร์ @04-05-2025 11:56:41@
+farmakologo ผู้เชี่ยวชาญด้านเภสัชศาสตร์, เภสัชกร @01-01-2023-w@ @04-05-2025 11:57:10@
+farmacio {MED} เภสัชกรรม; farmaciaĵo {MED} ยา = medikamento; farmaciisto {MED} เภสัชกร @01-01-2023-w@ @04-05-2025 12:00:54@
 silogismo วิธีการอ้างเหตุผลประเภทหนึ่งที่นำหลักฐานมาจากแหล่งที่สาม @01-01-2023-w@
 komunio {KRI} ศีลมหาสนิท @01-01-2023-w@
 eŭĥaristio พิธีของคริสต์ศาสนา ซึ่งรำลึกถึงอาหารมื้อสุดท้ายของพระเยซูและมีการทานขนมปังและไวน์ = eŭkaristio @01-01-2023-w@
