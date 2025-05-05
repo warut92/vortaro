@@ -4900,8 +4900,8 @@ Holando {GEOG} 1. {HIS} ฮอนแลนด์, ฮอนลันดา, 2. /
 hungaro ชาวฮังการี; hungara 1. เกี่ยวกับฮังการี, 2. ภาษาฮังการี; Hungarujo {GEOG} {POL} ประเทศฮังการี @04-05-2025 18:04:32@
 Hungario {GEOG} {POL} ประเทศฮังการี = Hungarujo @04-05-2025 18:04:36@
 Indonezio {GEOG} {POL} ประเทศอินโดนีเซีย; indonezia เกี่ยวกับอินโดนีเซีย; indoneziano ชาวอินโดนีเซีย @04-05-2025 18:05:37@
-Irako {GEOG} {POL} ประเทศอิรัก [redakonta]
-Irano {GEOG} {POL} ประเทศอิหร่าน [redakonta]
+Irako {GEOG} {POL} ประเทศอิรัก; irakano ชาวอิรัก; iraka เกี่ยวกับอิรัก @04-05-2025 21:23:15@
+Irano {GEOG} {POL} ประเทศอิหร่าน; irana เกี่ยวกับอิหร่าน; iranano ชาวอิหร่าน @04-05-2025 21:26:54@
 Irlando {GEOG} {POL} ประเทศไอร์แลนด์ [redakonta]
 Israelo {GEOG} {POL} ประเทศอิสราเอล; israelano ชาวอิสราเอล [redakonta]
 italo ชาวอิตาลี: la itala (lingvo) ภาษาอิตาลี; Italio {GEOG} {POL} ประเทศอิตาลี [redakonta]
