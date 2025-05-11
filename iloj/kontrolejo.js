@@ -71,3 +71,4 @@ const resultRange = entries.slice(startIndex, endIndex + 1);
 const count = resultRange.length;
 // Output
 console.log("trafoj:", count);
+document.getElementById('kalkulo').innerHTML = count
