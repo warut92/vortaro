@@ -61,6 +61,11 @@
 		"body": "//(sonimito)//",
 		"description": "sonimito"
 	}, 
+  "poezie": {
+		"prefix": "/poezie",
+		"body": "//(poezie)//",
+		"description": "poezie"
+	},
 	"aldoni daton kaj timpon": {
     	"prefix": "/t",
 		//@DD-MM-YYYY 00:00:00@
