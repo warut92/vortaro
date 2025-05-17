@@ -5169,7 +5169,7 @@ purgatorio {KAT} สถานที่วิญญาณรับโทษทั
 ĉarlatano 1. หมอที่เร่รักษาคน, 2. คนที่อวดอ้างความพิเศษแต่จริง ๆ ไม่; ĉarlatani //(ntr)// หลอกลวง, ต้มตุ๋น; ĉarlatanaĵo การหลอกลวง, การต้มตุ๋น @01-01-2023-w@ @17-05-2025 08:02:58@
 edifi //(tr)// ทำใก้เกิดศรัทธา @01-01-2023-w@ @17-05-2025 08:04:16@
 vizio 1. นิมิต, 2. //(figure)// //(malofte)// นิมิตเกี่ยวกับอนาคต; vizii //(tr)// เห็นในนิมิต; viziulo/ viziisto 1. ผู้ที่มาในนิมิต, 2 ผู้ที่เห็นนิมิต @01-01-2023-w@ @17-05-2025 08:09:01@
-broki //(tr)// {TEKS} ปักดิ้น, ปักดอก; brokaĵo {TEKS} ลายปักดิ้น IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Brocart_de_soie_fran%C3%A7ais.jpg/100px-Brocart_de_soie_fran%C3%A7ais.jpg] @01-01-2023-w@
+broki //(tr)// {TEKS} ปักดิ้น, ปักดอก; brokaĵo {TEKS} ลายปักดิ้น IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Brocart_de_soie_fran%C3%A7ais.jpg/100px-Brocart_de_soie_fran%C3%A7ais.jpg] @01-01-2023-w@ @17-05-2025 14:25:56@
 brodi //(tr)// {TEKS} ปักลวดลายลงบนผ้า; brodaĵo {TEKS} การปักลวดลายลงบนผ้า; brodteksi {TEKS} ปักดิ้น, ปักดอก = brodi @01-01-2023-w@ @17-05-2025 08:14:31@
 periferio 1. ชานเมือง, 2. {MAT} ขอบรอบนอก; periferia รอบนอก @01-01-2023-w@ @26-02-2025 07:58:59@ @02-05-2025 16:27:58@
 prozelito {REL} ผู้เปลี่ยนศาสนา, ผู้เข้าร่วม; prozelitismo ความชอบในการเปลี่ยนศาสนา, ความชอบในการเข้าร่วม @01-01-2023-w@ @17-05-2025 13:42:16@
@@ -5187,16 +5187,16 @@ vefto {TEK} {TEKS} ด้ายขวาง >> varpo; veftero ด้ายขว
 elano //(PIV)// ความกระฉับกระเฉง @01-01-2023-w@ @17-05-2025 14:00:39@
 nacionalismo //(akr)// ชาตินิยม = naciismo @01-01-2023-w@ @17-05-2025 14:01:00@
 kiraso {MIL} เสื้อเกราะ, เกราะ, {ZOO} กระดอง; kirasi //(tr)// หุ้มเกราะ; maŝkiraso ชุดเกราะ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eastern_riveted_armor.JPG/100px-Eastern_riveted_armor.JPG] @01-01-2023-w@ @17-05-2025 14:06:16@
-karapaco {ZOO} กระดอง = kiraso @01-01-2023-w@
-baldakeno เครื่องตกแต่งสำหรับแสดงฐานะที่ใช้ติดตั้งเหนือแท่นบูชา บัลลังก์ หรือเก้าอี้ หรือพระแท่นบรรทมหรือเตียง @01-01-2023-w@
-maskerado เทศกาลหน้ากาก = markofesto @01-01-2023-w@
-profani {REL} //(ntr)// ไม่เคารพสิ่งศักดิ์สิทธิ์, ลบหลู่สิ่งศักดิ์สิทธิ์ @01-01-2023-w@
-ambivalenco ความรู้สึกขัดแย้งในใจ, ความสองจิตสองใจ @01-01-2023-w@
-eskarpo เนินลาดชันที่ทำขึ้นไว้หน้าป้อมปราการหรือแม่น้ำ @01-01-2023-w@
-stativo {TEK} ที่ตั้งสามขา @01-01-2023-w@
-partituro {MUZ} โน้ตสกอร์รวม @01-01-2023-w@
-oazo {GEOG} โอเอซิส @01-01-2023-w@
-eskatologio {REL} คำสอนในศาสนาที่เกี่ยวกับวิญญาณของมนุษย์ที่เกี่ยวข้องกับความตาย การพิพากษานรกสวรรค์ = esĥatologio @01-01-2023-w@
+karapaco 1. {ZOO} กระดอง = kiraso, 2. //(f)// ความอดทน, ความไม่ยอม @01-01-2023-w@ @17-05-2025 14:54:16@
+baldakeno {TEKS} พรมสำหรับแสดงฐานะที่ใช้ประดับเหนือแท่นบูชา บัลลังก์ พระแท่นบรรทม หรือใช้กางเป็นร่ม IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Blessed_Sacrament_procession%2C_First_Annual_Southeastern_Eucharistic_Congress%2C_Charlotte%2C_North_Carolina_-_20050924-01.jpg/100px-Blessed_Sacrament_procession%2C_First_Annual_Southeastern_Eucharistic_Congress%2C_Charlotte%2C_North_Carolina_-_20050924-01.jpg] @01-01-2023-w@ @17-05-2025 14:57:52@
+maskerado 1. เทศกาลหน้ากาก = markofesto, 2. //(f)// การหลอกลวงแบบมีเล่ห์กล @01-01-2023-w@ @17-05-2025 14:59:19@
+profani //(ntr)// 1. {REL} ไม่เคารพสิ่งศักดิ์สิทธิ์, 2. ลบหลู่; profana 1. ซึ่งเป็นสิ่งที่ไม่อยู่ในศาสนา, 2. ลบหลู่สิ่งศักดิ์สิทธิ; profanado การลบหลู่สิ่งศักดิ์สิทธิ; profano 1. การลบหลู่สิ่งศักดิ์สิทธิ์, 2. ผู้ที่ทำการลบหลู่สิ่งศักดิ์สิทธิ์; profanulo 1. ผู้ที่ไม่มีความรู้เกี่ยวกับสิ่งศักดิ์สิทธิ์, 2. //(f)// ผู้ที่ไม่มีความรู้ความเข้าใจในเรื่องที่เกี่ยวข้อง, 3. //(evitinde)// ผู้ที่ตั้งใจลบหลู่สิ่งศักดิ์สิทธิ์ = sakrilegiulo @01-01-2023-w@ @17-05-2025 15:06:04@
+ambivalenco //(PIV)// {PSI} ความรู้สึกขัดแย้งในใจ, ความสองจิตสองใจ @01-01-2023-w@ @17-05-2025 15:06:48@
+eskarpo {ARKI} เนินลาดชันที่ทำขึ้นไว้หน้าป้อมปราการหรือแม่น้ำ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ragoeser-damm-2.jpg/100px-Ragoeser-damm-2.jpg]; kontraŭeskarpo เนินด้านนอกป้อมปราการหรือแม่น้ำ @01-01-2023-w@ @17-05-2025 16:04:32@
+stativo {TEK} ที่ตั้งสามขา @01-01-2023-w@ @17-05-2025 16:05:18@
+partituro {MUZ} โน้ตสกอร์รวม @01-01-2023-w@ @17-05-2025 16:05:33@
+oazo 1. {GEOG} โอเอซิส, 2. //(f)// ที่หลบซ่อน, ที่หลบภัย, ที่พักผ่อน; impostoazo //(f)// {EKON} ดินแดนปลอดภาษี = importparadizo @01-01-2023-w@ @17-05-2025 16:07:26@
+esĥatologio/eskatologio {FIL} {REL} คำสอนในศาสนาที่เกี่ยวกับวิญญาณของมนุษย์ที่เกี่ยวข้องกับความตาย การพิพากษานรกสวรรค์ @01-01-2023-w@ @17-05-2025 16:08:13@
 prokuroro {JUR} อัยการประจำเขต; prokurorejo สำนักงานอัยการ @01-01-2023-w@
 morna เศร้าโศกเสียใจ @01-01-2023-w@
 advento {KAL} {KRI} สี่สัปดาห์ก่อนคริสมาสต์; Adeventismo {KRI} ศาสนาคริสต์นิกายเซเว่นธ์เดย์แอ๊ดเวนตีส; adventisto {KRI} ผู้ที่นับถือศาสนาคริสต์นิกายเซเว่นธ์เดย์แอ๊ดเวนตีส @01-01-2023-w@ @11-04-2025 19:55:43@
@@ -5585,5 +5585,7 @@ rizomo {BOT} เหง้า @26-04-2025 11:24:38@
 sfingo //(PIV)// {ZOO} ผีเสื้อกลางคืนชนิดหนึ่งมีปีกขนาดใหญ่อยู่ในวงศ์ //Sphingidae// IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sphinx_canadensis_MHNT_Cut_2010_0_473_-_Larsson%27s_Camp_Ontorio_Canada_-_male.jpg/100px-Sphinx_canadensis_MHNT_Cut_2010_0_473_-_Larsson%27s_Camp_Ontorio_Canada_-_male.jpg] @03-05-2025 17:29:03@
 koleopteroj {ZOO} จำพวกด้วงและแมลงปีกแข็ง = skarabo @11-05-2025 17:13:44@
 jahurto/jogurto {KUI} โยเกิร์ต @11-05-2025 17:15:12@
+malversacio //(malofte)// {JUR} การยักหยอกทรัพย์ @17-05-2025 15:07:55@
+kvaki //(ntr)// ทำเสียงร้องอย่างกบหรือเป็ด, อ๊บ ๆ, ก๊าบ ๆ; kvak //(sonimito)// อ๊บ ๆ, ก๊าบ ๆ @17-05-2025 15:09:23@
 >.
 `
