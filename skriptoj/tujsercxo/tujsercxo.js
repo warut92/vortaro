@@ -31,6 +31,8 @@ function PIVtujsercxi() {
             const REZULTO_JOIN = REZULTO.join("</span><span onclick=\"preniPIVvortojn(this)\">,");
             let rezulto = REZULTO_JOIN.toString().replace(/^<\/span>/g,"").replace(/,/g,"<br>")
            pivDiv.innerHTML = "<span onclick=\"preniPIVvortojn(this)\">" + rezulto
+        } else {
+            pivDiv.innerHTML = ""
         }
     }
 }
