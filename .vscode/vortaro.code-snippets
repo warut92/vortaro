@@ -65,6 +65,16 @@
 		"prefix": "/poezie",
 		"body": "//(poezie)//",
 		"description": "poezie"
+	}, 
+  "frazaĵo": {
+		"prefix": "/frazaĵo",
+		"body": "//(frazaĵo)//",
+		"description": "frazaĵo"
+	},
+  "vulgare": {
+		"prefix": "/vulgare",
+		"body": "//(vulgare)//",
+		"description": "vulgare"
 	},
 	"aldoni daton kaj timpon": {
     	"prefix": "/t",
