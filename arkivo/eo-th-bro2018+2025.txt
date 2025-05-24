@@ -1,0 +1,2728 @@
+-a {UL} [0] //(fin)// ตัวลงท้ายของคำคุณศัพท์ในภาษาเอสเปรันโต
+abelo [8] {ZOO} ผึ้ง; abelejo [w] รังผึ้ง, รวงผึ้ง
+abio [7] ต้นสน
+abomeni [8] //(tr)// รังเกียจ; abomena [w] น่ารังเกียจ
+aboni [8] //(tr)// สมัครสมาชิก (นิตยสาร, หนังสือพิมพ์); abonanto [w] สมาชิก (นิตยสาร, หนังสือพิมพ์)
+abrikoto [9] ลูกเอพริคอต
+abrupta [9] ทันทีทันใด, ไม่ทันตั้งตัว
+absceso [x] ฝี
+absoluta [9] ตายตัว, เด็ดขาด, ไม่มีเงื่อนไข, สมบูรณ์ @28-07-2024 13:04:21@
+abstini [9] //(ntr)// ละเว้น, งด
+abstrakta [x] นามธรรม; abstraktaĵo {BELA} นามธรรม
+absurda [9] เหลวไหล, ไร้สาระ; absurdaĵo/absurdo [w] สิ่งไร้สาระ @17-03-2024 19:51:26@
+abunda [7] อุดมสมบูรณ์; abundo [w] ความอุดมสมบูรณ์
+-aĉ- [9] //(suf)// พยางค์เติมท้ายบ่งชี้ถึงคุณภาพว่าไม่ดี: domaĉo [w] บ้านที่พุพัง; ĉevalaĉo [w] ม้าพยศ; aĉa [w] แย่, ห่วย
+aĉeti {UL} [3] //(tr)// ซื้อ; elaĉeti [w] ไถ่ตัว; subaĉeti [w] ติดสินบน
+acida {UL} [7] เปรี้ยว, //(f)// แสบ; acido [w] กรด
+-ad- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงถึงความต่อเนื่อง: parolado [w] การบรรยาย; naĝado [w] การว่ายน้ำ
+adapti [9] //(tr)// ปรับตัว, ปรับให้เหมาะ, ดัดแปลง
+adepto [x] ผู้ติดตาม
+adiaŭ {UL} [7] ลาก่อน; adiaŭi [w] //(tr)// ลา
+adicii [8] //(tr)// บวก = plus; adicio [w] การบวก
+adjektivo [8] {LIN} คำคุณศัพท์
+adjekto [x] ส่วนขยายภาคแสดง
+administri [8] //(tr)// บริหาร, จัดการ
+admiri [8] //(tr)// ชื่นชม; admiro [w] ความรู้สึกชื่นชม; admirinda [w] น่าชื่นชม
+admoni [8] //(tr)// ว่ากล่าว, ตักเตือน, พูดกระตุ้น
+adopti [8] //(tr)// รับ (ความเชื่อ ภาษา หรือนิสัยมาใช้), รับเลี้ยง (เป็นลูกบุญธรรม)
+adori [9] //(tr)// สรรเสริญ, สักการะ
+adreso [5] ที่อยู่; adresi [w] //(tr)// เขียนที่อยู่, ส่งไปตามที่อยู่; retadreso [w] ที่อยู่อีเมล
+adverbo [9] คำกริยาวิเศษณ์
+advokato [8] ทนายความ
+aero {UL} [4] อากาศ; aerumo [w] การระบายอากาศ
+afabla [3] เป็นมิตร; afableco [w] ความเป็นมิตร; malafabla [w] ไม่เป็นมิตร
+afekti [x] //(tr)// แกล้งทำ, เสแสร้ง
+afero {UL} [2] เรื่องราว, ข้าวของ
+afiŝo [8] โปสเตอร์, (เฟซบุ๊ก) โพสต์; afiŝi [w] //(tr)// โพสต์
+aflikti [9] //(tr)// ทำให้ทุกข์ใจ, ทำให้เจ็บใจ
+afranki [8] //(tr)// ชำระแสตมป์หรือการขนส่งล่วงหน้า
+Afriko [9] {GEOG} ทวีปแอฟริกา; afrikano [w] ชาวแอฟริกา
+agento [9] ตัวแทน, เอเย่นต์
+agi [5] //(tr)// กระทำ, ปฏิบัติ; ago [w] การกระทำ; agado [w] กิจกรรม, การกระทำ; reago [w] ปฏิกิริยาโต้ตอบ
+agiti [9] //(tr)// ก่อกวน, ปั่นป่วน
+aglo {UL} [7] {ZOO} นกอินทรี
+aĝo {UL} [4] อายุ; aĝa [w] มีอายุ; jaraĝa [w] ขวบ, ปี: //Mi estas 9-jaraĝa [w] ผมมีอายุ 9 ขวบ//; planaĝa [9] บรรลุนิติภาวะ
+agordo [7] การตั้งเสียง, การตั้งค่า; agordi [w] //(tr)// ตั้งค่า
+agrabla {UL} [4] เป็นที่พอใจ, น่าพึงพอใจ, ยินดี; malagrabla [w] ไม่เป็นที่พอใจ, ไม่น่าพึงพอใจ, ไม่ยินดี
+-aĵ- {UL} [0] //(suf)// พยางค์เติมท้ายซึ่งแสดงว่าเป็นสิ่งของ: novaĵo [w] สิ่งที่ใหม่, ข่าว; porkaĵo [w] เนื้อหมู; aĵo [w] สิ่งของ
+ajlo [9] กระเทียม
+ajn {UL} [1] ...ก็ได้ (ใช้คู่กับคำตารางกลุ่ม ki [w] หรือกลุ่ม i) //kiu ajn ใครก็ได้; iam ajn เมื่อไรก็ได้//
+akademio [9] สถาบันทางการศึกษา: Akademio de Esperanto [w] บัณฑิตยสถานของภาษาเอสเปรันโต
+akceli [8] //(tr)// เร่ง; akcelilo [w] คันเร่ง; malakceli [w] ถ่วง
+akcento [9] การเน้นเสียงพยางค์ //(tr)// เน้น, ให้ความสำคัญ
+akcepti [4] //(tr)// ยอมรับ, รับ; akceptejo [w] ที่รับรอง; malakcepti [w] ไม่ยอมรับ
+akcidento [7] อุบัติเหตุ
+akcio [9] หุ้น
+akiri [6] //(tr)// ได้รับ, ได้...มาเป็นของตัวเอง → gajni, ricevi
+akno [9] สิว
+akompani {UL} [6] //(tr)// พาไป, ไปเป็นเพื่อน, เล่นดนตรีประกอบ; akompananto [w] เพื่อนร่วมทาง @17-03-2024 21:13:16@
+akordo [9] คอร์ด (ดนตรี), ความกลมเกลียว
+akra {UL} [6] 1. คม, มีความคม, แหลม, 2. รุนแรง, ป่าเถื่อน, 3. ฉลาด, เฉียบแหลม; akraĵo 1. ด้านคม, 2. ขอบที่มีความคม; akrigi ลับ(ให้คม); akrigilo หินลับมีด, กบเหลาดินสอ, อุปกรณ์ที่ทำให้คม; akrigisto ช่างลับมีด; akriĝi //(ntr)// มีความคม; forakrigi ลบคม, ทำให้ทื่อ; malakra [w] ทื่อ; malakrigi //(tr)// ทำให้ทื่อ; malakriĝi ทื่อ, ไม่คม @13-04-2025 21:10:09@
+akrido [9] {ZOO} ตั๊กแตน
+akso [9] เพลา, แกน
+aktiva [9] ตื่นตัว, (ไวยากรณ์) วาจก → pasiva; aktivaĵo [w] กิจกรรม; aktivulo/aktivisto [w] นักกิจกรรม @17-03-2024 21:13:16@
+akto [9] {TEA} องก์, ฉาก, {JUR} นิติกรรม, บทบัญญัติ
+aktoro [9] นักแสดง(ชาย); aktorino [w] นักแสดงหญิง
+aktuala [9] เกิดขึ้นในปัจจุบัน, เป็นปัจจุบัน, ใหม่; aktualaĵo [w] เหตุการณ์ปัจจุบัน
+akurata [8] ซึ่งตรงต่อเวลา, ซึ่งตามเวลาที่กำหนด
+akuŝi [x] //(tr)// คลอด; akuŝistino [w] นางผดุงครรภ์, หมอตำแย, คนทำคลอด
+akuzativo [x] กรรมการก
+akuzi [9] //(tr)// กล่าวหา, กล่าวโทษ, ตั้งข้อหา; akuzanto [w] ผู้กล่าวหา; akuzito/akuzato [w] ผู้ถูกกล่าวหา
+akvo {UL} [3] น้ำ; akvi/akvumi [w] //(tr)// รดน้ำ; superakvi [w] น้ำท่วม = inundi; sodakvo [w] โซดา
+al {UL} [1] //(prep)// ถึง; aliĝi [w] //(ntr)// ต่อกัน, เข้าร่วม; aliĝilo [w] ใบสมัคร
+alarmo [9] สัญญาณ, เสียงปลุก
+alaŭdo [9] {ZOO} นกตัวเล็กร้องเสียงเพราะชนิดหนึ่ง //(Alauda)//
+albumo [8] อัลบั้ม
+aleo [9] ถนนในเมืองหรือทางเดินในสวนที่มีต้นไม้อยู่สองข้างทาง
+alfabeto [9] ชุดตัวอักษร → litero
+algo [9] {BOT} สาหร่าย
+alia {UL} [2] อื่น, อื่น ๆ; alie [w] อย่างอื่น; aliulo [w] คนอื่น
+alkoholo [8] เเอลกอฮอล์; alkoholaĵo [w] สุรา, เหล้า
+almenaŭ {UL} [1] //(adv)// อย่างน้อย
+almozo [8] ของบริจาค (เงินหรืออื่น ๆ); almozanto [w] คนขอทาน
+alta {UL} [2] สูง; alteco [w] ความสูง; malalta [w] เตี้ย
+alternativo [x] สิ่งที่เป็นทางเลือก; alternativa [w] ทางเลือก
+alterni [9] //(ntr)// สลับ
+aludi [9] //(x)// บอกใบ้, บอกเป็นนัย
+alumeto {UL} [7] ไม้ขีดไฟ
+aluminio [9] {KEM} //(ธาตุ)// อะลูมิเนียม (Al) @11-04-2024 21:36:28@
+amara [9] ขม
+amaso {UL} [4] ฝูงชน, กลุ่มของสิ่งที่มาก ๆ
+amatoro [9] มือสมัครเล่น
+ambasado [9] คณะเอกอัครราชทูต, คณะผู้แทนทางทูต; ambasadejo [w] สถานเอกอัครราชทูต, สถานทูต @17-03-2024 21:13:16@
+ambasadoro [9] เอกอัครราชทูต; ambasadorejo [w] สถานเอกอัครราชทูต @17-03-2024 21:13:16@
+ambaŭ [1] //(adj)// //(pro)// ทั้งสอง, ทั้งคู่
+ambulanco [x] รถพยาบาล
+Ameriko [9] {GEOG} ทวีปอเมริกา → Usono [w] ประเทศอเมริกา; amerikano [w] ชาวทวีปอเมริกา
+amfibio [x] สัตว์ครึ่งบกครึ่งน้ำ
+ami {UL} [2] //(tr)// รัก; amo [w] ความรัก; aminda [w] น่ารัก; amindumi [w] จีบ = flirti; enamiĝi [w] ตกหลุมรัก; malami [w] เกลียด; amato [w] คนรัก
+amiko {UL} [2] เพื่อน; amikeco [w] มิตรภาพ; malamiko [w] ศัตรู
+amoro [x] ความต้องการทางเพศ, ความใคร่; amori [w] //(tr)// (kun) มีเพศสัมพันธ์; amoristino [w] โสเภณี
+ampolo [9] หลอดไฟ
+amuzi [5] //(tr)// ทำให้...สนุก; amuziĝi [w] สนุก; amuza [w] สนุก
+-an- {UL} [0] //(suf)// พยางค์เติมท้ายหมายถึงสมาชิก: familiano [w] สมาชิกในครอบครัว; klubano [w] สมาชิกชมรม
+anaso [8] {ZOO} เป็ด
+anekdoto [9] เรื่องเล่าสั้น ๆ
+angilo [9] {ZOO} ปลาไหล
+angulo {UL} [4] มุม; rektangulo [9] มุมฉาก; triangulo [8] รูปสามเหลี่ยม
+anĝelo {UL} [8] เทวดา; anĝelino [w] นางฟ้า
+animalo [8] สัตว์ → besto [w] สัตว์ (ยกเว้นคน)
+animo {UL} [5] จิตใจ
+ankaŭ {UL} [1] //(adv)// ดังนั้น, ด้วย
+ankoraŭ {UL} [1] //(adv)// ยังคง
+ankro [x] สมอเรือ
+anonci [6] //(tr)// แจ้ง, ประกาศ; anonco [w] ประกาศ; anoncanto [w] ผู้ประกาศ; anoncisto {TEL} ผู้ประกาศ, นักประกาศ; antaŭanonci [w] ประกาศล่วงหน้า @17-03-2024 21:13:16@
+ansero [9] {ZOO} ห่าน; anservice [w] เรียงซ้อนหลังกัน, ในไฟล์เดียว
+anso [x] หูจับ, ด้ามจับ
+anstataŭ {UL} [1] //(prep)// แทน; anstataŭi [w] //(tr)// แทน; anstaŭigi (per) แทนที่...(ด้วย) @17-03-2024 21:13:16@
+-ant- {UL} [0] //(suf)// พยางค์เติมท้ายแสดงลักษณะของกริยาที่กำลังดำเนินอยู่: lernanto [w] ผู้ที่กำลังเรียน, นักเรียน; lernanta [w] ซึ่งกำลังเรียน; lernante [w] ในตอนที่กำลังเรียน; komencanto [w] ผู้ที่กำลังเริ่มอะไรบางอย่าง, ผู้เริ่มต้น
+antaŭ {UL} [1] //(prep)// ข้างหน้า; malantaŭ ข้างหลัง; kiel antaŭe [w] เหมือนเดิม, เช่นเดิม; antaŭ ol //(konj)//  ก่อน, ก่อนที่จะ
+antikva [x] โบราณ; antikvaĵo [w] ของโบราณ
+anuso [x] ทวารหนัก
+aparato [7] เครื่อง, อุปกรณ์
+aparta {UL} [4] เป็นส่วน ๆ, ไม่ติดกัน, โดยเฉพาะ, พิเศษ; apartigi [w] แยก...ออกเป็นส่วน ๆ
+apartamento [8] อพาร์ทเมนท์
+aparteni {UL} [8] (al) //(ntr)// เป็นของ
+apenaŭ {UL} [1] แทบจะไม่
+aperi [4] (ntr) ปรากฏ; apero [w] การปรากฏ, การมีขึ้น; malaperi [w] หายไป, หมดไป
+aperturo [9] สิ่งที่มีช่องเปิดหรือมีรู = malfermaĵo; รูรับแสง (กล้องถ่ายรูป)
+apetito [8] ความเจริญอาหาร: Bonan apetiton! จะกินแล้วนะครับ
+aplaŭdi [9] //(tr)// ปรบมือ
+apliki [9] //(tr)// ประยุกต์; นำไปใช้; aplikaĵo [w] แอปพลิเคชัน
+apogi [6] //(tr)// ค้ำยัน, สนับสนุน
+apostolo [9] 1. {KRI} อัครสาวก 12 คนของพระเยซู, 2. //(f)// สาวก; apostoli //(ntr)// อุทิศตัวอย่างสาวก @11-05-2025 10:27:19@
+apostrofo [x] เครื่องหมาย (‘)
+apoteko [8] ร้านขายยา; apotekisto [w] เภสัชกร
+Aprilo [5] เดือนเมษายน
+apro [9] {ZOO} หมูป่า
+aprobi [6] //(tr)// อนุมัติ; aprobo [w] การอนุมัติ; malaprobi [w] ไม่อนุมัติ
+apud {UL} [1] //(prep)// ข้าง ๆ, ถัดจาก, ถัดไป
+-ar- {UL} [0] //(suf)// พยางค์ท้ายเพื่อแสดงความเป็นกลุ่ม ของสิ่งที่เหมือน ๆ กัน: arbaro [w] ป่า; vortaro [w] พจนานุกรม; homaro [w] มนุษยชาติ
+araneo [8] {ZOO} แมงมุม; araneaĵo [w] ใยแมงมุม
+aranĝi [5] //(tr)// จัด, จัดการ; aranĝo [w] กิจกรรม, งาน
+arbitra [9] ตามอำเภอใจ
+arbo {UL} [3] ต้นไม้; arbaro [w] ป่า
+arĉo [x] คันชัก (ไวโอลิน, ซอ)
+ardi [8] //(ntr)// เร่าร้อน, ร้อนแรง
+areo [x] พื้นที่
+aresti [x] //(tr)// จับกุม; arestito [w] ผู้ถูกจับกุม
+arĝento {UL} {KEM} //(ธาตุ)// [5] เงิน (โลหะ) (Ag) @11-04-2024 21:36:28@
+argilo [x] เครื่องปั้น
+argumento [x] การถกเถียง
+arko [8] ส่วนโค้ง; pafarko [w] ธนู
+armeo [7] กองทัพ
+armi [6] //(tr)// {MIL} ใช้อาวุธ; armo //(ark)// = armilo [w] อาวุธ
+arterio [9] หลอดเลือดแดง
+artiko {ANA} ข้อต่อ, {TEK} ข้อต่อ, บานพับ; elartikigi ทำให้กระดูกเสื่อม; manartiko ข้อมือ @12-11-2024 22:09:00@
+artikolo [7] บทความ, {GRA} คำนำหน้านาม
+arto [3] ศิลปะ artaĵo [w] งานศิลปะ, ศิลปกรรม; artisto [w] ศิลปิน; batalarto [w] ศิลปะการป้องกันตัว
+-as {UL} [0] //(fin)// ตัวลงท้ายกริยาในปัจจุบันกาลหรือเกิดขึ้นเป็นปกติ (กำลัง...)
+asekuri [8] //(tr)// ทำประกัน; asekuro [w] ประกันภัย
+asembleo [9] สภา, ที่ประชุมอย่างเป็นทางการ
+aserti [9] //(tr)// ยืนยัน → insisti [w] ยืนยัน, ยืนกราน; aserto [w] ข้อยืนยัน, ข้อพิสูจน์
+asfalto [9] //(kon)// {TRA}  ยางมะตอย; asfalti [w] //(tr)// ลาดยางมะตอย
+asisti [9] //(tr)// ช่วย (อย่างเป็นทางการ); asistanto [w] ผู้ช่วย
+asocio [8] สมาคม: Universala Esperanto-asocio [w] สมาคมภาษาเอสเปรันโตสากล
+aspekti [7] //(ntr)// ดูเหมือน, ดูเหมือนว่า, ราวกับ → ŝajni
+-at- {UL} [0] //(suf)// พยางค์เติมท้ายแสดงลักษณะของกริยาถูกกระทำที่กำลังดำเนินอยู่; batato [w] ผู้ที่ถูกตี; batata [w] ซึ่งกำลังถูกตี; batate [w] ในตอนที่กำลังถูกตี
+ataki [6] //(tr)// โจมตี, บุก, ทำร้าย
+atenci [x] //(tr)// ทำร้ายร่างกาย; seksatenco [w] การข่มขืน
+atendi {UL} [3] //(tr)// รอคอย; neatendite [w] กระทันหัน, บังเอิญ
+atenti [4] //(tr)// ระวัง, เอาใจใส่; atentigi [w] เตือน
+atesti [8] //(tr)// ยืนยัน, เป็นพยาน; atestilo [w] หลักฐาน, ใบประกาศนียบัตร
+atingi [5] //(tr)// บรรลุถึง, ถึง (สถานที่)
+Atlantiko [9] มหาสมุทรแอตแลนติก
+atmosfero [x] บรรยากาศ
+atomo [9] อะตอม
+aŭ {UL} [1] //(kon)// หรือ; aŭ... aŭ… หรือไม่ก็
+aŭdaci [9] //(ntr)// กล้าท้าทาย, ถือดี
+aŭdi {UL} [3] //(tr)// ได้ยิน; aŭdo [w] การได้ยิน; aŭdilo [w] ลำโพง, หูฟัง = aŭskultilo; disaŭdigi [w] กระจายเสียง
+Aŭgusto [5] เดือนสิงหาคม
+aŭskulti {UL} [4] //(tr)// ฟัง; aŭskultanto [w] ผู้ฟัง; aŭskultilo = aŭdilo
+Aŭstralio [9] {GEOG} {POL} ทวีปออสเตรเลีย, ประเทศออสเตรเลีย
+aŭto [8] รถยนต์ = aŭtomobilo
+aŭtobuso [7] รถประจำทาง = buso
+aŭtomato [7] อัตโนมัติ; aŭtomate [w] อย่างอัตโนมัติ
+aŭtomobilo [8] รถยนต์ = aŭto
+aŭtoritato [8] อำนาจ, ความน่าเชื่อถือ, เจ้าหน้าที่
+aŭtoro [9] นักประพันธ์, ผู้เขียน → verkisto
+aŭtuno {UL} [4] ฤดูใบไม้ร่วง
+avantaĝo [9] ผลประโยชน์
+avara {UL} [6] ขี้เหนียว
+aveno [9] {BOT} ข้าวโอ็ต
+aventuro [7] การผจญภัย
+avenuo [7] ถนนที่มีต้นไม้สองข้างทาง
+averti [6] //(tr)// เตือน, ตักเตือน; averto [w] การแจ้งเตือน
+aviado [8] การบิน; aviadilo [w] เครื่องบิน
+avida [8] โลภ, อยากมาก
+avo {UL} [4] ปู่, ตา; avino [w] ยาย, ย่า
+azeno {UL} [5] {ZOO} ลา (สัตว์)
+Azio [9] {GEOG} ทวีปเอเชีย; aziano [w] ชาวเอเชีย; Sudorienta Azio [w] เอเชียตะวันออกเฉียงใต้; Orienta Azio [w] เอเชียตะวันออก
+<!-- B -->
+babili {UL} [7] //(x)// คุยกันสนุก ๆ; babilema [w] ช่างคุย; babilejo [w] แอปแชท
+bacilo [9] แบคทีเรียที่มีรูปร่างยาว
+bagatelo [9] เรื่องเล็กน้อย
+bahto [x] {THA} {EKON} //(หน่วยเงิน)// เงินบาท @19-04-2024 21:24:15@
+baki {UL} [8] //(tr)// อบ; bakejo [w] เตาอบ
+bakterio [9] แบคทีเรีย
+balai {UL} [6] //(tr)// กวาด; balailo [w] ไม้กวาด
+balanci {UL} [8] //(tr)// แกว่ง; balanco [w] การแกว่ง → ekvilibro [w] ความสมดุล; balancilo [w] กระดานหก
+balbuti [9] //(tr)// พูด...อย่างตะกุกตะกัก, //(ntr)// พูดตะกุกตะกัก, พูดติดอ่าง
+baldaŭ {UL} [1] //(adv)// ในไม่ช้า, เร็ว ๆ นี้
+baleno [x] วาฬ
+balo [9] การชุมนุมเต้นรำ
+balono [7] ลูกบอลลูน
+baloti [9] //(ntr)// ออกเสียง, ลงคะแนน; baloto [w] การลงคะแนนเสียง; balotilo [w] ใบลงคะแนน
+bambuo [9] ไม้ไผ่; bambuŝoso [w] หน่อไม้
+bandaĝo [9] ผ้าพันแผล
+bando [x] วงดนตรี
+Bangkoko [x] //(PIV)//, Bankoko [w] กรุงเทพ; bangkokano [w] คนกรุงเทพ
+bani {UL} [5] //(tr)// อาบน้ำให้, เอา...แช่น้ำ //bani sin อาบน้ำ// → duŝi; banejo [w] อ่างอาบน้ำ
+banano [9] กล้วย; bananujo [w] ต้นกล้วย; bananfolio [w] ใบตอง
+banko [7] ธนาคาร; bankisto [w] พนังงานธนาคาร; bankkonto [w] บัญชีธนาคาร; banklibro [w] สมุดบัญชี
+banto [9] {TEKS} โบ, ปมเชือก @09-11-2024 22:13:53@
+bapti {UL} [9] //(tr)// บัพติสมา; baptismo [w] พิธีบัพติสมา
+barakti [8] //(ntr)// ตะเกียกตะกาย
+barbiro [9] ช่างตัดผม = hartondisto
+barbo {UL} [6] เครา
+barelo {UL} [8] ถังบาเรล, (หน่วยตวง) บาเรล
+bari {UL} [6] //(tr)// ปิดทาง, ขัดขวาง; baro [w] สิ่งกีดขวาง, อุปสรรค; barilo [w] สิ่งกีดขวาง
+barko [9] เรือขนาดกลาง
+basko [9] ชุดชั้นในยาวตั้งแต่อกถึงเอว
+bastono {UL} [6] ท่อนไม้; manĝbastonento [w] ตะเกียบ; memorbastoneto = USB poŝmemorilo
+batali {UL} [4] //(ntr)// ต่อสู้, รบ; batalo [w] การต้อสู้
+baterio [x] แบตเตอรี่
+bati {UL} [3] //(tr)// ตี, เคาะจังหวะ
+bazaro [8] ตลาด
+bazo [8] พื้นฐาน; surbaziĝi [w] อยู่บนพื้นฐาน
+bebo [8] เด็กทารก
+bedaŭri {UL} [6] //(tr)// เสียใจ, เสียดาย; bedaŭrinde [w] ด้วยความเสียใจ
+bedo [x] แปลง (ปลูกผัก)
+beko [6] {ZOO} จะงอยปาก, ปากนก; bekfluto [w] ขลุ่ยรีคอร์เดอร์
+bela {UL} [2] สวย, งาม, หล่อ; beleco [w] ความสวย; belulino [w] คนสวย; malbela [w] น่าเกลียด
+bendo [9] เทป, แถบยาว; surbendigi [w] บันทึกเสียง
+beni {UL} [2] //(tr)// อวยพร; beno [w] พร
+benko {UL} [5] ม้านั่งยาว
+benzino [8] น้ำมันเบนซิน
+bero [7] ลูกเบอร์รี่
+besto {UL} [4] สัตว์ (ไม่รวมมนุย์) → animalo
+beto [8] หัวบีท; β
+betulo [8] ต้นไม้ชนิดหนึ่งมีเปลือกไม้ขาวที่ขึ้นในเขตหนาว
+bezoni {UL} [3] //(tr)// จำเป็น, ต้องการ; bezono [w] ความจำเป็น, ความต้องการ
+biblioteko [8] ห้องสมุด; bibliotekisto [w] บรรณารักษ์
+biciklo [8] จักรยาน; bicikli [w] //(ntr)// ปั่นจักรยาน; biciklisto [w] นักปั่นจักยาน; motorbiciklo [w] รถจักรยานยนต์
+bieno [7] ที่ดิน, ไร่, นา
+biero {UL} [7] เบียร์
+bifsteko [9] สเต็ก
+bilardo [x] กีฬาบิลเลียด
+bildo [3] รูปภาพ
+bileto [7] ตั๋ว; flugbileto [w] ตั๋วเครื่องบิน
+bindi {UL} [9] //(tr)// เย็บ (หนังสือ), ทำให้...เป็นเล่ม
+birdo {UL} [3] {ZOO} นก
+blanka {UL} [3] สีขาว; blankulo [w] คนผิวขาว, ฝรั่ง
+blasfemi [9] //(tr)// ดูหมิ่น, ลบหลู่
+bleki [9] //(ntr)// ร้อง (สัตว์)
+blinda [7] ตาบอด; blindulo [w] คนตาบอด
+blogo [x] บล็อก (เว็บไซต์)
+bloko [9] บล็อค; bloki [w] //(tr)// ปิดกั้น
+blonda [7] สีบลอนด์; blundulino [w] ผู้หญิงผมสีบลอนด์
+blovi {UL} [6] //(tr)// เป่า, //(ntr)// เป่าลม
+blua {UL} [4] สีฟ้า; ĉielblua/helblua [w] สีฟ้า
+bluzo [8] เสื้อเชิ้ตสตรี
+bo- {UL} [0] //(pre)// พยางค์เติมหน้าเพื่อแสดงถึงความสัมพันธ์อันเกิดจากการแต่งงาน: bopatro [w] พ่อตา; bopatrino [w] แม่ยาย
+boato [8] เรือ (ขนาดเล็ก) → ŝipo
+boji {UL} [8] //(ntr)// เห่า
+boli {UL} [6] //(ntr)// เดือด; boligi [w] ต้ม
+bombo [x] ระเบิด
+bombono [8] ลูกอม
+bona {UL} [2] ดี; bono [w] สิ่งที่ดี; boneco [w] ความดี; malbona [w] ไม่ดี, เลว, ชั่ว
+bordo {UL} [4] ตลิ่ง, ชายฝั่ง; marbordo [w] ชายฝั่งทะเล
+bori [8] //(tr)// เจาะรู; borilo [w] ที่เจาะรู, สว่าน
+borso [9] ตลาดหุ้น, ตลาดหลักทรัพย์
+botelo {UL} [6] ขวด
+boto {UL} [7] รองเท้าบูท
+bovlo [9] ชาม
+bovo {UL} [8] {ZOO} วัวตัวผู้ = virbovo; bovino [w] วัวตัวเมีย
+braceleto [9] สร้อยคอ
+brako [4] แขน; brakumi [w] กอด
+branĉo {UL} [6] กิ่งไม้, สาขา
+brando {UL} [9] บรั่นดี
+brasiko [7] ผักกะหล่ำปี
+brava [8] กล้าหาญ → kuraĝa
+bredi [9] //(tr)// ขยายพันธุ์, เลี้ยง (สัตว์)
+bremso [8] เบรก, เครื่องห้ามล้อ
+breto [7] หิ้ง, ชั้น; librobreto [w] ชั้นวางหนังสือ
+brido [9] บังเหียน
+briko [7] อิฐ
+brili {UL} [4] //(ntr)// ส่องแสง; brilo [w] แสงสว่าง
+brokanti [9] //(x)// ซื้อหรือขายของมือสอง; brokantaĵo [w] ของมือสอง
+bronzo [9] ทองสัมฤทธิ์
+broso {UL} [6] แปรง; brosi [w] //(tr)// แปรง; dentbroso, dentobroso [w] แปรงสีฟัน
+broŝuro [8] โบรชัวร์, หนังสือเล่มเล็ก ๆ
+brovo [8] คิ้ว
+brui {UL} [4] //(ntr)// ส่งเสียงรบกวน; bruo [w] เสียงรบกวน
+bruli {UL} [3] //(ntr)// ไฟไหม้, ถูกเผาด้วยไฟ; bruligi [w] เผา
+bruna [5] สีน้ำตาล
+brusto {UL} [5] หน้าอก → sino
+bruto {UL} [9] สัตว์จตุบาท (เช่น วัว ม้า หมู แกะ)
+bubo [8] เด็กซน
+buĉi [9] //(tr)// ฆ่า (สัตว์); buĉejo [w] โรงฆ่าสัตว์
+budo [8] ซุ้มเล็ก ๆ, ร้านขายของฉำ
+bufedo [x] อาหารบุฟเฟ่ต์
+bufo [x] {ZOO} คางคก
+buĝeto [9] เงินทุน, งบประมาณ
+bukedo [9] ช่อดอกไม้
+buko [9] หัวเข็มขัด
+bulbo [9] {BOT} หัว, เหง้า (พืช)
+bulko [9] ขนมปังก้อนเล็ก ๆ
+bulo [7] ก้อน, บอลล์
+bulteno [9] วารสาร (สิ่งพิมพ์ประชาสัมพันธ์องค์กร), จดหมายข่าว @16-02-2025 09:40:35@
+bulvardo [8] ถนนกว้างในเมืองที่มีต้นไม้สองข้างทาง
+burĝo [7] ชาวเมือง, ชนชั้นกลาง
+burĝono [9] ตูมดอก
+buŝo {UL} [3] ปาก
+buso [x] = aŭtobuso [w] รถบัส, รถเมล์
+butero {UL} [5] เนยอ่อน → fromaĝo; buterumi [w] ทาเนย
+butiko [8] ร้านขายของฉ่ำ; butikumi [w] ซื้อของ
+butono {UL} [6] กระดุม, ปุ่ม
+<!-- C -->
+cedi [8] //(x)// ไม่ขัดขวาง, ไม่ต่อต้าน, สละสิทธิ์
+celo {UL} [4] เป้าหมาย, วัตถุประสงค์
+cemento [x] ซีเมนต์
+cent {UL} [1] หนึ่งร้อย; centoj จำนวนเป็นร้อย ๆ; centono/elcento [w] ร้อยละ, เปอร์เซนต์; jarcento [w] ศตวรรษ
+centimetro [9] เซนติเมตร
+centralo [9] โรงไฟฟ้า
+centro [7] ศูนย์กลาง, ตรงกลาง; urbocentro [w] ศาลากลางจังหวัด
+cepo [9] หัวหอม
+cerbo [8] สมอง; cerbumi [w] ระดมสมอง
+ceremonio [x] พิธี; ceremoniaro [w] ข้อปฏิบัติในพิธี
+certa {UL} [3] แน่นอน; certigi [w] //(tr)// ยืนยัน
+cervo [9] {ZOO} กวาง
+cetera {UL} [5] อื่น ๆ ที่เหลือ
+ci [x] คุณ (สรรพนามบุรุษที่สองเอกพจน์) (ไม่นิยมใช้) → vi
+cico [x] หัวนม
+cifero [6] อักษรตัวเลข → numero
+cigaredo {UL} [7] บุหรี่
+cigaro {UL} [9] ซิการ์
+cigno [9] {ZOO} หงส์
+cikado [9] จักจั่น
+cikatro [9] แผลเป็น
+ciklo [7] วัฏจักร, ช่วงเวลา, ยานพาหนะที่มีล้อ
+cikonio [9] {ZOO} นกกระสา
+cilindro [x] ทรงกระบอก
+cinamo [9] อบเชย; cimanujo [w] ต้นอบเชย
+cindro [9] ขี้เถ้า; cindrigejo [w] เมรุ ; cindrujo [w] ที่เขี่ยบุหรี่
+cirkelo [9] วงเวียน (เครื่องเขียน)
+cirkonstanco [8] สิ่งแวดล้อม, สิ่งรอบ ๆ ตัว, สถานการณ์
+cirkulero [9] หนังสือเวียน
+cirkuli [9] //(ntr)// หมุนเวียน
+cirkvito [9] วงจรไฟฟ้า
+ciro [9] น้ำยาขัดหนัง/รองเท้า
+citi [8] ยก...มากล่าวถึง, อ้างถึง → mencii; citilo [w] เครื่องหมายคำพูด แบบในระหว่างบรรทัด « » หรือ » « แบบเหนือเส้น “ ” หรือ ‘ ’ หรือ „  “
+citrono {UL} [7] เลมอน @05-04-2025 16:04:33@
+civila [9] เกี่ยวกับพลเรือน, ทางโลก
+civilizi [8] //(tr)// ทำให้เจริญ
+civito [9] แนวการปกครอง, กลุ่มพลเมือง; civitano [w] พลเมือง
+colo [x] นิ้ว (มาตราวัด) → futo
+<!-- Ĉ -->
+ĉagreni {UL} [8] //(tr)// ทำให้...รู้สึกไม่ดี, ทำให้...เสียใจ
+ĉambro {UL} [2] ห้อง; klasĉambro [w] ห้องเรียน
+ĉapelo {UL} [4] หมวก, เครื่องหมาย ^ บนตัวอักษรในภาษาเอสเปรันโต → cirkumflekso
+ĉapitro [6] บท (ในหนังสือ)
+ĉapo {UL} [7] หมวกแก๊ป
+ĉar {UL} [1] //(kon)// เพราะว่า
+ĉarma [7] น่ารัก, มีเสน่ห์
+ĉarniro [x] บานพับ
+ĉaro [9] เกวียน; ĉarumo [9] รถเข็นล้อเดียว
+ĉarpenti [x] //(tr)// ก่อสร้าง(ด้วยไม้); ĉarpentisto [w] ช่างไม้
+ĉasi [6] //(tr)// ไล่ล่า (สัตว์); ĉasisto [w] นักล่าสัตว์
+ĉasta [x] บริสุทธ์, พรมจรรย์; malĉasta [w] ไม่บริสุทธิ์, ตัณหากลับ, บ้ากาม; malĉastulo [w] คนเสเพล, คนบ้ากาม, คนที่ฝักใฝ่เรื่องเพศ
+ĉe {UL} [1] //(prep)// ที่
+ĉef- [0] //(pre)// หลัก, สำคัญ; ĉefo [w] ผู้นำ, หัวหน้า
+ĉeko [8] ใบสั่งจ่ายเงิน, เช็ค
+ĉelo [9] {BIO} เซลล์, ห้องขัง
+ĉemizo {UL} [6] เสื้อเชิ้ต; T-ĉemizo //(PIV)///to-ĉemizo [w] เสื้อยืด (ยืดคอกลม) @16-02-2025 10:01:15@
+ĉeno {UL} [8] โซ่; montoĉeno [w] เทือกเขา
+ĉerizo {UL} [8] ผลเชอร์รี่; ĉerizarbo [w] ต้นเชอร์รี่
+ĉerko {UL} [9] โลงศพ
+ĉerpi [8] //(tr)// ตัก, เท (น้ำ); elĉerpi [w] //(tr)// ตัก...จาก, เท...จาก, //(f)// ตัก/เท...จนหมด, เอา...ไปจนหมด; elcerpiĝo [w] หมดพลัง, หมดไฟ
+ĉesi {UL} [5] //(ntr)// เลิก, หยุด → halti
+ĉevalo {UL} [3] ม้า
+ĉi {UL} [1] พยางค์บ่งชี้ถึงความใกล้เคียงผู้พูดใช้คู่กับคำตารางกลุ่ม t โดยจะอยู่ข้างหน้าหรือข้างหลังก็ได้: tio [w] นั้น, tio ĉi [w] นี่, tie [w] ที่นั้น, tie ĉi [w] ที่นี่; ใช้คู่กับคำนามหรือคำกริยาวิเศษณ์โดยจะวางข้างหน้าและจะต้องมีเครื่องหมายขีดคั่น: ĉi monato (= ĉi tiu monato) เดือนนี้, ĉi-nokte (ใน)คืนนี้
+ĉia {UL} [1] //(adj)// ทุกชนิด
+ĉial [9] //(adv)// ทุก ๆ เหตุผล
+ĉiam {UL} [1] //(adv)// ทุก ๆ เวลา, เสมอ
+ĉie {UL} [1] //(adv)// ทุกแห่ง, ทุกที่
+ĉiel [6] //(adv)// ทุกวิธี
+ĉielo {UL} [3] ท้องฟ้า; ĉielarko [w] รุ้งกินน้ำ; subĉiela [w] กลางแจ้ง
+ĉies [9] //(pro)// ของทุกคน, ทุก ๆ ... เป็นของ
+ĉifi [9] //(tr)// ขยำ, ทำให้ยับ
+ĉifono [7] เศษผ้า, ผ้าขี้ริ้ว
+ĉio {UL} [1] //(pro)// ทุกสิ่ง, ทุกอย่าง
+ĉiom [9] //(adv)// ทุกจำนวน, ทั้งหมด
+ĉirkaŭ {UL} [1] //(prep)// รอบ ๆ, ใกล้ ๆ, ราว ๆ
+ĉiu {UL} [1] //(pro)// แต่ละคน, แต่ละสิ่ง; ĉiuj //(pro)// ทุกคน, ทุก ๆ คน, ทุกสิ่ง, ทุก ๆ สิ่ง; ĉiu ... //(adj)// แต่ละ ... ĉiuj ... ทุก ๆ ...
+-ĉj- {UL} [9] //(suf)// พยางค์เติมท้ายแสดงรูปแบบของชื่อเล่นเพศชาย: Patro = Paĉjo, Petro = Peĉjo
+ĉokolado [7] ช็อกโกแลต
+ĉu {UL} [1] ไหม, ใช่หรือไม่, หรือเปล่า; ĉu ... ĉu ... ไม่ว่าจะ...หรือ...; ĉu ne? ใช่ไหม; ĉu vere? จริงหรือ, จริงหรือนี่
+<!-- D -->
+da {UL} [1] //(prep)// ของ (ใช้กับจำนวนหรือปริมาณ ซึ่งคำที่แสดงจำนวนจะอยู่อยู่ข้างหน้า) //ĉi tie troviĝas multe da homoj ที่นี่มีคนมาก//, //glaso da akvo [w] น้ำหนึ่งแก้ว//
+daktilo [9] อินทผลัม
+damaĝi [x] //(tr)// ส่งผลกระทบ, ทำให้เสียหาย
+danci {UL} [6] //(ntr)// เต้นรำ; dancisto [w] นักเต้น
+dando [9] ผู้ชายที่สนใจการแต่งกาย
+danĝero {UL} [5] อันตราย
+danki {UL} [3] //(x)// ขอบคุณ; dankon ขอบคุณ; dankemo [w] กตัญญู, รู้คุณ; maldankema [w] อกตัญญู; ne dankinde!/nedankinde! ไม่เป็นไร, ด้วยความยินดี @20-07-2024 12:01:41@
+dato [7] วันที่, วันเดือนปี; dati [w] //(tr)// ลงวันที่; ĝisdatigita [w] ทำให้เป็นปัจจุบัน, อัปเดท
+daŭri {UL} [7] //(ntr)// ต่อเนื่อง; daŭro [4] ระยะเวลาที่ดำเนินไป; daŭrigi [w] ทำต่อ, ต่อ
+de [1] //(prep)// ของ, จาก, แห่ง
+deca [9] เหมาะสม, ถูกต้อง → taŭga
+Decembro [5] เดือนธันวาคม
+decidi {UL} [5] //(tr)// ตัดสินใจ; decido [w] การตัดสินใจ
+deĉifri [x] //(tr)// ถอดรหัส, ถอดตัวอักษรโบราณ = malĉifri
+dediĉi [8] //(tr)// อุทิศ, ทุ่มเท; sindediĉo [w] การอุทิศตัวเอง
+defendi {UL} [6] //(tr)// ป้องกัน, ปกป้อง
+deficito [8] {EKON} การขาดดุล
+definitiva [x] เปลี่ยนแปลงไม่ได้อีก
+degeli [8] //(ntr)// ละลาย (น้ำแข็ง)
+deĵori [9] //(ntr)// ปฏิบัติหน้าที่ตามเวลาที่กำหนด
+dek {UL} [1] สิบ; deka [w] ลำดับที่สิบ
+deklami [x] //(tr)// อ่าน (บทกวี)
+deklaracio [x] คำประกาศ, แถลงการณ์ = deklaro
+deklari [8] //(tr)// กล่าว, ประกาศ; deklaro [w] คำประกาศ
+deklivo [7] ลาดเอียง, สโลป
+dekoracio [8] เครื่องตกแต่ง, ของตกแต่ง
+dekstra {UL} [3] ขวา; maldekstra [w] ซ้าย; maldekstrulo {POL} ผู้นิยมฝ่ายซ้าย
+delegi [8] //(tr)// ส่ง…ไปเป็นผู้แทน/ตัวแทน; delegito [w] ผู้แทน, ตัวแทน
+delikata [6] อ่อนไหว, บอบบาง
+deliri [9] //(ntr)// เพ้อ
+demandi {UL} [2] //(tr)// ถาม; demando [w] คำถาม; demandanto [w] คนถาม; pridemandi [w] สอบถาม
+densa {UL} [6] หนา, แน่น; maldensa [w] บาง, ไม่หนาแน่น
+dento {UL} [4] ฟัน; dentego {ZOO} งา; dentisto [w] ทันตแพทย์; dentobroso [w] แปรงสีฟัน; dentodoloro [w] อาการปวดฟัน; dentokapti [w] คาบ; dentokarno [w] เหงือก; dentopasto [w] ยาสีฟัน
+denunci [9] //(tr)// แจ้งความ, ร้องเรียน
+dependi [8] (de) ขึ้นอยู่กับ → pendi
+deponi [9] //(tr)// ฝาก (เงิน); maldeponi [w] ถอน
+deputi [9] //(tr)// แต่งตั้งผู้แทนเข้าสภา; deputito [w] สมาชิกสภาผู้แทนราษฎร
+des [7] ยิ่ง... (มักใช้คู่กับ ju) → ju
+desegni [6] //(tr)// วาด; desegnaĵo [w] รูปวาด
+deserto [8] ของหวาน (หลังของคาว)
+destino [8] โชคชะตา, จุดหมาย; destini [w] //(tr)// กำหนดโชคชะตา, ตั้งใจจะมอบ, จัดไว้เพื่อ
+detala [8] ละเอียด; detalo [w] รายละเอียด; detalema [w] จู้จี้; detalisto [w] ผู้ขายปลีก
+determini [9] //(tr)// กะ, คะเน, พิจารณา
+detrui {UL} [7] //(tr)// ทำลาย
+devi {UL} [2] //(tr)// ต้อง; devo [w] หน้าที่; deviga [w] บังคับ; devigi [w] บังคับ; devontigi [9] สั่งให้ทำหรือปฏิบัติ
+dezerto {UL} [7] ทะเลทราย
+deziri {UL} [2] //(tr)// ปรารถนา; deziro [w] ความปรารถนา
+diablo [8] ปีศาจ
+dialogo [9] บทพูด, บทสนทนาเดี่ยว
+diamanto [x] เพชร
+dianto [9] ดอกคาร์เนชัน
+dieto [9] ไดเอท, คุมน้ำหนัก
+difekti [7] //(tr)// ทำให้...เสียหาย
+diferenci [6] //(ntr)// แตกต่าง = malsama
+difini [7] //(tr)// จำกัดความ, ให้ความหมาย; difina {LIN} ชี้เฉพาะ: difina artikolo [w] คำนำหน้านามชี้เฉพาะ = la; difino [w] คำจำกัดความ, นิยามของคำ; nedifina [w] ไม่ชี้เฉพาะ
+digesti [9] //(tr)// ย่อย (อาหาร)
+digno [x] ศักดิ์ศรี, เกียรติ
+dika {UL} [4] อ้วน; dikulo [w] คนอ้วน; maldika [w] ผอม
+dikti [9] //(tr)// บอกให้จด
+diligenta {UL} [7] ขยัน; diligentulo [w] คนขยัน; maldiligenta [w] ขี้เกียจ
+dimanĉo {UL} [5] วันอาทิตย์
+dimensio [9] ขนาด (ความกว้าง, ความยาว, ความสูง, ความหนา, ความลึก), มิติ
+dio {UL} [4] พระเจ้า
+direkto [4] ทิศทาง; direkti [w] //(tr)// บังคับทิศทาง
+direktoro [7] ผู้อำนวยการ
+diri {UL} [2] //(tr)// บอก, พูด
+dis- {UL} [0] //(pre)// พยางค์เติมหน้าเพื่อบ่งชี้ถึงการแยกจากกัน: dissendi [w] ส่งกระจาย; disŝiri [w] ฉีกกระจาย
+disko [8] แผ่นดิสก์; kompaktdisko [w] ซีดี
+diskreta [x] รักษาความลับ, สุขุม
+diskuti [7] //(ntr)// ถกเถียง; diskuto [w] การถกเถียง, ข้อถกเถียง
+disponi [9] //(x)// สามารถใช้ได้; disponebla [w] ว่าง, สะดวก
+disputi {UL} [8] //(tr)// โต้เถียง
+distanco [7] ระยะทาง
+distingi [8] //(tr)// แยกความแตกต่างของ
+distri [7] //(tr)// รบกวน, ทำให้...รู้สึกเพลิดเพลิน, ทำให้...บันเทิงใจ
+distribui [8] //(tr)// แจกจ่าย
+diveni [7] //(tr)// เดา
+diversa(j) [4] ต่าง ๆ, หลากหลาย; diverseco [w] ความหลากหลาย
+dividi {UL} [7] //(tr)// แยกส่วน, หาร
+do [1] //(kon)// อย่างไรก็ตาม, ดังนั้น, ซึ่งนั้นก็คือ
+dogano [9] ศุลกากร
+doktoro [6] หมอ, แพทย์, ดอกเตอร์
+dokumento [9] เอกสาร; dokumenti [w] สนับสนุนด้วยเอกสาร
+dolĉa {UL} [3] หวาน; dolĉaĵo [w] ของหวาน
+dolori {UL} [4] //(x)// ทำให้...เจ็บปวด?; doloro [w] ความเจ็บปวด
+domaĝo [7] สิ่งที่น่าเสียใจ, สิ่งที่น่าเสียดาย
+domo {UL} [3] บ้าน; stacidomo [w] สถานีขนส่ง
+donaci {UL} [5] //(tr)// ให้ของขวัญ; donaco [w] ของขวัญ → rekompenci
+doni {UL} [2] //(tr)// ให้; disdoni [w] แจก; eldoni [9] จัดพิมพ์; eldonejo [w] สำนักพิมพ์; sindona [9] ทุ่มเท, อุทิศ
+dorloti [9] //(tr)// เอาอกเอาใจ
+dormi {UL} [3] //(ntr)// นอนหลับ; dormema [w] ง่วงนอน; dormosako [w] ถุงนอน; ekdormi [w] เข้านอน, เริ่มนอน; endormiĝi [w] หลับ; maldormi [w] ไม่ยอมนอน, ไม่นอน; vintrodormo {ZOO} การจำศีลในฤดูหนาว
+dorno [9] หนาม
+dorso {UL} [5] หลัง (ส่วนของร่างกาย)
+doto [9] สินสอด
+dramo [8] ละคร, ดราม่า
+drapo [8] ผ้าขนสัตว์
+dresi [9] //(tr)// ฝึก (สัตว์)
+drinki [x] //(ntr)// ดื่มสุรา → trinki; drinkemulo [w] คนขี้เมา, นักดื่มสุรา
+drogo [x] ยา; drogaĉo [w] ยาเสพติด; drogdependulo/drogmaniulo [w] คนติดยา
+droni [7] //(ntr)// จมน้ำตาย
+du [2] สอง; dua [w] ที่สอง; duobla [w] สองเท่า; duono [w] ครึ่ง; duuma {MAT} {KOMP} ฐานสอง @27-03-2024 13:24:25@
+dubi [4] //(x)// สงสัย → suspekti
+dum {UL} [1] //(kon)// //(prep)// ในขณะที่, ระหว่าง
+dungi [8] //(tr)// จ้าง; dunganto [w] นายจ้าง; dungato [w] ลูกจ้าง; maldungi [w] เลิกจ้าง, ปลด, ไล่ออก
+duŝi [8] //(tr)// อาบน้ำ (โดยฟักบัว) → bani; duŝo [w] การอาบน้ำ, การล้าง //intesta duŝo [w] การล้างลำไส้//; duŝejo [w] ห้องอาบน้ำ @20-07-2024 12:27:14@
+<!-- E -->
+-e {UL} [0] //(fin)// ตัวลงท้ายกริยาวิเศษณ์
+ebena {UL} [6] ราบ, ราบเรียบ
+-ebl- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงถึงความเป็นไปได้; eble [w] อาจเป็นได้, บางที; eblo [w] ความเป็นไปได้; ebleco [w] ลักษณะของความเป็นไปได้
+ebria [8] เมา; ebriulo [w] คนเมา
+-ec- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อระบุลักษณะ; beleco [w] ความงาม; boneco [w] ความดี; eco [w] ลักษณะ
+eĉ {UL} [1] //(adv)// แม้แต่, แม้กระทั่ง
+eduki {UL} [6] //(tr)// ให้การศึกษา, เลี้ยงดู; eduko/edukado [w] การศึกษา; bonedukiteco [w] การศึกษาดี, ความมีการศึกษา
+edzo {UL} [3] สามี, ผัว; edzino [w] ภรรยา, เมีย; geedziĝo [w] การแต่งงาน; geedziĝi [w] แต่งงาน, กลายเป็นคู่สามีภรรยา
+efektiva {UL} [5] ที่จริง, จริงแท้
+efekto [9] ผลกระทบ
+efiki [5] //(ntr)// ส่งผล, ให้ผล; efiko [w] ผล, ผลดี, ผลกระทบ
+-eg- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงขนาดใหญ่: bonege [w] เยี่ยมมาก
+egala {UL} [5] เท่าเทียม; egeleco [w] ความเท่าเทียม
+egoo [9] ความเห็นแก่ตัว; egoisto [w] คนเห็นแก่ตัว
+eĥo [9] เสียงสะท้อน
+-ej- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อระบุว่าเป็นสถานที่: lernejo [w] โรงเรียน; malsanulejo [w] โรงพยาบาล
+ek- {UL} [0] //(pre)// พยางค์เติมหน้าแสดงการเริ่มการกระทำ: eklerni [w] เริ่มเรียน; ekparoli [w] เริ่มพูด; ekscii [w] เริ่มรู้
+ekipi [9] //(tr)// จัดเตรียมสิ่งที่จำเป็น, จัดหามาให้
+eklezio [9] {POL} {REL} นิกาย, สำนัก; {KRI} ศาสนจักร, คริสตจักร; ekleziulo {REL} นักบวช, พระ = kleriko @03-08-2024 23:52:10@ @13-04-2025 10:53:06@
+ekonomio [8] เศรษฐกิจ, แบบประหยัด; ekonomiisto [w] นักเศรษฐศาสตร์
+ekrano [9] จอภาพ, หน้าจอ
+eks- {UL} [9] //(pre)// พยางค์เติมหน้าแสดงความหมายเคยเป็น, อดีต-: eksprezidento [w] อดีตประธานธิบดี; eksiĝi [w] ลาออก
+ekscesa [x] มากเกินไป
+eksciti [7] //(tr)// ทำให้ตื่นเต้น, ทำให้ตื่นตัว
+ekskurso [7] การเดินทาง, การท่องเที่ยว, ทัศนศึกษา → vojaĝo
+ekspedi [9] //(tr)// ส่งไปตามที่อยู่
+ekspermento [8] การทดลอง
+eksplodi [8] //(ntr)// ระเบิด
+ekspluati [9] //(tr)// เอาเปรียบ, เบียดเบียน, เอาไปใช้ประโยชน์; ekspluato [w] การเอาเปรียบ, การเบียดเบียน, การเอาไปใช้ประโยชน์ @20-09-2024 21:02:16@
+eksporti [9] //(tr)// ส่งออก (สินค้า); eksporto [w] การส่งออก = eksportado, สินค้าส่งออก = eksportaĵo
+ekspozicio [9] งานนิทรรศการ
+ekster {UL} [1] //(prep)// ข้างนอก, ภายนอก ekstere [w] ข้างนอก, ภายนอก
+ekstra [x] เพิ่มเติมพิเศษ
+ekstrema [8] ขีดสุด
+ekvatoro [9] เส้นศุนย์สูตร
+ekvilibro [8] ความสมดุลย์ → balanco
+ekzakta [9] ถูกต้อง, ถูกต้องแม่นยำ
+ekzameni [7] //(tr)// สอบ; ekzameno [w] การสอบ; ekzameniĝi [w] //(ntr)// สอบ
+ekzekuti [9] //(tr)// ประหารชีวิต; ekzekuto [w] การประหารชีวิต; ekzekutejo [w] แดนประหาร, ลานประหาร; ekzekutisto [w] เพชฌฆาต
+ekzemplero [x] ฉบับ, เล่ม (หนังสือ เอกสาร)
+ekzemplo {UL} [4] ตัวอย่าง → specimeno
+ekzerci [7] //(tr)// ฝึกหัด; ekzerco [w] แบบฝึกหัด; ekzercaro [w] หนังสือแบบฝึกหัด
+ekzisti [5] //(ntr)// มีอยู่, มีชีวิตอยู่, มีขึ้น, ปรากฏ
+el {UL} [1] //(prep)// ออกจาก, มาจาก; el- //(pre)// แสดงถึงการออกมา: eliri [w] ออกมา, แสดงการกระทำจนถึงที่สุด (บางคำเท่านั้น): ellerni [w] เรียนจนถึงที่สุด, เรียนจนชำนาญ
+elasta [9] ยืดหยุ่น
+elefanto [8] {ZOO} ช้าง
+eleganta [8] ดูดี, สง่า
+elekti {UL} [4] //(tr)// เลือก → selekti
+elektro [7] ไฟฟ้า → kurento; elektrejo [w] โรงไฟฟ้า
+elektroniko [9] อิเล็กทรอนิกส์
+elemento [9] องค์ประกอบพื้นฐาน
+-em- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงถึงแนวโน้มที่มีต่อสิ่งใดสิ่งหนึ่ง: laborema [w] ขยัน; dormema [w] ง่วงนอน
+emajlo [9] เครื่องเคลือบ; emajli [w] //(tr)// เคลือบ
+embaraso [7] ความรู้สึกกังวลใจ, อาการคิดไม่ออก
+emerito [9] ผู้ที่เกษียณ; emeritiĝi [w] ปลดเกษียณ
+eminenta [8] มีชื่อเสียง, ทรงคุณวุฒิ; eminentulo [w] ผู้มีชื่อเสียง, ผู้ทรงคุณวุฒิ
+emocio [8] ความประทับใจ, ความซาบซึ้ง
+en {UL} [1] //(prep)// ใน; en ...n เข้าไปข้างใน
+-end- [0] //(suf)// พยางค์เติมท้ายให้ความหมายว่าต้อง: farenda [w] ต้องทำ; respondenda [w] ต้องตอบ
+energio [7] พลัง, พลังงาน
+enigmo [8] ปัญหาปริศนา
+enketi [9] //(x)// สำรวจ, สำรวจความเห็น; enketo [w] การสำรวจ, การสำรวจความเห็น; enketilo [w] แบบสำรวจ
+entrepreni [8] //(tr)// ดำเนินการ, จัดการ; entrepreno [w] การประกอบการ, กิจการ; entreprenejo [w] สถานประกอบการ; entreprenisto [w] ผู้ประกอบการ
+entuziasmo [x] ความกระตือรือร้น
+enui {UL} [7] //(ntr)// รู้สึกเบื่อ; enuiga [w] น่าเบื่อ → tedi
+envii {UL} [8] //(x)// อิจฉา → ĵaluza
+epidemio [x] {MED} โรคระบาด @06-10-2024 13:53:29@
+epoko [7] ยุค
+-er- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงการเป็นชิ้นเป็นอัน: mono [w] เงิน, monero [w] เหรียญ
+erari {UL} [4] //(ntr)// ผิด, ผิดผลาด; eraro [w] สิ่งที่ผิด, ข้อผิดพลาด
+escepti {UL} [8] //(tr)// ยกเว้น; escepto [w] ข้อยกเว้น
+esenco [8] แก่น, เนื้อหาหลัก
+eskapi [9] //(tr)// (el) หนี (จาก), หลบหนี
+eskimo [x] ชาวเอสกิโม
+Esperanto [8] ภาษาเอสเปรันโต; esperantisto [8] ผู้ใช้ภาษาเอสเปรันโต = Esperanto-parolanto; Esperantujo [w] สถานที่ที่มีคนพูดภาษาเอสเปรันโต; Esperantologio [w] เอสเปรันโตศึกษา
+esperi {UL} [4] //(x)// หวัง; espero [w] ความหวัง; esperanto [w] ผู้ที่มีความหวัง, ผู้ที่กำลังหวัง; espereble หวังว่า, น่าจะ; esperiga อย่างมีความหวัง; malesperi //(x)// หมดหวัง, สิ้นหวัง; malespero ความหมดหวัง, ความสิ้นความ; malespera หมดหวัง, สิ้นหวัง; malesperigi/senesperigi ทำให้หมดหวัง, ทำให้สิ้นหวัง; senespera ไม่มีหวัง, สิ้นหวัง, หมดหวัง @09-01-2025 12:14:27@
+esplori [7] //(tr)// สำรวจ; esploristo [w] นักสำรวจ, นักวิจัย
+esprimi {UL} [7] //(tr)// แสดง, กล่าว
+establi [9] //(tr)// สถาปนา, ก่อตั้ง
+esti {UL} [2] //(ntr)// เป็น, อยู่, คือ; ĉeesti [w] เข้าร่วม; estigi [9] เป็นเหตุ, ทำให้เกิดขึ้น; foresti [w] จากไปไกล
+estimi {UL} [5] //(tr)// เคารพ → respekti
+estingi {UL} [6] //(tr)// ดับ (ไฟ); estingiĝi [w] ไฟดับ, หยุดส่องแสง; brulestingisto/fajroestingisto [w] นักดับเพลิง; fajrestingilo [w] อุปกรณ์ดับเพลิง @25-10-2024 12:03:43@
+-estr- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงการเป็นหัวหน้า: urbo [w] เมือง, urbestro [w] เจ้าเมือง; estro [w] ผู้นำ, หัวหน้า = ĉefo
+-et- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงขนาดที่เล็ก: hundo [w] สุนัข, hundeto [w] สุนัขตัวเล็ก
+etaĝo {UL} [7] ชั้นของอาคาร
+etapo [9] ลำดับ, ขั้น, ระยะการเดินทาง
+etato [9] เอกสารทางการ
+etendi [7] //(tr)// ยื่น, ทำให้...ยาว
+eterna {UL} [7] ตลอดไป, ชั่วนิรันดร์
+etikedo [x] ป้าย, ฉลาก
+etiketo [x] มรรยาท, ข้อปฏิบัติ; ~ etikedo
+etoso [x] บรรยากาศ →medio
+Eŭropo [9] {GEOG} ทวีปยุโรป; eŭropano [w] ชาวยุโรป
+evento [9] งาน, กิจกรรม
+eventuala [x] ที่เป็นไปได้, ที่เกิดขึ้นได้
+evidenta [7] ชัดเจน
+eviti [7] //(tr)// หลีกเลี่ยง; evitinda [w] ควรหลีกเลี่ยง
+evolui [7] //(ntr)// พัฒนา = disvolvi; evoluo [w] การพัฒนา
+ezoko [8] {ZOO} ปลาน้ำจืดขนาดใหญ่ชนิดหนึ่ง
+<!-- F -->
+fabelo [9] นิทาน
+fabo [9] ถั่วชนิดหนึ่ง
+fabriko [8] โรงงาน; fabriki [w] //(tr)// ผลิต; fabrikanto [w] เจ้าของโรงงาน
+facila {UL} [9] ง่าย; facileco [w] ความง่าย
+faco [9] พื้นผิว, ผิวสัมผัส, ผิวหน้า
+fadeno {UL} [6] เส้นดาย
+fago [9] ต้นบีช
+fajenco [9] ดินเหนียวชนิดหนึ่งใช้สำหรับงานปั้นถ้วยชาม = fajencaĵo; fajencaĵo [w] เครื่องดินเผาถ้วยชาม
+fajfi {UL} [7] //(x)// เป่านกหวีด, ผิวปาก; fajfilo [w] นกหวีด; prifajfi [w] //(f)// ประท้วง
+fajro {UL} [4] ไฟ
+fako [6] แผนก, สาขาวิชา; fakulo [w] ผู้เชี่ยวชาญ
+fakto [6] ข้อเท็จจริง
+faktoro [x] เอเย่นต์ขายของ, ปัจจัย, ข้อเท็จจริง
+fakturo [8] ใบสั่งของ, ใบเสร็จ
+falĉi [9] //(tr)// ตัดหญ้า, ดายหญ้า; falĉilo [w] ที่ตัดหญ้า, มีดตัดหญ้า
+faldi {UL} [7] //(tr)// พับ
+fali {UL} [3] //(ntr)// ตก; akvofalo [w] น้ำตก; faligi [w] ทำให้ตก, ผลัก; rulfali //(tr)// ถล่ม, ทลาย @16-04-2025 15:30:04@
+falsa [6] ปลอม, เท็จ; falsi [6] //(tr)// ทำให้ปลอม, ทำให้เท็จ
+fama [6] มีชื่อเสียง; famo [w] ชื่อเสียง; famulo [w] ผู้มีชื่อเสียง, คนดัง
+familiara [9] อย่างเป็นกันเอง
+familio {UL} [3] ครอบครัว; familiano [w] สมาชิกในครอบครัว
+fandi [7] //(tr)// ทำให้...ละลาย
+fanfaroni [8] //(x)// อวด, โอ้อวด @04-02-2025 21:23:40@
+fantazio [8] แฟนตาซี
+fantomo [9] ผี
+farbo [8] สีทา; farbi [w] //(tr)// ทาสี; farbisto [w] ช่างทาสี
+fari {UL} [2] //(tr)// ทำ; fariĝi [w] กลายเป็น = iĝi; bonfaro [w] การกุศล @24-03-2024 18:30:41@
+farmi [8] //(tr)// ทำฟาร์ม; farmo [w] ฟาร์ม
+farti {UL} [7] //(ntr)// สถานะของสุขภาพ //Kiel vi fartas? Mi fartas bone. คุณเป็นอย่างไรบ้าง? ผมสบายดี//; bonfarto [w] การมีสุขภาพที่ดี
+faruno [7] แป้งทำอาหาร
+fasado [9] ด้านหน้าของอาคารหรือสิ่งปลูกสร้าง, (คอม) รูปลักษณ์และการใช้งาน
+fasko [7] (สิ่งที่เป็น)มัด
+fasono [9] การออกแบบ (เสื้อผ้า), รูปแบบ, แฟชั่น
+fasti [9] //(ntr)// อดอาหาร, ถือศีลอด
+faŭko [8] ปาก (สัตว์ใหญ่)
+favora [7] เอื้อเฟื้อ, เมตตา
+fazeolo [9] ถั่วที่มีฝักยาว //(Phaseolus)// @14-10-2024 16:10:16@
+febro [8] ไข้
+Februaro [5] เดือนกุมภาพันธ์
+feĉo [9] ตะกอน
+federacio [9] สหพันธ์, สหพันธรัฐ
+feki [x] //(ntr)// ขี้; fek! //(int)// ห่าเอ้ย; fekaĵo [w] ขี้
+feliĉa {UL} [2] มีความสุข; feliĉo/feliĉeco [w] ความสุข; malfeliĉa [w] ไม่มีความสุข, ทุกข์
+felo [9] หนังดิบ (ที่ยังมีขนอยู่)
+felto [9] ผ้าสักหลาดที่อัดให้หนากว่าปกติ
+femuro [x] ต้นขา, ขาอ่อน
+fendi {UL} [8] //(tr)// ผ่า (ตามยาว); fendo [8] รอยแตกตามยาว
+fenestro {UL} [3] หน้าต่าง
+fenomeno [9] ปรากฏการณ์
+feo [9] ภูต; feino [w] ภูตนางฟ้า
+ferio [7] วันหยุด
+fermi {UL} [3] //(tr)// ปิด → ŝalti; malfermi [w] //(tr)// เปิด
+fero {UL} {KEM} //(ธาตุ)// [4] เหล็ก (Fe); fervojo [w] ทางรถไฟ @11-04-2024 21:36:28@
+fervora [8] กระตือรือร้น, มุ่งมั่น
+festeni [8] //(ntr)// ร่วมงานเลี้ยง; festeno [w] งานเลี้ยง, งานฉลอง
+festi {UL} [4] //(tr)// ฉลอง; festo [w] วันสำคัญทางศาสนา, เทศกาล
+fi- [9] //(pref)// พยางค์เติมหน้าบ่งชี้ถึงความไม่ดี น่าเกลียด ขยะแขยง: fifama [w] มีชื่อเสียงในทางไม่ดี; fivorto [w] คำหยาบคาย; fi! //(int)// [9] คำอุทานในทำนองนั้น
+fianĉo {UL} [7] คู่หมั้นชาย; finaĉino [w] คู่หมั้นหญิง
+fibro [x] เส้นใย, ไฟเบอร์
+fidela {UL} [6] สื่อสัตย์, ซื่อตรง
+fidi [7] //(x)// เชื่อใจ → kredi; fidinda [w] น่าเชื่อถือ, น่าเชื่อใจ; memfido [w] ความเชื่อมั่นตนเอง
+fiera {UL} [6] ภูมิใจ
+figo [9] ผลตระกูลมะเดื่อ ไทรและกร่าง
+figuro [7] รูปร่าง, ลักษณะ
+fikcio [9] นวนิยาย, บันเทิงคดี; fikcia [w] เรื่องแต่งขึ้น, แต่งจากจินตนาการ; sciencfikcio {BELE} {KIN} นิยายวิทยาศาสตร์ @12-10-2024 10:05:57@
+fiksi [5] //(tr)// ยึด, ตรึง, ทำให้...มั่งคง
+filio [x] สาขา
+filmo [7] ฟิล์ม, ภาพยนตร์; filmi [w] //(tr)// ถ่าย(วิดีโอ); filmeto [w] คลิป, หนังสั้น
+filo {UL} [3] ลูกชาย; filino [w] ลูกสาว
+filozofio [x] ปรัชญา
+filozofo [x] นักปรัชญา
+financo [8] การเงิน
+fingro {UL} [3] นิ้วมือ; dikfingro [w] นิ้วโป้ง; montrofingro [w] นิ้วชี้; mezfingro [w] นิ้วกลาง; ringofingro [w] นิ้วนาง; etfingro [w] นิ้วก้อย
+fini {UL} [2] //(tr)// จบ, เลิก → ĉesi; finiĝi [w] //(ntr)// จบ; fino [w] ปลาย, ตอนจบ; finaĵo [w] ตัวลงท้าย
+firma {UL} [6] มั่งคง; malfirma [w] ไม่มั่นคง, ไม่แน่นอน @25-03-2024 16:45:32@
+firmao [x] บริษัท = kompanio
+fiŝo {UL} [4] {ZOO} ปลา; fiŝisto [w] นักตกปลา, คนเลี้ยงปลา, คนขายปลา
+fiziko [8] ฟิสิกส์; fizka [w] กายภาพ; fizkistoนักฟิสิกส์
+flago [6] ธง → standardo
+flagri [9] //(ntr)// (เกี่ยวกับแสง) ส่องแสง, แวววับ, (เกี่ยวกับธง) สะบัดพลิ้วไหว @25-10-2024 11:59:10@
+flamo [7] เปลวไฟ
+flanko {UL} [2] ข้าง, ด้าน
+flari {UL} [8] //(tr)// ดม
+flati [9] //(x)// ประจบ; flatema [w] ขี้ประจบ
+flava {UL} [5] สีเหลือง
+flegi [6] //(tr)// รักษา, ดูแล (คนป่วย); flegistino [w] นางพยาบาล
+fleksi [8] //(tr)// งอ; fleksebla [w] งอได้, ยืดหยุ่น
+fliki [9] //(tr)// ปะ, ชุน (เสื้อผ้า)
+flirti [8] //(ntr)// บินไปมา; //(f)// จีบ = amindumi
+floro {UL} [4] ดอกไม้
+floso [7] แพ; flosi [w] //(ntr)// ลอยน้ำ
+flugi {UL} [3] //(ntr)// บิน; flugilo {ZOO} ปีก
+flui {UL} [5] //(ntr)// ไหล, ล่องลอย, ลื่นไหล, คล่อง
+fluido {UL} [9] ของเหลว
+flustri [9] //(tr)// กระซิบ
+fluto [x] ขลุ่ย; flutisto [w] นักเป่าขลุ่ย
+foiro [8] งานแสดงสินค้า/บริการ
+fojno {UL} [7] หญ้าแห้ง, ฟาง
+fojo {UL} [2] ครั้ง; foje [w] ครั้งหนึ่ง, เคย; fojfoje [w] บางครั้ง
+foko [x] {ZOO} แมวน้ำ
+folio {UL} [5] ใบไม้
+fondi {UL} [8] //(tr)// ก่อตั้ง, สร้าง; fondaĵo [w] มูลนิธิ
+fono [x] พื้นหลัง, ฉากหลัง
+fonografo [8] เครื่องเล่นจานเสียง
+fontano [9] น้ำพุเทียม
+fonto {UL} [5] น้ำพุ, แหล่งข้อมูล
+for {UL} [1] //(adv)// ไกล; for- //(pre)// แสดงถึงความไกล, ไม่มีเหลือ //forkuri [w] วิ่งหนีไปไกล formanĝi [w] กินจนไม่เหลือ//
+forgesi {UL} [4] //(x)// ลืม; forgesema [w] ขี้ลืม
+forĝi {UL} [7] //(tr)// หลอมโลหะ
+forko {UL} [6] ส้อม
+formala [x] เป็นทางการ
+formiko [9] {ZOO} มด
+formo [2] รูปแบบ, ฟอร์ม
+formulo [9] สูตร
+forno {UL} [6] เตาอบ
+forta {UL} [2] แข็งแรง; forto [w] ความแข็งแรง, กำลัง; malforta [w] อ่อนแอ; perforti [w] //(tr)// ใช้กำลัง, ใช้ความรุนแรง
+fortika [7] แข็งแกร่ง
+fosi {UL} [6] //(tr)// ขุด; foso [6] หลุม; fosilo [w] เครื่องมือสำหรับขุด
+fosto [8] เสา, หลัก
+fotelo [9] เก้าอี้มีที่วางแขน
+foti [x] //(tr)// ถ่ายรูป; foto [w] รูปถ่าย; fotisto [w] ช่างภาพ, ช่างถ่ายรูป
+fotografi [7] //(tr)// ถ่ายรูป = foti
+frago [9] ลูกสตรอเบอร์รี่; fragujo [w] ต้นสตรอเบอร์รี่
+frakasi [8] //(tr)// ทำให้...แตก, ทำให้...หัก, ทำลาย
+frako [9] ชุดราตรีสโมสรชาย
+frambo [8] ลูกราสเบอร์รี่; frambujo [w] ต้นราสเบอร์รี่
+frandi [7] //(tr)// กิน...อย่างเอร็ดอร่อย
+frapi {UL} [4] //(tr)// ตี, เคาะ
+frato {UL} [3] พี่ชาย/น้องชาย; fratino [w] พี่สาว/น้องสาว
+fraŭlo {UL} [3] ชายโสด; fraŭlino [w] นางสาว
+frazo [9] ประโยค; ĉeffrazo [w] มุขยประโยค; subfrazo [w] อนุประโยค
+fremda [4] แปลกตา, ต่างประเทศ; fremdulo [w] คนแปลกหน้า, ชาวต่างประเทศ
+freneza [7] บ้า, เพี้ยน; frenezulo [w] คนบ้า
+freŝa {UL} [5] สด, ใหม่
+fripono [9] โจร, อันธพาล
+friti [8] //(tr)// ทอด; frito [w] มันฝรั่งทอด; fritaĵo [w] ของทอด; fritilo [w] กระทะทอด
+frizi [8] //(tr)// ทำผม; frizist(in)o [w] ช่างทำผม
+fromaĝo {UL} [6] เนยแข็ง → butero
+fronto [9] ด้านหน้า, ข้างหน้า; fronti [w] //(x)//, alfronti [w] //(tr)// เผชิญหน้า
+frosto {UL} [7] ความหนาวเยือกแข็ง, ความหนาวจัด; frosta [w] หนาวเยือกแข็ง, หนาวจัด; frostujo [w] ตู้แช่งแข็ง
+froti {UL} [7] //(tr)// ถู
+frua {UL} [3] แต่แรก, แต่เช้า, เร็ว; malfrua [w] สาย, ไม่ทันเวลา
+frukto {UL} [3] ผลไม้
+frunto {UL} [6] {ZOO} หน้าผาก
+fuĝi [9] //(x)// หลบหนี, หลีกหนี → eskapi, rifuĝi
+fulgo [8] เขม่า
+fulmo {UL} [7] ฟ้าแลบ; fulmi [w] ฟ้าแลบ; fulmobati/fulmofrapi [w] ฟ้าผ่า
+fumo {UL} [6] ควัน; fumi [6] //(ntr)// สูบบุหรี่
+fundamento [8] หลักพื้นฐาน: Fundamento de Esperanto [w] หลักพื้นฐานภาษาเอสเปรันโต
+fundo {UL} [5] ก้นบึ้ง
+funebro [8] การไว้ทุกข์; funebraĵoj งานศพ
+funelo [9] ปล่อง, ปล่องควัน, ปากลำโพง
+fungo [9] เห็ด
+funkcio [8] ฟังก์ชัน, การใช้งาน; funkcii [w] //(ntr)// ทำงาน, ดำเนินการ
+funto [8] ปอนด์ (มาตราวัด)
+furaĝo [9] อาหารสัตว์ที่ทำจากพืช เช่น ฝาง
+furioza [9] โกรธจัด, โกรธเป็นไฟ
+furzi [x] //(ntr)// ผายลม, ตด
+fuŝi [9] //(tr)// ทำ...ผิด, ทำ...ผิดพลาด, ทำ...เสีย
+futbalo [x] ฟุตบอล = piedpilko; futbalisto [w] นักฟุตบอล
+futo [x] ฟุต (มาตราวัด) → colo
+<!-- G -->
+gaja {UL} [4] ร่าเริง, เบิกบานใจ; malgaja [w] หดหู่
+gajni {UL} [4] //(tr)// ได้รับ (จากความพยายามหรือจากการเสี่ยงโชค) → akiri, ricevi
+galo [9] น้ำดี; galveziko [w] ถุงน้ำดี; galdukto [w] ท่อน้ำดี
+galoŝo [9] รองเท้ายางกันน้ำ
+gambo [x] ขา
+gamo [x] บันไดเสียง, เสียง, สิ่งทั้งหมด
+ganto {UL} [8] ถุงมือ
+garaĝo [8] โรงรถ
+garantii [8] //(x)// การันตี, รับรอง; garantio [w] การันตี, การรับรอง
+garbo [9] มัด, กอง, ฝ่อน (พืช) → fasko
+gardi {UL} [5] //(tr)// คุ้มครอง, ป้องกัน; gardisto [w] คนคุ้มครอง; singardi [9] รอบคอบ, ระมัดระวัง
+garni [9] //(tr)// ทำให้สมบูรณ์, ตกแต่ง
+gaso [6] แก๊ส, ก๊าซ
+gasto {UL} [6] แขก; gastigi [w] รับเป็นแขก; gastejo [w] โรงแรมขนาดเล็ก; เกสต์เฮาส์
+gastronomio [x] ศิลปะการชิม, ศิลปะการทำอาหาร
+gazeto [4] นิตยสาร → revuo
+ge- {UL} [0] //(pre)// พยางค์เติมหน้าเพื่อแสดงถึงทั้งสองเพศ: gepatroj พ่อแม่, geamikoj เพื่อนชายหญิง
+gelateno [9] {ZOO} เจละติน
+generacio [x] ยุค, ชั่วคน, เจเนอเรชัน
+generalo [x] พลเอก, นายพล
+genio [8] ความอัจฉริยะ, อัจฉริยภาพ; geniulo [w] คนเก่ง, คนอัจฉริยะ
+gento [9] ชนชาติ, เชื้อชาติ
+genuo {UL} [5] หัวเข่า
+geografio [9] ภูมิศาสตร์
+gesto [8] ท่าทาง; gesti [w] //(ntr)// ทำท่าทาง
+giĉeto [x] ช่องขายตั๋ว, เคาน์เตอร์จำหน่ายตั๋ว
+giganto [x] ยักษ์
+girlando [9] พวงดอกไม้, พวงมาลัย
+glacio {UL} [5] น้ำแข็ง; glaciaĵo [w] ไอศกรีม
+gladi [8] //(tr)// รีด(ผ้า); gladilo [w] เตารีด
+glaso {UL} [4] แก้ว, ถ้วยแก้ว
+glata {UL} [7] เรียบ
+glavo {UL} [9] มีดดาบ; glavingo [w] ฝักมีดดาบ
+gliti {UL} [6] //(ntr)// ลื่น, ลื่นไถล
+globo [7] ลูกโลก, โลก
+gloro {UL} [7] การสรรเสริญ, เชิดชู, การสดุดี
+gluo [7], gluaĵo/gluilo [w] กาว; glui [w] //(tr)// ติดกาว
+gluti {UL} [6] //(tr)// กลืน
+gobio [9] {ZOO} ปลาบู่
+golfo [8] อ่าว, {SPO} กอล์ฟ
+golo [x] ประตูฟุตบอล
+gorĝo {UL} [7] ลำคอ
+gracia [7] สวยงาม, งดงาม, นิ่มนวล
+grado [7] ระดับ, เกรด, องศา
+grajno [8] เม็ด (ลักษณะเป็นเม็ด)
+gramatiko [9] {LIN} ไวยากรณ์
+grambli [9] //(ntr)// กรีดร้อง
+gramo [9] กรัม
+granda {UL} [2] ใหญ่; grandeco [w] ความใหญ่; malgranda [w] เล็ก
+grandioza [9] อลังการ; ใหญ่โตมโหฬาร
+graso {UL} [6] ไขมัน, น้ำมัน; grasa [w] เป็นมัน, อ้วน
+grati {UL} [9] //(tr)// ข่วน, เกา; grato [w] รอยข่วน
+gratuli {UL} [8] //(tr)// แสดงความยินดี: Gratulojn! ขอแสดงความยินดีด้วย
+grava {UL} [2] สำคัญ; gravulo [w] บุคคลสำคัญ
+graveda [9] ท้อง, ตั้งครรภ์; gravediĝi [w] ตั้งท้อง, ตั้งครรภ์; gravedulino [w] คนท้อง, หญิงตั้งครรภ์
+grego [9] {ZOO} ฝูงสัตว์
+greno [5] ธัญพืช
+grimaci [9] //(ntr)// ทำหน้าหน้าตาบูด, ทำหน้าบึ้ง
+grimpi [7] (sur) //(ntr)// ปีน
+grinci [9] //(ntr)// เสียงดังเอี๊ยด, เสียงดังครูด
+gripo [9] ไข้หวัดใหญ่
+griza {UL} [5] สีเทา
+groto [9] ถ้ำประดิษฐ์
+grundo [7] ดิน
+gruo [9] {ZOO} นกกระเรียน
+grupo [5] กลุ่ม; grupano [w] สมาชิกในกลุ่ม
+gudro [9] น้ำมันดิน
+gumo [9] ยางไม้, กาวยางไม้; maĉgumo [w] หมากฝรั่ง
+gusto {UL} [7] รสชาติ; gustumi [9] //(tr)// ชิม
+guto {UL} [6] หยด; guti [w] //(ntr)// หยดลงมา
+gvardio [9] ทหารองครักษ์
+gvidi [6] //(tr)// นำทาง, นำเที่ยว, แนะนำ; gvidisto [w] คนนำทาง, คนนำเที่ยว; la plej supera gvidanto [w] ผู้นำสูงสุด
+<!-- Ĝ -->
+ĝangalo [x] ป่าดงดิบ
+ĝardeno {UL} [4] สวน
+ĝemelo [9] แฝด
+ĝemi [7] //(ntr)// คร่ำครวญ; ĝemo [w] เสียงคร่ำครวญ; ĝemistino [w] นางร้องไห้; ekĝemi [w] //(ntr)// เริ่มคร่ำครวญ, ถอนหายใจ; dolorĝemi [w] ร้องคร่ำครวญด้วยความเจ็บปวด; plorĝemi [w] //(ntr)// ร้องไห้คร่ำครวญ, สะอื้นสะอื้น; sopirĝemi [w] ถอนหายใจ = suspiri @10-10-2024 16:12:39@
+ĝendarmo [9] สารวัตรทหาร
+ĝenerala [6] ทั่ว ๆ ไป
+ĝeni [6] //(tr)// รบกวน, ทำให้รำคาญ
+ĝentila [6] สุภาพ; malĝentila [w] หยาบคาย
+ĝermo [9] ตัวอ่อน; ĝermi [w] //(ntr)// เกิดตัวอ่อน, เจริญเติบโต
+ĝi [1] มัน (สรรพนามบุรุษที่ 3 เอกพจน์ ไม่แสดงเพศ)
+ĝibo [9] โหนก (เช่นอูฐ); ĝibulo [w] คนหลังค่อม
+ĝirafo [x] ยีราฟ
+ĝis [1] //(prep)// จนกระทั่ง, ถึง; Ĝis revido [w] แล้วพบกันใหม่
+ĝoji [2] //(ntr)// ยินดี, ดีใจ; ĝojo [w] ความยินดี, ความดีใจ; malĝojo [w] ความเศร้าโศกเสียใจ
+ĝui [7] //(tr)// สนุก, เพลิดเพลิน
+ĝusta [4] ถูกต้อง; ĝustigi [w] //(tr)// แก้ให้ถูก = korekti; malĝusta [w] ผิดกฎหมาย
+<!-- H -->
+ha! {UL} [1] //(int)// ฮะ!
+hajlo {UL} [8] ลูกเห็บ
+haki [7] //(tr)// ผ่าด้วยขวาน; hakilo [w] ขวาน
+halo [9] หอประชุมใหญ่
+halo! [9], ha lo!, ha-lo! //(int)//  ฮัลโหล
+halti {UL} [3] //(ntr)// หยุด (การเคลื่อนไหว) → ĉesi; haltejto [w] ป้ายหยุดรถ; busheltejo [w] ป้ายหยุดรถประจำทาง
+hangaro [9] โรงเก็บเครื่องบิน
+haringo {UL} [9] {ZOO} ปลาเฮอร์ริง
+harmonio [9] เสียงประสาน, ความประสานกัน, ความสอดคล้องกัน, ความเป็นอันหนึ่งอันเดียวกัน, ความปรองดองกัน
+haro {UL} [3] เส้นขน; hararo [w] ผม
+haŭto {UL} [6] ผิวหนัง
+haveno [7] ท่าเรือขนาดใหญ่; flughaveno [w] สนามบิน
+havi {UL} [2] //(tr)// มี; enhavo [w] สิ่งที่อยู่ข้างใน, สารบัญ; havigi [9] ทำให้...มี
+hazardo [9] เหตุบังเอิญ
+he! [8] //(int)// เฮ้
+heĝo [9] แนวพุ่มไม้
+hejmo [3] บ้าน; hejme [w] ในบ้าน; hejmen เข้าไปในบ้าน
+hejti {UL} [6] ทำให้...ร้อน
+hektaro [9] หน่วยวัดของพื้นที่ (1 เฮกตาร์เท่ากับ 100 เอเคอร์ หรือ 10000 ตารางเมตร)
+hela [4] สว่าง; malhela [w] มืด
+heliko [x] {ZOO} หอยทาก, {KOMP} ชื่ออย่างไม่เป็นทางการของเครื่องหมาย @ ที่ใช้ในการเขียนโปรแกรมหรือที่อยู่อีเมล @06-04-2024 14:51:24@
+helikoptero [9] เฮลิคอปเตอร์
+helpi {UL} [2] //(tr)// ช่วยเหลือ; helpo [w] การช่วยเหลือ; helpanto [w] ผู้ช่วย; malhelpi [w] ขัดขวาง
+hepato [9] ตับ
+herbo {UL} [5] หญ้า
+heredi {UL} [8] //(ntr)// รับมรดก; heredaĵo [w] มรดก
+heroldo [9] ผู้ถือสาร, ผู้ป่าวประกาศ, ผู้แจ้งข่าว
+heroo [8] ฮีโร่
+heziti [7] //(ntr)// ลังเล; heziteco [w] ความลังเล
+hieraŭ {UL} [1] //(adv)// เมื่อวาน; antaŭhieraŭ เมื่อวานซืน
+higieno [9] สุขลักษณะ, สุขภาพศาสตร์
+himno [9] เพลงสวด; เพลงสรรเสริญ
+hirudo [x] {ZOO} ปลิง
+hirundo [7] {ZOO} นกนางแอ่น
+historio [4] ประวัติศาสตร์
+ho! {UL} [1] //(int)// โอ้, พุทโธ่
+hodiaŭ {UL} [1] //(adv)// วันนี้
+hoko [8] ตะขอ
+homo {UL} [2] {ZOO} คน, มนุษย์; homaro [w] มนุษยชาติ
+honesta {UL} [6] ซื่อสัตย์, ใจจริง, ไม่หลอกลวง
+honoro [6] เกียรติ, เกียรติยศ; honori [w] //(tr)// ให้เกียรติ, ยกย่อง
+honti {UL} [6] //(x)// อาย, อับอาย
+hordeo [9] ข้าวบาร์เลย์
+horizontalo [9] แนวนอน
+horizonto [9] เส้นขอบฟ้า, แนวนอน
+horloĝo {UL} [5] นาฬิกา; brakhorloĝo [w] นาฬิกาข้อมือ
+horo {UL} [3] ชั่วโมง; horaro [w] ตารางเวลา
+hospitalo [8] โรงพยาบาล = malsanulejo
+hotelo {UL} [7] โรงแรม
+hufo [8] {ZOO} กีบเท้าสัตว์
+humana [9] มีมนุษยธรรม
+humida [8] ชื้น
+humila {UL} [7] ถ่อมตัว, เจียมตัว, อ่อนน้อม = modesta; humileco [w] การถ่อมตัว, การเจียมตัว, การอ่อนน้อม
+humoro [7] อารมณ์
+humuro [x] อารมณ์ขัน
+hundo {UL} [4] {ZOO} สุนัข, หมา
+<!-- Ĥ -->
+ĥameleono [x] กิ้งก่าคามิเลียน
+ĥaoso/kaoso [x] 1. {MIT} ภาวะโกลาหล, 2. //(f)// ความยุ่งเหยิง, ความวุ่นวาย, ความสับสนอลหม่าย; ĥaosa/kaosa ยุ่งเหยิง, วุ่นวาย, สับสนอลหม่าย, ไร้ระเบียบ; ĥaose/kaose ด้วยความยุ่งเหยิง; ĥaosigi ทำให้เกิดความยุ่งเหยิง @19-04-2025 09:31:55@
+ĥemio [8] = kemio [w] เคมี
+ĥoro [9] = koruso [w] การร้องประสานเสียง
+<!-- I -->
+-i {UL} [0] //(fin)// ตัวลงท้ายของกริยาไม่แสดงกาล (ใช้ต่อจากกริยาที่ผันแล้ว //Mi povas paroli Esperanton ผมสามารถพูดภาษาเอสเปรันโต//, หรือใช้เป็นอาการนามขึ้นต้นประโยค //resti kun leono estas danĝere [w] การอาศัยอยู่กับสิงโตเป็นสิ่งที่อันตราย//)
+ia {UL} [1] //(adj)// บางอย่าง, ชนิดใดชนิดหนึ่ง; iafoje [9] บางครั้ง
+ial [6] //(adv)// บางเหตุผล
+iam {UL} [1] //(adv)// บางเวลา, เคย
+-id- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงว่าเป็นลูก; ido [w] ลูก
+idealo [8] [อุดมคติ, จุดยืน; idealisto [w] นักอุดมคติ
+identa [8] อย่างเดียวกัน, เหมือนกัน; identigilo [w] บัตรประชาชน
+ideo [4] แนวคิด, ไอเดีย
+ideologio [x] แนวคิดอุดมคติ = idearo
+ie {UL} [1] //(adv)// ที่ใดที่หนึ่ง, สักที่หนึ่ง
+iel [6] //(adv)// บางวิธี
+ies {UL} [6] //(pro)// ...ของใครบางคน
+-ig- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อบ่งชี้ความเป็นสกรรมมักใช้กับกริยา: manĝigi [w] ทำให้...กิน, ให้อาหาร; lacigi [w] ทำให้...เหนื่อย
+ignori [9] //(tr)// เพิกเฉย, มองข้าม
+-iĝ- {UL} [0] //(suf)// พยางค์เติมท้ายมีความหมายถึงการรับสถานะใหม่: sidi [w] นั่งอยู่; sidiĝi [w] รับสถานะของการนั่ง = นั่งลง; iĝi [w] กลายเป็น = fariĝi
+ikso [x] ตัวอักษร X, x
+-il- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงว่าเป็นอุปกรณ์หรือเครื่องมือ: skribilo [w] เครื่องเขียน; muzikilo [w] เครื่องดนตรี; ilo [w] อุปกรณ์, เครื่องมือ
+ili {UL} [1] พวกเขา, พวกมัน; ilia [w] ของพวกเขา, ของพวกมัน
+ilustri [8] //(tr)//ตกแต่ง...ด้วยรูปภาพ
+iluzio [x] ภาพมายา, สิ่งลวงตา
+imagi [6] //(tr)// จินตนาการ; imago [w] จินตนาการ
+imiti [6] //(tr)// เลียนแบบ
+imperio [8] จักรวรรดิ; imperiestro [w] จักรพรรดิ
+impeti [9] //(ntr)// ปะทะ, กระทบ
+impliki [9] //(tr)// ทำให้ยุงเหยิง, ทำให้ติดอยู่(ใน)
+impona [x] น่าประทับใจ, น่าทึ่ง
+importi [8] //(tr)// นำเข้า(สินค้า), อิมพอร์ต
+imposto [8] ภาษี; impostisto [w] คนเก็บภาษี
+impreso [8] ความประทับใจ
+impulso [9] แรงกระตุ้น, แรงพลัก
+imuna [9] มีภูมิคุ้มกัน
+-in- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงว่าเป็นเพศหญิง: viro [w] ผู้ชาย, virino [w] ผู้หญิง
+inciti [9] //(tr)// ยั่วโมโห
+-ind- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงว่าคุณค่าหรือมีความสมควร: aminda [w] น่ารักใคร่; manĝinda [w] น่ากิน
+indiano [x] ชาวอินเดียนแดง
+indiferenta [8] ไม่น่าสนใจ, เฉย ๆ
+indigni [9] //(ntr)// แสดงอาการไม่พอใจ, โกรธแค้น
+indiĝeno [x] ชาวพื้นเมือง
+indiki [9] //(tr)// บ่งชี้, บ่งบอก, แสดง, ระบุ; indiko ข้อบ่งชี้, หลักฐาน, {MED} อาการโรค; indikaĵo ข้อบ่งชี้, หลักฐาน; idikilo อินดิเคเตอร์, เครื่องชี้วัด, ตัวบ่งชี้; uzindiko วิธีการใช้งาน @12-11-2024 22:05:28@
+individuo [9] บุคคล, ปัจเจกชน
+indulgi [9] //(x)// เมตตา, ปราณี
+industrio [6] อุตสาหกรรม
+infano {UL} [2] เด็ก; infaneco [w] วัยเด็ก; infanistino [w] คนเลี้ยงเด็ก
+infekti [9] //(tr)// ทำให้...ติดเชื้อ
+infero [9] นรก
+inflamo [x] การอักเสบ
+influi [8] //(tr)// มีอิธพลต่อ; influo [w] อธิพล;
+informi [6] //(tr)// ประชาสัมพันธ์, ให้ข้อมูล; informo [w] ข้อมูลประชาสัมพันธ์, ข้อมูล
+-ing- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงด้ามจับหรือปลอกสวม
+inĝeniero [8] วิศวกร
+iniciati [9] //(tr)// ริเริ่ม; iniciatinto [w] ผู้ริเริ่ม
+injekti [9] //(tr)// ฉีด (ยา)
+inklina [8] มีแนวโน้ม
+inko {UL} [5] หมึก
+insekto [5] แมลง
+insidi [9] //(tr)// ลอบทำร้าย; mortinsidi [w] ลอบสังหาร @01-01-2023-w@
+insigno [9] เครื่องหมาย, เครื่องหมายแสดงยศ
+insisti [8] //(ntr)// ยืนยัน, ยืนกราน → aserti [w] ยืนยัน
+inspekti [x] //(tr)// ตรวจสอบ(งาน)
+inspektoro [9] ผู้ตรวจสอบ = inspektisto
+inspiri [9] //(tr)// ให้แรงบันดาลใจ; inspiro [w] แรงบันดาลใจ
+instali [9] //(tr)// ติดตั้ง
+instanco [9] สภา, หน่วยงาน, คณะ (ที่เกี่ยวข้องกับกฎหมาย)
+instigi [8] //(tr)// กระตุ้น, ส่งเสริม
+instinkto [7] สัญชาตญาณ
+institucio [x] สถาบัน
+instituto [x] สถาบัน (ในทางการศึกษา)
+instrui {UL} [5] //(tr)// สอน; instruisto [w] ครู
+instrumento [8] เครื่องมือ, อุปกรณ์
+insulo {UL} [6] เกาะ; insularo [w] หมู่เกาะ
+insulti {UL} [8] //(tr)// ดูถูก
+-int- {UL} [0] //(suf)// พยางค์เติมท้ายแสดงลักษณะของกริยาที่ดำเนินไปแล้ว
+intelekto [8] สติปัญญา
+inteligenta [8] ฉลาด, มีสติปัญญา
+intenci {UL} [5] //(tr)// ตั้งใจ; intenco [w] ความตั้งใจ; senintence [w] ไม่ได้ตั้งใจ
+intensa [x] เข้มข้น, หนาแน่น
+inter {UL} [1] //(prep)// อยู่ในระหว่าง, ท่ามกลาง
+interesa [3] น่าสนใจ; intereso [3] ความสนใจ; interesi [w] //(tr)// น่าสนใจสำหรับ //Ŝi tre interesas min เธอน่าสนใจมากสำหรับผม//
+interna {UL} [4] ด้านใน, ภายใน
+interpelacii [9] //(tr)// การตั้งกระทู้ถาม; interpelacio [w] กระทู้ถาม
+interpreti [9] //(tr)// ตีความ, ล่าม; interpretisto [w] ล่าม
+intervjui [x] //(tr)// สัมภาษณ์; intervjuo [w] การสัมภาษณ์
+intesto [9] ลำไส้
+intima [9] คุ้นเคย
+inundi [9] //(tr)//, inundo [w] น้ำท่วม
+invalido [9] คนพิการ, คนป่วย
+inventi [9] //(tr)// สร้าง, ประดิษฐ์
+inversa [x] กลับด้าน
+inviti {UL} [5] //(tr)// เชิญ; invitilo [w] จดหมายเชิญ
+io {UL} [1] //(pro)// อะไรสักอย่างหนึ่ง, บางอย่าง //io interesa [w] บางอย่างที่น่าสนใจ//
+iom {UL} [1] //(adv)// จำนวนหนึ่ง, นิดหน่อย
+ipsilono [x] ตัวอักษร Y, y
+iri {UL} [2] ไป; eliri [w] //(ntr)// ออกข้างนอก, ออกสู่สาธารณะ; elirejo [w] ทางออก; eniri [w] เข้ามาใน; foriri [w] จากไปไกล
+ironio [9] คำเหน็บแนม, คำประชด
+-is {UL} [0] //(fin)// ตัวลงท้ายของกริยารูปอดีตกาล (...แล้ว)
+-ism- [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงระบบความคิด ความเชื่อ: budhismo [w] ศาสนาพุทธ
+-ist- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงว่าเป็นผู้ประกอบอาชีพหรือผู้มีความเชื่อ: instruisto [w] ครู; naciisto [w] นักชาตินิยม
+-it- {UL} [0] //(suf)// พยางค์เติมท้ายแสดงลักษณะของกริยาถูกกระทำที่ดำเนินไปแล้ว
+iu {UL} [1] //(pro)// คนใดคนหนึ่ง, สิ่งใดสิ่งหนึ่ง //(adj)// บาง…
+izoli [9] //(tr)// แยกออก, แยกตัวออก, ทำให้เป็นฉนวน
+<!-- J -->
+-j {UL} [0] //(fin)// ตัวลงท้ายแสดงความเป็นพหูพจน์
+ja {UL} [1] อย่างแท้จริง, แน่นนอน
+jaĥto [x] เรือยอร์ช
+jako [6] เสื้อแจ็คเก็ต
+jam {UL} [1] //(adv)// แล้ว
+Januaro [5] เดือนมกราคม
+jaro {UL} [2] ปี; ĉiujare [w] ทุกปี; novjaro [w] วันขึ้นปีใหม่
+je {UL} [1] //(prep)// ใน, ที่, ต่อ
+jen {UL} [1] นี่, ดูสิ
+jes {UL} [1] ใช่; kapjesi [w] พยักหน้าใช่
+ju...des... {UL} [8] //(adv)// ยิ่ง... ยิ่ง....
+jubileo [9] การฉลองครบรอบ 25, 50 หรือ 100 ปี
+jugo [9] แอก, ไม้คาน
+juĝi {UL} [5] //(tr)// ตัดสิน, พิพากษา; juĝejo [w] ศาล; juĝisto [w] ผู้พิพากษา; antaŭjuĝo [w] ความมีอคติ, อคติ
+juki [9] //(tr)// ทำให้คัน
+Julio [7] เดือนกรกฎาคม
+juna {UL} [1] หนุ่ม, สาว; juneco [w] ความหนุ่มสาว; junulo [w] วัยรุ่น; maljuna [w] แก่
+jungi [9] //(tr)// ลาก
+Junio [5] เดือนมิถุนายน
+jupo [7] กระโปรง
+juro [8] กฎหมาย → leĝo
+justa {UL} [4] ยุติธรรม; justeco [w] ความยุติธรรม
+juvelo [8] เพชรพลอย
+<!-- Ĵ -->
+ĵaluza [8] อิจฉา, หึง → envii
+ĵaŭdo {UL} [5] วันพฤหัสบดี
+ĵeti {UL} [3] //(tr)// ขว้าง, ปา; forĵeti [w] ขว้างทิ้ง, ทิ้ง
+ĵuri {UL} [8] //(tr)// สาบาน
+ĵurnalo [8] หนังสือพิมพ์; ĵurnaristo [w] นักข่าว, นักหนังสือพิมพ์; ĵurnalismo [w] วารสารศาสตร์, การหนังสือพิมพ์
+ĵus [1] //(adv)// เพิ่งจะ
+<!-- K -->
+kabano [9] กระท่อม
+kabineto [8] ห้องทำงานเฉพาะ, คณะรัฐมนตรี = ministraro
+kaĉo [9] อาหารบด
+kadavro [x] ศพ, ซากศพ
+kadro [7] กรอบ; kadre (de) ในกรอบ(ของ)
+kaduka [9] ชำรุด
+kafo {UL} [5] กาแฟ; kafejo [w] ร้านกาแฟ
+kaĝo [9] กรง
+kahelo [9] แผ่นกระเบื้องปูพื้น
+kaj {UL} [1] //(kon)// และ
+kajero {UL} [6] สมุด
+kajo [9] ท่าเรือ, ชานชาลารถไฟ
+kajuto [9] ห้องคนขับ
+kakao [9] โกโก้
+kakto [9] กระบองเพชร
+kaldrono {UL} [9] หม้อขนาดใหญ่
+kalendaro [8] ปฏิทิน
+kalkano [8] ส้นเท้า; kalkanumo [9] ส้นรองเท้า
+kalkuli {UL} [4] //(tr)// คำนวณ, นับ
+kalo [9] หนังด้าน, ตาปลา (ผิวหนังกดทับ)
+kalsono [8] กางเกงใน
+kalumnii [9] //(tr)// ใส่ร้าย
+kamarado [7] สหาย
+kameleono [x] กิ้งก่าคามิเลียน
+kamelo [9] {ZOO} อูฐ
+kameno {UL} [6] เตาผิง, เตาไฟ
+kamero [x] ห้องมืด
+kamiono [8] รถบรรทุก; kamioneto [w] รถตู้บรรทุก
+kampo {UL} [2] ทุ่ง, นา, สนาม, พื้นที่; kamparo [w] ท้องทุ่ง
+kanalo [9] คลอง, ช่อง
+kancero [x] มะเร็ง; mamkancero [w] มะเร็งเต้านม
+kandelo {UL} [8] เทียน
+kandidato [9] ผู้สมัคร; kandidatiĝi [w] สมัครเข้าชิง
+kanguruo [x] {ZOO} จิงโจ้
+kanjono [x] หุบเขาลึก
+kankro [9] {ZOO} เครย์ฟิช, ล็อบสเตอร์น้ำจืด, IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ecrevisse_pattes_rouges.jpg/100px-Ecrevisse_pattes_rouges.jpg] {AST} กลุ่มดาวปู, กลุ่มดาวกรกฎ
+kanti {UL} [3] //(x)// ร้องเพลง; kanto [w] เพลง; kantisto [w] นักร้อง
+kanzono [8] โคลงชนิดหนึ่งเพื่อร้องเพลง
+kapabla [5] มีความสามารถ; kapablo [w] ความสามารถ
+kapitalo [8] {EKON} ทุน; kapitalismo [w] ทุนนิยม
+kapo {UL} [2] ศีรษะ, หัว
+kaprica [8] ทำตามอำเภอใจ → arbitra; kaprico [w] ความต้องการที่คาดเดาไม่ได้, การเอาแต่ใจ
+kapro [6] {ZOO} แพะ
+kapti {UL} [4] //(tr)// จับ
+kara {UL} [4] ที่รัก, มีคุณค่า, ราคาแพง = multekosta
+karafo [9] ขวดชนิดหนึ่งใช้ใส่น้ำดื่มหรือไวน์เพื่อเสิร์ฟที่โต๊ะอาหาร
+karaktero [7] ลักษณะ, บุคลิก
+karbo {UL} [6] ถ่านหิน
+karesi {UL} [8] //(tr)// ลูบเบา ๆ ด้วยความรัก
+kariero [x] อาชีพ, เส้นทางชีวิต
+karnavalo [9] งานฉลอง, งานเทศกาล
+karno [9] เนื้อ, เนื้อผลไม้, เลือดเนื้อ, ร่างกาย
+karoto [7] แครอท
+karto [5] การ์ด, บัตร bildkarto [w] ไปรษณียบัตร
+kartono [9] กระดาษแข็ง
+kaserolo [7] หม้อแกง
+kaskedo [9] หมวกแก็บ
+kaso [8] ที่เก็บเงิน; kasisto [w] เจ้าหน้าที่การเงิน
+kastelo [8] ปราสาท
+kaŝi {UL} [4] //(tr)// ซ่อน
+kaŝtano [9] เกาลัด
+katalogo [9] แคตตาล็อก
+kataro [7] โรคหวัดที่มีน้ำมูกไหลออกมาก
+kategorio [9] หมวดหมู่
+kateno [8] ตรวน; mankateno [w] กุญแจมือ
+kato {UL} [4] {ZOO} แมว
+kaŭĉuko [7] ยาง (จากต้นยาง)
+kaŭri [x] //(ntr)// นั่งยอง ๆ = kalkansidi
+kaŭzo {UL} [4] เหตุที่ทำให้เกิด; kaŭzi [w] //(tr)// เป็นเหตุที่ทำให้เกิด
+kaverno [9] ถ้ำ
+kavo [7] โพรง, ช่องว่าง
+kazo [9] กรณี, โอกาส, {GRA} การก
+ke {UL} [1] //(kon)// ว่า (ใช้เริ่มอนุประโยค)
+kejlo [9] หมุดตอก, หมุดยึด
+kelka {UL} [2] จำนวนไม่มาก, บาง...: kelkaj homoj บางคน
+kelnero [7] บริกรชาย, เด็กเสิร์ฟ, บ๋อย
+kelo [6] ห้องใต้ดิน
+kemio [x] เคมี; kemiaĵo [w] สารเคมี
+kerno [9] แก่น
+kesto {UL} [6] หีบ
+kia {UL} [1] //(adj)// ชนิดไหน, แบบไหน, //(int)// ใช้แสดงการอุทานแสดงความประหลาดใจ โดยใช้ร่วมกับคำนามมาขยาย, //(ril)// ซึ่งเป็นอย่างที่
+kial {UL} [1] //(adv)// ทำไม, เหตุใด
+kiam {UL} [1] //(adv)// เมื่อไร, ตอนไหน, //(ril)// เมื่อ, ในตอนที่
+kie {UL} [1] //(adv)// ที่ไหน //(ril)// ที่ซึ่ง, ในที่ซึ่ง
+kiel {UL} [1] //(adv)// อย่างไร, วิธีไหน, //(int)// ใช้แสดงการอุทานแสดงความประหลาดใจ โดยใช้ร่วมกับคำคุณศัพท์หรือกริยาวิเศษณ์มาขยาย, //(ril)// เหมือน, ดั่ง, ราวกับ
+kies {UL} [1] //(pro)// ของใคร, //(ril)// ซึ่ง...ของ... //Jen estas mia amiko, kies nomo estas Marko [w] นี่คือเพื่อนของผม ซึ่งชื่อของเขาคือมาร์ก (นี่คือเพื่อนของผมที่ชื่อว่ามาร์ก)//
+kilogramo [6] กิโลกรัม
+kilometro [8] กิโลเมตร
+kino [8] ภาพยนตร์; kinejo [w] โรงภาพยนตร์
+kio {UL} [1] //(adj)// อะไร //(ril)// ซึ่ง
+kiom {UL} [1] //(adv)// เท่าไหร่, //(int)// ใช้แสดงการอุทานแสดงความประหลาดใจที่เกี่ยวข้องกับจำนวน; kioma [w] ที่เท่าไหร่, เท่าไหร่
+kirurgio [9] ศัลยกรรม
+kirurgo [9] ศัลยแพทย์
+kisi {UL} [6] //(tr)// 1. จูบ, จุมพิต, 2. สัมผัสเบา ๆ; kiso [w] 1. การจูบ, การจุมพิต, 2. การสัมผัสเบา ๆ; kisinda [w] น่าจูบ; interkisi/interkisiĝi จูบซึ่งกันและกัน @20-04-2025 15:04:22@
+kitelo [8] เสื้อคลุมยาว, เสื้อกาวน์
+kiu {UL} [1] //(pro)// อันไหน, คนไหน, ใคร, //(adj)// ...ไหน //(ril)//, //(adv)// ซึ่งเป็นผู้ที่, ซึ่งเป็นสิ่งที่, //(adj)// ซึ่งเป็น...ที่
+klara {UL} [2] กระจ่าง, สะอาด, ใส; klarigi [w] ทำให้กระจ่าง, อธิบาย; malklara [w] ไม่กระจ่าง, ไม่ชัดเจน
+klasika [9] คลาสสิก, รูปแบบดั้งเดิม
+klaso [5] ชั้นเรียน; samklasano [w] เพื่อนร่วมชั้นเรียน
+klavo [x] แป้นกด, คีย์; klavaro [w] แป้นพิมพ์, คีย์บอร์ด
+klera [7] มีการศึกษา, มีความรู้, มีวัฒนธรรม; klerulo [w] ผู้มีความรู้
+kliento [8] ลูกค้า
+klimato [9] ภูมิอากาศ, สภาพอากาศ→ vetero
+klingo [7] ใบมีด
+klini [5] //(tr)// ทำให้...โค้ง, ก้ม
+kliniko [9] คลินิก
+klopodi [9] //(ntr)// พยายาม
+klubo [9] ชมรม; klubano [w] สมาชิกชมรม
+knabo {UL} [3] เด็กผู้ชาย; knabino [w] เด็กหญิง
+knedi [8] //(tr)// นวด, ปั้น
+koketa [9] ยั่วยวน
+koko {UL} [5] {ZOO} ไก่ตัวผู้; kokido [w] ลูกเจี๊ยบ; kokino [w] ไก่ตัวเมีย
+kokono [x] {ZOO} รังไหม, รังไข่แมลง → raŭpo
+kokoso [9] มะพร้าว; kokosarbo [w] ต้นมะพร้าว
+kokso [x] สะโพก
+kolbaso [x] ไส้กรอก
+kolegio [9] วิทยาลัย
+kolego {UL} [x] เพื่อนร่วมงาน
+kolekti {UL} [4] //(tr)// รวบรวม, สะสม; kolekto [w] ของสะสม, การสะสม, ประมวล
+kolektiva [9] ซึ่งทำร่วมกันหลายคน
+koleri {UL} [4] //(x)// โกรธ; kolero [w] ความโกรธ
+kolizii [9] //(ntr)// ชนกัน, ประสานงาน
+kolo {UL} [4] คอ; kolumo [8] คอเสื้อ
+kolombo [9] {ZOO} นกพิราบ
+kolonelo [9] พันเอก
+kolonio [x] เมืองขึ้น, อาณานิคม; koloniismo [w] ลัทธิล่าอาณานิคม
+kolono {UL} [8] เสาโรมัน → fosto
+koloro {UL} [3] สี; kolorigi [w] ระบายสี, ทาสี
+kolumno [9] คอลัมน์, แถว
+komandi [8] //(x)// บังคับบัญชา, สั่ง
+kombi {UL} [6] //(tr)// หวี (ผม); kombilo [w] หวี
+kombini [9] //(tr)// รวมกัน, ประกอบกัน, ประสานกัน @06-04-2024 14:39:47@
+komedio [9] การแสดงตลก; komediisto [w] นักแสดงตลก
+komenci {UL} [2] //(tr)// เริ่ม (บางอย่าง); komenco [w] การเริ่มต้น (บางอย่าง); komencanto [w] ผู้เริ่มต้น; komenciĝi [w] //(ntr)// เริ่ม
+komerci {UL} [2] //(tr)// ทำการค้าขาย, ทำธุรกิจ; komerco [w] การทำการค้าขาย, การทำธุรกิจ; komercisto [w] นักธุรกิจ
+komforta [6] สบาย; komforto [w] ความสบาย; malkomforta [w] ไม่สบาย, อึดอัด
+komika [8] ตลก, ขบขัน, ชวนหัว
+komisaro [9] เจ้าหน้าที่รัฐหรือเอกชนที่ได้รับมอบหมาย
+komisii [8] //(tr)// มอบหมายให้…(ทำบางอย่าง); komisio [w] ภารกิจ, งานที่ได้รับมอบหมาย
+komisiono [8] คณะกรรมการ, คณะกรรมาธิการ, คณะพันธกิจ
+komitato [7] คณะกรรมการ; komitatano [w] กรรมการ
+komo [8] เครื่องหมายลูกน้ำ; duonkomo [w] เครื่องหมายเซมิโคลอน (;)
+kompakta [x] กระชับ, อัดแน่น, คอมแพค; kompakta disko [w] ซีดี
+kompanio [9] บริษัท, คนไปเป็นเพื่อน
+kompari [6] //(tr)// เปรียบเทียบ; komparo [w] การเปรียบเทียบ
+kompati {UL} [5] //(x)// สงสาร, เห็นใจ; kompatinda [w] น่าสงสาร
+kompensi [9] //(tr)// ชดใช้, ตอบแทน; kompenso [w] ผลตอบแทน
+kompetenta [9] ทรงคุณวุฒิ, มีคุณสมบัติครบถ้วน, มีความสามารถ; kompetento = kompemtenteco [w] คุณวุฒิ
+kompili [x] //(tr)// เรียบเรียง, รวบรวม
+komplemento [9] {GRA} ส่วนขยาย
+kompleta [8] สมบูรณ์; kompleto 1. {TEKS} ชุดสูท = vestokompleto, 2. {TEK} ชุดเครื่องยนต์, ชุดอุปกรณ์ = agregato, 3. สิ่งที่มีความสมบูรณ์; kompleteco ความสมบูรณ์; kompletigi [w] ทำให้...สมบูรณ์; nekompleta/malkompleta ไม่สมบูรณ์, ขาด; vestokompleto {TEKS} ชุดสูท @24-04-2025 09:38:40@
+komplezo [8] การเอาอกเอาใจ; komplezi [w] //(tr)// เอาอกเอาใจ
+kompliki [9] //(tr)// ทำให้ซับซ้อน; komplika [w] ซับซ้อน
+komplimento [x] คำชมเชย; komplimenti [w] //(tr)// ชมเชย
+komponi [9] //(tr)// แต่ง, ประพันธ์; komponado [w] การประพันธ์; komponanto/komponisto [w] นักแต่งเพลง
+kompreni {UL} [2] //(tr)// เข้าใจ; kompreno [w] ความเข้าใจ; interkompreniĝo [w] ความเข้าใจซึ่งกันและกัน; miskompreno [w] ความเข้าใจผิด
+kompromiti [9] //(tr)// ทำให้น่าสงสัย, ทำให้ตกอยู่ในอันตราย
+komputi [x] //(tr)// คำนวณ (ด้วยโปรแกรม); komputilo [w] คอมพิวเตอร์
+komuna [4] ทั่วไป, เป็นที่ใช้ด้วยกัน; komunumo [9] ชุมชน; komunismo [w] ลัทธิคอมมิวนิสต์
+komuniki [7] //(tr)// สื่อสาร; komunikado [w] การสือสาร; komunikilo [w] เครื่องมือสื่อสาร; amaskomunikiloj สื่อมวลชน
+koncentri [9] //(tr)// รวมมาให้อยู่ตรงกลาง; koncentriĝi [w] จดจ่อ, จับจ้อง
+koncepto [9] แนวคิด, คอนเซปทต์
+koncerni [7] //(tr)// มีส่วนเกี่ยวข้องกับ, ที่สัมพันธ์กับ; koncerne al/koncerne... -n  ซึ่งมีส่วนเกี่ยวข้องกับ, ซึ่งที่สัมพันธ์กับ; koncernaĵo [w] สี่งที่เกี่ยวข้อง, เรื่องที่เกี่ยวข้อง @21-04-2024 22:18:38@
+koncerto [8] งานแสดงดนตรี, คอนเสิร์ต
+kondamni [8] //(tr)// ลงความเห็นว่า...ต้องได้รับโทษ
+kondiĉo {UL} [6] เงื่อนไข
+konduki {UL} [4] //(tr)// พา, นำพา; enkonduki [w] //(tr)// แนะนำ
+kondukti [x] //(tr)// นำพา (ความร้อน, กระแสไฟฟ้า)
+konduti [6] //(ntr)// ประพฤติ, ปฏิบัติ; konduto [w] ความประพฤติ, การปฏิบัติตัว, พฤติกรรม
+konekti [x] //(tr)// เชื่อมต่อ; konekto [w] การเชื่อมต่อ; malkonekti [w] ตัดการเชื่อมต่อ
+konferenco [8] การประชุม; gazetara konferenco [w] การแถลงข่าว
+konfesi {UL} [6] //(tr)// สารภาพ; konfeso [w] คำสารภาพ
+konfidenco [9] การรักษาความลับ, ความไว้ใจ
+konfidi [x] //(tr)// ไว้วางใจ, เชื่อใจ
+konfirmi [8] //(tr)// ยืนยัน, คอนเฟิร์ม; konfirmo [w] การยืนยัน, การคอนเฟิร์ม
+konfiti [8] //(tr)// เชื่อม, แช่อิ่ม
+konforma [x] ตรงกับ, เข้ากันได้, สอดคล้อง
+konfuzi [8] //(tr)// สับสน; konfuzo [w] ความสับสน
+kongreso [7] การประชุมใหญ่; kongresejo [w] สถานที่จัดประชุมใหญ่
+koni {UL} [2] //(tr)// รู้จัก; konatiĝi [w] ได้รู้จัก; diskonigi [w] ทำให้...รู้, แชร์
+konjekti [8] //(tr)// คาดเดา, อนุมาน
+konkeri [x] //(tr)// ยึด, ยึดครอง; konkero [w] การยึดครอง
+konkludi [8] //(tr)// ลงความเห็น, สรุป
+konkordo [9] ความเห็นสอดคล้องกัน
+konkuri [8] //(x)// แข่งขัน
+konkurso [9] การแข่งขัน
+konscienco [8] สติ, การมีสติ
+konscii [6] //(tr)// รับรู้, มีสติ, รู้ตัว
+konsekvenco [9] ผลที่ตามมา, ผลลัพท์, ข้อพิสูจน์
+konsenti {UL} [4] //(x)// เห็นด้วย; interkonsenti [w] เห็นพ้อง
+konservi {UL} [5] //(tr)// เก็บ, เก็บรักษา
+konsideri [7] //(tr)// พิจารณา
+konsili {UL} [3] //(tr)// แนะนำ, ให้คำแนะนำ; konsilo [w] คำแนะนำ
+konsisti [6] (el) //(ntr)// ประกอบ(จาก)
+konsoli {UL} [7] //(tr)// ให้กำลังใจ
+konsonanto [x] พยัญชนะ
+konstanta {UL} [6] ถาวร
+konstati [7] //(tr)// ยืนยัน, สรุป
+konsterni [x] //(tr)// ทำให้...ไม่สบายใจ, ทำให้...เป็นกังวล
+konstitucio [9] รัฐธรรมนูญ
+konstrui {UL} [3] //(tr)// สร้าง, ก่อสร้าง; konstruaĵo [w] สิ่งก่อสร้าง, อาคาร; malkonstrui [w] รื้อถอน
+konsulo [9] กงสุล; konsulejo [w] สถานกงสุล
+konsulti [x] //(tr)// ปรึกษา, ขอคำปรึกษา
+konsumi [9] //(tr)// บริโภค; konsumanto [w] ผู้บริโภค
+kontakto [x] การติดต่อ
+kontanta [9] ซึ่งจ่ายได้เลย; kontanto [w] เงินสด
+kontenta {UL} [4] พอใจ; kontentigi [w] ทำให้...พอใจ
+kontesti [9] //(tr)// แย้ง, โต้แย้ง
+konto [x] บัญชี; kontisto [w] คนทำบัญชี
+kontrakti [8] //(tr)// ทำสัญญา; kontrakto [w] หนังสือสัญญา
+kontraŭ {UL} [1] //(prep)// ตรงกันข้าม, ต่อต้าน, ในราคา
+kontroli [8] //(tr)// ตรวจ → inspekti
+konvalo [9] ดอกลิลลี่ชนิดหนึ่ง = majfloro
+konveni {UL} [6] //(tr)// เหมาะสม, เข้ากัน
+konversacii [9] //(ntr)// สนทนา; interparolo [w] บทสนทนา = interparolo
+konvinki [8] //(tr)// โน้มน้าว
+kopio [8] สำเนา; kopii [w] //(tr)// ทำสำเนา, คัดลอก; kopirajto [w] ลิขสิทธิ์
+korbo [5] ตะกร้า
+kordo [8] สาย (ของเครื่องดนตรี)
+korekti [9] //(tr)// แก้ไข, ทำให้ถูก = ĝustigi
+korespondi [6] //(ntr)// ติดต่อทางจดหมาย
+koridoro [9] ทางเดิน (ในบ้านหรืออาคาร)
+korko [8] จุกไม้ก๊อก
+korniko [9] {ZOO} อีกากินซาก
+korno {UL} [6] เขา (สัตว์)
+koro {UL} [2] หัวใจ
+korpo {UL} [4] ร่างกาย
+korto {UL} [3] สนามหญ้าบริเวณหน้าบ้าน; kortumo [w] ศาล
+korvo [9] {ZOO} นกกา, อีกา
+kosmo [9] อวกาศ, จักรวาล; kosmologio [w] จักรวาลวิทยา
+kosti {UL} [3] //(ntr)// มีราคา //Ĉi tiu vortareto kostas nur dudek bahtojn พจนานุกรมเล่มนี้ราคายี่สิบบาทเท่านั้น//; kosto [w] ราคา; multekosta [w] แพง
+kostumo [9] เครื่องแต่วกาย, ชุดเสื้อผ้า
+kotizo [x] ค่าใช้จ่าย, ค่าลงทะเบียน →
+koto [8] โคลนสกปรก
+kotono [7] ผ้าฝ้าย, ผ้าคอตตอน
+koverto [5] ซองจดหมาย
+kovri {UL} [4] //(tr)// คลุม; malkovri [w] //(tr)// //(f)// พบเจอ (สิ่งที่ซ่อนอยู่); kovrilo [w] ปกหนังสือ
+kraĉi {UL} [9] //(tr)// ขาก, บ้วน, ถ่ม, ถุย; kraĉaĵo [w] น้ำลาย, เสมหะ; kraĉujo กระโถน @15-04-2025 08:47:05@
+krado [8] กรง, ตะราง, ตะแกรง
+krajono {UL} [5] ดินสอ
+krampo [x] ตัวหนีบ; เครื่องหมายวงเล็บ ( )
+kranio [9] หัวกระโหลก
+krano [8] หัวก๊อกน้ำ
+kravato {UL} [6] เนคไท
+kredi {UL} [5] //(x)// เชื่อ → fidi ; kredanto [w] ผู้เชื่อ, ศาสนิก
+kredito [9] เครดิต, ความน่าไว้วางใจ
+krei {UL} [5] //(tr)// สร้าง, สรรค์สร้าง; kreinto [w] ผู้สร้าง, ผู้ประดิษฐ์; kreema/kreiva [w] สร้างสรรค์
+kremo [7] ครีม
+krepusko [8] แสงตะวันยามรุ่งหรือยามลับขอบฟ้า
+kreski {UL} [3] //(ntr)// เจริญเติบโต; kreskigi [w] ทำให้...เจริญเติบโต, ปลูก
+kresto [9] {ZOO} หงอน, ยอดเขา
+kreto {UL} [8] ชอล์ก
+krevi [7] //(ntr)// แตก (จากด้านใน)
+krii {UL} [3] //(ntr)// ตะโกน
+krimo [6] อาชญากรรม
+kripla [8] พิการ; kriplulo [w] คนพิการ
+kristalo [9] แก้วคริสตัล
+kritiki [8] //(tr)// วิพากษ์วิจารณ์; kritikisto [w] นักวิจารณ์
+krizo [8] วิกฤตการณ์, ขั้นวิกฤต
+kroĉi [7] //(tr)// เกี่ยว, ยึด, แนบ
+krokodilo [9] {ZOO} จระเข้; krokodili {ESP} พูดภาษาอื่นในขณะที่ต้องพูดภาษาเอสเปรันโต
+krom [1] //(prep)// นอกจาก
+krono {UL} [8] มงกุฎ
+kruco {UL} [5] เครื่องหมายกากบาท, เครื่องหมายรูปกางเขน; krucumi [w] นำไปตรึงไว้บนไม้กางเขน; vojkruciĝo [w] ทางแยก
+kruĉo [8] เหยือกน้ำ
+kruda [7] ดิบ
+kruela [8] โหดร้าย, โหดเหี้ยม
+kruro [5] ขา
+krusto [8] เปลือกนอกที่แข็ง ๆ
+kruta [8] สูงชัน, แหลม
+kubo [9] ลูกบาศก์; ĵetkubo [w] ลูกเต๋า
+kubuto [8] ข้อศอก
+kudri {UL} [7] //(tr)// เย็บ(ผ้า); kudrilo [w] เข็มเย็บผ้า → pinglo
+kuglo [8] ลูกปืน, ลูกกระสุน
+kuiri {UL} [7] //(tr)// ทำอาหาร, ปรุง, ชง; kuirejo [w] ครัว
+kuko [5] ขนมเค้ก; kuketo [w] คุกกี้
+kukolo [8] {ZOO} นกกาเหว่า
+kukumo [9] แตงกวา
+kukurbo [9] ฟักทอง
+kulero {UL} [5] ช้อน
+kulmino [x] จุดสูงสุด, จุดพีค
+kulo [x] {ZOO} ยุงชนิดหนึ่ง → moskito
+kulpa {UL} [5] มีความผิด
+kulto [9] พิธีกรรม, การบูชา; kulti [w] //(x)// สักการะ, บูชา
+kulturi [6] เพาะปลูก, ปลูกฝัง; kulturo [6] การเพราะปลูก, วัฒนธรรม
+kun {UL} [1] //(prep)// กับ, ด้วย; kune [w] ด้วยกัน
+kuniklo [9] {ZOO} กระต่าย
+kupono [9] คูปอง
+kupro {UL} {KEM} //(ธาตุ)// [8] ทองแดง (Cu) @11-04-2024 21:36:28@
+kuraci {UL} [5] //(tr)// รักษา; kuracisto [w] แพทย์, หมอ
+kuraĝa {UL} [3] กล้า, กล้าหาญ → brava; malkuraĝa [w] ขี้ขลาด
+kurbo [7] โค้ง, เส้นโค้ง; kurba [w] โค้ง
+kurento [9] {ELE} กระแสไฟฟ้า → elektro; alterna kurento [w] กระแสไฟฟ้าสลับ; kontinua kurento [w] กระแสไฟฟ้าตรง
+kuri {UL} [3] //(ntr)// วิ่ง; diskuri [w] //(ntr)// วิ่งไปคนละทิศละทาง; forkuri [w] //(ntr)// วิ่งหนีไปไกล; postkuri [w] //(tr)// วิ่งไล่; trakuri [w] //(tr)// วิ่งผ่า; ĉaskuri [w] //(tr)// วิ่งไล่จับ
+kurioza [7] แปลก, ไม่เคยเห็นมาก่อน; kuriozaĵo [w] ของแปลก
+kurso [7] หลักสูตรการเรียน
+kurteno {UL} [8] ม่าน, ฉาก
+kurzo [x] อัตราแลกเปลี่ยน
+kuseno {UL} [9] หมอน; kapkuseno [w] หมอนหนุนหัว
+kuŝi {UL} [4] //(ntr)// นอน (ท่าทาง), วาง
+kutimo {UL} [4] นิสัย; alkutimiĝi [w] //(ntr)// ทำให้กลายเป็นนิสัย, ชิน
+kuvo [6] อ่าง; bankuvo [w] อ่างอาบน้ำ
+kuzo {UL} [6] ลูกพี่ลูกน้อง
+kvadrato [7] สี่เหลี่ยมจัตุรัส
+kvalito [7] คุณสมบัติ, คุณลักษณะ
+kvankam {UL} [1] //(kon)// ถึงแม้ว่า (มักใช้คู่กับ tamen) → malgraŭ
+kvanto [7] จำนวน
+kvar {UL} [1] สี่; kvara [w] ที่สี่
+kvartalo [8] จัตุรัส (ในเมือง)
+kvazaŭ [1] //(kon)// //(adv)// ราวกับ
+kverko [8] ต้นโอ๊ก
+kvieta [6] เงียบสงบ → trankvila
+kvin {UL} [1] ห้า; kvina [w] ที่ห้า
+kvitanco [x] ใบเสร็จรับเงิน, ใบเสร็จ
+<!-- L -->
+la {UL} [1] คำนำหน้านามชี้เฉพาะ
+laboratorio [9] ห้องปฏิบัติการ, แลป
+labori {UL} [2] //(ntr)// ทำงาน; laboro [w] งาน; laborema [w] ขยันทำงาน; mallaborema [w] ขี้เกียจ; laborejo [w] สถานที่ทำงาน; laboristo [w] พนักงาน, คนงาน; senlaborulo [w] คนว่างงาน
+laca {UL} [4] เหนื่อย; laciga [w] ซึ่งทำให้เหนื่อย
+lacerto [9] {ZOO} กิ้งก่า
+laĉo [9] เชือก (ผูกรองเท้า); laĉi [w] ผูกเชือก
+lado [9] โลหะแผ่น
+lago [5] ทะเลสาบ
+lako [9] {KEM} น้ำยาเคลือบเงาแล็คเกอร์; laki [w] //(tr)// ทาน้ำยาเคลือบเงา; ungolako [w] น้ำยาทาเล็บ @01-01-2023-w@
+lakto {UL} [4] นม
+lama {UL} [7] พิการ (ที่ขาหรือเท้า)
+lameno [8] วัสดุแผ่นบาง
+lampo {UL} [6] โคมไฟ
+lando {UL} [2] ประเทศ; alilando/eksterlando [w] ต่างประเทศ; alilandano [w] ชาวต่างประเทศ = eksterlandano
+lango {UL} [5] ลิ้น
+lano [7] ขนสัตว์
+lanterno {UL} [9] ตะเกียง
+lapo [9] หญ้าเจ้าชู้
+lardo [9] มันหมู
+larĝa {UL} [4] กว้าง, ใหญ่; mallarĝa [w] แคบ, เล็ก
+larmo {UL} [7] น้ำตา; larmi [w] //(ntr)// น้ำตาไหล
+larvo [9] {ZOO} ตัวอ่อน
+lasi {UL} [3] //(tr)// ปล่อย; ellasi [w] //(tr)// ปล่อยออกมา; forlasi [w] //(tr)// จาก, ไปจาก
+lasta {UL} [2] ครั้งสุดท้าย, ครั้งล่าสุด; antaŭlasta [w] ก่อนสุดท้าย
+Latino [x] ภาษาละติน
+latitudo [9] เส้นรุ้ง, ละติจูด → longtitudo
+latuno [9] ทองเหลือง
+laŭ {UL} [1] //(prep)// ตาม, ตามแต่, ที่กำหนดโดย
+laŭbo [9] พุ่มไม้ในสวน
+laŭdi {UL} [7] //(tr)// สรรเสริญ, ชื่นชม; laŭdinda [w] น่าสรรเสริญ, น่าชื่นชม
+laŭta {UL} [7] ดัง (เสียง); laŭtigilo [w] ลำโพง
+lavango [x] หิมะถล่ม, หินถล่ม, ดินถล่ม @27-10-2024 13:37:08@
+lavi {UL} [4] //(tr)// ล้าง
+leciono {UL} [6] บทเรียน
+ledo [7] หนังสัตว์
+legi {UL} [2] //(tr)// อ่าน; legado [w] การอ่าน; legolibro [w] หนังสือฝึกหัดอ่าน
+legomo [6] ผัก
+leĝo {UL} [5] กฎหมาย, ข้อบังคับ → juro; kontraŭleĝa [w] ผิดกฎหมาย; laŭleĝa [w] ตามกฎหมาย
+lekcio [9] การบรรยาย, เลคเชอร์, ปาฐกถา → prelego
+leki [8] //(tr)// เลีย
+lenso [x] เลนส์; zomlenso {FOT} เลนซ์ชนิดที่เปลี่ยนความยาวโฟกัสได้ @24-03-2024 14:10:57@
+leono {UL} [7] {ZOO} สิงโต
+leporo [7] {ZOO} กระต่ายป่า
+lerni {UL} [7] //(tr)// เรียน; lernanto [w] นักเรียน; ellerni [w] เรียนจนชำนาญ; lernejo [w] โรงเรียน
+lerta {UL} [5] ฉลาด, มีทักษะ → saĝa
+lesivo [9] ฝงซักฝอก, น้ำยาทำความสะอาด
+letero {UL} [3] จดหมาย
+leŭtenanto [9] ร้อยโท (ทหารบก)
+levi {UL} [2] //(tr)// ยก (บางอย่าง); leviĝi [w] ลุกขึ้น, ขึ้น; sunleviĝo [w] พระอาทิตย์ขึ้น
+li {UL} [1] เขา (ผู้ชาย); lia [w] ของเขา (ผู้ชาย)
+libera {UL} [2] อิสระ; liberulo [w] พวกเสรีนิยม; mallibera [w] ไม่มีอิสระ; malliberejo [w] คุก
+libro {UL} [3] หนังสือ; librejo [w] ร้านขายหนังสือ; libreto [w] หนังสือเล่มเล็ก; lernolibro [w] หนังสือเรียน
+licenco [9] การอนุญาตอย่างเป็นทางการ, ใบอนุญาต
+liceo [9] โรงเรียนมัธยมปลาย → gimnazio
+lifto [8] ลิฟต์
+ligi {UL} [4] //(tr)// ผูก; ligo [w] สหพันธ์; ligilo [w] ลิงก์
+ligno {UL} [4] ไม้
+likva [9] ของเหลว
+lilio [9] ดอกลิลลี่
+limako [9] {ZOO} ทาก → heliko
+limo [5] เขต; limigi [w] จำกัด, ทำให้มีขอบเขต; senlima [w] ไร้พรมแดน; akvodislimo {GEOG} สันปันน้ำ @09-04-2024 20:19:17@
+limonado [x] น้ำมะนาว
+lingvo {UL} [3] {LIN} ภาษา; lingvisto [w] นักภาษาศาสตร์
+linio [4] เส้น, สาย, {TIP} บรรทัด @07-07-2024 19:03:23@
+lino [9] ปอ, ป่าน
+lipo {UL} [6] ริมฝีปาก
+listo [8] ลิสต์, รายการ; vortlisto [w] รายการคำศัพท์
+literaturo [8] วรรณกรรม
+litero {UL} [6] ตัวอักษร → alfabeto; literumi [w] สะกด; transliterumi [w] ถ่ายตัวอักษร, ทับศัพท์
+lito {UL} [3] เตียงนอน; ellitiĝi [w] ลุกจากเตียง; enlitiĝi [w] ไปนอนบนเตียง
+litro [7] ลิตร
+liveri [9] //(tr)// ขน, ขนส่ง
+logi [7] //(tr)// ล่อ, ดึงดูด; logo [w] สิ่งล่อใจ, สิ่งน่าดึงดูด; allogi [w] //(tr)// ล่อ, ดึงดูด
+logiko [9] ตรรกะ
+loĝi {UL} [2] //(ntr)// อาศัยอยู่; loĝejo [w] ที่อยู่อาศัย; transloĝiĝi [w] //(ntr)// ย้ายที่อยู่
+lojala [9] จงรักภัคดี, ซื่อสัตย์
+loko {UL} [2] สถานที่
+lokomotivo [9] หัวรถจักร, หัวรถไฟ
+Londono [x] กรุงลอนดอน
+longa {UL} [2] ยาว; mallonga [w] สั้น
+loto [9] ฉลาก, การจับฉลาก; loti [w] //(tr)// จับฉลาก
+lotuso [9] ดอกบัว
+lubriki [9] //(tr)// ทำให้ลื่น, หล่อลื่น
+ludi {UL} [4] //(ntr)// เล่น; ludo [w] การละเล่น; ludema [w] ขี้เล่น; ludilo [w] ของเล่น; videoludo [w] วิดีโอเกม
+lui [7] //(tr)// เช่า
+luko [9] หน้าต่างหรือประตูขนาดไม่ใหญ่ มักอยู่ที่เรือ ห้องใต้หลังคา
+lukso [7] หรูหรา
+lukti [9] //(tr)// สู้, ต่อสู้
+luli [9] //(tr)// กล่อม (ให้หลับ); lulilo [w] เปลไกวสำหรับเด็ก
+lumo {UL} [3] แสงไฟ; lumi [w] //(ntr)// ปล่อยแสง, เปล่งแสงออกมา
+lunĉi [x] //(tr)// อาหารกลางวันแบบด่วน
+lundo {UL} [5] วันจันทร์
+luno {UL} [5] ดวงจันทร์
+lupo [8] {ZOO} สุนัขป่า
+<!-- M -->
+maĉi {UL} [8] //(tr)// เคี้ยว (สัตว์)
+magazeno {UL} [7] ห้างสรรพสินค้า
+magio [x] มายากล; magiisto [w] นักมายากล
+magistro [x] ปริญญาโท
+magneto [x] แม่เหล็ก
+maizo [9] ข้าวโพด
+majesta [9] สง่าผ่าเผย, มีราศรี
+Majo [5] เดือนพฤษภาคม
+majstro [7] อาจารย์, ปรมจารย์, มาสเตอร์; mastrumi
+majusklo [x] ตัวพิมพ์ใหญ่ → minusklo
+maksimunmo [9] ขีดสูงสุด
+makulo {UL} [7] จุดตำหนิ
+mal- {UL} [0] //(pre)// พยางค์เติมหน้าแสดงถึงความหมายตรงกันข้าม: malbona [w] ไม่ดี, ชั่ว; malbena [w] ไม่สวย, น่าเกลียด
+maleolo [9] ข้อเท้า
+malgraŭ {UL} [7] ทั้ง ๆ ที่, ถึงแม้ว่า → kvankam
+malica [9] ใจร้าย
+malvo [9] ต้นไม้จำพวก Malva [w] ดอกสีม่วงกุหลาบ
+mamo [8] เต้านม; mamulo/mambesto [w] สัตว์เลี้ยงลูกด้วยนม
+mandato [8] ข้อบังคับ, คำสั่ง, อาณัติ
+manĝi {UL} [3] //(tr)// กิน, รับประทาน; manĝo [w] มื้ออาหาร; manĝaĵo [w] อาหาร; manĝejo [w] ร้านอาหาร; matenmanĝo [w] อาหารเช้า; tagmanĝo [w] อาหารกลางวัน; formanĝi [w] กินจนไม่เหลือ; vespermanĝo [w] อาหารเย็น; formikmanĝulo [w] ตัวกินมด
+maniero [5] วิธีการ; pensmaniero [w] วิธีคิด
+maniko [7] แขนเสื้อ
+manipuli [9] //(tr)// ใช้, ดำเนินการ
+manki [3] //(ntr)// ไม่มี, ขาด, ไร้: mankas vi al mi [w] ผมคิดถึงคุณ
+mano {UL} [2] มือ
+mantelo [7] เสื้อนอก, เสื้อโค้ท
+manvori [9] ซ้อมรบ, (วิธี) การยักย้ายหรือหลบหลีก, อุบาย, แผนการ
+mapo [8] แผนที่
+marĉo [8] ที่ลุ่มชื้นแฉะ
+mardo {UL} [5] วันอังคาร
+marko [4] สัญลักษณ์; poŝtmarko [w] ดวงตราไปรษณีย์
+marmelado [9] ผลไม้กวน, แยมผลไม้
+maro {UL} [3] ทะเล; maraĵoj อาหารทะเล; maristo [w] กะลาสีเรือ, ชาวทะเล; submarŝipo [w] เรือดำน้ำ
+marŝi [5] //(ntr)// เดินแถว, เดินผ่าน
+martelo [7] ค้อน
+Marto [5] เดือนมีนาคม
+masaĝo [x] การนวด
+masko [x] หน้ากาก
+maso [9] {FIZ} มวล
+masoni [7] //(tr)// ก่อ, สร้าง: //masoni muron ก่อกำแพง//
+masto [8] เสาเรือ, เสากระโดง
+mastro {UL} [5] อาจารย์, หัวโจก; mastrumi [8] ทำความสะอาดบ้าน
+maŝino [6] เครื่องจักร
+maŝo [x] บ่วง
+matematiko [9] คณิตศาสตร์
+mateno {UL} [3] ตอนเช้า
+materio [9] {FIZ} สสาร
+mato [9] เสื่อ
+matraco [7] ฟูกที่นอน → lito
+matura {UL} [6] สุก, บรรลุนิติภาวะ
+meblo [6] เฟอร์นิเจอร์
+medalo [x] เหรียญรางวัล
+medicino [9] แพทยศาสตร์
+medikamento [8] ยา
+medio [x] สิ่งแวดล้อม, สื่อ
+Mediteraneo [9] ทะเลเมดิเตอร์เรเนียน
+mediti [8] //(tr)// ทำสมาธิ, ครุ่นคิด; medito/meditado [w] การทำสมาธิ
+meĥaniko [8] กลศาสตร์
+meĥanismo [8] กลไก
+mejlo [x] ไมล์
+mekaniko [x] กลศาสตร์
+mekanismo [x] กลไก
+melki [8] //(tr)// รีดนม
+melono [9] แตง; akvomelono [w] แตงโม
+mem {UL} [1] //(adv)// ตัวเอง, ด้วยตัวเอง
+membrano [x] เยื่อหุ้มเซลล์, เยื่อบุผิว
+membro [7] สมาชิก
+memori {UL} [3] //(x)// จำได้, จำ; memoraĵo [w] ของที่ระลึก; memorinda [w] น่าจดจำ
+mencii [9] //(tr)// กล่าวถึง, อ้าง → citi
+mendi [6] //(tr)// จอง → rezervi; malmendi [w] //(tr)// ยกเลิกจอง
+menso [9] ความคิด
+mensogi [6] //(ntr)// โกหก; mensogo [w] คำโกหก
+mentono [7] คาง
+menuo [9] เมนู
+meriti {UL} [6] //(tr)// สมควรได้รับ; merito [w] บุญ
+merkato [x] การตลาด → bazaro
+merkredo {UL} [5] วันพุธ
+mesaĝo [x] ข้อความ; retmesaĝo [w] อีเมล
+metalo [6] โลหะ
+metalurgio [9] อุตสาหกรรมเหล็ก, วิศวกรรมโลหการ
+meti {UL} [2] //(tr)// วาง, ทำให้...; almeti [w] //(tr)//  วางไปยัง, นำไปยัง; antaŭmeti [w] //(tr)// เสนอ, ให้พิจารณาดูก่อน; apudmeti //(tr)// นำมาวางเปรียบเทียบ; ĉirkaŭmeti //(tr)// วางรอบ ๆ; demeti [w] //(tr)// ถอดออก, วาง (ไข่); elmeti นำเสนอ[?]; enmeti [w] //(tr)// วางใน; formeti //(tr)// วางไว้ไกล ๆ, ลืม, ล้มเลิก; formetejo [w] ห้องเก็บของ; intermeti [w] วางขั้นระหว่าง; kontraŭmeti [w] วางไว้ตรงข้าม[?]; kunmeti [w] //(tr)// วางให้อยู่ด้วยกัน; primeti //(tr)// จัดเรียง; postmeti //(tr)// วางไว้ข้างหลัง, วางไว้ตามหลัง; submeti //(tr)// จำนน; submetiĝi ยอมจำนน; surmeti [w] //(tr)// สวม (เสื้อผ้า) @18-04-2024 21:13:37@
+metio [7] งานฝีมือ
+metodo [8] วิธีการ
+metro [7] เมตร
+metroo [x] รถไฟใต้ดิน
+mevo [x] {ZOO} นกนางนวล
+mezo {UL} [4] กลาง
+mezuri {UL} [4] //(tr)// วัด (บางอย่าง); mezurilo [w] เครื่องวัด
+mi {UL} [1] ฉัน, ผม, ดิฉัน; mia [w] ของฉัน, ของผม, ของดิฉัน
+mielo [9] น้ำผึ้ง
+mieno [6] สีหน้า
+migri [8] //(ntr)// ย้ายถิ่นที่อยู่อาศัย; enmigri [w] อพยพเข้า; elmigri [w] อพยพออก
+miksi {UL} [6] //(tr)// ผสม
+mil {UL} [1] หนึ่งพัน
+milda [7] อ่อนโยน, นิ่มนวล
+miliardo [8] หนึ่งพันล้าน
+milimetro [8] มิลลิเมตร
+miliono [6] หนึ่งล้าน
+militi {UL} [2] //(ntr)// ทำสงคราม; milito [w] สงคราม
+minaci [6] //(tr)// ข่มขู่, ขู่ @04-02-2025 21:26:04@
+mineralo [9] แร่
+minimumo [9] จำนวนขั้นต่ำสุด; minimumismo {BELA} ลัทธิมินิมัลลิสม์,  ลัทธิจุลนิยม
+ministerio [9] กระทรวง = ministrejo
+ministro [9] รัฐมนตรี; ministrejo [w] กระทรวง; ĉefminstro [w] นายกรัฐมนตรี
+mino [8] เหมือง
+minus [8] //(kon)// ลบ
+minusklo [x] ตัวพิมพ์เล็ก → majusklo
+minuto [4] นาที
+miri {UL} [3] //(x)// อัศจรรย์; mirinda [w] น่าอัศจรรย์
+mirtelo [9] บลูเบอร์รี่
+mis- [0] //(pre)// ผิด, ไม่ถูกต้อง
+misio [x] ภารกิจ, หน้าที่ที่ได้รับมอบหมาย
+mistero [8] เรื่องลึกลับ, ความลึกลับ
+mistifiki [9] //(tr)// หยอก, หลอกแกล้ง = mistifi
+mizero {UL} [7] ความทุกข์ยาก, ความเศร้าโศก
+modelo [8] โมเดล, ตัวอย่าง, {BELE} นายแบบ = pozisto
+modera {UL} [8] พอเหมาะ, พอดี
+moderna [8] สมัยใหม่, ทันสมัย
+modesta {UL} [8] ถ่อมตัว → humila
+modifi [9] //(tr)// ดัดแปลง
+modo [7] แฟชั่น, {GRA} มาลา
+mojosa [x] แจ๋ง, แจ๋ว
+moki [5] //(tr)// ล้อเลียน
+mola {UL} [5] นิ่ม, อ่อนโยน; malmola [w] แข็งกระด้าง
+momento [4] ช่วงเวลาหนึ่ง, ช่วงเวลาครู่หนึ่ง
+monaĥo [x] พระ; monaĥejo [w] กุฏิ; monaĥino [w] แม่ชี
+monato {UL} [4] เดือน; ĉiumonate [w] ทุกเดือน; monataĵo [w] ประจำเดือน = menstruoj
+mondo {UL} [2] โลก; tutmonda [w] ทั่วโลก; tutmandiĝo [w] ยุคโลกาภิวัตน์
+mono {UL} [3] เงิน; monujo [w] กระเป๋าสตางต์
+monstro [9] ปีศาจ
+monto {UL} [3] ภูเขา; montaro [w] เทือกเขา
+montri {UL} [2] //(tr)// แสดง, โชว์
+monumento [9] อนุสาวรีย์
+moralo [9] ศีลธรรม
+mordi {UL} [7] //(tr)// กัด
+morgaŭ {UL} [1] //(adv)// พรุ่งนี้
+moro [7] วิถีชีวิต
+morti {UL} [2] //(ntr)// ตาย; mortigi [w] //(tr)// ฆ่า; mortinto [w] ผู้ตาย, คนตาย
+moskito [8] {ZOO} ยุง
+moŝto {UL} [x] ฝ่าบาท (คำนำหน้าชื่อแสดงเกียรติของชนชั้นสูง)
+motivo [x] แรงจูงใจ; motivigi [w] จูงใจ
+motoro [8] มอเตอร์
+movi {UL} [2] //(tr)// เคลื่อนที่ (บางอย่าง); moviĝi [w] เคลื่อนที่; movado [w] การเคลื่อนไหว
+mueli [7] //(tr)// โม่, บด
+muĝi [9] //(ntr)// มอ ๆ (วัวร้อง)
+multa/multe (da) [2] (จำนวน) มาก
+multipliki [9] //(tr)// คูณ
+munti [8] //(tr)// ประกอบชิ้นส่วน, ตัดต่อ (วิดีโอ)
+murdi [x] //(tr)// ฆาตกรรม; murdisto [w] ฆาตกร
+murmuri {UL} [7] //(ntr)// พูดพึมพำ
+muro {UL} [3] ฝาผนัง, กำแพง
+musko [9] มอส
+muskolo [8] กล้ามเนื้อ
+muso [8] {ZOO} หนู
+mustardo [x] มัสตาร์ด
+muŝo {UL} [x] {ZOO} แมลงวัน
+muta [7] เป็นใบ้
+muzelo [9] {ZOO} ปากหรือจมูกของสัตว์ที่มีลักษณะยื่นออกมา
+muzeo [9] พิพิธภัณฑ์
+muziko [5] ดนตรี; muzikilo [w] เครื่องดนตรี; muzikisto [w] นักดนตรี
+<!-- N -->
+-n {UL} [0] //(fin)// ตัวลงท้ายใช้แสดงกรรมตรง, แสดงการเคลื่อนที่เข้าไป, แทน je, แทน al
+nacio [2] ชาติ; nacieco [w] สัญชาติ; sennacieca [w] ไร้สัญชาติ; internacia [w] ระหว่างประเทศ
+nadlo [8] เข็มชี้, เข็มหน้าปัด
+naĝi {UL} [6] //(ntr)// ว่ายน้ำ; naĝejo [w] สระว่ายน้ำ; naĝilo {ZOO} ครีบ
+naiva [8] ซื่อ, ไม่รู้ประสา
+najbaro {UL} [6] เพื่อนบ้าน
+najlo [7] ตะปู
+najtingalo [9] {ZOO} นกไนติงเกล
+naski {UL} [3] //(tr)// ให้กำเนิด; naskiĝi [w] //(ntr)// เกิด, กำเนิด
+naturo [4] ธรรมชาติ
+naŭ {UL} [1] เก้า; naŭa [w] ลำดับที่เก้า
+naŭzi [8] //(tr)// ทำให้...อยากอาเจียน
+nazo {UL} [4] จมูก
+ne {UL} [1] ไม่, ไม่ใช่ → nek
+nebulo {UL} [7] หมอก
+necesa {UL} [3] จำเป็น → bezoni; necesejo [w] ห้องน้ำ
+neglekti [9] //(tr)// พิเฉย, ละเลย
+neĝo {UL} [4] หิมะ; neĝi [w] //(ntr)// หิมะตก
+nek… nek {UL} [1] //(kon)// ไม่... และไม่
+nenia {UL} [1] //(adj)// ไม่มีชนิดใดเลย
+nenial {UL} [9] //(adv)// ไม่มีสักเหตุผล
+neniam {UL} [1] //(adv)// ไม่เคย
+nenie {UL} [1] //(adv)// ไม่มีที่ไหนเลย, ไม่มีสักที่
+neniel {UL} [9] //(adv)// ไม่มีสักวิธีเลย
+nenies {UL} [8] //(pro)// ไม่เป็นของใครเลย
+nenio {UL} [1] //(pro)// ไม่มีสิ่งใด
+neniom {UL} [8] ไม่มีเลยสักจำนวน
+neniu {UL} [1] //(pro)// ไม่มีใครเลย, ไม่มีสิ่งใดเลย, //(adj)// ไม่ใช่สัก...
+nepo {UL} [6] หลานชาย (ลูกชายของลูก); nepino [w] หลานสาว → nevo
+nepra/nepre [6] จริงแท้, แน่นอน
+nervo [8] เส้นประสาท
+nervoza [9] กระวนกระวาย, ประสาท
+nesto [7] รังนก
+neto [8] ต้นฉบับ ; malneto [w] แบบร่าง (หนังสือ, เอกสาร)
+neŭtrala [x] มีความเป็นกลาง, เป็นกลาง; neŭtraleco [w] ความเป็นกลาง
+nevo {UL} [6] หลานชาย (ลูกชายของพี่หรือน้อง) → nepo; nevino [w] หลานสาว
+ni {UL} [1] พวกเรา; nia [w] ของพวกเรา
+nigra {UL} [3] สีดำ; nigrulo [w] คนนิโกร
+nilono [9] ไนลอน
+nivelo [8] ระดับ
+-nj- {UL} [9] //(suf)// พยางค์เติมท้ายแสดงรูปแบบของชื่อเล่นเพศหญิง:
+nobelo [x] ชนชั้นสูง
+nobla {UL} [8] มีศีลธรรม
+nodo [8] ปมเงื่อน, นอต (หน่วยความเร็วภาคพื้นดิน)
+nokto {UL} [4] กลางคืน; tranokti [w] //(ntr)// ค้างคืน; tranoktejo [w] ที่พักค้างคืน
+nombro {UL} [4] จำนวน; nombri [w] นับ (จำนวน)
+nomo {UL} [2] ชื่อ; nomi [w] //(tr)// ตั้งชื่อ; nomiĝi [w] //(ntr)// มีชื่อว่า; nomumi [w] //(tr)// เสนอชื่อ
+nordo [6] ทิศเหนือ
+normala [8] ปกติ → ordinara
+noto [6] บันทึกโน้ต; muziknoto [w] โน้ตดนตรี
+nova {UL} [2] ใหม่; denove [w] อีกครั้ง; novaĵo [w] ข่าว; novulo [w] คนมาใหม่, สมาชิกใหม่; malnova [w] เก่า
+Novembro [5] เดือนพฤศจิกายน
+nu {UL} [1] //(int)// ดีละ!, ถ้าอย่างนั้น!
+nubo {UL} [4] เมฆ; nuba [w] ครึ้มเมฆ
+nuda {UL} [7] เปลือย
+nuko [9] ต้นคอ, หลังคอ
+nukso {UL} [9] ถั่ว
+nul/nulo [4] จำนวนศูนย์
+numero [5] เลข (ที่บอกจำนวน) → cifero, numeralo
+nun {UL} [1] //(adv)// เดี๋ยวนี้, ตอนนี้
+nur {UL} [1] //(adv)// เท่านั้น, เพียงแต่
+nutri {UL} [7] //(tr)// ให้อาหาร, หล่อเลี้ยง
+<!-- O -->
+-o {UL} [0] //(fin)// ตัวลงท้ายของคำนาม
+obei {UL} [6] //(x)// เชื่อฟัง; obeema [w] ว่านอนสอนง่าย; malobeema [w] ดื้อ
+objekto {UL} [5] วัตถุ, สิ่งของ, {GRA} กรรม; studobjekto [w] วิชา
+-obl- {UL} [0] //(suf)// พยางค์เติมท้ายแสดงถึงการเพิ่มทวีคูณ: duobla [w] สองเท่า
+oblikva [9] ลาดเอียง
+observi [8] //(tr)// สังเกต; observanto [w] ผู้สังเกตการณ์; observejo [w] หอสังเกตการณ์; observema [w] ช่างสังเกต @20-04-2024 22:43:47@
+obstaklo [9] อุปสรรค, สิ่งกีดขวาง → baro
+obstina {UL} [9] ดื่อดึง
+oceano [9] มหาสมุทร
+odori {UL} [9] //(ntr)// ส่งกลิ่น, มีกลิ่น; odoro [w] กลิ่น; bonodora [w] หอม; malbonodora [w] เหม็น, senodorigi [w] ดับกลิ่น
+ofendi {UL} [9] //(tr)// เหยียดหยาม, ดูหมิ่น
+oferi {UL} [8] //(tr)// ถวาย, บูชา
+oferti [7] //(tr)// {EKON} เสนอ (ขาย)
+oficiala [8] เป็นทางการ
+oficiro [9] 1. {MIL} เจ้าหน้าที่ทางทหารตั้งแต่ยศร้อยโทจนถึงนายพลหรือจอมพล 2. {MAR} ๋ผู้ที่มีตำแหน่งรองจากกัปตัน: //unua oficiro ต้นเรือ, dua oficiro ต้นหน//, 3. ผู้ที่ได้เครื่องราชฯชั้นออฟีซีเย(ฝรั่งเศส)[?]; suboficiro {MIL} เจ้าหน้าที่ทางทหารตั้งแต่สิบเอกถึงร้อยโท @11-04-2025 09:45:40@
+ofico [5] งานออฟฟิศ; oficejo [w] ออฟฟิศ, สำนักงาน; oficisto [w] พนักงานออฟฟิศ
+ofta {UL} [2] บ่อย ๆ, ประจำ; ofteco [w] ความถี่; malofta [w] ไม่บ่อย, หายาก
+ok {UL} [1] แปด; oka [w] ที่แปด
+okazi {UL} [2] //(ntr)// เกิดขึ้น, ปรากฏขึ้น (เหตุการณ์); okazigi [w] ทำให้...เกิดขึ้น, จัด
+okcidento [6] ทิศตะวันตก
+Oktobro [5] เดือนตุลาคม
+okulo {UL} [3] ตา, ดวงตา
+okupi {UL} [3] //(tr)// ยุ่งกับ, สาละวนอยู่กับ; okupiĝi [w] ยุ่ง; ŝatokupo [w] งานอิดเรก
+ol {UL} [1] //(kon)// กว่า (ในการเปรียบเทียบ)
+oleo {UL} [6] น้ำมัน
+olivo [8] ลูกมะกอก; olivarbo [w] ต้นมะกอก; olivoelo [w] น้ำมันมะกอก
+ombrelo {UL} [8] ร่ม
+ombro {UL} [5] เงา, ร่มเงา
+-on- {UL} [0] //(suf)// พยางค์เติมท้ายแสดงถึงการเป็นเศษส่วน; duono [w] หนึ่งส่วนสอง, ครึ่ง
+ondo {UL} [6] คลื่น
+oni {UL} [1] เรา, คนเรา (คำสรรพนามบุรุษที่สามไม่ชี้เฉพาะเจาะจงอาจมีจำนวนน้อยหรือมากก็ได้)
+onklo {UL} [4] ลุง, อา; onklino [w] ป้า, น้า
+-ont- {UL} [0] //(suf)// พยางค์ท้ายของคำที่แสดงลักษณะของกริยาที่เกิดขึ้นในอนาคต
+-op- {UL} [9] //(suf)// พยางค์เติมแสดงถึงการจัดหมวดหมู่เกี่ยวกับตัวเลข
+operacii [8] //(tr)// ผ่าตัด; operaciumo {KOMP} ระบบปฏิบัติการ
+opero [9] โอเปร่า
+opinii [9] //(tr)// มีความเห็นต่อ; opinio [w] ความเห็น
+oponi [9] //(x)// ต่อต้าน, ขัดขวาง, คัดค้าน = opozicii, kontraŭstari
+oportuna {UL} [7] สะดวก; oportunaĵo [w] สิ่งอำนวยความสะดวก
+opozicii [9] //(x)// ค้าน; opozicio [w] ฝ่ายค้าน
+oranĝo [7] ส้ม
+oratoro [9] นักพูด
+ordinara {UL} [5] ปกติทั่วไป → ĝenerala, normala
+ordo {UL} [4] เรียง, ลำดับ, กฎ, ระเบียบ; ordigi [w] เรียงลำดับ, จัดระเบียบ
+ordoni {UL} [4] //(tr)// สั่ง; ordono [w] คำสั่ง
+orelo {UL} [4] หู
+orfo [8] เด็กกำพร้า
+organismo [x] สิ่งมีชีวิต; mikroorganismo [w] จุลอินทรีย์
+organizi [6] //(tr)// จัด; organizaĵo/organizo [w] องค์กร, องค์การ
+organo [7] อวัยวะ
+orgeno [x] ออร์แกน (เครื่องดนตรี)
+oriento [6] ทิศตะวันออก; orienti [9] ?; orientiĝi [w] //(f)// ปรับตัว
+originalo [8] ผลงานต้นฉบับ
+origino [7] ต้นกำเนิด, จุดเริ่มต้น
+orkestro [9] วงออร์เคสตรา
+ornami [7] //(tr)// ตกแต่ง
+oro {UL} {KEM} //(ธาตุ)// [6] ทอง (Au) @11-04-2024 21:36:28@
+orto [6] มุมฉาก; ortilo [w] ไม้ฉาก
+ortografio [9] {LIN} อักขรวิธี = literumo
+-os {UL} [0] //(suf)// ตัวลงท้ายของกริยารูปอนาคตกาล (จะ...)
+oscedi [8] //(ntr)// หาว
+osto {UL} [6] กระดูก
+ostro [x] {ZOO} หอยนางรม
+-ot- {UL} [0] //(suf)// พยางค์เติมท้ายแสดงลักษณะของกริยาที่จะถูกกระทำ
+ovalo [9] รูปวงรี, รูปใข่
+ovo {UL} [5] ไข่
+<!-- P -->
+pacienca [6] อดทน; pacienco [w] ความอดทน
+pacifiko [9] มหาสมุทรแปซิฟิก
+paco {UL} [3] สันติภาพ
+paĉjo [8] พ่อ (patr-ĉjo) → patro
+pafi {UL} [6] //(tr)// ยิง (ปืน); pafilo [w] ปืน
+pagi {UL} [3] //(tr)// จ่ายเงิน; senpaga [w] ฟรี
+paĝo {UL} [5] หน้าในหนังสือ; retpaĝo [w] เว็บเพจ
+pajlo {UL} [7] ซาง (ปล้องของพืช)
+pako [5] paki [w] //(tr)// ห่อ; malpaki [w] //(tr)// แกะห่อ; pakaĵo [w] พัสดุ, สิ่งของที่ถูกห่อ
+pala {UL} [7] ซีด
+palaco {UL} [8] วัง
+palato [9] เพดานปาก
+paliso [9] เสาหลัก, หลัก
+palmo [9] ต้นปาล์ม
+palpebro {UL} [9] หนังตา; palpebrumi [w] //(ntr)// กระพริบตา
+palpi {UL} [9] //(tr)// คลำ
+palto [9] เสื้อคลุมยาวกันหนาว
+paneo [9] {TEK} การหยุดลง, เครื่องยนต์เสีย
+pano {UL} [4] ขนมปัง
+pantalono {UL} [6] กางเกงขายาว; pantaloneto/mallonga pantalono [w] กางเกงขาสั้น
+pantoflo [9] รองเท้าสวมในบ้าน
+papago [9] {ZOO} นกแก้ว
+papero {UL} [4] กระดาษ
+papilio [9] {ZOO} ผีเสื้อ
+papo [9] พระสันตปาปา
+paradizo [9] สวรรค์
+paralelo [9] ขนานกัน, ที่เหมือนหรือเทียบเคียงกันได้
+paraŝuto [9] ร่มชูชีพ
+pardoni {UL} [4] //(x)// ขอโทษ: Pardonon! ขอโทษนะ
+parenco {UL} [6] ญาติ
+parfumo [8] น้ำหอม
+Parizo [x] กรุงปารีส
+parker-e [x] จำจดขึ้นใจ; parkerigi [w] ท่องจำให้ขึ้นใจ
+parko [8] สวนสาธารณะ; parki/parkumi [w] //(tr)// จอดรถ; parkejo/parkumejo [w] ที่จอดรถ, ลานจอดรถ
+parlamento [9] รัฐสภา
+paro [6] คู่
+paroli {UL} [2] //(tr)// พูด, พูดภาษา; parolado [w] การพูด, ปาฐกถา; parolilo [w] ไมค์; elparoli [w] ออกเสียง; interparoli [w] การสนทนา; porolema [w] ช่างพูด, พูดมาก; antaŭparolo [w] คำนำ
+partio [7] {POL} พรรคพวก, กลุ่มคน
+parto {UL} [3] ส่วน; plejparte [w] โดยส่วนใหญ่
+pasaĝero [9] ผู้โดยสาร
+pasero [9] {ZOO} นกกระจอก
+pasi {UL} [3] //(ntr)// ผ่าน; preterpasi [w] //(tr)// ผ่าน, เลย; pasumi [w] อืดอาด, อ้อยอิ่ง; trapasi [w] ผ่าน, ฝ่า; forpaso [w] การจากไป, การเสียชีวิต = morto;
+pasio [8] ความมุ่งมั่น, ความรักอันแรงกล้า
+Pasko [x] ปัสกา
+pasporto [7] หนังสือเดินทาง, พาสปอร์ต
+pasto [6] แป้งโด; dentopasto [w] ยาสีฟัน
+pastro {UL} [7] บาทหลวง, พระ
+paŝi {UL} [4] //(ntr)// ก้าวเดิน; mispaŝi [w] ก้าวพลาด; trapaŝi [w] เดินผ่าน
+paŝti [8] //(tr)// พาไปกินหญ้า, //ŝafoj paŝtas sin แกะไปกินหญ้า//
+pato [8] กระทะ
+patrioto [x] ผู้รักชาติ
+patro {UL} [2] พ่อ, บิดา; patrino [w] แม่, มารดา; gepatroj พ่อแม่, บิดามารดา
+patrono [8] ผู้อุปถัมภ์; patroni [w] //(tr)// อุปถัมภ์
+paŭzi [8] //(ntr)// หยุดชั่วคราว, หยุดพัก; paŭzo [w] การหยุดชั่วคราว, การหยุดพัก
+pavo [9] {ZOO} นกยูง
+peco {UL} [3] ชิ้น
+pego [x] {ZOO} นกหัวขวาน
+pejzaĝo [8] ทิวทัศน์
+peki [7] //(ntr)// ทำบาป; peko [w] บาป; pekulo [w] คนบาป
+pekli [9] //(tr)// ดอง(เค็ม)
+peli {UL} [6] //(tr)// ต้อน, ไล่; forpeli [w] //(tr)// ไล่, ไล่...ไปให้พ้น
+pelto [8] ผ้าขนสัตว์
+pendi {UL} [5] //(ntr)// ถูกแขวน, แขวน; dependi [w] ขึ้นอยู่กับ; sendependa [w] อิสระ, ไม่ขึ้นกับใคร
+pendolo [9] ลูกตุ้มนาฬิกา; pendoli [w] //(ntr)// ลูกตุ้มแกว่งไปมา
+penetri [8] //(x)// ทะลุ, ทะลวง
+peni {UL} [4] //(ntr)// ลอง, พยายาม (อย่างมาก) → provi, klopodi
+peniko [8] พู่กัน
+peniso [x] อวัยวะเพศชาย
+pensi {UL} [3] //(ntr)// คิด; pensiga [w] ทำให้คิด; penso [w] ความคิด; pripensi [w] ครุ่นคิด, พิจารณา
+pensio [9] เงินบำนาญ
+pensiono [x] หอพัก
+penti [8] //(x)// สำนึกผิด, เสียใจต่อการกระผิด
+pentri {UL} [6] //(tr)// วาดรูประบายสี
+pepi [x] //(ntr)// ส่งเสียงร้องเล็ก ๆ
+per {UL} [1], pere de //(prep)// โดย (เครื่องมือหรือสิ่งที่มาช่วยเหลือ)
+percepti [x] //(tr)// รับรู้, สัมผัส
+perdi {UL} [3] //(tr)// ทำหาย, หลง; perdiĝi [w] หาย
+perei [9] //(ntr)// ตายโหง
+perfekta [8] สมบูรณ์แบบ, {GRA} กาลสมบูรณ์
+perfidi [8] //(tr)// ทรยศ, หลักหลัง
+periodo [9] ช่วงเวลา, ระยะเวลา; periodaĵo {TIP} นิตยสาร, วารสาร
+perlo [9] ไข่มุก
+permesi {UL} [3] //(tr)// อนุญาต; permesilo [w] ใบอนุญาต
+perono [9] บริเวณยกพื้นหน้าบ้าน
+persekuti [7] //(tr)// ไล่ล่า; presekuto [w] การไล่ล่า
+persiko [9] ลูกท้อ
+persisti [9] //(ntr)// ยืนกราน, เพียรพยายาม, ไม่ย่อท้อ, //(f)// ดำเนินต่อเนื่องอย่างยาวนาน; persistema [w] ยืดติด, เซ้าซี้, มากไปจนน่ารำคาญ
+persono [3] บุคคล
+persvadi [x] //(x)// โน้มน้าว, ชักชวน
+pesi {UL} [7] //(tr)// ชั่ง; pesilo [w] ตาชั่ง, กิโล
+petalo [x] กลีบ(ดอก)
+peti {UL} [2] //(tr)// ขอร้อง; peto [w] การขอร้อง
+petoli [7] //(ntr)// ร่าเริงอย่างเด็ก, เล่นสนุก
+petrolo [8] น้ำมันปิโตรเลียม
+pezi {UL} [5] //(ntr)// หนัก, มีน้ำหนัก; peza [w] หนัก; malpeza [w] เบา
+pia {UL} [9] เคร่งศาสนา; piulo [w] คนเคร่งสาศนา
+piano [9] เปียโน; pianisto [w] นักเปียโน
+piceo [9] ต้นสนชนิดหนึ่ง
+pico [x] พิซซ่า
+piĉo [x] (ภาษาปาก) อวัยวะเพศหญิง = vulvo
+piedo {UL} [3] เท้า
+pigo [9] {ZOO} นกกางเขน
+piki {UL} [6] //(tr)// 1. ทิ่, 2. //(f)// เจ็บ, เจ็บใจ, ทำให้โกรธ, ทำให้ตื่นเต้น; pika [w] 1. แหลม, คม, 2. //(f)// เจ็บ, แสบ, เผ็ด, 3. เกี่ยวกับไพ่โพดำ; piko {UL} 1. ความเจ็บจากการถูกทิ่ม, 2. //(f)// การทิ่มแทง, การถูกทำให้เจ็บปวด, 3. {SPO} โพดำ (ไพ่) (♠); pikaĵo สิ่งที่ทิ่ม, หนาม; pikema //(f)// ชอบทำร้ายจิตใจ; pikiĝema เปราะบาง (ทางจิตใจ), ขุ่นเคือง่าย; pikilo 1. สิ่งที่ทิ่ม, หนาม, 2. {ZOO} อวัยะของสัตว์ที่เอาไว้ทิ่มกัด; elpiki //(tr)// ทิ่มแล้วดึงออก, ควัก(ตา); enpiki //(tr)// ทำใหแน่นด้วยการทิ่มเข้าไป, ตอก(ตะปู); trapiki //(tr)// ทิ่มทะลุ, เสียบ; kornopiki แทงด้วยเขา, ขวิด; pikbastono {SPO} ไม้ปีนเขา; pikstango {HIS} {MIL} หอกแหลม @01-01-2023-w@ @03-05-2025 09:21:52@
+pilgrimi [x] //(ntr)// เดินทางแสวงบุญ
+pilko {UL} [6] ลูกบอล; piedpilko [w] ฟุตบอล
+pilo [8] {ELE} ถ่านไฟฉาย
+piloto [9] นักบิน
+pinĉi [8] //(tr)// คีบ, หนีบ; pinĉilo [w] คีม, ตัวหนีบ
+pinglo {UL} [6] เข็มกลัด, เข็มหมุด → kudrilo
+pino [7] ต้นสน
+pinto [6] 1. ยอดแหลม, 2. จุดสูงสุด pinta 1. มียอดแหลม, 2. (บุคคล)สำคัญที่สุด; pinti //(ntr)// อยู่บนยอด, ทำให้แหลม; pintigi ทำให้แหลม; pintigilo [n] กบเหลาดินสอ, อุปกรณ์ที่ทำให้แหลม; pintumo ประโยคจบเรื่องที่ทำให้ผู้ฟังเข้าใจมากยิ่งขึ้น; borpinto {TEK} ดอกสว่าน; mampinto {ANA} หัวนม = cico; piedpinto {ANA} ปลายเท้า; senpintigi //(tr)// ทำให้มน, ทำให้ทือ; terpinto {GEOG} แหลม, เนินที่ยื่นไปในทะเล = promontoro @13-04-2025 19:48:16@
+pioniro [9] ผู้บุกเบิก → iniciato
+pipo [7] กล้องยาสูบ
+pipro [9] พริกไทย
+piramido [x] พีระมิด
+piro {UL} [8] ลูกแพร์
+pisi [x] //(ntr)// ฉี่, เยี่ยว = urini
+pisti [x] //(tr)// ตำ, บด; pistilo [w] สาก; pistujo [w] ครก
+pizo [7] ถั่ว (ตระกูลถั่วลันเตา); ĝardena pizo [w] ถั่วลันเตา
+placo {UL} [7] สถานที่
+plaĉi {UL} [5] //(ntr)// เป็นที่พอใจ, ต้องใจ, ชอบ → ŝati
+plado [7] จานใบใหญ่
+plafono {UL} [5] เพดาน
+plago [9] ภัยพิบัติร้ายแรง
+plaĝo [x] ชายหาด
+plando [9] ฝ่าเท้า; plandumo [9] พื้นรองเท้า
+planedo [9] {AST} ดาวเคราะห์; nanplanedo [w] ดาวเคราะห์แคระ
+planko {UL} [4] พื้น
+plano [7] แผนการ, แผน
+planti [6] //(tr)// ปลูก; planto [w] พืช
+plastiko [9] ศิลปะทรงรูป → plasto
+plasto [9] พลาสติก → plastiko
+plata [6] แบนราบ
+platano [9] ไม้จำพวกมะเดื่อ?
+plej {UL} [1] //(adv)// มากที่สุด
+plekti [8] //(tr)// ถัก, สาน
+plena {UL} [2] เต็ม; plenplena [w] เต็มไปด้วย; plenumi [8] //(tr)// ทำให้...สมบูรณ์; malplena [w] ว่างเปล่า
+plendi {UL} [4] //(ntr)// ร้องทุกข์, บ่น
+pleto [8] ถาด
+plezuro {UL} [4] ความยินดี, ความเต็มใจ
+pli {UL} [1] //(adv)// มากกว่า; pliigi [1] ทำให้มากขึ้น
+plonĝi [9] //(ntr)// กระโดดน้ำ, ดำน้ำ, ประดาน้ำ
+plori {UL} [4] //(ntr)// ร้องไห้
+plu [1] //(adv)// มากขึ้น, เพิ่มมากกว่าเดิม
+plugi [6] //(tr)// ไถ
+plumbo [8] {KEM} //(ธาตุ)// ตะกั่ว (Pb); plumbisto [w] ช่างประปา @11-04-2024 21:36:28@
+plumo {UL} [4] {ZOO} ปากกา, ขนนก
+pluraj [6] จำนวนมากว่า 1
+pluralo [9] {GRA} พหูพจน์
+plus [8] //(kon)// บวก
+pluvo {UL} [4] ฝน; pluvi [w] //(ntr)// ฝนตก;
+pneŭo/pneŭmatiko  [x] ยางรถ, ล้อยาง
+po {UL} [9] //(prep)// คนละ, อันละ, ต่อ //La patrino donis al infanoj po du pomoj แม่ให้แอปเปิ้ลเด็ก ๆ คนละสองลูก//
+poemo [8] บทกวี
+poento [x] จุด, คะแนน
+poeto [7] กวี
+poezio [8] การประพันธ์บทกวี, บทกวี, มีลักษณะเป็นบทกวี
+polico [6] กองตำรวจ; policano/policisto [w] ตำรวจ; policejo [w] สถานีตำรวจ
+poligloto [x] ผู้ที่พูดได้หลายภาษา = plurlingvulo
+politiko [7] การเมือง; politikisto [w] นักการเมือง
+poluro [6] ความเงา, ความมันวาว; poluri [w] //(tr)// ขัด, ถู, //(f)// เกลา, ปรับปรุงให้ดีขึ้น @10-04-2024 16:23:40@
+poluso [x] ขั้วโลก
+polvo {UL} [6] ฝุ่น
+pomo {UL} [6] แอปเปิล; terpomo [w] มันฝรั่ง
+ponto {UL} [6] สะพาน
+popolo {UL} [3] ประชากร
+populara [9] นิยม; popularigi [w] ทำให้เป็นที่นิยม
+por {UL} [1] //(prep)// เพื่อ; por ke ...u [w] เพื่อที่ว่า
+porcelano [9] เครื่องถ้วยเปลือกไข่, เครื่องเคลือบ @10-04-2024 16:25:58@
+porcio [9] ส่วน; porciumi [w] //(tr)// ปันส่วน
+pordo {UL} [3] ประตู
+porko {UL} [5] {ZOO} สุกร, หมู; porkaĵo [w] เนื้อหมู
+porti {UL} [2] //(tr)// ถือ, ขน, บรรทุก; alporti [w] //(tr)// เอาไปให้, นำมาให้; elporti [w] //(tr)// เอา...ออกมา, นำออกมา //(f)// อดทนต่อ...จนถึงที่สุด; kunporti [w] เอาไปด้วย, นำมาด้วย; transporti [w] //(tr)// ขน, เคลื่อนย้าย
+portreto [9] รูปวาดเหมือน
+posedi [6] //(tr)// เป็นเจ้าของ, ครอบครอง, มี; posedanto [w] เจ้าของ
+post {UL} [1] //(prep)// ข้างหลัง, หลักจาก
+posteno [8] ตำแหน่ง (งาน)
+postuli {UL} [3] //(tr)// ต้องการ, ต้องมี, เรียกร้อง; postulo ความต้องการ, ข้อเรียกร้อง @04-02-2025 21:26:04@
+poŝo {UL} [5] กระเป๋าเสื้อ, กระเป๋ากางเกง, //(f)// กระเป๋าเงิน
+poŝto {UL} [5] การไปรษณีย์; poŝtejo [w] ไปรษณีย์; poŝtisto [w] บุรุษไปรษณีย์
+potenco [7] พลัง, อำนาจ
+poto {UL} [6] หม้อ
+povi {UL} [2] //(tr)// สามารถ; ĉiopova [w] สามารถทุกทาง; daŭripovo/daŭropovo [w] ความยั่งยืน
+pozicio [8] ตำแหน่ง, ที่, สถานะ
+pra- [9] //(pref)// ยุคก่อน, ยุคโบราณ: prahistorio [w] ยุคก่อนประวัติศาสตร์; ลำดับญาติที่เกิดก่อน 1 ชั่วคน?: praavo [w] พ่อของปู่, pranepo [w] ลูกของหลานชาย
+praktiko [6] การปฏิบัตร
+pramo [x] {MAR} เรือข้ามฝาก
+pravi {UL} [4] //(ntr)// แท้จริง, ถูกต้อง
+precipa [4] เป็นหลัก, เป็นส่วนใหญ่
+preciza [6] เฉพาะ, เจาะจง
+predikato [x] {GRA} ภาคแสดง (ในประโยค)
+preferi [5] //(tr)// ชอบ...มากกว่า
+preĝi {UL} [7] //(ntr)// อธิฐาน, สวดมนต์; preĝejo [w] โบสถ์
+prelegi [9] //(ntr)// บรรยาย; prelego [w] การบรรยาย
+premi {UL} [3] //(tr)// กด, กดดัน
+premio [6] รางวัล
+preni {UL} [2] //(tr)// หยิบ, เอา, นำเอา, เอาไป; preno [w] การหยิบ, การเอาไป, สิ่งที่หยิบไป, สิ่งที่เอาไป; prenilo [w] ที่คีบ, ไม้คีบ; alpreni [w] //(tr)// ได้รับ, ยอมรับ; ĉirkaŭpreni [w] //(tr)// โอบ, กอด; depreni [w] //(tr)// เอามาจาก; elpreni [w] //(tr)// เอาออกมา; forpreni [w] //(tr)// หายไป, เก็บเอาไป; kunpreni [w] //(tr)// เอาไปด้วย, เอาติดตัวไปด้วย; repreni [w] //(tr)// เอาคืนมา, เอาคืน; surpreni [w] //(tr)// เอามาสวมใส่; transpreni [w] เข้าควบคุม; fajroprenilo ที่คีบถ่าน; lupreni [w] //(tr)// เช่า; partopreni [w] //(x)// เข้าร่วม, มีส่วนร่วม; pruntepreni [w] //(tr)// ขอยืม @18-04-2024 12:08:09@
+prepari {UL} [5] //(tr)// เตรียม
+prepozicio [x] {GRA} คำบุพบท
+presi {UL} [6] //(tr)// พิมพ์; presejo [w] โรงพิมพ์
+preskaŭ {UL} [1] //(adv)// เกือบจะ
+preskribi [9] //(tr)// สั่งจ่าย(ยา), สั่งด้วยการเขียน
+preta {UL} [4] พร้อม; tujpreta (อาหาร) สำเร็จรูป
+preteksto [8] ข้อแก้ตัว; preteksti [w] //(tr)// แก้ตัว
+pretendi [8] //(x)// ยืนยันสิทธิ์
+preter [1] //(prep)// ผ่าน
+prezenti {UL} [3] //(tr)// นำเสนอ
+prezidi [7] //(x)// เป็นประธาน; prezidanto [w] ประธาน → prezidento
+prezo [6] ราคา → kosto
+pri {UL} [1] //(prep)// เกี่ยวกับ
+principo [9] หลักการ
+princo [9] เจ้าชาย; princino [w] เจ้าหญิง
+printempo {UL} [4] ฤดูใบไม้ผลิ
+privata [7] ส่วนตัว; privateco [w] ความเป็นส่วนตัว
+pro {UL} [1] //(prep)// เนื่องจาก
+probabla [8] น่าจะเป็นไปได้ → ebla
+problemo [8] ปัญหา; senprobleme [w] ไม่มีปัญหา
+procedi [8] //(ntr)// ดำเนินการ, จัดการ; procedo [w] การดำเนินการ, การจัดการ, วิธีการ
+procento [9] เปอร์เซ็นต์ = elcento
+proceso [8] {JUR} คดี, สำนวน, //(ark)// กระบวนการ
+produkto [5] ผลิตภัณฑ์; produkti [w] //(tr)// ผลิต
+profesio [8] อาชีพ
+profesoro [9] ศาสตราจารย์, อาจารย์มหาวิทยาลัย
+profeto [9] ผู้เผยพระวจนะ, ศาสดาพยากรณ์
+profito [8] ผลประโยชน์
+profunda {UL} [4] ลึก; malprofunda [w] ตื้น
+programo [9] โปรแกรม; programaro [w] โปรแกรม, ซอฟต์แวร์; programisto นักเขียนโปรแกรม, โปรแกรมเมอร์
+progresi [6] //(ntr)// พัฒนาขึ้น
+projekto [9] โครงการ
+prokrasti [8] //(tr)// ผลัด, เลื่อน
+proksima {UL} [2] ใกล้; proksimume [w] ประมาณ, โดยประมาณ; malproksima [w] ไกล
+proletario [9] = proleto [w] กรรมกร
+proleto [9] กรรมกร; proletaro [w] ชนชั้นกรรมาชีพ (กลุ่มคน)
+promeni {UL} [5] //(ntr)// เดินเล่น
+promesi {UL} [5] //(tr)// สัญญา
+pronomo [9] {LIN} สรรพนาม; persona pronomo [w] บุรุษสรรพนาม
+prononci [9] //(tr)// {LIN} ออกเสียง = elparoli; prononco [w] การออกเสียง
+propagandi [9] //(tr)// โฆษณาชวนเชื่อ
+proponi {UL} [9] //(tr)// เสนอ; propono [w] ข้อเสนอ
+propozicio [9] {GRA} กลุ่มคำหรือประโยค; indika propozicio [w] ประโยคบอกเล่า; demanda propozicio [w] ประโยคคำถาม
+propra {UL} [3] ของตัวเอง
+prosperi [9] //(ntr)// เจริญก้าวหน้า
+protekti [7] //(tr)// ป้องกัน, คุ้มกัน
+protesti [7] //(tr)// ประท้วง; prostesto [w] การประท้วง, คำประท้วง
+proverbo [9] สุภาษิต
+provi {UL} [3] //(tr)// ลอง, ทดสอบ → peni, klopodi
+provinco [9] จังหวัด
+provizo [8] การจัดเตรียม, ของที่จัดเตรียมเอาไว้ใช้; provizi [w] //(tr)// จัดเตรียม...เท่าที่มี
+provizora [x] ชั่วคราว, เฉพาะกาล
+provoki [9] //(tr)// ยั่วยุ, ปลุกปั่น
+prozo [8] ร้อยแก้ว, เรียงความ, ความเรียง
+prudenta {UL} [7] ชาญฉลาด, ลุ่มลึก, รอบคอบ
+pruno [9] ลูกพลัม
+prunti {UL} [5] //(tr)// ยืม
+pruvi [8] //(tr)// พิสูจน์
+psikologio [9] จิตวิทยา
+publiko [6] สาธารณะ; publikigi [w] เผยแพร่...ต่อสาธารณะ
+pudro [9] (เครื่องสำอาง) แป้ง
+pugno [7] กำปั้น
+pulmo [8] ปอด
+pulo [x] {ZOO} หมัด (สัตว์)
+pulovero [x] เสื้อกันหนาวไหมพรมสวมทางศีรษะ
+pulvo {UL} [8] ดินปืน
+pulvoro {UL} [8] ผง; pulvorigi [w] ทำให้เป็นผง; lavpulvoro [w] ผงซักฟอก
+pumpi [8] //(tr)// บั้ม; pumpilo [w] เครื่องบั้ม
+puni {UL} [6] //(tr)// ลงโทษ; puno [w] การสงโทษ; monpuno [w] โทษปรับ
+punkto [3] จุด
+punto [9] ผ้าลูกไม้
+pupilo [9] รูม่านตา, ลูกตาดำ
+pupo {UL} [8] ตุ๊กตา
+pura {UL} [3] สะอาด; purigi [w] ทำให้...สะอาด, ทำความสะอาด; malpura [w] สกปรก
+puso [9] หนอง; pusi [w] //(ntr)// หนองไหล
+puŝi {UL} [5] //(tr)// ผลัก, ดัน
+puto [7] บ่อน้ำบาดาล
+putri {UL} [8] //(tr)// เน่า
+<!-- R -->
+rabato [9] ส่วนลด
+rabi [8] //(tr)// ขโมย → ŝteli
+racio [9] ความมีเหตุผล, ความมีตรรกะ
+radiatoro [9] เครื่องนำความร้อน, หม้อน้ำรถยนต์
+radiko {UL} [7] ราก, รากศัพท์; elradikigi [w] ลบล้าง, ถอนรากถอนโคน?; enradikiĝi [w] ตั้งรกราก, ฝังราก?
+radio {UL} [5] รังสี, สถานีวิทยุ; radioaparato [w] เครื่องรับวิทยุ
+rado {UL} [6] ล้อรถ
+rafano [9] หัวไชเท้า
+rajdi [7] //(tr)// ขี่
+rajto [3] สิทธิ; rajti [w] //(tr)// มีสิทธิ
+rakonti {UL} [3] //(tr)// เล่า, บอก rakonto [w] เรื่องเล่า
+rampi {UL} [8] //(ntr)// เลื้อย; rampulo [w] สัตว์เลื้อยคลาน
+rando {UL} [6] ขอบ, ชาย, ริม (ตามความยาว)
+rango [8] ระดับ, ลำดับ
+rano [9] {ZOO} กบ
+rapida {UL} [6] เร็ว; rapideco [w] ความเร็ว; malrapida [w] ช้า
+raporti [8] //(x)// รายงาน; raporto [w] รายงาน; raportisto [w] ผู้รายงาน
+rasti [x] //(tr)// คราด; rastilo [w] คราด
+rato [8] {ZOO} หนูบ้าน → muso
+raŭka [9] เสียงแหบ
+raŭpo [9] {ZOO} หนอนผีเสื้อ
+ravi [8] //(tr)// ทำให้...ลุ่มหลง
+razi {UL} [7] //(tr)// โกน; razilo [w] มีดโกน
+re- {UL} [0] //(pre)// พยางค์เติมหน้าเพื่อแสดงถึงการทำซ้ำหรือการย้อนกลับไปอีกครั้ง: reveni [w] กลับมา; relerni [w] เรียนอีกครั้ง
+reakcio [9] ปฏิกิริยา
+reala [9] เป็นจริง → vera
+recenzi [9] //(tr)// วิจารณ์; recenzo [w] บทวิจารณ์
+recepto [8] วิธีปรุงอาหาร, สูตรยา
+reciproka [8] เท่ากัน, เสมอกัน
+redakti [9] //(tr)// แก้ไข; redaktisto [w] บรรณาธิการ
+redukti [9] //(tr)// ลด (ขนาด, จำนวน); reduktebla [w] ลดได้; reduktismo {FIL} คตินิยมลดทอน; nereduktabla [w] ไม่สามารถลดได้ @18-03-2024 23:14:29@
+reflekso [x] ปฏิกิริยาโต้ตอบที่ไม่เจตนาต่อสิ่งกระตุ้น [{GRA} คำที่ย้อนกลับไปหาประธาน, {MAT} ความสัมพันธ์สะท้อน?]
+reflekti [9] //(tr)// สะท้อนกลับ
+reformi [9] //(tr)// ปฏิรูป
+regali [8] //(tr)// เลี้ยง (อาหาร)
+regi {UL} [3] //(ntr)// มีอำนาจ, //(tr)// ควบคุม, ปกครอง; registaro [w] รัฐบาล
+regimento [9] กรมทหาร
+regiono [5] ภูมิภาค
+registro [7] การลงทะเบียน, รายการลงทะเบียน
+regno {UL} [6] อาณาจักร
+regulo {UL} [6] กฎ
+reĝimo [9] ระบบการปกครอง
+reĝo {UL} [5] ราชา, กษัตริย์; reĝino [w] ราชินี
+reklami [8] //(tr)// โฆษณา; reklamo [w] โฆษณา
+rekomendi [6] //(tr)// แนะนำ → sugesti
+rekompenco {UL} [8] รางวัล, สิ่งของตอบแทน; rekompenci [w] //(tr)// ตอบแทน, ให้
+rekordo [8] บันทึกสถิติในการแข่งกีฬา
+rekta {UL} [5] โดยตรง, ทางตรง
+relativa [9] ค่อนข้าง
+religio [5] ศาสนา
+relo [x] รางรถไฟ
+remi [8] พายเรือ; remilo [w] ไม้พาย
+rendevuo [9] การนัดพบ
+renkonti {UL} [3] //(tr)// พบเจอ (บางอย่าง); renkontiĝi kun นัดพบเจอกับ, พบเจอกับ
+reno [9] ไต
+rento [9] ดอกเบี้ย
+renversi {UL} [7] //(tr)// ทำให้...ล้ม, พัง
+reprezenti [7] //(tr)// เป็นตัวแทน; reprezentanto [w] ตัวแทน, ผู้แทน
+respekti [6] //(tr)// เคารพ
+respondi {UL} [2] //(tr)// ตอบ; respondo [w] คำตอบ; respondeco [w] ความรับผิดชอบ; respondeci [w] //(ntr)// รับผิดชอบ = responci @22-09-2024 15:16:23@
+respubliko [8] สาธารณรัฐ
+resti {UL} [2] //(ntr)// พักอาศัย; restejo [w] สถานที่พักอาศัย
+restoracio [7] ภัตตาคาร, ร้านอาหาร
+resumo [9] สรุป, ย่อความ
+reto [6] ตาข่าย; interreto [w] อินเตอร์เน็ต
+revi [8] //(x)// ฝัน, ใฝ่ฝัน → sonĝi; revo [w] ความใฝ่ฝัน
+revizii [9] //(tr)// {POL} ปรับปรุง
+revolucii [9] //(ntr)// ปฏิวัติ; revolucio [w] การปฏวัติ
+revuo [8] นิตยสาร →gazeto
+rezervo [8] การจอง; rezervi [w] //(tr)// จอง → mendi
+rezigni [8] //(x)// ล้มเลิก, ถอดใจ
+rezisti [8] //(tr)// ต้านทาน, ต่อต้าน
+rezoni [9] //(ntr)// คิดอย่างมีเหตุผล
+rezulto [6] ผล
+ribeli [8] //(ntr)// ไม่เชื่อฟัง, กบฏ
+ribo [6] ลูกเกด
+ricevi {UL} [2] //(tr)// รับ, ได้รับ → akiri, gajni
+riĉa {UL} [2] รวย; riĉulo [w] คนรวย, เศรษฐี; malriĉa [w] จน
+ridi {UL} [2] //(ntr)// หัวเราะ; rideti [w] ยิ้ม
+rifuĝi [8] //(ntr)// หลบหนี, ลี้ภัย; rifuĝinto [w] ผู้ลี้ภัย
+rifuzi [6] //(tr)// ปฏิเสธ
+rigardi {UL} [3] //(tr)// ดู, มอง
+rigida [9] แข็งทื่อ, กระด้าง @20-09-2024 20:53:04@
+rigora [x] เคร่งครัด, ไร้เมตตา → severa
+rikolti [6] //(tr)// เก็บเกี่ยว
+rilati [6] //(ntr)// มีความสัมพันธ์; rilato [w] ความสัมพันธ์
+rimarki [3] //(tr)// สังเกต
+rimedo [3] ทรัพยากร, แหล่งข้อมูล
+rimeno [9] สายรัด
+rimo [9] การสัมผัสในบทกลอน
+ringo {UL} [7] แหวน; orelringo [w] ต่างหู
+ripari [6] //(tr)// ซ่อมแซม
+ripeti {UL} [5] //(tr)// ทำซ้ำ, ทำ...อีกรอบ
+ripo [8] ซี่โครง
+ripozi {UL} [4] //(ntr)// พักผ่อน; ripozejo [w] สถานที่พักผ่อน
+riproĉi [6] //(tr)// ตำหนิ
+riski [8] //(tr)// เสี่ยง
+risorto [x] สปริง
+ritmo [8] จังหวะ
+rito [x] พิธีกรรม
+riveli [9] //(tr)// เปิดเผย, แสดงให้เห็น, (การถ่ายภาพ) ล้างรูป
+riverenci [9] //(ntr)// โค้งคำนับ; riverenco [w] การโค้งคำนับ = klinsaluto
+rivero {UL} [4] แม่น้ำ
+rivoluo [9] หมุนรอบตัวเอง, หมุน 360 องศา
+rizo [7] ข้าว
+robo [8] ชุดยาวของผู้หญิง
+roko [7] หินก้อนใหญ่
+rolo [9] บทบาท, หน้าที่
+romano [9] {BELE} นิยาย; versromano {BELE} นิยายคำกลอน; romaneca [w] ดั่งนิยาย; romanisto {BELE} นักเขียนนิยาย; krimromano  {BELE} นิยายสืบสวนสอบสวน @12-10-2024 10:15:59@
+rompi {UL} [4] //(tr)// ทำพัง, ทำเสียหาย; interrompi [w] ขัดขวาง, ขัดจังหวะ (เวลาพูด); langrompilo {LIN} วลีที่ออกเสียงให้ถูกต้องและรวดเร็วได้ยาก (เช่น ยายกินลำไย น้ำลายยายไหลย้อย)
+rondo {UL} [4] วงกลม, กลุ่มทำกิจกรรม
+ronki [8] //(ntr)// กรน
+rosmaro [x] {ZOO} วอลรัส
+roso [9] น้ำค้าง
+rosti {UL} [8] //(tr)// ปิ้ง, ย่าง
+rozo {UL} [4] ดอกกุหลาบ
+rubando [9] ริบบิ้น
+ruĝa {UL} [2] สีแดง
+ruino [9] ซากปรักหักพัง
+ruli [5] //(tr)// กลิ้ง; rulo [w] ไม้กลิ้ง
+rusto [9] สนิม; rustiĝi [w] เป็นสนิม
+ruza [7] เจ้าเล่ห์
+<!-- S -->
+sabato {UL} [5] วันเสาร์
+sablo {UL} [7] ทราย; sablero [w] เม็ดทราย
+sabro [x] ดาบใหญ่
+sagaca [8] ฉลาด, เฉียบแหลม, มีไหวพริบ
+sago [9] ลูกศร
+saĝa {UL} [5] เฉลียวฉลาด, มีปัญญา
+sako {UL} [5] ถุง; dorsosako [w] กระเป๋าเป้; mansako [w] กระเป๋าถือ
+salajro [7] เงินเดือน; salajrulo [w] มนุษย์เงินเดือน
+salato [9] สลัด
+saliko [9] ต้นหลิว
+salivo [x] น้ำลาย
+salmo [x] {ZOO} ปลาแซลมอน
+salo {UL} [6] เกลือ
+salono [8] ห้องโถงรับแขก
+salti {UL} [4] //(ntr)// กระโดด
+saluti {UL} [4] //(tr)// ทักทาย: Saluton! สวัสดี; salutvorto {KOMP} ชื่อผู้ใช้; elsaluti {KOMP} ล็อกเอาท์; ensaluti {KOMP} ล็อกอิน
+sama {UL} [2] เหมือนกัน; malsama [w] แตกต่าง
+sana {UL} [4] สุขภาพดี, สุขภาพปกติ; malsana [w] ไม่สบาย; malsanulejo [w] โรงพยาบาล = hospitalo; resaniĝi [w] หายป่วย
+sandviĉo [9] แซนด์วิช
+sango {UL} [4] เลือด
+sankta {UL} [6] ศักดิ์สิทธิ์; sanktulo [w] นักบุญ
+sapo {UL} [6] สบู่
+sarki [9] //(tr)// ถอนหญ้า, ดายหญ้า
+sata {UL} [4] อิ่ม; malsata [w] หิว
+satelito [x] ดาวเทียม; satelita //(pp regno aŭ urbo)// บริวาร, ภายใต้การดูแล
+satiro [9] การเสียดสี, การถากถาง
+saŭco [9] ซอส
+savi {UL} [6] //(tr)// ช่วยชีวิต, รักษาชีวิต
+sceno [7] ฉาก, ภาพ; scenaro [w] สถานการณ์; scenejo [w] เวที
+scienco [6] วิทยาศาสตร์; sciencisto [w] นักวิทยาศาสตร์
+scii {UL} [2] //(tr)// รู้; scio [w] ความรู้; scivola/scivolema [7] อยากรู้
+sciuro [9] {ZOO} กระรอก
+se {UL} [1] //(kon)// ถ้า
+sed {UL} [1] //(kon)// แต่
+segi [8] //(tr)// เลื่อย; segilo [w] เลื่อย
+seĝo {UL} [4] เก้าอี้; apogseĝo/brakseĝo เก้าอี้ที่มีที่วางแขน; balancoseĝo/lulseĝo เก้าอี้โยก; kuŝseĝo/kuŝoseĝo เก้าอี้นอน; portoseĝo วอ, สะเรียง; rulseĝo/radseĝo เก้าอี้รถเข็นสำหรับคนป่วยหรือคนพิการ, วีลแชร์; turnoseĝo/pivotseĝo เก้าอี้หมุน @04-05-2025 10:55:56@
+seka {UL} [5] แห้ง; malseka [w] เปียก
+sekalo [9] ข้าวไรย์
+sekci [9] //(tr)// ผ่า, ชำแหละ
+sekcio [9] ตอน, ส่วน, แผนก
+sekretario [8] เลขานุการ
+sekreto [6] ความลับ; sekreta [w] เป็นความลับ, ลับ
+sekso [8] เพศ; seksumo [w] เพศสัมพันธ์
+sekundo [7] วินาที
+sekura [9] ปลอดภัย; sekureco [w] ความปลอดภัย; malsekura [w] อันตราย
+sekvi [2] //(tr)// ติดตาม; sekvanto [w] ผู้ติดตาม
+selekti [x] //(tr)// {BOT} คัดเลือก → elekti
+selo [x] อาน
+semajno {UL} [3] สัปดาห์
+seminario [x] งานสัมมนา
+semo {UL} [6] เมล็ด; semi [w] //(tr)// หว่านเมล็ด;
+sen {UL} [1] //(prep)// ปราศจาก
+senato [9] วุฒิสภา, สภาสูง; sanatano [w] สมาชิกวุฒิสภา
+senco {UL} [5] ความหมาย, ลักษณะการใช้ (คำ, ถ้อยคำ)
+sendi {UL} [2] //(tr)// ส่ง; dissendi [w] จ่าย, กระจายเสียง, ถ่ายทอด; elsendi [w] ส่งออก
+senso [8] ความรู้สึก = sentumo
+senti {UL} [3] //(tr)// รู้สึก //Mi sentas min feliĉa. ผมรู้สึกว่าผมมีความสุข//; sentema [w] ความรู้สึกอ่อนไหว; sentumo [w] ความรู้สึก = senso
+sep {UL} [1] เจ็ด; sepa [w] ที่เจ็ด
+Septembro [5] เดือนกันยายน
+serĉi {UL} [3] //(tr)// หา, ค้นหา, มองหา
+serena [8] เงียบสงบ
+serio [6] ลำดับ, ชุด
+serioza [5] เครียด, จริงจัง
+serpento {UL} [6] {ZOO} งู
+seruro {UL} [7] ลูกบิดประตู
+servi {UL} [4] //(tr)// บริการ; servo [w] การบริการ
+ses {UL} [1] หก; sesa [w] ที่หก
+severa {UL} [7] เคร่งครัด, เคร่ง → rigora; malsevera [w] เมตตา, ผ่อนปรน
+sezono [6] ฤดูกาล
+sfero [x] รูปทรงกลม
+si {UL} [1] เขาเอง, หล่อนเอง, มันเอง, พวกมันเอง (สรรพนามสะท้อนบุรุษที่ 3 เอกพจน์หรือพหูพจน์); sia [w] ของเขาเอง, ของหล่อนเอง, ของมันเอง, ของพวกมันเอง
+sidi {UL} [2] //(ntr)// นั่ง; sidiĝi [w] //(ntr)// นั่งลง
+sieĝi [x] //(tr)// ปิดล้อม
+signalo [8] สัญญาณ; signali [w] //(tr)// ให้สัญญาณ
+signifi {UL} [7] //(tr)// หมายถึง, มีความหมาย; signifo [w] ความหมาย
+signo {UL} [6] {LIN} สัญลักษณ์; antaŭsigno [w] นิมิต, ลาง; demandsigno [w] เครื่องหมายคำถาม (?); krisigno [w] เครื่องหมายตกใจ, อัศเจรีย์ (!); tonsigno [w] วรรณยุกต์
+silabo [x] พยางค์
+silenti {UL} [4] //(ntr)// เงียบ; silento [w] ความเงียบ
+silko [8] ไหม
+simila {UL} [5] คล้าย; malsimila [w] ไม่คล้าย
+simio [8] {ZOO} ลิง
+simpatio [8] ความสงสาร, ความเห็นอกเห็นใจ
+simpla {UL} [3] เรียบง่าย, ธรรมดา; simpleco [w] ความเรียบง่าย; simpligi [w] ทำให้ง่าย
+sincera [7] จริงใจ → honesta
+sindikato [9] สหภาพแรงงาน
+singularo [9] {GRA} เอกพจน์
+sinjoro {UL} [2] นาย, สุภาพบุรุษ; sinjorino [w] สุภาพสตรี
+sino [9] อก, //(f)// ความรู้สึกนึกคิด
+sistemo [8] ระบบ
+sitelo [8] กระป๋องมีหูเอาไว้ตักน้ำ
+situacio [9] สถานการณ์
+situo [9] ที่ตั้ง, ทำเล
+skalo [7] มาตราส่วน, สเกล
+skatolo [6] กล่อง
+skeleto [x] {ZOO} โครงกระดูก
+skemo [x] แผน(อย่างคร่าว ๆ) → plano
+skio [9] กีฬาสกี; skii [w] //(ntr)// เล่นสกี
+skizo [x] แบบร่าง
+sklavo [8] ทาส
+skorpio [9] แมงป่อง
+skrapi [6] //(tr)// ขูด
+skribi {UL} [2] //(tr)// เขียน; skribilo [w] เครื่องเขียน (หนึ่งอย่าง)
+skui {UL} [8] //(tr)// เขย่า
+skulpti [7] //(tr)// ปั้น, สลัก, แกะ, หล่อ; skulptaĵo [w] ประติมากรรม; skulptisto [w] ประติมากร
+skvamo [x] {ZOO} เกล็ด
+slango [x] ภาษาแสลง
+sledo [9] รถลากเลื่อนหิมะ → glitveturilo
+sobra {UL} [8] กินหรือดื่มอย่างพอดี, คอแข็ง, //(f)// อย่างผู้ดี
+sociala [9] เกี่ยวกับสังคม
+societo {UL} [7] สมาคม (เล็ก), สโมสร
+socio [7] สังคม
+sofo [9] โซฟา
+soifi {UL} [6] //(ntr)// กระหายน้ำ
+sojlo [8] ธรณีประตู, //(f)// การเริ่มต้น
+sola {UL} [3] โดดเดี่ยว, คนเดียว: //lasu min sola [w] โปรดปล่อยให้ผมอยู่คนเดียว//; sole [w] อย่างเดียว, อย่างโดดเดี่ยว
+soldato [6] ทหาร
+solena [9] หรูหรา, ยิ่งใหญ่
+solidara [9] มีความร่วมมือร่วมใจ, ซึ่งเห็นอกเห็นใจซึ่งกันและกัน
+solido [7] แข็ง; solido [w] ของแข็ง
+solko [x] ฐานของอนุสาวรีย์ เสาหรืออาคาร
+solvi [7] //(tr)// แก้ไข
+somero {UL} [4] ฤดูร้อน
+sonĝi {UL} [7] //(tr)// ฝัน → revi
+soni {UL} [3] //(ntr)// ส่งเสียง; sono [w] เสียง
+sonoro {UL} [7] เสียงกริ๊ง ๆ, เสียงกังวาน; sonori [w] //(ntr)// ส่งเสียงกริ๊ง ๆ, เสียงดังกังวาน; sonorilo [w] ระฆัง
+sopiri [8] //(x)// คิดถึง
+sorbi [9] //(tr)// ดูดซึม
+sorĉi [8] //(tr)// ใช้เวทมนต์; sorĉisto [w] พ่อมด; sorĉistino [w] แม่มด
+sorgo [9] ข้าวฟ่าง
+sorto {UL} [6] วาสนา
+sovaĝa {UL} [8] ป่าเถื่อน
+spaco [7] พื้นที่; spaceto [w] ช่องว่าง
+sparko [x] ประกายไฟ; sparkilo [w] หัวเทียน
+spasmo [x] {MED} อาการกระตุก; spasmi [w] //(ntr)// กระตุก @20-09-2024 21:17:05@
+speciala [x] พิเศษ; specialisto [w] ผู้เชี่ยวชาญ
+specimeno [9] ตัวอย่าง (หนังสือ, สินค้า) → ekzemplo
+speco {UL} [x] ชนิด; ĉiuspeca = ĉia
+spegulo {UL} [6] กระจก, คันฉ่อง; speguli [w] //(tr)// สะท้อน
+spektaklo [9] การแสดง
+spekti [x] //(tr)// ดู, ชม
+sperta [6] มีประสบการณ์; spertulo [w] ผู้มีประสบการณ์
+spezi [6] //(tr)// {EKON} โอนเงินไปยังอีกบัญชีหนึ่ง; spezo [w] การใช้เงิน, รายรับรายจ่าย; enspezo [w] รายรับ; elspezo [w] รายจ่าย
+spico [6] เครื่องเทศ; spica [w] มีรสชาตของเครื่องเทศ
+spiko [9] รวง, ช่อ
+spinaco [9] ผักขม
+spino [x] กระดูกสันหลัง
+spiralo [x] ขดเป็นเกลียว
+spiri {UL} [9] //(ntr)// หายใจ; enspiri [w] หายใจเข้า; elspiri [w] หายใจออก
+spirito [9] จิตวิญญาณ, จิตใจ → animo
+spiti [9] //(tr)// ท้าทาย
+splito [9] เศษไม้, เศษกระจกที่แตก
+spongo [9] ฟองน้ำ
+sporto [8] กีฬา; sportisto [w] นักกีฬา = sportulo
+sprita {UL} [8] มีไหวพริบ
+spuro [9] ร่องรอย, หลักฐาน @19-06-2024 09:44:51@
+stacio [4] สถานี
+stadio [9] ระยะ, ขั้น
+stalo {UL} [7] คอกสัตว์
+stameno [9] เกสรตัวผู้ → karpelo
+stampo [8] ตราประทับ; stampi [w] //(tr)// ประทับ, ประตราลงบน
+standardo [7] ธง → flago
+stango [8] ท่อนไม้, แท่งเหล็กยาว
+stano [9] {KEM} //(ธาตุ)// ดีบุก (Sn) @11-04-2024 21:36:28@
+stari {UL} [2] //(ntr)// ยืน; starigi [w] ตั้ง; elstari [w] ยืนออก, โดดเด่น
+starti [9] //(ntr)// เริ่มแข่งขัน, ออกตัววิ่ง (ในกีฬา)
+stato [4] สถานะ
+statuo [9] รูปปั้น
+staturo [9] ความสูงและความสง่างามของร่ายกาย
+stelo {UL} [5] ดวงดาว, ดาวฤกษ์
+stepo [x] ที่ราบกว้างใหญ่ซึ่งไม่มีต้นไม้, ทุ่งหญ้าสเตป
+sterko [9] ปุ๋ย
+sterni [7] //(tr)// ทำให้ล้ม, ปูคลุม
+stilo [8] สไตล์, แนวทาง
+stimuli [x] //(tr)// กระตุ้น, ส่งเสริม, ผลักดัน 
+stiri [x] //(tr)// ขับ(รถ)
+stomako {UL} [7] กระเพาะ
+stranga [6] แปลก; strangulo [w] คนแปลกหน้า
+strato {UL} [4] ถนน
+streĉi [6] //(tr)// ทำให้ตึง, แกร็ง
+streko [7] เครื่องหมายขีดยาว − ; streketo [w] เครื่องหมายขีดสั้น - ; substreko [w] เครื่องหมายขีดเส้นใต้ ( _ ); substreki [w] ขีดเส้นใต้, กล่าวเน้น; suprenstreko [w] เครื่องหมายทับ ( / )
+strigo [9] {ZOO} {ZOO} นกฮูก, นกเค้าแมว
+striki [8] //(ntr)// นัดหยุดงาน
+strio [8] ลายเส้น
+strukturo [8] โครงสร้าง
+struto [9] {ZOO} นกกระจอกเทศ
+studento [8] นิสิต, นักศึกษา → lernanto
+studi [5] //(tr)// ศึกษา; studo [w] การศึกษา
+stulta [7] โง่, งี่เง่า; stultulo [w] คนโง่
+stumpo [8] สิ่งที่ถูกตัดออก, ตอ
+sub {UL} [1] //(prep)// ข้างใต้
+subita {UL} [6] กะทันหัน, ฉับพลัน → abrupta
+subjekto [9] {GRA} ประธาน(ในประโยค)
+substanco [9] สสาร
+substantivo [9] {GRA} กรรตุการก
+subtila [9] บอบบาง, อ่อนโยน, ละเอียด
+subtrahiti [9] ถอนออก, ลบออก
+suĉi {UL} [9] //(tr)// ดูด
+sudo [6] ทิศใต้
+suferi {UL} [4] //(ntr)// ทุกข์ทรมาน
+sufiĉa {UL} [4] พอ
+sufoki [8] //(tr)// ทำให้...ขาดอากาศหายใจ (ตาย)
+sugesti [x] //(tr)// แนะนำ, ให้ข้อเสนอ → rekomendi
+sukcesi [5] //(ntr)// สำเร็จ; sukceso [w] ความสำเร็จ
+sukero {UL} [4] น้ำตาล
+suko {UL} [7] น้ำผลไม้
+sulko [9] ร่อง; sulki [w] //(tr)// ทำให้...เป็นร่อง
+sumo [3] ผลรวม
+suno {UL} [3] พระอาทิตย์
+super {UL} [1] //(prep)// เหนือ
+suplemento [9] ส่วนเพิ่มเติม = aldonaĵo
+supo {UL} [6] น้ำซุป
+supozi [7] //(tr)// คิดว่า, คาดว่า
+supro {UL} [4] supra [w] ด้านบน; malsupra [w] ด้านล่าง
+sur {UL} [1] //(prep)// บน
+surda {UL} [6] หูหนวก; surdulo [w] คนหูหนวก
+surfaco [8] พื้นผิว
+surprizi [7] //(tr)// ทำให้...ประหลาดใจ; surpriziĝi [w] รู้สึกประหลาดใจ
+surtuto {UL} [9] เสื้อคลุม
+suspekti [8] สงสัย, คาดเดา → dubi
+susuri [9] //(ntr)// เกิดเสียงกรอบแกรบ
+svarmo [x] ฝูง (คน/สัตว์)
+svati [9] //(ntr)// เป็นแม่สื่อ; svatistino [w] แม่สื่อ
+sveni [8] //(ntr)// เป็นลม
+svingi [8] //(tr)// แกว่ง
+<!-- Ŝ -->
+ŝafo [5] แกะ; Ŝafo {AST} กลุ่มดาวเมษ, ราศีเมษ
+ŝajni {UL} [2] //(ntr)// ดูเหมือน(ว่า)
+ŝakalo [9] แจ็กคัล (มีขนาดเล็กกว่าหมาป่า)
+ŝalti [x] //(tr)// เปิด (เครื่องใช้ไฟฟ้า) ; malŝalti [w] //(tr)// ปิด
+ŝanceli {UL} [x] //(tr)// ทำให้...ล้ม, ทำให้...พังทลาย
+ŝanco [6] โอกาส; bonŝanco [w] โชคดี; malbonŝanco [w] ความโชคร้าย
+ŝanĝi {UL} [3] //(tr)// เปลี่ยน; ŝanĝiĝi [w] เปลี่ยนไป; interŝanĝi [w] แลกเปลี่ยน
+ŝargi [8] //(tr)// เติม, บรรจุ, ชาร์จ; ŝargo [w] พลังที่เติมเข้าไป, ลูกกระสุน; ŝargilo [w] ที่ชาร์จไฟ
+ŝarĝo [6] สิ่งของบรรทุก; ŝarĝi [w] //(tr)// บรรทุก, ขน
+ŝarko [x] ปลาฉลาม
+ŝati [5] //(tr)// ชอบ; malŝati [w] //(tr)// เกลียด
+ŝaŭmo {UL} [9] ฟอง
+ŝelko [x] สายดึงกางเกง
+ŝelo {UL} [8] เปลือก; elŝeligi/senŝeligi [w] ปลอกเปลือก
+ŝerci {UL} [6] //(ntr)// พูดตลก; ŝerco [w] เรื่องตลก, มุขตลก
+ŝi {UL} [1] เขา (ผู้หญิง); ŝia [w] ของเขา (ผู้หญิง)
+ŝildo [x] ป้ายขนาดเล็ก
+ŝimo [x] {BIO} รา; ŝimi [w] //(ntr)// ขึ้นรา
+ŝinko [9] หมูแฮม
+ŝipo {UL} [4] เรือ (ขนาดใหญ่) → boato
+ŝiri {UL} [6] //(tr)// ฉีก
+ŝirmi [7] //(tr)// บัง, บดบัง
+ŝlosi {UL} [5] //(tr)// ใส่กุญแจ, ล็อก (ด้วยกุญแจ); ŝlosilo [w] ลูกกุญแจ; malŝlosi [w] //(tr)// ไขกุญแจ
+ŝminki [x] //(tr)// แต่งหน้า
+ŝmiri {UL} [8] //(tr)// ทา, ละเลง
+ŝnuro {UL} [6] เชือก
+ŝoforo [8] คนขับรถ
+ŝoseo [x] ถนนใหญ่
+ŝoveli [6] //(tr)// ตัก; ŝovelilo [w] ที่ตัก (เช่นที่ตักขยะ)
+ŝovi [8] //(tr)// พลัก, ดัน
+ŝpari {UL} [7] //(tr)// ออม; ŝparema [w] ประหยัด
+ŝpini [9] //(tr)// ปั่น
+ŝpruci {UL} [9] //(ntr)// พ่นออกมา, พุ่งออกมาก @14-04-2024 22:25:16@
+ŝranko {UL} [6] ตู้ใส่ของ, ห้องเล็ก; tirŝranko [w] ลิ้นชัก
+ŝraŭbo [8] น็อตตัวผู้; ŝraŭbingo [w] น็อตตัวเมีย @26-05-2024 12:30:51@
+ŝrumpi [8] //(ntr)// หดตัว
+ŝtalo {UL} [8] เหล็กกล้า
+ŝtato [5] รัฐ, เมือง
+ŝteli {UL} [5] //(tr)// ลัก, ขโมย → rabi ; ŝtelisto [w] ขโมย
+ŝtipo [9] ท่อนไม้สั้นใหญ่
+ŝtofo {UL} [8] ผ้า (เป็นชิ้น ๆ), วัสดุ
+ŝtono {UL} [4] ก้อนหิน
+ŝtopi {UL} [7] //(tr)// อุด
+ŝtormo [x] พายุ
+ŝtrumpo {UL} [6] ถุงน่อง; ŝtrumpeto [w] ถุงเท้า
+ŝtupo {UL} [5] ขั้นบันได; ŝtuparo [w] บันได
+ŝuldi {UL} [7] //(tr)// เป็นหนี้
+ŝultro [7] ไหล่
+ŝuo {UL} [6] รองเท้า
+ŝuti {UL} [8] //(tr)// เท (เฉพาะของที่ไม่ใช่ของเหลว); alŝuti [w] เทเข้า, อัปโหลด; elŝuti [w] เทออก, ดาวน์โหลด; superŝuti [w] //(tr)// เทจนล้น, ล้น, //(f)// ให้มากเกิน
+ŝvebi [7] //(ntr)// ลอย (อยู่อากาศ)
+ŝveli {UL} [7] //(ntr)// บวม, นูน
+ŝvito {UL} [7] เหงื่อ; ŝviti [w] //(ntr)// เหงื่อออก;
+<!-- T -->
+tabako [7] ยาสูบ, ยาเส้น
+tabelo [7] ตาราง
+tablo {UL} [3] โต๊ะ; skribotablo [w] โต๊ะเขียนหนังสือ, โต๊ะทำงาน
+tabulo {UL} [6] กระดาน
+tago {UL} [5] วัน; tage [w] ในเวลากลางวัน; ĉiutage [w] ทุกวัน; naskiĝtago [w] วันเกิด
+tajli [8] //(tr)// แต่ง(รูปร่าง), ตัดแต่ง
+tajloro {UL} [8] ช่างตัดเสื้อ
+tajpi [9] //(tr)// พิมพ์; tajpilo [w] พิมพ์ดีด
+taksi [7] //(tr)// ประเมิน, ประเมินค่า, //(ark)// เห็นคุณค่า; takso การประเมิน, การประเมินค่า; mistaksi //(tr)// ตัดสินผิด, พิจารณาผิด; netaksebla/nesubtaksebla ประเมินค่าไม่ได้; pritaksi//(tr)// ประเมิน, ประมาณ, พิจารณา; subtaksi //(tr)// ประเมินต่ำกว่า; supertaksi //(tr)// ประเมินมากเกินไป @03-11-2024 11:28:16@
+taksio [x] รถแท็กซี่
+takto [9] {MUZ} จังหวะ → ritmo
+talento [x] ความสามารถพิเศษ
+talio [9] เอว → kokso, → brusto
+tamburo [x] กลอง
+tamen {UL} [1] //(kon)// อย่างไรก็ตาม
+tamtamo [x] กลองทอม
+tani [x] //(tr)// ฟอก (หนัง)
+tapeto [9] กระดาษบุผนัง
+tapiŝo {UL} [7] พรม
+tarifo [9] พิกัดราคา
+tasko [7] งาน, สิ่งที่ได้รับมอบหมายให้ทำ; hejmtasko [w] การบ้าน
+taso [6] แก้วดื่มน้ำ
+taŭga {UL} [6] เหมาะสม → deca
+tavolo [x] ชั้น → etaĝo
+teamo [x] ทีม → skipo
+teatro [8] โรงละคร; teartaĵo [w] การแสดงละคร, ละคร
+tedi [8] //(tr)// ทำให้...รู้สึกน่าเบื่อ → enui
+tegi [8] //(tr)// ปู, ทา, คลุม
+tegmento {UL} [6] หลังคา
+tegolo [9] แผ่นกระเบื้องมุงหลังคา
+teĥniko [9] เทคนิค
+tekniko [x] เทคนิค = teĥniko
+teksi [7] //(tr)// ทอ; teksaĵo [w] ผ้าดิบ
+teksto [9] ข้อความ
+telefono [6] โทรศัพท์; poŝtelefono [w] โทรศัพท์มือถือ
+telegrafo [7] โทรเลข
+telegramo [8] โทรสาร
+telero {UL} [5] จาน
+televidi [9] //(ntr)// ดูโทรทัศน์; televido/televidilo [w] โทรทัศน์
+temo [7] หัวข้อ; temi [w] //(ntr)// ในหัวข้อ
+temperaturo [8] อุณหภูมิ
+tempesto [8] พายุ (ฝน หิมะ หรือทราย) → ŝtormo
+tempo {UL} [2] เวลา
+tendenco [9] แนวโน้ม
+tendo [8] เต้นท์; tendumi
+tenera [9] อ่อนโยน, นิ่มนวล
+teni {UL} [2] //(tr)// ถือ, รักษา, เก็บไว้; elteni [w] อดทน; deteni [9] งดออกเสียง; subteni [w] สนับสนุน
+teniso [x] เทนนิส
+tenti {UL} [7] //(tr)// ล่อลวง, ชักนำไปในทางที่ผิด
+teo {UL} [x] น้ำชา
+teorio [8] ทฤษฎี
+teraso [9] ระเบียง
+tereno [8] ที่ดิน
+teritorio [9] อาณาบริเวณ, ดินแดน
+termometro [9] เทอร์มอมิเตอร์
+terni [9] //(ntr)// จาม
+tero {UL} [2] แผ่นดิน, โลก
+teruro {UL} [5] ความกลัว, ความน่าหวาดกลัว
+testudo [9] เต่า
+tezo [x] วิทยานิพนธ์
+tia {UL} [1] //(adj)// เช่นนั้น, แบบนั้น, อย่างนั้น
+tial {UL} [1] //(adv)// ด้วยเหตุนั้น
+tiam {UL} [1] //(adv)// เวลานั้น, ตอนนั้น
+tie {UL} [1] //(adv)// ที่นั้น; ĉi tie/tie ĉi [w] ที่นี่
+tiel {UL} [1] //(adv)// ด้วยวิธีนั้น, อย่างนั้น, อย่างที่
+ties {UL} [9] //(pro)// ของคนนั้น, ของสิ่งนั้น
+tigo [9] กิ่งไม้, แขนง, ก้าน
+tigro [9] {ZOO} เสือ
+tikli [9] //(tr)// จั๊กจี้
+timi {UL} [3] //(tr)// กลัว; timo [w] ความกลัว; timema [w] ขี้กลัว
+tineo [x] {ZOO} ผีเสื้อกลางคืน
+tinkturo [9] สีย้อมผ้า; tinkturi [w] //(tr)// ย้อม
+tinti [9] //(ntr)// เสียงกรุ๊งกริ๊ง
+tio {UL} [1] //(pro)// สิ่งนั้น; ĉi tio/tio ĉi [w] สิ่งนี้
+tiom {UL} [1] //(adv)// จำนวนนั้น, ปริมาณนั้น
+tipo [8] ชนิด, ประเภท
+tiri {UL} [3] //(tr)// ดึง, ลาก; altiri [w] //(tr)// ดึงไป, ลากไป
+titolo [7] หัวเรื่อง, ชื่อเรื่อง, ไตเติ้ล
+tiu {UL} [1] //(pro)// สิ่งนั้น, คนนั้น, //(adj)// ...นั้น; ĉi tiu/tiu ĉi [w] //(pro)// สิ่งนี้, คนนี้, //(adj)// ĉi tiu/tiu ĉi ...นี้;
+toleri [7] //(tr)// อดทน, อดกลั้น → pacienco
+tolo {UL} [6] ผ้าลินิน, ผ้าฝ้าย
+tomato [9] มะเขือเทศ
+tombo {UL} [7] หลุมฝังศพ; tombejo [w] สุสาน; entombigi [w] ฝัง (ศพ)
+tondi {UL} [5] //(tr)// ตัด (ด้วยกรรไกร); tondilo [w] กรรไกร
+tondro {UL} [7] เสียงฟ้าร้อง; tondri [w] //(ntr)// ฟ้าร้อง
+tono [8] โทนเสียง
+tordi [8] //(tr)// บิด (ผ้า); troda [w] บิดเบี้ยว, คด; distrodi [w] //(tr)// //(f)// ทำผิดพลาด; eltordi [w] //(tr)// //(f)// เค้น (เอาบางอย่าง)
+torento [9] กระแสน้ำ
+torto [9] ขนมเค้กทอร์เท
+tra {UL} [1] //(prep)// ทะลุผ่าน, ตลอด
+tradicio [9] ประเพณีนิยม
+traduki {UL} [7] //(tr)// แปล; tradukisto [w] นักแปล
+trafi [5] //(tr)// ชน,  กระทบ, ถูก (ตัว), (เหตุการณ์บางอย่าง) เกิดขึ้นกับ/ได้รับ; trafa ตรงประเด็น, อย่างแม่นยำ; trafe อย่างถูกต้อง, เหมาะเจาะ; trafo การชน, เหตุการณ์; trafe-maltrafe/trafprove ถูกบ้างผิดบ้าง, ตรงบ้างไม่ตรงบ้าง; trafeco ความเที่ยงตรง; trafiĝi //(ntr)// ถูกชน, ถูกกระทบ, เจอกับเหตุการณ์บางอย่าง; maltrafi //(tr)// พลาด, ไม่โดน, ไม่ถูก (ตัว); trafpovo ระยะที่สามารถยิงถึงหรือขว้างถึง @24-11-2024 14:32:04@
+trafiko [9] การจราจร
+tragedio [9] โศกนาฏกรรม
+tragika [9] น่าสลดใจ
+trajno [8] รถไฟ
+trajto [8] แบบ, ลักษณะ
+traktato [9] สนธิสัญญา
+trakti [8] //(tr)// จัดการ, ดำเนินการ
+traktoro [8] รถแทรกเตอร์
+tramo [9] รถราง
+tranĉi {UL} [4] //(tr)// ตัด (ด้วยมีด); tranĉilo [w] มีด
+trankvila {UL} [3] สบายใจ, สงบ; maltrankvila [w] ไม่สบายใจ
+trans {UL} [1] //(prep)// ข้าม; trans- [1] //(pre)//
+transitiva [x] สกรรมกริยา; netransitiva [w] อกรรมกริยา
+tre {UL} [1] //(adv)// มาก
+trejni [9] //(tr)// ฝึก, ฝึกซ้อม
+tremi {UL} [6] //(ntr)// สั่น; tertremo [w] แผ่นดินไหว → skui
+trempi [8] //(tr)// จิ้ม, หมัก, แช่
+treni {UL} [8] //(tr)// ลาก
+trezoro [8] สมบัติ
+tri {UL} [1] สาม; tria [w] ที่สาม
+tribo [x] ชนเผ่า → gento
+tribunalo [8] ศาลยุติธรรม
+triki [9] //(tr)// ถัก (นิตติ้ง); trikilo [w] เข็มนิตติ้ง
+trikoto [8] เสื้อถักนิตติ้ง
+trinki {UL} [3] //(tr)// ดื่ม; trinkaĵo [w] เครื่องดื่ม; trinkejo [w] ร้านเหล้า, บาร์
+tritiko [7] {BOT} ข้าวสาลี
+triumfo [x] ชัยชนะ
+tro {UL} [1] //(adv)// มากเกินไป; troigo [w] สิ่งเกินจริง
+trompi {UL} [6] //(tr)// หลอกลวง, โกง @08-08-2024 15:24:40@
+trotuaro [8] ทางเดินเท้า
+trovi {UL} [6] //(tr)// พบ; troviĝi [w] พบ, มี; eltrovi [w] พบ (สิ่งที่ไม่เคยเจอมาก่อน), ค้นพบ
+trudi [9] //(tr)// บังคับ → devigi
+trumpeto [9] {MUZ} ทรัมเป็ต
+trunko [8] ลำต้น, ลำตัว
+truo {UL} [5] หลุม
+trupo [9] คณะนักแสดง, กองกำลัง, กองทหาร
+tualeto [6] เครื่องอาบน้ำเครื่องแต่งตัวต่าง ๆ
+tubero [9] สิ่งที่มีลักษณะเป็นตุ่ม, หัว (รากของต้นไม้ที่อยู่ใต้ดิน)
+tubo [7] ท่อ
+tufo [9] (คำเรียกกลุ่มของสิ่งเล็ก ๆ บาง ๆ ที่รวมอยู่ด้วยกัน) ปอย, กลุ่ม, กระจุก @12-12-2024 20:06:15@
+tuj {UL} [1] //(adv)// ในทันใด, เดี๋ยวนี้
+tuko {UL} [6] ผ้า; bantuko [w] ผ้าขนหนู; tablotuko [w] ผ้าปูโต๊ะ
+tulipo [x] ดอกทิวลิป
+tumoro [x] {MED} เนื้องอก
+tumulto [9] ความโกลาหล, ความอลหม่าน
+tunelo [9] อุโมงค์
+tuno [9] {ZOO} ตัน
+turismo [9] การท่องเที่ยว
+turisto [9] นักท่องเที่ยว
+turmenti {UL} [8] //(tr)// ทรมาร, ทารุณกรรม
+turni {UL} [3] //(tr)// เลี้ยว, พลิก, หัน; turniĝi [w] หมุน, เปลี่ยนทิศ; elturniĝi [8] แก้ไขสถานการณ์
+turo {UL} [7] หอสูง, หอคอย; lumturo [w] ประภาคาร
+tusi {UL} [6] //(ntr)// ไอ; tuso [w] อาการไอ
+tuŝi {UL} [4] //(tr)// จับ; netuŝebla [w] จับต้องไม่ได้
+tuta {UL} [2] ทั้งหมด; entute [w] ทั้งหมด
+<!-- U -->
+-u {UL} [0] //(fin)// ตัวลงท้ายกริยาแสดงคำสั่ง: //ni iru!// พวกเราไปกันเถอะ, //skribu nun!// เขียนเดี๋ยวนี้
+-uj- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อแสดงว่าเป็นภาชนะ ที่อยู่ของ ต้นไม้ หรือประเทศ //(แบบเก่า)//: paperujo [w] ที่ใส่กระดาษ; abelujo [w] รังผึ้ง; bananujo [w] ต้นกล้วย; Anglujo [w] ประเทศอังกฤษ
+-ul- {UL} [0] //(suf)// พยางค์เติมท้ายเพื่อระบุว่าเป็นบุคคล; riĉulo [w] คนรวย, เศรษฐี; belulino [w] สาวสวย
+-um- {UL} [0] //(suf)// พยางค์เติมท้ายที่ไม่มีความหมายที่จำกัดเป็นพิเศษ: brakumi [w] กอด; plenumi [w] ทำให้สมบูรณ์; umi [w] //(ntr)// ทำอะไรบางอย่างที่บอกแน่นอนไม่ได้
+umbliko [x] สะดือ
+ungo {UL} [6] เล็บ
+uniformo [9] เครื่องแบบ
+unika [9] หนึ่งเดียว
+universala [9] สากล
+universitato [9] มหาวิทยาลัย
+unu {UL} [1] หนึ่ง; unua [w] ที่หนึ่ง; unuo [w] หน่วย
+urbo {UL} [3] เมือง; ĉefurbo [w] เมืองหลวง; urbano [w] ชาวเมือง
+urĝi [7] //(ntr)//, urĝa [w] ด่วน, เร่งรีบ
+urino [x] ปัสสาวะ; urini [w] //(ntr)// ถ่ายปัสสาวะ
+urso {UL} [8] {ZOO} หมี: {AST} la Granda Ursino [w] ดาวจระเข้
+urtiko [x] พืชชนิดหนึ่งใบมีขนคัน
+-us {UL} [0] //(fin)// ตัวลงท้ายกริยาที่อยู่ในประโยคแสดงเงื่อนไขหรือสมมติ
+Usono [x] {GEOG} {POL} สหรัฐอเมริกา; usonano [w] ชาวอเมริกัน → Ameriko
+utero [x] มดลูก, ครรภ์
+utila {UL} [4] มีประโยชน์; utileco [w] ความมีประโยชน์; utiligi [w] //(tr)// ทำให้...เกิดประโยชน์; malutila [w] ไม่เป็นประโยชน์; senutila [w] ไม่มีประโยชน์, เปล่าประโยชน์
+uzi {UL} [3] //(tr)// ใช้; uzebla [w] ใช้ได้; eluzi/uzita [w] ใช้แล้ว
+<!-- Ŭ -->
+ŭa! [x] //(int)// เสียงร้องของเด็กหรือสุนัข
+ŭato [x] วัตต์
+<!-- V -->
+vadi [9] //(ntr)// ลุย (น้ำ, โคลน)
+vagi [9] //(ntr)// เดินทางอย่างไม่มีจุดหมาย
+vagino [x] ช่องคลอด
+vagono [4] ตู้รถไฟ; vagonaro [w] ขบวนรถไฟ
+vaka [x] ว่าง, อิสระ
+vakcino [8] วัคซีน; vakcini [w] //(tr)// ฉีดวัคซีนให้
+vakso {UL} [9] ขี้ผึ้ง; sigelvakso ครั่ง
+vakuo [x] สูญญากาศ
+valida [9] ยังใช้ได้
+valizo [7] กระเป๋าเดินทาง
+valo [6] หุบเขา
+valoro [3] คุณค่า; valori [w] //(ntr)// มีคุณค่า; senvalora [w] ไม่มีค่า, ไร้ค่า
+vana {UL} [7] ไร้ประโยชน์
+vango {UL} [6] แก้ม; sidvango [w] แก้มก้น
+vanta [9] ไร้สาระ, ไม่มีประโยชน์
+vaporo {UL} [5] ไอน้ำ; vaporumi = vaporkuiri [w] นึ่ง, อบไอน้ำ
+varbi [x] //(tr)// ทำให้...เป็นสมาชิก (กลุ่ม, ชมรม, สมาคม), ทำให้...เป็นทหาร
+varii [8] //(ntr)// แปรผัน, ผันแปร, เปลี่ยนแปลง
+varma {UL} [3] ร้อน, อุ่น, อบอุ่น; malvarma [w] เย็น, หนาว; malvarmumo [w] ไข้หวัด
+varo [8] สินค้า, ผลิตภัณฑ์
+varti [9] //(tr)// เลี้ยงดู; vartejo [w] สถานเลี้ยงเด็ก
+vasta {UL} [5] ใหญ่มโหฬาร; disvastigi [w] เผยแพร่
+vato [7] สำลีก้อน → kotono
+vazo {UL} [7] แจกัน
+ve! [7] //(int)// โธ่เอ้ย
+vegetalo [9] พืช = vegetaĵo → planto
+vegetara [9] มังสวิรัติ; vegetarano [w] ผู้ที่กินมังสวิรัติ
+vejno [9] หลอดเลือดดำ
+veki {UL} [4] //(tr)// ปลุก; vekiĝi [w] ตื่น
+velki {UL} [8] //(ntr)// เหี่ยว, ห่อเหี่ยว
+velo [8] ใบเรือ; velŝipo [w] เรือใบ, สำเภา
+veluro [9] ผ้ากำมะหยี่
+vendi {UL} [4] //(tr)// ขาย; vendejo [w] ร้านขายของ
+vendredo {UL} [5] วันศุกร์
+veneno {UL} [8] ยาพิษ
+venĝi {UL} [9] //(x)// แก้แค้น
+veni {UL} [2] //(ntr)// มา; alveni [w] //(ntr)// มาถึง; deveni [w] มาจาก, สืบเนื่องจาก; deveno [w] ตระกูล, เชื้อสาย; enveni [w] เข้ามา(ถึง); interveni [w] เข้าขวาง, แทรกแซง; interveno [w] การแทรกแซง; kunveni/kunveno [w] ประชุม, ชุมนุม; kunvenejo [w] ที่ประชุม; reveni [w] กลับมา
+venki {UL} [6] //(x)//; venko [w] ชนะ → triumfo
+vento {UL} [3] ลม; ventumilo [w] พัดลม
+ventro {UL} [7] ท้อง
+vera {UL} [3] จริง; malvera [w] เท็จ, ไม่จริง; vero [w] ความจริง
+verbo [8] {GRA} คำกริยา
+verda {UL} [4] สีเขียว
+vergo [8] กิ่งไม้, ไม้เรียว; vergi [w] //(ntr)// ตีด้วยไม้เรียว
+verko {UL} [5] บทประพันธ์, งานเขียน; verki [w] //(tr)// ประพันธ์, เขียน; verkisto [w] นักประพันธ์, นักเขียน → aŭtoro
+vermo {UL} [7] {ZOO} หนอน
+versio [x] เวอร์ชัน, รุ่น
+verso [7] (บทกวี) บาท, (พระคริสต์ธรรมคำภีร์) ข้อ
+verŝi {UL} [7] //(tr)// เท (ของเหลว) → ŝuti
+vertico [9] จุดยอด
+vertikalo [9] เส้นแนวตั้ง
+verto [8] ส่วนยอดกะโหลก
+veruko [9] หูด @29-07-2024 15:46:06@
+vespero {UL} [3] ตอนเย็น
+vesperto [x] ค้างคาว
+vespo [3] {ZOO} ตัวต่อ
+vesto {UL} [3] เสื้อผ้า, ชุด = vestaĵo ; vesti [w] //(tr)// สวมเสื้อให้ //ŝi vestas sin per tre bela vestaĵo [w] หล่อนสวมชุดที่สวยงามมาก//
+vetero {UL} [4] สภาพอากาศ
+veti [9] //(tr)// ผนัน; veto [w] การผนัน
+veturi {UL} [2] //(ntr)// เดินทาง (ด้วยยานพาหนะ); veturilo [w] ยานพาหนะ
+veziko [9] {ANA} อวัยวะที่มีลักษณะคล้ายถุง
+vi {UL} [1] คุณ (สรรพนามบุรุษที่ 2 เอกพจน์) → ci, พวกคุณ (สรรพนามบุรุษที่ 2 พหูพจน์); via [w] ของคุณ, ของพวกคุณ
+viadukto [9] สะพานสูง (ข้ามหุบเขา, แม่น้ำ)
+viando {UL} [6] เนื้อสัตว์
+vibri [x] //(ntr)// สั่นเร็ว ๆ
+vico [6] แถว, เป็นลำดับ; vic- //(pre)// รอง- vicprezidanto [w] รองประธาน
+vidi {UL} [2] //(tr)// มองเห็น; videbla [w] มองเห็นได้; vidindaĵo [w] สถานที่น่าดู; vidpunkto [w] ทัศนะ, ความเห็น; antaŭvidi [w] คาดหมาย, มุ่งหวัง; travidebla [w] ใส; revidi [w] เห็นอีกครั้ง, พบอีกครั้ง //ĝis la revido// แล้วพบกันนะ @27-10-2024 13:39:18@
+vidvo [8] พ่อหม้าย; vidvino [w] แม่หม้าย
+vigla [6] ตื่นตัว, สดชื่น
+viktimo [9] เหยื่อ, ผู้เคราะห์ร้าย
+vilaĝo {UL} [4] หมู่บ้าน; vilaĝano [w] ชาวบ้าน
+vinagro [x] น้ำส้มสายชู
+vino {UL} [5] ไวน์
+vintro {UL} [4] ฤดูหนาว
+violo [7] {MUZ} ต้นไวโอเล็ต
+violono {UL} [9] ไวโอลิน
+vipo [9] แส้; vipi [w] //(tr)// เฆี่ยน, โบย
+virga [9] บริสุทธิ์, ไม่เคยร่วมเพศ
+viro {UL} [2] ผู้ชาย; virino [w] ผู้หญิง
+virto [8] ศีลธรรม
+viruso [x] ไวรัส
+viŝi {UL} [6] //(tr)// เช็ด, ถู
+vito [8] ต้นองุ่น = vinberujo
+vitro {UL} [4] แก้ว (วัตถุ), กระจก
+vivi {UL} [2] //(ntr)// มีชีวิต; vivo [w] ชีวิต
+vizaĝo {UL} [3] ใบหน้า
+viziti [5] //(tr)// มาหา, มาเยือน
+voĉo {UL} [5] เสียง (พูด)
+vojaĝo [3] การท่องเที่ยว, การเดินทาง; vojaĝi [w] //(ntr)// ท่องเที่ยว, เดินทาง; vojaĝanto [w] นักท่องเที่ยว, นักเดินทาง
+vojo {UL} [2] ถนน, ทางเดิน
+voki {UL} [4] //(tr)// เรียก (ให้มา); elvoki [w] เรียกร้อง, ทำให้เกิด
+voli {UL} [2] //(tr)// ต้องการ; bonvoli [w] ได้โปรด, กรุณา
+volonta [6] สมัครใจ; volonteco [w] จิตอาสา; volontulo [w] อาสาสมัคร
+volumeno [9] {MAT} ปริมาตร
+volumo [9] ฉบับ, ชุดหนังสือ
+volvi [6] //(tr)// พัน; disvolvi [w] ขยาย...ออก, //(f)// เผยแพร่, พัฒนา
+vomi [9] //(tr)// อาเจียน
+vorto {UL} [2] {LIN} คำศัพท์; vortaro [w] พจนานุกรม; tabelvortoj คำตาราง (กลุ่มคำชนิดหนึ่งของภาษาเอสเปรันโตซึ่งมักจะเห็นได้ในรูปแบบของตาราง); alivorte [w] อีกนัยหนึ่ง; pasvorto [w] รหัสผ่าน; pruntvorto [w] คำยืม
+vosto {UL} [6] {ZOO} หาง
+vualo [8] ผ้าคลุมหน้า
+vulkano [9] ภูเขาไฟ
+vulpo [8] {ZOO} สุนัขจิ้งจอก
+vulturo [9] {ZOO} อีแร้ง
+vundo {UL} [6] บาดแผล; vundi [w] //(tr)// ทำให้...เกิดบาดแผล
+<!-- Z -->
+zebro [x] {ZOO} ม้าลาย
+zeloto [x] ผู้คลั่งไคล้
+zingibro [x] ขิง
+zinko [9] {KEM} //(ธาตุ)// สังกะสี (Zn) @11-04-2024 21:36:28@
+zipo [x] ซิป; zipi [w] //(tr)// รูดซิปปิด; malzipi [w] //(tr)// รูดซิปเปิด
+zono [7] เข็มขัด, เขต; mamzono [w] ยกทรง
+zoo [x] สวนสัตว์ = bestoĝardeno, zoologia ĝardeno
+zoologio [9] {ZOO} สัตววิทยา
+zorgi {UL} [4] //(tr)// ดูแล, ใส่ใจ; zorganto [w] ผู้ดูแล; zorgema [w] เอาใจใส่
+zumi [9] //(ntr)// ทำเสียงหึ่ง ๆ, ฮัมเพลง
