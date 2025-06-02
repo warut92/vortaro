@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="eo">
+<head>
+  <meta charset="UTF-8">
+  <title>Etimologia Vortaro</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2em;
+    }
+    #popup {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: #fff3cd;
+      color: #856404;
+      border: 1px solid #ffeeba;
+      padding: 15px 20px;
+      border-radius: 10px;
+      max-width: 90%;
+      display: none;
+      z-index: 9999;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+    #popup button {
+      margin-top: 10px;
+      padding: 5px 10px;
+      background: #ffc107;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Esperanta Teksto</h2>
+<p>
+  La <strong>hundo</strong> kuris post la <strong>kato</strong> kaj saltis super la <strong>tablo</strong>.
+</p>
+
+<div id="popup">
+  <div id="popupContent"></div>
+  <button onclick="closePopup()">Fermi</button>
+</div>
+
+<script>
+  const etymologyDict = [
+    ["hundo", "de la germana 'Hund'"],
+    ["kato", "el la latina 'cattus'"],
+    ["tablo", "el la franca 'table'"]
+  ];
+
+  const popup = document.getElementById("popup");
+  const popupContent = document.getElementById("popupContent");
+
+  function showPopup(word, etymology) {
+    popupContent.innerHTML = `<strong>${word}</strong>: ${etymology}`;
+    popup.style.display = "block";
+  }
+
+  function closePopup() {
+    popup.style.display = "none";
+  }
+
+  function handleSelection() {
+    const selection = window.getSelection().toString().trim().toLowerCase();
+    if (selection) {
+      const match = etymologyDict.find(([word]) => word.toLowerCase() === selection);
+      if (match) {
+        showPopup(...match);
+      }
+    }
+  }
+
+  document.addEventListener("mouseup", () => setTimeout(handleSelection, 10));
+  document.addEventListener("touchend", () => setTimeout(handleSelection, 10));
+</script>
+
+</body>
+</html>

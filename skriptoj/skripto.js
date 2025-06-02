@@ -66,13 +66,6 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<\/i>upload/gm, 'https://up
 //konverti la fakideksojn kun speciala etikedo
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
 
-//vinjetoj
-// console.log(fakindeksoj_ARR_2);
-fakindeksoj_ARR.forEach(([name, emoji, signifo]) => {
-  const regex = new RegExp(`${name}`, 'gm');
-  cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(regex,"<abbr title=\"" + signifo + "\">" + emoji + "</abbr>");
-});
-
 //konverti al ARRAY
 let disigitaj_vortoj = cxiuj_vortoj_HTML.split(/\n/g);
 
@@ -192,12 +185,18 @@ function sercxi() {
       str_sxablono = str_sxablono.substr(0)
 
       sercxitaj_vortoj = sercxitaj_vortoj.replace(sxablono_regex, "<b>$1</b>")
-
+      
+      //vinjetoj
+      // console.log(fakindeksoj_ARR_2);
+      fakindeksoj_ARR.forEach(([name, emoji, signifo]) => {
+        const regex = new RegExp(`${name}`, 'gm');
+        sercxitaj_vortoj = sercxitaj_vortoj.replace(regex,"<abbr title=\"" + signifo + "\">" + emoji + "</abbr>");
+      });
     //นำออกแสดงผล
     //if ถ้า sercxitaj_vortoj ไม่เท่ากับ "" ให้แสดงข้อความ ไม่พบคำค้นหา
     if (sercxitaj_vortoj !== "") {
       document.getElementById("eligo").innerHTML = "<hr>" + sercxitaj_vortoj;
-      //
+      //ligilo por bildo el Vikipedio
       document.querySelectorAll('img').forEach(img => {
         const src = img.src;
     
