@@ -197,6 +197,7 @@ function sercxi() {
     //if ถ้า sercxitaj_vortoj ไม่เท่ากับ "" ให้แสดงข้อความ ไม่พบคำค้นหา
     if (sercxitaj_vortoj !== "") {
       document.getElementById("eligo").innerHTML = "<hr>" + sercxitaj_vortoj;
+      //
       document.querySelectorAll('img').forEach(img => {
         const src = img.src;
     
