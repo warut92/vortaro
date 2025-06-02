@@ -197,6 +197,22 @@ function sercxi() {
     //if ถ้า sercxitaj_vortoj ไม่เท่ากับ "" ให้แสดงข้อความ ไม่พบคำค้นหา
     if (sercxitaj_vortoj !== "") {
       document.getElementById("eligo").innerHTML = "<hr>" + sercxitaj_vortoj;
+      document.querySelectorAll('img').forEach(img => {
+        const src = img.src;
+    
+        // Elprenu la dosiernomon post "100px-"
+        const match = src.match(/100px-(.+)$/);
+        if (match) {
+          const fileName = match[1];
+    
+          // Nova href al eo.wikipedia.org
+          const href = "https://eo.wikipedia.org/wiki/Dosiero:" + fileName;
+    
+          // Envolvu la bildon per <a> uzante replace kun outerHTML
+          const wrapped = `<a href="${href}" target="_blank">${img.outerHTML}</a>`;
+          img.outerHTML = wrapped;
+        }
+      });  
     } else document.getElementById("eligo").innerHTML = "<hr>" + "ไม่พบคำค้นหา" + "<br> โปรดค้นหา :<i>“" + str_sxablono + "”</i> ที่ <a href=\"https://vortaro.net/#" + str_sxablono + "\" target=\"_blank\">PIV</a>" + ", <a href=\"https://www.reta-vortaro.de/revo/dlg/index-2l.html?q=" + str_sxablono + "\" target=\"_blank\">ReVo</a>" + ", <a href=\"https://eo.wikipedia.org/wiki/" + str_sxablono + "\" target=\"_blank\">Vikipedio</a>";;
   } else {
     document.getElementById("eligo").innerHTML = "";
