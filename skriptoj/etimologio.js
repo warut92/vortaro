@@ -4174,7 +4174,7 @@ zumi = Ger. summen
 `
 // etimologia_vortaro = etimologia_vortaro.replace(/Pol\./g, "<br>🇵🇱")
 const etimologia_vortaro_ARR = etimologia_vortaro.split("\n").map(line => line.split('=').map(part => part.trim()));
-console.log(etimologia_vortaro_ARR);
+// console.log(etimologia_vortaro_ARR);
 
 // Create popup DOM
 const popup = document.createElement('div');

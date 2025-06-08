@@ -80,5 +80,5 @@ let fakindeksoj =`{AGR}-🚜-agrokulturo-เกษตรกรรม
 
 const fakindeksoj_ARR = fakindeksoj.split("\n").map(line => line.split('-').map(part => part.trim()));
 
-const fakindeksoj_ARR_2 = fakindeksoj_ARR.map(item => [item[0], item[1]]);
+const fakindeksoj_ARR_2 = fakindeksoj_ARR.map(item => [item[0], item[1], item[2]]);
 // console.log(fakindeksoj_ARR_2);

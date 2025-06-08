@@ -188,7 +188,7 @@ function sercxi() {
       
       //vinjetoj
       // console.log(fakindeksoj_ARR_2);
-      fakindeksoj_ARR.forEach(([name, emoji, signifo]) => {
+      fakindeksoj_ARR_2.forEach(([name, emoji, signifo]) => {
         const regex = new RegExp(`${name}`, 'gm');
         sercxitaj_vortoj = sercxitaj_vortoj.replace(regex,"<abbr title=\"" + signifo + "\">" + emoji + "</abbr>");
       });
