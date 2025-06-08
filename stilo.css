@@ -187,3 +187,13 @@ abbr[title]:focus::after {
 #popup a {
   color: blue;
 }
+
+button {
+  font-size: 15px;
+  color: aliceblue;
+  border: 2px solid #89E682;
+  border-radius: 4px;
+  background-color: black;
+  width: auto;
+  margin-bottom: 4px;
+}

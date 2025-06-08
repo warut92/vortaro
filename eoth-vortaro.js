@@ -1,7 +1,7 @@
 let vortaro = `
 <!-- A -->
 -a {UL} [0] //(fin)// ตัวลงท้ายของคำคุณศัพท์ในภาษาเอสเปรันโต
-abelo [8] {ZOO} ผึ้ง; abelejo [w] รังผึ้ง, รวงผึ้ง
+abelo [8] {ZOO} ผึ้ง; abelaro ฝูงผึ้ง; abelujo {HOR} กล่องเลี้ยงผึ้ง, ลังเลี้ยงผึ้ง, หีบเลี้ยงผึ้ง; abelejo {HOR} [w] รังผึ้ง, รวงผึ้ง; abelisto {HOR} คนเลี้ยงผึ้ง; abelino {ZOO} ผึ้งตัวเมีย; abelreĝino {ZOO} ผึ้งราชินี, ผึ้งนางพญา; virabelo {ZOO} ผึ้งตัวผู้; laborabel {ZOO} ผึ้งงาน @08-06-2025 10:19:45@
 abio [7] ต้นสน
 abomeni [8] //(tr)// รังเกียจ; abomena [w] น่ารังเกียจ
 aboni [8] //(tr)// สมัครสมาชิก (นิตยสาร, หนังสือพิมพ์); abonanto [w] สมาชิก (นิตยสาร, หนังสือพิมพ์)
@@ -43,7 +43,7 @@ agento [9] ตัวแทน, เอเย่นต์
 agi [5] //(tr)// กระทำ, ปฏิบัติ; ago [w] การกระทำ; agado [w] กิจกรรม, การกระทำ; reago [w] ปฏิกิริยาโต้ตอบ
 agiti [9] //(tr)// ก่อกวน, ปั่นป่วน
 aglo {UL} [7] {ZOO} นกอินทรี
-aĝo {UL} [4] อายุ; aĝa [w] มีอายุ; jaraĝa [w] ขวบ, ปี: //Mi estas 9-jaraĝa [w] ผมมีอายุ 9 ขวบ//; planaĝa [9] บรรลุนิติภาวะ
+aĝo {UL} [4] อายุ; aĝa [w] มีอายุ; jaraĝa [w] ขวบ, ปี: //Mi estas 9-jaraĝa [w] ผมมีอายุ 9 ขวบ//; plenaĝa [9] บรรลุนิติภาวะ
 agordo [7] การตั้งเสียง, การตั้งค่า; agordi [w] //(tr)// ตั้งค่า
 agrabla {UL} [4] เป็นที่พอใจ, น่าพึงพอใจ, ยินดี; malagrabla [w] ไม่เป็นที่พอใจ, ไม่น่าพึงพอใจ, ไม่ยินดี
 -aĵ- {UL} [0] //(suf)// พยางค์เติมท้ายซึ่งแสดงว่าเป็นสิ่งของ: novaĵo [w] สิ่งที่ใหม่, ข่าว; porkaĵo [w] เนื้อหมู; aĵo [w] สิ่งของ
@@ -1550,7 +1550,7 @@ merkredo {UL} [5] วันพุธ
 mesaĝo [x] ข้อความ; retmesaĝo [w] อีเมล
 metalo [6] โลหะ
 metalurgio [9] อุตสาหกรรมเหล็ก, วิศวกรรมโลหการ
-meti {UL} [2] //(tr)// วาง, ทำให้...; almeti [w] //(tr)//  วางไปยัง, นำไปยัง; antaŭmeti [w] //(tr)// เสนอ, ให้พิจารณาดูก่อน; apudmeti //(tr)// นำมาวางเปรียบเทียบ; ĉirkaŭmeti //(tr)// วางรอบ ๆ; demeti [w] //(tr)// ถอดออก, วาง (ไข่); elmeti นำเสนอ[?]; enmeti [w] //(tr)// วางใน; formeti //(tr)// วางไว้ไกล ๆ, ลืม, ล้มเลิก; formetejo [w] ห้องเก็บของ; intermeti [w] วางขั้นระหว่าง; kontraŭmeti [w] วางไว้ตรงข้าม[?]; kunmeti [w] //(tr)// วางให้อยู่ด้วยกัน; primeti //(tr)// จัดเรียง; postmeti //(tr)// วางไว้ข้างหลัง, วางไว้ตามหลัง; submeti //(tr)// จำนน; submetiĝi ยอมจำนน; surmeti [w] //(tr)// สวม (เสื้อผ้า) @18-04-2024 21:13:37@
+meti {UL} [2] //(tr)// วาง, ทำให้...; almeti [w] //(tr)//  วางไปยัง, นำไปยัง; antaŭmeti //(tr)// เสนอ, ให้พิจารณาดูก่อน; apudmeti //(tr)// นำมาวางเปรียบเทียบ; ĉirkaŭmeti //(tr)// วางรอบ ๆ; demeti [w] //(tr)// ถอดออก, วาง (ไข่); elmeti นำเสนอ[?]; enmeti [w] //(tr)// วางใน; formeti //(tr)// วางไว้ไกล ๆ, ลืม, ล้มเลิก; formetejo ห้องเก็บของ; intermeti วางขั้นระหว่าง; kontraŭmeti วางไว้ตรงข้าม[?]; kunmeti [w] //(tr)// วางให้อยู่ด้วยกัน; primeti //(tr)// จัดเรียง; postmeti //(tr)// วางไว้ข้างหลัง, วางไว้ตามหลัง; submeti //(tr)// จำนน; submetiĝi ยอมจำนน; surmeti [w] //(tr)// สวม (เสื้อผ้า) @18-04-2024 21:13:37@
 metio [7] งานฝีมือ
 metodo [8] วิธีการ
 metro [7] เมตร
@@ -2768,8 +2768,8 @@ agro {AGR} ที่ดินเหมาะแก่การเพาะปล
 agronomio {SCI} {AGR} เกษตรศาสตร์; agronomiisto ผู้เชียวชาญด้านการเกษตร @07-03-2025 09:19:12@
 aha! //(int)// อาฮ่า @07-03-2025 09:21:28@
 aidoso/aideso //(akr)// {BAK} {MED} โรคเอดส์; aidosulo ผู้ที่เป็นโรคเอดส์ @07-03-2025 09:51:50@
-Ajutajo {THA} อยุธยา: la Ajutaja Periodo สมัยกรุงศรีอยุธยา @07-03-2025 09:51:50@
-aĵura //(PIV)// {TEKS} ลายลูกไม้ปลายผ้า, //(ReVo)// ลักษณะงานแบบเปิดหรือโปร่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sidi_Saiyyad_Ni_Jaali.jpg/100px-Sidi_Saiyyad_Ni_Jaali.jpg] @07-03-2025 09:51:50@
+Ajutajo {THA} อยุธยา: la Ajutaja Periodo สมัยกรุงศรีอยุธยา @07-03-2025 09:51:50@ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sidi_Saiyyad_Ni_Jaali.jpg/100px-Sidi_Saiyyad_Ni_Jaali.jpg]
+aĵura //(PIV)// 1. {TEKS} ลายลูกไม้ปลายผ้า, 2. //(ReVo)// ลักษณะงานแบบเปิดหรือโปร่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sidi_Saiyyad_Ni_Jaali.jpg/100px-Sidi_Saiyyad_Ni_Jaali.jpg] @07-03-2025 09:51:50@
 akaĵuo {KUI} มะม่วงหิมพานต์; akaĵuarbo/akaĵuujo {BOT} ต้นมะม่วงหิมพานต์; akaĵunukso {KUI} เม็ดมะม่วงหิมพานต์ @08-03-2025 09:35:23@
 akapari {EKON} //(tr)// กว้านซื้อ, ช่วงชิง, แย่งชิง @08-03-2025 09:46:35@
 akcesora ส่วนเสริม, เพิ่มเติม, ประกอบ; akcesoraĵo ส่วนประกอบเสริม @08-03-2025 09:46:35@

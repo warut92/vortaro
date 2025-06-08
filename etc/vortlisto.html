@@ -14,7 +14,9 @@
     <script  src="./skriptoj/lasta_sxangxo.js"></script>
     <a href="pri.html"><pre id="statistiko"></pre></a>
     <h3>พจนานุกรมเอสเปรันโต-ไทย</h3>
-    <h3>คัดเฉพาะคำในรายการคำ Bazaj radikoj Esperanto-Esperanto โดย  Wouter F. Pilger [0-9] + คำศัพท์นอกรายการ [x]</h3>
+    <a href="../pri.html">🏠 หน้าหลัก</a> <a href="../index.html" target="_blank">🔎 ค้นหา</a>
+    <h3>คัดเฉพาะคำในรายการคำ Bazaj radikoj Esperanto-Esperanto โดย  Wouter F. Pilger [0-9] + คำศัพท์นอกรายการ [x] + คำเพิ่มโดยผู้เรียบเรียง [w]</h3>
+    <p>🔥อยู่ในขั้นปรับปรุง/konstruata!</p>
     <button name="button" value="" onclick="elektiGrupon(this.value)">[0-x]</button>
     <button name="button" value="\[0\]" onclick="elektiGrupon(this.value)">[0]</button>
     <button name="button" value="\[1\]" onclick="elektiGrupon(this.value)">[1]</button>
@@ -27,7 +29,7 @@
     <button name="button" value="\[8\]" onclick="elektiGrupon(this.value)">[8]</button>
     <button name="button" value="\[9\]" onclick="elektiGrupon(this.value)">[9]</button>
     <button name="button" value="\[x\]" onclick="elektiGrupon(this.value)">[x]</button>
-    <button name="button" value="\[w\]" onclick="elektiGrupon(this.value)">[w]</button>
+    <button name="button" value="\[ω\]" onclick="elektiGrupon(this.value)">[w]</button>
     <br>
     <button name="button" value="-o" onclick="elektiGrupon(this.value)">-o</button>
     <button name="button" value="-a" onclick="elektiGrupon(this.value)">-a</button>
@@ -80,12 +82,17 @@ Z [BRO],
     vortaro = vortaro.concat(E_alfabeto)
     let vortaro_HTML = vortaro
     //preni variablon de th-vortaro.js kaj konverti al Array (tabeltipo) pere de <br>
-    vortaro = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
-    vortaro = vortaro.replace(/@(.+?)@/g, '')
-    vortaro = vortaro.replace(/\n/gm, '<br>')
-    vortaro = vortaro.split(/<br>/g)
+    // //(xx)// > <i>xx</i>
+    // vortaro = vortaro.replace(/\/\/(.+?)\/\//g, '<i>$1</i>')
+    //forigi la datan marikilon
+    vortaro = vortaro.replace(/@(.+?)@/g, '✅')
+    vortaro = vortaro.replace(/\[w\]/g, '[ω]')
+    //ŝanĝi \n > <br>
+    vortaro = vortaro.replace(/;/gm, '&;').replace(/\n/gm, '&;')
+    vortaro = vortaro.split(/;/g)
+    console.log(vortaro);
     //serĉi nur array kiuj enhavas "[\d]"
-    let sxablono_regex = / \[\d{1}|x\]/;
+    let sxablono_regex = / \[\d{1}|ω|x\]/;
     // let sxablono_regex = /-o/gm;
     let rezulto = vortaro.filter(function(str) {
     	return sxablono_regex.test(str);
@@ -103,7 +110,7 @@ Z [BRO],
     rezulto = rezulto.replace(/\{\w{3}\}/g, "")
 
     //forigi informojn pri trajto de vortoj.
-    rezulto = rezulto.replace(/\/\/(.+?)\/\//g, "<i>$1</i>")
+    rezulto = rezulto.replace(/\/\/\((.*?)\)\/\//g, "<i>($1)</i>")
     // rezulto = rezulto.replace(/\@(.+?)\@/g, '<o>$1</o>')
     rezulto = rezulto.replace(/\[BRO\]/g, "")
 
@@ -124,7 +131,9 @@ Z [BRO],
     //aldoni etikedon h
     rezulto = rezulto.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
     rezulto = rezulto.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> \n')
-    console.log('REZULTO ', rezulto )
+    // console.log('REZULTO ', rezulto )
+    rezulto = rezulto.replace(/&,/g, ";")
+    rezulto = rezulto.replace(/&/g, "")
 
     //ARRAY
     //forigi \n kaj konverti al Array
@@ -142,7 +151,7 @@ Z [BRO],
     const normiga_B = b.replace(/-/g, '').toLowerCase();
     return normiga_A.localeCompare(normiga_B, 'eo');
     };
-    console.log(reg);
+    // console.log(reg);
     //aranĝi laŭ esperanta ordo.
     let re_aranĝita_rezulto = rezulto1.sort(lauxafabelta_arangxo)
     let KVANTO = 0
@@ -153,7 +162,7 @@ Z [BRO],
     let statistiko_bro = re_aranĝita_rezulto.length - - KVANTO
     document.getElementById('st_bro').innerHTML = statistiko_bro.toLocaleString("en-US");
     //aldoni <br> per anstaŭigi la lastajn komojn
-    re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br>");
+    re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/ω/g, "w").replace(/,(?!\s)/g, "<br>");
 
     //STRING
     document.getElementById("bro").innerHTML = re_aranĝita_rezulto
