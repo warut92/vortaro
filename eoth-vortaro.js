@@ -2605,7 +2605,7 @@ urino [x] ปัสสาวะ; urini [w] //(ntr)// ถ่ายปัสสา
 urso {UL} [8] {ZOO} หมี: {AST} la Granda Ursino [w] ดาวจระเข้
 urtiko [x] พืชชนิดหนึ่งใบมีขนคัน
 -us {UL} [0] //(fin)// ตัวลงท้ายกริยาที่อยู่ในประโยคแสดงเงื่อนไขหรือสมมติ
-Usono [x] {GEOG} {POL} สหรัฐอเมริกา; usonano [w] ชาวอเมริกัน → Ameriko
+Usono [x] {GEOG} {POL} สหรัฐอเมริกา; usona เกี่วยกับสหรัฐอเมริกา; usonano [w] ชาวอเมริกัน → Ameriko @15-06-2025 16:08:13@
 utero [x] มดลูก, ครรภ์
 utila {UL} [4] มีประโยชน์; utileco [w] ความมีประโยชน์; utiligi [w] //(tr)// ทำให้...เกิดประโยชน์; malutila [w] ไม่เป็นประโยชน์; senutila [w] ไม่มีประโยชน์, เปล่าประโยชน์
 uzi {UL} [3] //(tr)// ใช้; uzebla [w] ใช้ได้; eluzi/uzita [w] ใช้แล้ว
@@ -4902,28 +4902,32 @@ Hungario {GEOG} {POL} ประเทศฮังการี = Hungarujo @04-05
 Indonezio {GEOG} {POL} ประเทศอินโดนีเซีย; indonezia เกี่ยวกับอินโดนีเซีย; indoneziano ชาวอินโดนีเซีย @04-05-2025 18:05:37@
 Irako {GEOG} {POL} ประเทศอิรัก; irakano ชาวอิรัก; iraka เกี่ยวกับอิรัก @04-05-2025 21:23:15@
 Irano {GEOG} {POL} ประเทศอิหร่าน; irana เกี่ยวกับอิหร่าน; iranano ชาวอิหร่าน @04-05-2025 21:26:54@
-Irlando {GEOG} {POL} ประเทศไอร์แลนด์ [redakonta]
-Israelo {GEOG} {POL} ประเทศอิสราเอล; israelano ชาวอิสราเอล [redakonta]
-italo ชาวอิตาลี: la itala (lingvo) ภาษาอิตาลี; Italio {GEOG} {POL} ประเทศอิตาลี [redakonta]
-Japanio {GEOG} {POL} ประเทศญี่ปุ่น
-japano [x] ชาวญี่ปุ่น; japana [w] เกี่ยวกับญี่ปุ่น: la japana (lingvo) ภาษาญี่ปุ่น; Japanujo {GEOG} {POL} ประเทศญี่ปุ่น
-Kamboĝo {GEOG} {POL} ประเทศกัมพูชา; kamboĝano ชาวกัมพูชา >> ĥmero [redakonta]
-kartvelo ชาวจอร์เจีย; Kartvelio {GEOG} {POL} ประเทศจอร์เจีย
-Kipro {GEOG} {POL} ประเทศไซปรัส
+Irlando {GEOG} {POL} ประเทศไอร์แลนด์; irlandano ชาวไอร์แลนด์; irlanda เกี่ยวกับไอร์แลนด์; Nord-Irlando/Nordirlando ไอร์แลนด์เหนือ @15-06-2025 16:11:13@
+Israelo {GEOG} {POL} ประเทศอิสราเอล; israela เกี่ยวกับอิสราเอล; israelano ชาวอิสราเอล @15-06-2025 16:12:08@
+italo ชาวอิตาลี; itala 1. เกี่ยวกับประเทศอิตาลี, 2. ภาษาอิตาลี; Italujo  {GEOG} {POL} ประเทศอิตาลี @15-06-2025 16:13:44@
+Italio {GEOG} {POL} ประเทศอิตาลี = Italujo @15-06-2025 16:14:08@
+Japanio {GEOG} {POL} ประเทศญี่ปุ่น = Japanujo @15-06-2025 16:14:17@
+japano [x] ชาวญี่ปุ่น; japana [w] 1. เกี่ยวกับญี่ปุ่น, 2 ภาษาญี่ปุ่น; Japanujo {GEOG} {POL} ประเทศญี่ปุ่น @15-06-2025 16:15:05@
+Kamboĝo {GEOG} {POL} ประเทศกัมพูชา; kamboĝano ชาวกัมพูชา >> ĥmero @15-06-2025 16:15:58@
+kartvelo ชาวจอร์เจีย; kartvela เกี่ยวกับจอร์เจีย; Kartvelujo {GEOG} {POL} ประเทศจอร์เจีย @15-06-2025 16:17:36@
+Kartvelio {GEOG} {POL} ประเทศจอร์เจีย = Kartvelujo @15-06-2025 16:17:32@
+Kipro/Cipro 1. {GEOG} เกาะไซปรัส, 2. {GEOG} {POL} ประเทศไซปรัส; kipra/cipra เกี่ยวกับไซปรัส @15-06-2025 16:18:57@
 kimro ชาวเวลส์; kimra เกี่ยวกับเวลส์; Kimrujo {GEOG} เวลส์; Nova Sud-Kimrujo/Novsudkimrujo รัฐนิวเซาท์เวลส์ (ประเทศออสเตรเลีย) = Novsudkimrio @21-04-2025 19:12:57@
-Kongo {GEOG} {POL} ประเทศคองโก [redakonta]
-koreo ชาวเกาหลี: la korea (lingvo) ภาษาเกาหลี; Sud-Koreio {GEOG} {POL} ประเทศเกาหลีใต้
-Kubo {GEOG} {POL} ประเทศคิวบา
-Kuvajto {GEOG} {POL} ประเทศคูเวต
+Kongo {GEOG} {POL} ประเทศคองโก; Kongo Brazavila/Okcidenta Kongo {GEOG} {POL} สาธารณรัฐคองโก; Kongo Kinŝasa/Orienta Kongo {GEOG} {POL} สาธารณรัฐประชาธิปไตยคองโก @15-06-2025 16:22:40@
+koreo ชาวเกาหลี; korea เกี่วยกับเกาหลีหรือภาษาเกาหลี; Koreujo {GEOG} ประเทศเกาหลี; Sud-Koreujo {GEOG} {POL} ประเทศเกาหลีใต้; Nord-Koreujo {GEOG} {POL} ประเทศเกาหลีเหนือ @15-06-2025 16:25:20@
+Sud-Koreio {GEOG} {POL} ประเทศเกาหลีใต้ = Sud-Koreujo @15-06-2025 16:24:58@
+Nord-Koreio {GEOG} {POL} ประเทศเกาหลีเหนือ = Nord-Koreujo @15-06-2025 16:24:58@
+Kubo {GEOG} {POL} ประเทศคิวบา; kubano ชาวคิวบา; kuba เกี่ยวกับคิวบา @15-06-2025 16:26:56@
+Kuvajto {GEOG} {POL} ประเทศคูเวต @15-06-2025 16:27:15@
 Laoso {GEOG} {POL} ประเทศลาว; laosa เกี่ยวกับลาว: la laosa (lingvo) ภาษาลาว; laosano ชาวลาว @28-10-2024 22:07:45@
-Libano {GEOG} {POL} ประเทศเลบานอน [redakonta]
+Libano {GEOG} {POL} ประเทศเลบานอน; libana เกี่ยวกับเลบานอน; libanano ชาวเลบานอน @15-06-2025 16:28:37@
 litovo ชาวลิทัวเนีย; litova เกี่ยวกับลิทัวเนีย; Litovujo {GEOG} {POL} ประเทศลิทัวเนีย @03-05-2025 11:58:55@
 Litovio {GEOG} {POL} ประเทศลิทัวเนีย @03-05-2025 11:58:58@
 latvo/leto ชาวลัตเวีย; latva เกี่ยวกับลัตเวีย; Latvujo {GEOG} {POL} ประเทศลัตเวีย @03-05-2025 12:01:45@
 Latvio {GEOG} {POL} ประเทศลัตเวีย @03-05-2025 12:01:41@
-malajo ชาวมลายู: la malaja (lingvo) ภาษามลายู
-Malajzio {GEOG} {POL} ประเทศมาเลเซีย; malajziano ชาวมาเลเซีย
-Malto {GEOG} {POL} ประเทศมอลตา
+malajo ชาวมลายู; malaja เกี่ยวกับมลายูหรือภาษามลายู @15-06-2025 16:29:41@
+Malajzio {GEOG} {POL} ประเทศมาเลเซีย; malajziano ชาวมาเลเซีย @15-06-2025 16:29:55@
+Malto 1. {POL} ประเทศมอลตา, 2. {GEOG} เกาะมอลตา; malta เกี่ยวกับมอลตาหรือภาษามอลตา; maltano ชาวมอลตา @15-06-2025 16:31:26@
 Maroko {GEOG} {POL} ประเทศโมร็อกโก
 Meksiko {GEOG} {POL} ประเทศเม็กซิโก
 Nederlando {GEOG} {POL} ประเทศเนเธอร์แลนด์, ฮอลันดา; nederlandano ชาวเนเธอร์แลนด์: la nederlanda (lingvo) ภาษาเนเธอร์แลนด์, ภาษาดัตช์ [redakonta]
