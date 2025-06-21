@@ -61,14 +61,14 @@ document.addEventListener('click', function(event) {
 });
 
 //tempa funkcio krita de AI
-const entries = Object.entries(tuta_vortaro_senspaceto);
-console.log(typeof entries);
+// const entries = Object.entries(tuta_vortaro_senspaceto);
+// console.log(typeof entries);
 
-let startIndex = entries.findIndex(([key, value]) => value.includes("**"));
-let endIndex = entries.findIndex(([key, value]) => value.startsWith("<h>uzino"));
+// let startIndex = entries.findIndex(([key, value]) => value.includes("**"));
+// let endIndex = entries.findIndex(([key, value]) => value.startsWith("<h>uzino"));
 
-const resultRange = entries.slice(startIndex, endIndex + 1);
-const count = resultRange.length;
-// Output
-console.log("trafoj:", count);
-document.getElementById('kalkulo').innerHTML = count
+// const resultRange = entries.slice(startIndex, endIndex + 1);
+// const count = resultRange.length;
+// // Output
+// console.log("trafoj:", count);
+// document.getElementById('kalkulo').innerHTML = count
