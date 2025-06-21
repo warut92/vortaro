@@ -4929,17 +4929,18 @@ Latvio {GEOG} {POL} ประเทศลัตเวีย @03-05-2025 12:01:41
 malajo ชาวมลายู; malaja เกี่ยวกับมลายูหรือภาษามลายู @15-06-2025 16:29:41@
 Malajzio {GEOG} {POL} ประเทศมาเลเซีย; malajziano ชาวมาเลเซีย @15-06-2025 16:29:55@
 Malto 1. {POL} ประเทศมอลตา, 2. {GEOG} เกาะมอลตา; malta เกี่ยวกับมอลตาหรือภาษามอลตา; maltano ชาวมอลตา @15-06-2025 16:31:26@
-Maroko {GEOG} {POL} ประเทศโมร็อกโก
-Meksiko {GEOG} {POL} ประเทศเม็กซิโก
-Nederlando {GEOG} {POL} ประเทศเนเธอร์แลนด์, ฮอลันดา; nederlandano ชาวเนเธอร์แลนด์: la nederlanda (lingvo) ภาษาเนเธอร์แลนด์, ภาษาดัตช์ [redakonta]
-Nepalo {GEOG} {POL} ประเทศเนปาล; nepalano ชาวเนปาล
-Niĝerio {GEOG} {POL} ประเทศไนจีเรีย [redakonta]
+Maroko {GEOG} {POL} ประเทศโมร็อกโก; marokano ชาวโมร็อกโก; maroka เกี่ยวกับโมร็อกโก @21-06-2025 09:45:50@
+Meksiko 1. {GEOG} {POL} ประเทศเม็กซิโก, 2. {GEOG} {POL} เม็กซิโกซิตี, 3. {GEOG} {POL} รัฐเม็กซิโก; meksika เกี่ยวกับเม็กซิโก; meksikano ชาวเม็กซิกัน; Meksikurbo เม็กซิโกซิตี; Meksiklando ประเทศเม็กซิโก; Novmeksiko/Nov-Meksiko รัฐนิวเม็กซิโก @21-06-2025 09:51:09@
+Nederlando {GEOG} {POL} ประเทศเนเธอร์แลนด์, ฮอลันดา; nederlandano ชาวเนเธอร์แลนด์; nederlanda 1. เกี่ยวกับเนเธอร์แลนด์, 2. ภาษาดัตช์ @21-06-2025 09:53:50@
+Nepalo {GEOG} {POL} ประเทศเนปาล; napala เกี่ยวกับเนปาล; nepalano ชาวเนปาล @21-06-2025 09:54:56@
+Niĝerio {GEOG} {POL} ประเทศไนจีเรีย @21-06-2025 09:55:44@
 Nikaragvo {GEOG} {POL} ประเทศนิคารากัว; nikaragva เกี่ยวกับประเทศนิคารากัว; nikaragvano ชาวนิคารากัว @27-02-2025 17:32:44@
-Norvegio {GEOG} {POL} ประเทศนอร์เวย์ [redakonta]
-norvego ชาวนอร์เวย์; la norvega (lingvo) ภาษานอร์เวย์; Norvegujo {GEOG} {POL} ประเทศนอร์เวย์ [redakonta]
-Pakistano {GEOG} {POL} ประเทศปากีสทาน
-Palaŭo {GEOG} {POL} ประเทศปาเลา [redakonta]
-Papuo {GEOG} ปาปัว; Papu-Nov-Gvineo {GEOG} {POL} ประเทศปาปัวนิวกินี
+Norvegio {GEOG} {POL} ประเทศนอร์เวย์ = Norvegujo @21-06-2025 09:56:26@
+norvego ชาวนอร์เวย์; norvega 1. เกี่ยวกับนอร์เวย์, 2. ภาษานอร์เวย์; Norvegujo {GEOG} {POL} ประเทศนอร์เวย์ @21-06-2025 10:00:25@
+Pakistano {GEOG} {POL} ประเทศปากีสถาน; pakistana เกี่ยวกับปากีสถาน; pakistanano ชาวปากีสถาน @21-06-2025 10:01:43@
+Palaŭo {GEOG} {POL} ประเทศปาเลา; palaŭa เกี่ยวกับปาเลา; palaŭano ชาวปาเลา @21-06-2025 10:02:46@
+Papuo {GEOG} ปาปัว; papuaj lingvoj {LIN} กลุ่มภาษาปาปัว @21-06-2025 10:04:49@
+Gvineo {GEOG} {POL} ประเทศกินี; Gvineo-Bisaŭo {GEOG} {POL} ประเทศกินี-บิสเซา; Ekvatora Gvineo {GEOG} {POL} ประเทศอิเควทอเรียลกินี; Nov-Gvineo เกาะนิวกินี; Nov-GvineoPapu-Nov-Gvineo {GEOG} {POL} ประเทศปาปัวนิวกินี @21-06-2025 10:07:51@
 Peruo {GEOG} {POL} ประเทศเปรู
 polo ชาวโปแลนด์: la pola (lingvo) ภาษาโปแลนด์; Pollando {GEOG} {POL} ประเทศโปแลนด์
 portugalo ชาวโปรตุเกส: la portugala (lingvo) ภาษาโปรตุเกส; Portugalio {GEOG} {POL} ประเทศโปรตุเกส
