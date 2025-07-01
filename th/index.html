@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>พจนานุกรมไทย-เอสเปรันโต ออนไลน์</title>
+  
+  <link rel="stylesheet" href="../stilo.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@200&family=Siemreap&display=swap" rel="stylesheet">
+
+
+</head>
+<body onload="getDictionary()">
+    
+    <header>
+        <h id="titolo">พจนานุกรมไทย-เอสเปรันโต ออนไลน์</h>
+    </header>
+    
+    <div id="data" style="overflow-x:auto;">
+        <div id="search"></div>
+        <div id="parsed_csv_list"></div>
+    </div>
+    
+    <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNrFijrQdRCeGn3BmgZbIqNJF3bUWmw0CsWEsGgSe2b9jCTwvdcpXl9wRRIcIGFUL6a-e0cxcFBez4/pub?gid=0&single=true&output=csv" target="_blank" rel="noopener noreferrer">Google Sheets database</a>
+    
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jets/0.14.1/jets.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
+<script src="skripto.js"></script>
+
+</html>
