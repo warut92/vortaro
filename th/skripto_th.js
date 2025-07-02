@@ -1,12 +1,12 @@
 function getDictionary() {
-
+console.log("123");
     //thai - dict
     var csvURL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRNrFijrQdRCeGn3BmgZbIqNJF3bUWmw0CsWEsGgSe2b9jCTwvdcpXl9wRRIcIGFUL6a-e0cxcFBez4/pub?gid=0&single=true&output=csv";
     var searchPlaceholder = 'ค้นหา';
   
     $("#parsed_csv_list").empty();
     $("#search").empty();
-    $("#search").html("<input id='enigo' placeholder=" + searchPlaceholder + " type='search'>");
+    $("#search").html("<input id='enigo' placeholder=" + searchPlaceholder + " type='search'> <button id='forigi' onclick='forigi()'>⌫</button>");
   
     Papa.parse(csvURL, {
       download: true,
@@ -43,7 +43,7 @@ function getDictionary() {
       contentTag: '#jetsContent',
       searchInSpecificColumn: true,
       callSearchManually: true,
-      columns: [0,2],
+      columns: [0,1],
       diacriticsMap: {
         a: "ÁÀÃÂÄáàãâäāǎ",
         я: "я́",
@@ -56,7 +56,14 @@ function getDictionary() {
         h: "ĥ",
         j: "ĵ",
         s: "ŝ",
+        x: "",
       }
     });
     $("#enigo").on("input", function(event) { jets.search(event.target.value, [0][1]) } );
+  }
+
+  function forigi() {
+    document.getElementById("enigo").value = "";
+    displayHTMLTable(results)
+    document.getElementById("enigo").focus()
   }
