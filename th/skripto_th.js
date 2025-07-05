@@ -31,7 +31,8 @@ console.log("123");
     for(i=0;i<data.length;i++){
       table+= "<tr>";
       var row = data[i];
-      for(j=0;j<row.length-1;j++){
+      console.log(row);
+      for(j=0;j<row.length;j++){
         var cell = row[j];
         table+= "<td>" + cell + "</td>";
       }
