@@ -1324,7 +1324,7 @@ krokodilo [9] {ZOO} จระเข้; krokodili {ESP} พูดภาษาอ
 krom [1] //(prep)// นอกจาก
 krono {UL} [8] มงกุฎ
 kruco {UL} [5] เครื่องหมายกากบาท, เครื่องหมายรูปกางเขน; krucumi [w] นำไปตรึงไว้บนไม้กางเขน; vojkruciĝo [w] ทางแยก
-kruĉo [8] เหยือกน้ำ
+kruĉo [8] เหยือกน้ำ; kruĉeto แก้วเหยือก; benzinkruĉo //(evitinde)// ถังใส่น้ำมัน = benzinkanistro; bierkruĉo เหยือกเบียร์; bolkruĉo กาต้มน้ำร้อน; kafkruĉo/kafokruĉo กากาแฟ; tekruĉo กาน้ำชา @06-07-2025 21:08:00@
 kruda [7] ดิบ
 kruela [8] โหดร้าย, โหดเหี้ยม
 kruro [5] ขา
@@ -2107,7 +2107,7 @@ revizii [9] //(tr)// {POL} ปรับปรุง
 revolucii [9] //(ntr)// ปฏิวัติ; revolucio [w] การปฏวัติ
 revuo [8] นิตยสาร →gazeto
 rezervo [8] การจอง; rezervi [w] //(tr)// จอง → mendi
-rezigni [8] //(x)// ล้มเลิก, ถอดใจ
+rezigni [8] //(x)// ยอมแพ้, ล้มเลิก, ถอดใจ; rezigno การยอมแพ้, การล้มเลิก; rezignebla ยอมแพ้ได้, ล้มเลิกได้; rezignemo {PSI} การยอมรับความพ่ายแพ้ @06-07-2025 20:56:04@
 rezisti [8] //(tr)// ต้านทาน, ต่อต้าน
 rezoni [9] //(ntr)// คิดอย่างมีเหตุผล
 rezulto [6] ผล
