@@ -4962,12 +4962,15 @@ Slovenio {GEOG} {POL} ประเทศสโลวีเนีย = Slovenujo 
 sloveno ชาวสโลวีเนีย; slovena เกี่ยวกับสโลวีเนีย; Slovenujo {GEOG} {POL} ประเทศสโลวีเนีย @05-07-2025 10:36:22@
 Srilanko {GEOG} {POL} ประเทศศรีลังกา @05-07-2025 10:36:39@
 koreo ชาวเกาหลี; korea เกี่ยวกับเกาหลี; Koreujo {GEOG} ประเทศเกาหลี; Sud-Koreujo {GEOG} {POL} ประเทศเกาหลีใต้; Nord-Koreujo {GEOG} {POL} ประเทศเกาหลีเหนือ @05-07-2025 10:42:13@
-Koreio {GEOG} {POL} ประเทศเกาหลี = Koreujo
-svedo ชาวสวีเดน: svedleda เกี่ยวกับหนังกลับชนิดนุ่ม; la sveda (lingvo) ภาษาสวีเดน; Svedio {GEOG} {POL} ประเทศสวีเดน
-sviso ชาวสวิตเซอร์แลนด์; Svisio/Svislando {GEOG} {POL} ประเทศสวิตเซอร์แลนด์
-suomo ; suoma ; Suomujo ; suoma lingvo
-taĝiko ชาวทาจิก: la taĝika (lingvo) ภาษาทาจิก; Taĝikio ประเทศทาจิกิสถาน
-tajo [x] คนไทย, ชาวไต; taja [x] เกี่ยวกับไทย, เกี่ยวกับไต: la taja (lingvo) ภาษาไทย; Tajlando [x] {GEOG} {POL} ประเทศไทย; tajlandano [w] คนไทย @28-10-2024 22:15:30@
+Koreio {GEOG} {POL} ประเทศเกาหลี = Koreujo @05-07-2025 10:42:13@
+svedo ชาวสวีเดน; sveda เกี่ยวกับสวีเดน, ภาษาสวีเดน; Svedujo {GEOG} {POL} ประเทศสวีเดน @08-07-2025 21:43:48@
+Svedio {GEOG} {POL} ประเทศสวีเดน = Svedujo @08-07-2025 21:43:45@
+sviso ชาวสวิตเซอร์แลนด์; svisa เกี่ยวกับสวิตเซอร์แลนด์; Svisujo {GEOG} {POL} ประเทศสวิตเซอร์แลนด์; Svislando {GEOG} {POL} ประเทศสวิตเซอร์แลนด์; Saksa Svisujo {GEOG} แซกซอนสวิตเซอร์แลนด์ @08-07-2025 21:50:46@
+Svisio {GEOG} {POL} ประเทศสวิตเซอร์แลนด์ = Svisujo @08-07-2025 21:51:20@
+suomo ชาวฟินแลนด์; suoma เกี่ยวกับฟินแลนด์; Suomujo {GEOG} {POL} ประเทศฟินแลนด์ ; suoma lingvo {LIN} ภาษาฟินแลนด์ @08-07-2025 21:52:56@
+taĝiko ชาวทาจิก; taĝika เกี่ยวกับชาวทาจิก, ภาษาทาจิก; Taĝikujo {GEOG} {POL} ประเทศทาจิกิสถาน @08-07-2025 21:55:10@
+Taĝikio {GEOG} {POL} ประเทศทาจิกิสถาน = Taĝikujo @08-07-2025 21:55:14@
+tajo [x] คนไทย, ชาวไทย; taja [x] เกี่ยวกับไทย: la taja (lingvo) ภาษาไทย; Tajlando [x] {GEOG} {POL} ประเทศไทย; tajlandano [w] คนไทย, ชาวไทย @28-10-2024 22:15:30@ @08-07-2025 21:56:35@
 Tajvano {GEOG} {POL} ไต้หวัน; tajvanano ชาวไต้หวัน
 Tanzanio {GEOG} {POL} ประเทศแทนซาเนีย; tanzaniano ชาวแทนซาเนีย
 Tibeto ธิเบต; tibetano ชาวธิเบต
