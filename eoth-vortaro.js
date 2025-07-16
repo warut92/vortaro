@@ -2328,7 +2328,7 @@ starti [9] //(ntr)// เริ่มแข่งขัน, ออกตัวว
 stato [4] สถานะ
 statuo [9] รูปปั้น
 staturo [9] ความสูงและความสง่างามของร่ายกาย
-stelo {UL} [5] ดวงดาว, ดาวฤกษ์
+stelo {UL} [5] ดาว, ดวงดาว, ดาวฤกษ์, 1. {AST} ดาวฤกษ์, 2. //(akr)// //(evitinde)// ดาว, ดวงดาว, 3. ดาวแห่งความหวัง, สิ่งที่ดี, 4. //(f)// ผู้ที่มีความโดดเด่น, 5. สัญลักษณ์รูปดาว, 6. {ESP} หน่วยเงินของเอสเปรันโตริเริ่มในปี 1959; stelaro {AST} กลุ่มดาว; steleto 1. สัญลักษณ์ดาวดวงเล็ก ๆ, 2. {TIP} เครื่องหมายดอกจัน (*); stelulo {BELA} ดารา, ผู้ที่มีชื่อเสียง; falstelo {AST} ดาวตก = meteoro; marstelo //(komune)// {ZOO} ปลาดาว = asterio IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Asterias_rubens.jpg/100px-Asterias_rubens.jpg]; matenstelo //(komune)// {AST} ดาวประกายพรึก, ดาวรุ่ง, (ดาวศุกร์ที่จะสว่างเห็นได้ชัดในตอนเช้ามืด); Polusa Stelo {AST} ดาวเหนือ = norda stelo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/PolarisA.jpg/100px-PolarisA.jpg]; pulsostelo {AST} พัลซาร์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chandra-crab.jpg/100px-Chandra-crab.jpg]; verda stelo {ESP} สัญลักษณ์ดาวสีเขียวของภาษาเอสเปรันโต; vesperstelo {AST} ดาวประจำเมือง (ดาวศุกร์ที่จะสว่างเห็นได้ชัดในตอนหัวค่ำ); stelamaso {AST} กระจุกดาว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/M92_arp_750pix.jpg/100px-M92_arp_750pix.jpg]; stelfiguro {AST} กลุ่มของดาวฤกษ์ที่ปรากฏในท้องฟ้าเรียงตัวกันเป็นรูปร่างต่าง ๆ, ดาวเรียงเด่น @16-07-2025 18:57:37@
 stepo [x] ที่ราบกว้างใหญ่ซึ่งไม่มีต้นไม้, ทุ่งหญ้าสเตป
 sterko [9] ปุ๋ย
 sterni [7] //(tr)// ทำให้ล้ม, ปูคลุม
