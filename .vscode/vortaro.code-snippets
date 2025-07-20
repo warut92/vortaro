@@ -97,6 +97,11 @@
 		"body": "IMG:[$1]",
 		"description": "แทรกลิงก์รูปภาพ"
 	},
+  "ligilo al Vikipedio": {
+		"prefix": "/ligilo-viki",
+		"body": "WIKI:[$1]",
+		"description": "ligilo al Vikipedio"
+	},
 	//fakindeksoj
 	"agrokulturo": {
     "prefix": "/agr",

@@ -17,6 +17,10 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<o>(01-01-2023-w)<\/o>/g, '<o sty
 
 //la etikedo por bildoj
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/IMG:\[(.*?)\]/g, '<img src="$1">')
+
+//la atikedoj por vikipedia paĝo
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/WIKI:\[(.*?)\]/g, ' <a href="$1" target="_blank"><img src="https://en.wikipedia.org/favicon.ico" alt="wikipdia" style="width:20px;height:auto;"></a>')
+
 //solvi cimon ĉe IMG
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<i>upload/gm, 'https://upload')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/https:<\/i>upload/gm, 'https://upload')
