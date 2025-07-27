@@ -4616,10 +4616,10 @@ svahila ภาษาสวาฮีลี @17-04-2025 13:33:44@
 svelta เอวบางร่างน้อย, สเลนเดอร์; malsvelta อ้วน, รูปร่างไม่ดี @17-04-2025 13:36:02@
 svetero {TEKS} เสื้อสเวตเตอร์, เสื้อกันหนาว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sweat01.jpg/100px-Sweat01.jpg] >> pulovero @17-04-2025 13:40:54@
 <!-- Ŝ -->
-ŝablono {TEK} {KOMP} แม่แบบ, แบบ @24-03-2024 15:15:35@
-ŝafto {TEK} เพลา; kamŝafto {AUT} เพลาลูกเบี้ยว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Nockenwelle_ani.gif/100px-Nockenwelle_ani.gif]; krankoŝafto {AUT} เพลาข้อเหวี่ยง @24-03-2024 15:15:35@
-ŝako {SPO} หมากรุก: //internacia ŝako หมากรุกสากล//; ŝak!/ŝakon! //(int)// รุกฆาต!; ŝakludo {SPO} การเล่นหมากรุก; ŝakpeco ตัวหมากรุก, ŝaktabulo กระดานหมากรุก; ŝakumita ที่มีลายตาหมากรุก @24-03-2024 15:15:35@
-ŝakri {EKON} //(tr)// ลักลอบค้า, ขายสิ่งผิดกฏหมาย @24-03-2024 18:11:50@
+ŝablono 1. {TEK} แม่แบบ, แผ่นแบบ, IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Schriftschablone.jpg/100px-Schriftschablone.jpg] 2. {KOMP} แม่แบบ, แบบ, 3. //(f)// สิ่งที่สร้างจากแบบที่มีอยู่แล้ว; ŝablona 1. จากแม่แบบ, 2. //(f)// จากแบบที่มีอยู่แล้ว; malŝablona //(f)// ไม่เหมือนแบบ, ต้นฉบับ; ŝablonaĵo สิ่งที่สร้างมาจากแบบ @24-03-2024 15:15:35@ @27-07-2025 22:16:22@
+ŝafto {TEK} เพลา; kamŝafto {AUT} เพลาลูกเบี้ยว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Nockenwelle_ani.gif/100px-Nockenwelle_ani.gif]; krankoŝafto {TEK} {AUT} เพลาข้อเหวี่ยง @24-03-2024 15:15:35@ @27-07-2025 22:19:14@
+ŝako {SPO} 1. หมากรุก: //internacia ŝako หมากรุกสากล//, 2. รุกฆาต!; ŝakludo {SPO} การเล่นหมากรุก; ŝakpeco ตัวหมากรุก, ŝaktabulo กระดานหมากรุก; ŝakumita ที่มีลายตาหมากรุก @24-03-2024 15:15:35@ @27-07-2025 22:21:38@
+ŝakri {EKON} //(tr)// ลักลอบค้า, ขายสิ่งผิดกฏหมาย; ŝakristo พ่อค้าที่ลอบค้าสิ่งของ @24-03-2024 18:11:50@ @27-07-2025 22:23:03@
 ŝakto {TEK} {KON} ปล่อง, ท่อ (ส่งของ, คน); ŝtuparŝakto {ARKI} ปล่องบันได @24-03-2024 18:11:50@
 ŝalmo {MUZ} ปี่ชอว์น (สมัยยุคกลางต้นแบบของคลาริเน็ต); pajnoŝalmo {MUZ} แพนฟลุต; sakŝalmo {MUZ} ปี่สก็อต; suĉoŝalmo/trinkŝalmo หลอดดูดเครื่องดื่ม @24-03-2024 18:11:50@
 ŝalo {TEKS} ผ้าคลุมไหล่ @24-03-2024 18:11:50@
