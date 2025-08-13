@@ -5619,5 +5619,9 @@ mastiko {TEK} ปูนอุดรอยรั่ว, ยางเรซิน,
 ateliero 1. {ARKI} {BELA} ห้องปฏิบัติงานศิลปะ, 2. {KIN} {MUZ} สตูดิโอตัดต่อ, ห้องอัด, 3. //(evitinde)// สถาที่ทำงานฝีมือ, โรงเรียนช่างฝีมือ @26-07-2025 14:15:14@
 megalito {ARKE} อนุสาวรีย์ที่สร้างจากหินขนาดใหญ่มาก ช่วง 5000 - 800 ปีก่อนคริสตกาล @26-07-2025 14:55:34@
 regresi //(malofte)// //(ntr)// 1. เสื่อมลง, เสื่อมถอย, ถดถอย = malprogresi, 2. //(akr)// เดินถอยหลัง = retroiri; regreso การเสื่อมถอย = malprogreso; regresema //(malofte)// เสื่อมถอย, ถดถอย @27-07-2025 21:07:31@
+krotalo {ZOO} งูหางกระดิ่ง = sonserpento @13-08-2025 17:49:15@
+furo {ZOO} เฟร์ริต = ĉasputoro IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ferret_2008.png/100px-Ferret_2008.png] @13-08-2025 17:52:42@
+putoro {ZOO} เฟร์ริตยุโรป IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mustela_putorius_01-cropped.jpg/100px-Mustela_putorius_01-cropped.jpg]; ĉasputoro {ZOO} เฟร์ริต @13-08-2025 17:53:52@
+mustelo {ZOO} เพียงพอน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustela_nivalis_-British_Wildlife_Centre-4.jpg/100px-Mustela_nivalis_-British_Wildlife_Centre-4.jpg] @13-08-2025 17:59:10@
 >.
 `
