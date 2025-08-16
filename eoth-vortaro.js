@@ -4620,11 +4620,11 @@ svetero {TEKS} เสื้อสเวตเตอร์, เสื้อกั
 ŝafto {TEK} เพลา; kamŝafto {AUT} เพลาลูกเบี้ยว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Nockenwelle_ani.gif/100px-Nockenwelle_ani.gif]; krankoŝafto {TEK} {AUT} เพลาข้อเหวี่ยง @24-03-2024 15:15:35@ @27-07-2025 22:19:14@
 ŝako {SPO} 1. หมากรุก: //internacia ŝako หมากรุกสากล//, 2. รุกฆาต!; ŝakludo {SPO} การเล่นหมากรุก; ŝakpeco ตัวหมากรุก, ŝaktabulo กระดานหมากรุก; ŝakumita ที่มีลายตาหมากรุก @24-03-2024 15:15:35@ @27-07-2025 22:21:38@
 ŝakri {EKON} //(tr)// ลักลอบค้า, ขายสิ่งผิดกฏหมาย; ŝakristo พ่อค้าที่ลอบค้าสิ่งของ @24-03-2024 18:11:50@ @27-07-2025 22:23:03@
-ŝakto {TEK} {KON} ปล่อง, ท่อ (ส่งของ, คน); ŝtuparŝakto {ARKI} ปล่องบันได @24-03-2024 18:11:50@
-ŝalmo {MUZ} ปี่ชอว์น (สมัยยุคกลางต้นแบบของคลาริเน็ต); pajnoŝalmo {MUZ} แพนฟลุต; sakŝalmo {MUZ} ปี่สก็อต; suĉoŝalmo/trinkŝalmo หลอดดูดเครื่องดื่ม @24-03-2024 18:11:50@
-ŝalo {TEKS} ผ้าคลุมไหล่ @24-03-2024 18:11:50@
-ŝaloto {BOT} {AGR} หอมแดง, หัวหอมไทย @24-03-2024 18:11:50@
-ŝalupo {MAR} เรือขนาดใหญ่ [ความหมายใน PIV และ ReVo ไม่เหมือนกัน] @24-03-2024 18:11:50@
+ŝakto/ŝaĥto 1. {TEK} ท่อ (ส่งของหรือคนในเหมือง), 2. {TEK} {KON} ท่อ, ปล่อง (สำหรับลำเลียงคนหรือสิ่งของ); ŝtuparŝakto {ARKI} ปล่องบันได @24-03-2024 18:11:50@ @16-08-2025 11:11:07@
+ŝalmo 1. {MUZ} ปี่ชอว์น (เครื่องดนตรีสมัยยุคกลางต้นแบบของคลาริเน็ต) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Salmaj.jpg/100px-Salmaj.jpg], 2. {TEK} ท่อเป่าไฟ, 3. //(evitinde)// {BOT} ปล้องของต้นหญ้า; pajnoŝalmo {MUZ} แพนฟลุต = pajnofluto; sakŝalmo {MUZ} ปี่สก็อต = sakfluto; suĉoŝalmo/trinkŝalmo หลอดดูดเครื่องดื่ม @24-03-2024 18:11:50@ @16-08-2025 11:16:49@
+ŝalo {TEKS} ผ้าคลุมไหล่ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Orange_triangle_shawl.jpg/100px-Orange_triangle_shawl.jpg] @24-03-2024 18:11:50@ @16-08-2025 11:20:14@
+ŝaloto {BOT} {AGR} หอมแดง @24-03-2024 18:11:50@ @16-08-2025 11:20:20@
+ŝalupo {MAR} เรือขนาดใหญ่ [ความหมายใน PIV และ ReVo ไม่เหมือนกัน?] @24-03-2024 18:11:50@ @16-08-2025 11:21:17@
 ŝamano {REL} หมอผี; ŝamanismo {REL} ลัทธิหมอผี @24-03-2024 18:11:50@
 ŝampuo ยาสระผม, แชมพู; ŝampui //(tr)// สระผม @24-03-2024 18:11:50@
 Ŝanhajo/ Ŝanĥajo {GEOG} เซี่ยงไฮ้ @24-03-2024 18:11:50@
@@ -5624,5 +5624,6 @@ furo {ZOO} เฟอร์เร็ต = ĉasputoro IMG:[https://upload.wikimedi
 putoro {ZOO} เฟอร์เร็ตยุโรป IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mustela_putorius_01-cropped.jpg/100px-Mustela_putorius_01-cropped.jpg]; ĉasputoro {ZOO} เฟอร์เร็ต @13-08-2025 17:53:52@
 mustelo {ZOO} เพียงพอน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustela_nivalis_-British_Wildlife_Centre-4.jpg/100px-Mustela_nivalis_-British_Wildlife_Centre-4.jpg] @13-08-2025 17:59:10@
 folivoro {ZOO} สลอธ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bradypus.jpg/100px-Bradypus.jpg] @14-08-2025 16:18:21@
+poacoj {BOT} พืชจำพวกหญ้า //(Poaceae)// @16-08-2025 11:15:11@
 >. 
 `
