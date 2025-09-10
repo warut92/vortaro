@@ -5096,7 +5096,7 @@ aneksi //(tr)// 1. {POL} ยึดครอง, ผนวก (ดินแดน
 komato {MED} อาการโคม่า, สภาพไม่รู้สึกตัว; komata เกี่ยวกับอาการโคมา @01-01-2023-w@ @04-05-2025 10:20:27@
 letargio 1. {FIZL} อาการสลบไสล, 2. //(f)// ความเซื่องซึม, ความง่วง @01-01-2023-w@ @04-05-2025 10:29:51@
 perversa 1. ชั่ว ๆ, ชั่วช้า, คดโกง; preverse ด้วยวิธีการชั่วช้า @01-01-2023-w@ @04-05-2025 10:32:07@
-palankeno เกี้ยว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gama2_crop.jpg/100px-Gama2_crop.jpg] @01-01-2023-w@  @04-05-2025 10:51:00@
+palankeno เกี้ยว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gama2_crop.jpg/100px-Gama2_crop.jpg] @01-01-2023-w@ @04-05-2025 10:51:00@
 manovri //(ntr)// 1. หลบหลีก, เคลื่อนไหว, 2. จัดการ, 3. //(f)// จัดการ, ยักย้ายถ่ายเท; manovro การยักย้าย, การย้ายที่; militmanovro {MIL}  การเคลื่อนทัพ @01-01-2023-w@ @04-05-2025 11:03:57@
 farmakologio {MED} เภสัชศาสตร์ @04-05-2025 11:56:41@
 farmakologo ผู้เชี่ยวชาญด้านเภสัชศาสตร์, เภสัชกร @01-01-2023-w@ @04-05-2025 11:57:10@
@@ -5625,7 +5625,7 @@ putoro {ZOO} เฟอร์เร็ตยุโรป IMG:[https://upload.wiki
 mustelo {ZOO} เพียงพอน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustela_nivalis_-British_Wildlife_Centre-4.jpg/100px-Mustela_nivalis_-British_Wildlife_Centre-4.jpg] @13-08-2025 17:59:10@
 folivoro {ZOO} สลอธ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bradypus.jpg/100px-Bradypus.jpg] @14-08-2025 16:18:21@
 poacoj {BOT} พืชจำพวกหญ้า //(Poaceae)// @16-08-2025 11:15:11@
-pankreato/pankreaso {ANA} ตับอ่อน @23-08-2025 15:07:20@  
+pankreato/pankreaso {ANA} ตับอ่อน @23-08-2025 15:07:20@
 vaskulo 1. {ANA} เส้นเลือด = angio, 2. {BOT} ท่อลำเลียงในพืช; perfekta vaskulo {BOT} ท่อเทรเคีย; vaskulaj plantoj {BOT} พืชที่มีท่อลำเลียง @23-08-2025 15:11:58@
 >. 
 `
