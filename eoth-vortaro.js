@@ -5628,5 +5628,6 @@ poacoj {BOT} พืชจำพวกหญ้า //(Poaceae)// @16-08-2025 11:1
 pankreato/pankreaso {ANA} ตับอ่อน @23-08-2025 15:07:20@
 vaskulo 1. {ANA} เส้นเลือด = angio, 2. {BOT} ท่อลำเลียงในพืช; perfekta vaskulo {BOT} ท่อเทรเคีย; vaskulaj plantoj {BOT} พืชที่มีท่อลำเลียง @23-08-2025 15:11:58@
 vasalo 1. {HIS} ผู้ที่ได้รับศักดินา = feŭdulo, 2. //(f)// {POL} อาณาจักรหรือรัฐที่ขึ้นกับผู้อื่น @12-09-2025 23:39:38@
+elektrizi 1. {TEK} ติดตั้งไฟฟ้า, 2. {ELE} ปล่อยกระแสไฟฟ้า = elektrumi; elektriz(ad)o {ELE} {TEK} การติดตั้งไฟฟ้า, การปล่อยกระแสไฟฟ้า; elektriz(ad)a {ELE} {TEK} เกี่ยวกับการไฟฟ้า @23-09-2025 17:53:59@
 >. 
 `
