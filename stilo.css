@@ -73,19 +73,19 @@ pre {
 @media (prefers-color-scheme: dark) {
   body {
     color: white;
-    background: #010409;
+    background: #1e2a3d;
     border: 1px solid white;
   }
   input {
     color: white;
-    background: #010409;
+    background: #1e2a3d;
     /* background: #121212; */
   }
   b {
     color: #89E682;
   }
   a {
-    color: white;
+    color: rgb(255, 255, 255);
   }
 }
 
@@ -116,7 +116,7 @@ img {
 } */
 
 .nigro {
-  color: #010409;
+  color: #ffffff;
 }
 
 #hazardilo {
