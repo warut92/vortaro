@@ -2768,7 +2768,7 @@ agro {AGR} ที่ดินเหมาะแก่การเพาะปล
 agronomio {SCI} {AGR} เกษตรศาสตร์; agronomiisto ผู้เชียวชาญด้านการเกษตร @07-03-2025 09:19:12@
 aha! //(int)// อาฮ่า @07-03-2025 09:21:28@
 aidoso/aideso //(akr)// {BAK} {MED} โรคเอดส์; aidosulo ผู้ที่เป็นโรคเอดส์ @07-03-2025 09:51:50@
-Ajutajo {THA} อยุธยา: la Ajutaja Periodo สมัยกรุงศรีอยุธยา @07-03-2025 09:51:50@ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sidi_Saiyyad_Ni_Jaali.jpg/100px-Sidi_Saiyyad_Ni_Jaali.jpg]
+Ajutajo {THA} อยุธยา: la Ajutaja Periodo สมัยกรุงศรีอยุธยา @07-03-2025 09:51:50@
 aĵura //(PIV)// 1. {TEKS} ลายลูกไม้ปลายผ้า, 2. //(ReVo)// ลักษณะงานแบบเปิดหรือโปร่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sidi_Saiyyad_Ni_Jaali.jpg/100px-Sidi_Saiyyad_Ni_Jaali.jpg] @07-03-2025 09:51:50@
 akaĵuo {KUI} มะม่วงหิมพานต์; akaĵuarbo/akaĵuujo {BOT} ต้นมะม่วงหิมพานต์; akaĵunukso {KUI} เม็ดมะม่วงหิมพานต์ @08-03-2025 09:35:23@
 akapari {EKON} //(tr)// กว้านซื้อ, ช่วงชิง, แย่งชิง @08-03-2025 09:46:35@
