@@ -3481,15 +3481,15 @@ gvati //(tr)// จับตา, เฝ้ายาม, อยู่ยาม; gv
 habitato //(PIV)// {EKOL} ถิ่นที่อยู่อาศัย @23-04-2024 21:59:09@ @28-09-2025 11:51:31@
 Hago {GEOG} กรุงเฮก (เป็นเมืองหลวงของจังหวัดเซาท์ฮอลแลนด์ ประเทศเนเธอร์แลนด์) @21-03-2024 17:59:44@ @23-04-2024 21:59:09@
 Hajnano //(PIV)// {GEOG} เกาะไหหลำ (ตั้งอยู่ทางใต้สุดของประเทศจีน) @23-04-2024 22:17:54@ @28-09-2025 16:00:48@
-halala {ISL} {KUI} ฮาลาล @23-04-2024 22:17:47@
-handikapo {SPO} การต่อให้, {MED} ความพิการ, ความบกพร่อง; handikapi //(tr)// {SPO} ต่อให้, {MED} ทำให้เกิดความพิการต่อ; handikapiĝi เสียเปรียบ; handikapita พิการ; handikapito/handikapulo คนพิการ @24-04-2024 21:45:42@
-Hanojo {GEOG} {POL} ฮานอย เมืองหลวงประเทศเวียดนาม @24-04-2024 21:51:34@
-hanti //(tr)// หลอกหลอน = fantomi: //hantata domo บ้านผีสิง// @24-04-2024 21:51:34@
-haremo ฮาเร็ม (สถานที่ที่จัดไว้ให้เป็นที่อยู่ของบรรดานางสนมหรือนางบำเรอ) @24-04-2024 21:53:25@
-harmoniko {MUZ} หีบเพลงปาก = blovharmoniko, buŝharmoniko; tirharmoniko {MUZ} แอคคอร์เดียน, หีบเพลงชัก @24-04-2024 22:14:16@
-harpo {MUZ} ฮาร์ป, พิณฝรั่ง @24-04-2024 22:14:37@
-harpuno ฉมวก; harpuni แทงด้วยฉมวก @02-05-2024 20:59:52@
-hasti //(ntr)// รีบร้อน, เร่งเร้า @02-05-2024 21:07:49@
+halala {ISL} {KUI} ฮาลาล @23-04-2024 22:17:47@ @01-10-2025 10:37:21@
+handikapi //(tr)// เป็นอุปสรรค, ขัดขวาง, ทำให้เกิดความลำบาก; handikapo อุปสรรค, สิ่งขัดขวาง = malavantaĝo, malhelpo; handikapita พิการ; handikapito/handikapulo คนพิการ @24-04-2024 21:45:42@ @01-10-2025 10:48:23@
+Hanojo {GEOG} {POL} ฮานอย เมืองหลวงประเทศเวียดนาม @24-04-2024 21:51:34@ @01-10-2025 10:49:08@
+hanti //(tr)// หลอกหลอน = fantomi: //hantata domo บ้านผีสิง// @24-04-2024 21:51:34@ @01-10-2025 10:49:47@
+haremo 1. ฮาเร็ม (สถานที่ที่จัดไว้ให้เป็นที่อยู่ของบรรดานางสนมหรือนางบำเรอ), 2. ผู้หญิงในฮาเร็ม @24-04-2024 21:53:25@ @01-10-2025 10:50:33@
+harmoniko {MUZ} 1. หีบเพลงปาก, 2. วิชาฮาโมนิกซ์;  IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/16-hole_chrom_10-hole_diatonic.jpg/100px-16-hole_chrom_10-hole_diatonic.jpg]; buŝharmoniko/blovharmoniko {MUZ} หีบเพลงปาก, ฮาร์โนนิก้า; frapharmoniko {MUZ} ไซโลโฟน; tirharmoniko {MUZ} แอคคอร์เดียน, หีบเพลงชัก = akordiono IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Accord%C3%A9on_diatonique_B.Loffet_Graet_e_Breizh_3_rangs.jpg/100px-Accord%C3%A9on_diatonique_B.Loffet_Graet_e_Breizh_3_rangs.jpg] @24-04-2024 22:14:16@ @01-10-2025 10:55:40@
+harpo {MUZ} ฮาร์ป, พิณฝรั่ง; harpi //(tr)// เล่นฮาร์ป @24-04-2024 22:14:37@ @01-10-2025 10:57:31@
+harpuno ฉมวก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manner_in_which_the_natives_of_the_East_Coast_Stirke_Turtle.jpg/100px-Manner_in_which_the_natives_of_the_East_Coast_Stirke_Turtle.jpg]; harpuni //(tr)// แทงด้วยฉมวก @02-05-2024 20:59:52@ @01-10-2025 11:00:13@
+hasti //(ntr)// เร่งรีบ, รีบร้อน; hasto ความเร่งรีบ, ความหุนหันพลันแล่น; hasta อย่างเร่งรีบ; hastema ชอบเร่งรีบ, มักเร่งรีบ; hastigi ทำให้เร่งรีบ, เร่งเร้า; malhasta/senhasta อย่างค่อยเป็นค่อยไป, สบาย ๆ, ไม่รีบร้อน @02-05-2024 21:07:49@ @01-10-2025 11:04:37@
 haŝiŝo {MED} กัญชา @02-05-2024 21:07:49@
 haŭli //(tr)// ดึง, ลาก, จูง (เช่น เรือ) @18-05-2024 07:42:41@
 Havajo {GEOG} ฮาวาย @18-05-2024 07:47:57@
