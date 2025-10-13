@@ -30,7 +30,7 @@
 		"body": "//(f)//",
 		"description": "figure"
 	},
-  "vulgare": {
+  "vulgare1": {
 		"prefix": "/v",
 		"body": "//(vulgare)//",
 		"description": "vulgare"
@@ -71,7 +71,7 @@
 		"body": "//(frazaĵo)//",
 		"description": "frazaĵo"
 	},
-  "vulgare": {
+  "vulgare2": {
 		"prefix": "/vulgare",
 		"body": "//(vulgare)//",
 		"description": "vulgare"
@@ -515,5 +515,5 @@
 		"prefix": "/viki",
 		"body": "//(Viki)//",
 		"description": "de Vikipedio"
-	},
+	}
 }
