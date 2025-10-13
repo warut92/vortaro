@@ -11,7 +11,7 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(\{.{3,4}\})/g, '<fak>$1</fak>')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-Za-zĈĉĜĝĤĥĴĵŜŝŬŭ-].+?)(\s)/gm, '<h>$1</h> ')
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(^[A-ZĈĜĤĴŜŬ])$/gm, '<h>$1</h> ')
 //aldoni etikedon
-cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+)\@/g, '<o><abbr title="$1">⏰</abbr></o>')
 //verdig la daton 01-01-2023-w
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/<o>(01-01-2023-w)<\/o>/g, '<o style=\"color:green\">$1</o>')
 

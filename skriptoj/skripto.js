@@ -56,7 +56,7 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(1)\. /gm, '① ')
 .replace(/(9)\. /gm, '⑨ ')
 .replace(/(10)\. /gm, '⑩ ')
 //por redakt-dato
-cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o>$1</o>')
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o><abbr title="$1">⏰</abbr></o>')
 //la etikedo por bildoj
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/IMG:\[(.*?)\]/gm, '<img src="$1">')
 //la atikedoj por vikipedia paĝo
