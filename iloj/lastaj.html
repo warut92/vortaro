@@ -143,6 +143,7 @@
     document.getElementById('statistiko_dato').innerHTML = statistiko
     //prenas la lastan daton
     const nur_lasta_dato = statistiko.split("<br>")[0]
-    document.getElementById('statistiko_lasta_dato').innerHTML = nur_lasta_dato.replace(/🕧\d{8}/g, "")
+    console.log(nur_lasta_dato);
+    document.getElementById('lasta_dato').innerHTML = nur_lasta_dato.replace(/🕧/g, " : ")
   </script>
 </html>
