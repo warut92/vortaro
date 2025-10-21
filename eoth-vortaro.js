@@ -3421,26 +3421,26 @@ generatoro 1. {ELE} เครื่องกำเนิดไฟฟ้า, 2. {
 generi //(tr)// 1. ให้กำเนิด, ผลิต, สร้าง, 2. ให้กำเนิด(สิ่งมีชีวิต), 3. {MAT} ก่อกำเนิด; generado การให้กำเนิด; genera เกี่ยวกับการให้กำเนิด: //genera organo อวัยวะสืบพันธุ์//; genero 1. การให้กำเนิด, 2. เชื้อสาย, ตระกูล; regeneri //(tr)// 1. ทำให้เกิดใหม่, 2. ปลูกถ่ายอวัยวะ @17-10-2024 11:13:48@ @14-10-2025 19:20:28@
 genetiko {BIO} พันธุศาสตร์; genetika เกี่ยวกับพันธุ์ศาสตร์; genetikisto นักพันธุ์ศาสตร์ @17-10-2024 11:15:23@ @14-10-2025 19:20:53@
 genitivo {LIN} สัมพันธการก (การกแสดงความเป็นเจ้าของ ในภาษาเอสเปรันโตแสดงโดยการใช้คำบุพบท de และ da) @17-10-2024 11:17:42@ @14-10-2025 19:21:36@
-geno {BIO} ยีน; genaro {BIO} จีโนม (กลุ่มยีนในเซลล์ของสิ่งมีชีวิต) @17-10-2024 11:17:42@
-genocido {JUR} การฆ่าล้างเผ่าพันธ์ = gentomurdo @17-10-2024 11:41:57@
-genro {GRA} ลิงก์, {LIN} {BOT} {ZOO} {POL} เพศ; aĵgenro/neŭtra genro {GRA} นปุงสกลิงค์, ไม่ระบุเพศ, เพศของสิ่งของ; ingenro/ina genro {GRA} อิตถีลิงค์, เพศหญิง; ulgenro {GRA} เพศของคน; virgenro/vira genro{GRA} ปุงลิงค์, เพศชาย; cisgenra เพศโดยกำเนิด; cisgenrulo ผู้ที่มีเพศโดยกำเนิด; transgenra {GRA} เพศไม่โดยกำเนิด; transulgenro {GRA} ผู้ที่มีเพศไม่เหมือนตอนเกิด @17-10-2024 11:41:57@
-geologio {GEOL} {SCI} ธรณีวิทยา; geologiisto {GEOL} นักธรณีวิทยา @17-10-2024 11:41:57@
-geometrio {MAT} เรขาคณิต, รูปทรงเรขาคณิต; geometria {MAT} เกี่ยวกับเรขาคณิต: //geometria figuro รูปทรงเรขาคณิต//; geometriisto นักเรขาคณิต @17-10-2024 11:41:57@
-gerilo {MIL} สงครามกองโจร; gerilano {MIL} ทหารกองโจร; gerilanaro {MIL} กองโจร @17-10-2024 11:47:48@
-gerontologio {SCI} {MED} ชราภาพวิทยา, พฤฒาวิทยา @17-10-2024 11:50:41@
-geto สลัม, ชุมชนแออัด @17-10-2024 11:50:41@
-gibono {ZOO} ชะนี @17-10-2024 11:50:41@
-gimnasto {SPO} นักกีฬายิมนาสติก = gimnastikisto; gimnastejo {SPO} ยิมเนเซียม, ยิม = gimnastikejo; gimnastilo {SPO} อุปกรณ์ยิมนาสติก = gimnastikilo @27-10-2024 22:17:25@
-gimnastiko {SPO} ยิมนาสติก, กายบริหาร; gimnastiki //(ntr)// กายบริหารแบบยิมนาสติก; gimnastikejo {SPO} ยิมเนเซียม, ยิม; gimnastikilo {SPO} อุปกรณ์ยิมนาสติก; gimnastikisto  {SPO} นักกีฬายิมนาสติก @27-10-2024 22:17:25@
-gimnazio โรงเรียนมัธยมศึกษาแบบ //Gymnasium//; gimnaziano ผู้ที่เรียนโรงเรียนมัธยมศึกษาแบบ //Gymnasium// @27-10-2024 22:17:25@
-ginekologio {MED} นรีเวชศาสตร์, นรีเวชวิทยา, วิทยาเพศหญิง; ginekologiisto {MED} แพทย์ทางนรีเวชศาสตร์ = ginekologo @27-10-2024 22:36:25@
-ginekologo {MED} แพทย์ทางนรีเวชศาสตร์ @27-10-2024 22:36:25@
-gingivo {ANA} เหงือก = dentokarno @27-10-2024 22:36:25@
-gipso {KON} ปูนปลาสเตอร์; gipsoŝtono {MIN} ยิปซัม, เกลือจืด; gipsa จากปูนปลาสเตอร์; gipsi/gipsumi //(tr) ฉาบด้วยปูนปลาสเตอร์, ผสมกับปูนปลาสเตอร์; gipsaĵo สิ่งที่ผสมกับปูนปลาสเตอร์ @27-10-2024 22:36:25@
-gisi {TEK} //(tr)// หล่อ; gisado การหล่อ; gisaĵo สิ่งของที่หล่อขึ้นมา; gisisto {TEK} ช่างหล่อ; gisfero เหล็กหล่อ; gisfera เกี่ยวกับเหล็กหล่อ; giso การหล่อ = gisado, สิ่งที่หล่อขึ้นมา, = gisaĵo, เหล็กหล่อ = gisfero @28-10-2024 22:24:13@
-gisto {KUI} {BAK} เชื้อหมัก, ยีสต์; biergisto ยีสต์หมักเบียร์ @28-10-2024 22:40:15@
-gitaro {MUZ} กีตาร์ @28-10-2024 22:40:15@
-glacea มันเงา, มันวาว; glaceigi //(tr)// ขัดเงา; glaceiĝi //(ntr)// มันเงา, มันวาว; malglacea ผิวด้าน @28-10-2024 22:40:15@
+geno {BIO} ยีน; genaro {BIO} จีโนม (กลุ่มยีนในเซลล์ของสิ่งมีชีวิต) @17-10-2024 11:17:42@ @21-10-2025 15:29:42@
+genocido {JUR} การฆ่าล้างเผ่าพันธ์ = gentomurdo @17-10-2024 11:41:57@ @21-10-2025 15:30:30@
+genro 1. {GRA} ลิงก์, 2. {LIN} เพศ, 3. {BOT} {ZOO} เพศ, 4. {POL} เพศ; aĵgenro/neŭtra genro {GRA} นปุงสกลิงค์, ไม่ระบุเพศ, เพศของสิ่งของ; ingenro/ina genro {GRA} อิตถีลิงค์, เพศหญิง; ulgenro {GRA} เพศของคน; virgenro/vira genro{GRA} ปุงลิงค์, เพศชาย; cisgenra เพศโดยกำเนิด; cisgenrulo ผู้ที่มีเพศโดยกำเนิด; transgenra {GRA} เพศไม่โดยกำเนิด; transulgenro {GRA} ผู้ที่มีเพศไม่เหมือนตอนเกิด @17-10-2024 11:41:57@ @21-10-2025 15:33:30@
+geologio 1. {GEOL} {SCI} ธรณีวิทยา, 2. ความรู้ทางด้านธรณีวิทยา; geologiisto {GEOL} นักธรณีวิทยา @17-10-2024 11:41:57@ @21-10-2025 15:34:41@
+geometrio 1. {MAT} เรขาคณิต, 2. {TEK} รูปทรงเรขาคณิต; geometria {MAT} เกี่ยวกับเรขาคณิต: //geometria figuro รูปทรงเรขาคณิต//; geometriisto นักเรขาคณิต; analitika geometrio {MAT} เรขาคณิตวิเคราะห์ @17-10-2024 11:41:57@ @21-10-2025 15:36:39@
+gerilo {MIL} สงครามกองโจร = ĉikanmilito; gerilano {MIL} ทหารกองโจร; gerilano {MIL} สมาชิกกองโจร @17-10-2024 11:47:48@ @21-10-2025 16:06:00@
+gerontologio {SCI} {MED} ชราภาพวิทยา, พฤฒาวิทยา @17-10-2024 11:50:41@ @21-10-2025 15:49:33@
+geto ชุมชนแออัดของชาวยิว @17-10-2024 11:50:41@ @21-10-2025 16:08:37@
+gibono {ZOO} ชะนี IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gibbon_collage.png/200px-Gibbon_collage.png] @17-10-2024 11:50:41@ @21-10-2025 16:09:26@
+gimnasto {SPO} นักกีฬายิมนาสติก = gimnastikisto; gimnastejo {SPO} ยิมเนเซียม, ยิม = gimnastikejo; gimnastilo {SPO} อุปกรณ์ยิมนาสติก = gimnastikilo @27-10-2024 22:17:25@ @21-10-2025 16:10:09@
+gimnastiko {SPO} ยิมนาสติก, กายบริหาร; gimnastiki //(ntr)// กายบริหารแบบยิมนาสติก; gimnastikejo {SPO} ยิมเนเซียม, ยิม; gimnastikilo {SPO} อุปกรณ์ยิมนาสติก; gimnastikisto  {SPO} นักกีฬายิมนาสติก @27-10-2024 22:17:25@ @21-10-2025 16:10:33@
+gimnazio โรงเรียนมัธยมศึกษาแบบ //Gymnasium// >> liceo; gimnaziano นักเรียนโรงเรียนมัธยมศึกษาแบบ //Gymnasium// @27-10-2024 22:17:25@@21-10-2025 16:11:02@
+ginekologio {MED} นรีเวชศาสตร์, นรีเวชวิทยา, วิทยาเพศหญิง; ginekologiisto {MED} แพทย์ทางนรีเวชศาสตร์ = ginekologo @27-10-2024 22:36:25@ @21-10-2025 16:12:53@
+ginekologo {MED} แพทย์ทางนรีเวชศาสตร์ @27-10-2024 22:36:25@ @21-10-2025 16:14:47@
+gingivo {ANA} เหงือก = dentokarno @27-10-2024 22:36:25@ @21-10-2025 16:15:09@
+gipso {KON} ปูนปลาสเตอร์; gipsoŝtono {MIN} ยิปซัม, เกลือจืด; gipsa จากปูนปลาสเตอร์; gipsi/gipsumi //(tr) ฉาบด้วยปูนปลาสเตอร์, ผสมกับปูนปลาสเตอร์; gipsaĵo สิ่งที่ผสมกับปูนปลาสเตอร์ @27-10-2024 22:36:25@ @21-10-2025 16:21:33@
+gisi  //(tr)// {TEK} 1. หล่อ, 2. //(evitinde)// //(malofte)// หลอม = elfandi; gisado การหล่อ; gisaĵo 1. สิ่งของที่หล่อขึ้นมา, 2. เหล็กหล่อ = gisfero; gisisto {TEK} 1. ช่างหล่อ, 2. ช่างหลอม; gisfero เหล็กหล่อ; gisfera เกี่ยวกับเหล็กหล่อ; giso 1 การหล่อ = gisado, 2. สิ่งที่หล่อขึ้นมา = gisaĵo, 3. เหล็กหล่อ = gisfero @28-10-2024 22:24:13@ @21-10-2025 16:28:39@
+gisto 1. {KUI} ยีสต์, 2. {BAK} เชื้อหมัก, ยีสต์; biergisto {BAK} ยีสต์หมักเบียร์ @28-10-2024 22:40:15@ @21-10-2025 16:29:54@
+gitaro {MUZ} กีตาร์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Spanish_guitar.jpg/200px-Spanish_guitar.jpg] @28-10-2024 22:40:15@ @21-10-2025 16:31:04@
+glacea มันเงา, มันวาว; glaceigi //(tr)// ขัดเงา; glaceiĝi //(ntr)// มันเงา, มันวาว; malglacea ผิวด้าน @28-10-2024 22:40:15@ @21-10-2025 16:32:22@
 glano {BOT} ผลลูกโอ๊ก, {ANA} ส่วนหัวอวัยะเพศชาย, ส่วนหัวของปุ่มกระสัน; glaningo บริเวณส่วนหัวของผลลูกโอ๊ก; marglano {ZOO} เพรียงทะเล = balano @28-10-2024 22:40:15@
 glazuro {TEK} เคลือบ (หม้อ, เซรามิก), {KUI} เคลือบน้ำตาล; glazuri //(tr)// เคลือบ @28-10-2024 22:43:06@
 glisi //(ntr)// ร่อน; glisilo {AVI} เครื่องร่อน @29-10-2024 20:17:02@
