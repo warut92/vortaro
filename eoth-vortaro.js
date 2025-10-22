@@ -5630,5 +5630,6 @@ vasalo 1. {HIS} ผู้ที่ได้รับศักดินา = feŭ
 elektrizi 1. {TEK} ติดตั้งไฟฟ้า, 2. {ELE} ปล่อยกระแสไฟฟ้า = elektrumi; elektriz(ad)o {ELE} {TEK} การติดตั้งไฟฟ้า, การปล่อยกระแสไฟฟ้า; elektriz(ad)a {ELE} {TEK} เกี่ยวกับการไฟฟ้า @23-09-2025 17:53:59@
 tandemo 1. จักรยานแทนเดม, จักรยานสองตอน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tandem-bike.jpg/100px-Tandem-bike.jpg], รถลากที่ใช้สัตว์ 2 ตัว, 2. พาหนะที่มี 2 เครื่องยนต์, 3. //(f)// คู่หูร่วมงาน @13-10-2025 16:06:33@
 solano {BOT} พืชตระกูลมะเขือ @14-10-2025 19:43:52@
+devanci //(tr)// มาถึงก่อน = antaŭiri; maldevanci //(tr)// ตามมาทีหลัง = postresti @22-10-2025 10:49:30@
 >. 
 `
