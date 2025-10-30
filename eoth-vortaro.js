@@ -505,7 +505,7 @@ doto [9] สินสอด
 dramo [8] ละคร, ดราม่า
 drapo [8] ผ้าขนสัตว์
 dresi [9] //(tr)// ฝึก (สัตว์)
-drinki [x] //(ntr)// ดื่มสุรา → trinki; drinkemulo [w] คนขี้เมา, นักดื่มสุรา
+drinki [x] //(ntr)// ดื่มสุรา → trinki; drinkaĵo เครื่องดื่มมึนเมา, สุรา; drinkejo ร้านเหล้า, พับ, บาร์; drinkejisto บาร์เทนเดอร์; drinkemulo/drinkulo  [w] คนขี้เมา, นักดื่มสุรา; fordrinki //(tr)// ดื่มจนเมา @30-10-2025 21:53:03@
 drogo [x] ยา; drogaĉo [w] ยาเสพติด; drogdependulo/drogmaniulo [w] คนติดยา
 droni [7] //(ntr)// จมน้ำตาย
 du [2] สอง; dua [w] ที่สอง; duobla [w] สองเท่า; duono [w] ครึ่ง; duuma {MAT} {KOMP} ฐานสอง @27-03-2024 13:24:25@
@@ -2556,7 +2556,7 @@ tribo [x] ชนเผ่า → gento
 tribunalo [8] ศาลยุติธรรม
 triki [9] //(tr)// ถัก (นิตติ้ง); trikilo [w] เข็มนิตติ้ง
 trikoto [8] เสื้อถักนิตติ้ง
-trinki {UL} [3] //(tr)// ดื่ม; trinkaĵo [w] เครื่องดื่ม; trinkejo [w] ร้านเหล้า, บาร์
+trinki {UL} [3] //(tr)// ดื่ม, 1. ดื่ม, 2. //(f)// ดื่มด่ำ; trinkaĵo [w] เครื่องดื่ม; trinkejo [w] ร้านเหล้า, บาร์, พับ; trinkujo ภาชนะใช้ดื่ม,  แก้ว, เหยือก; eltrinki ดื่มจนหมดแก้ว; sattrinki ดื่มจนพอ, ดื่มจนอิ่ม; trinkvazo เหยือก = trinkujo @30-10-2025 21:59:09@
 tritiko [7] {BOT} ข้าวสาลี
 triumfo [x] ชัยชนะ
 tro {UL} [1] //(adv)// มากเกินไป; troigo [w] สิ่งเกินจริง
@@ -5633,5 +5633,7 @@ solano {BOT} พืชตระกูลมะเขือ @14-10-2025 19:43:52@
 devanci //(tr)// มาถึงก่อน = antaŭiri; maldevanci //(tr)// ตามมาทีหลัง = postresti @22-10-2025 10:49:30@
 faktoto //(PIV)// แรงงานที่ทำทุกอย่างทำที่สั่ง @25-10-2025 16:19:01@
 laminario {BOT} สาหร่ายทะเลคมบุ @25-10-2025 16:20:08@
+mulo 1. ล่อ (ลูกจากลาตัวผู้กับม้าตัวเมีย), 2. ล่อ (ลูกม้าตัวผู้กับลาตัวเมีย) = hino @30-10-2025 21:44:59@
+demoralizi //(tr)// //(malofte)// ทำให้หมดกำลังใจ, ทำให้หมดความกระตือรือล้น; demoralizo //(malofte)// การทำให้หมดกำลังใจ @30-10-2025 21:47:32@
 >. 
 `
