@@ -3171,13 +3171,13 @@ di- //(PIV)// {KEM} ได- //เช่น dioksido ไดออกไซด์/
 diabeto {MED} โรคเบาหวาน @12-10-2024 13:11:26@ @29-12-2025 08:52:21@
 diafana {FOT} โปร่งแสง, มัว; maldiafana {FOT} ไม่โปร่งแสง, ทึบแสง @12-10-2024 13:13:37@ @29-12-2025 09:04:38@
 diagnozo {MED} การวินิจฉัย, การตรวจโรค; diagnozi //(tr)// วินิจฉัยโรค, ตรวจโรค @12-10-2024 13:15:06@ @29-12-2025 09:05:03@
-diagonalo {MAT} เส้นทแยงมุน; diagonala {MAT} ทแยงมุม @12-10-2024 13:16:36@
-diagramo {SCI} แผนภาพ, แผนภูมิ @12-10-2024 13:17:08@
-dialekto {LIN} ภาษาถิ่น, ภาษาพื้นเมือง; etna dialekto {LIN} ภาษาชาติพันธุ์; regiona dialekto {LIN} ภาษาถิ่น; socia dialekto ภาษาถิ่น; disdialektiĝi {LIN} เกิดเป็นภาษาถิ่น @12-10-2024 13:22:32@
-diametro {MAT} เส้นผ่าศูนย์กลาง @12-10-2024 13:23:15@
-diapozitivo {FOT} ภาพบนฟิล์มสไลด์ @12-10-2024 13:26:45@
-diareo {MED} โรคท้องเสีย, โรคท้องร่วง = lakso @12-10-2024 13:26:45@
-diasporo ชาวยิวพลัดถิ่น, //(komune)// พลัดถิ่น @12-10-2024 13:27:57@
+diagonalo {MAT} 1. เส้นทแยงมุน, 2. เมทริกซ์ทแยงมุม; diagonala {MAT} ทแยงมุม; diagonaligebla {MAT} [?] @12-10-2024 13:16:36@ @29-12-2025 18:21:17@
+diagramo {SCI} แผนภาพ, แผนภูมิ; arediagramo/areodiagramo/area diagramo แผนภูมิพื้นที่ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/De_wanderung.svg/100px-De_wanderung.svg.png]; bretdiagramo/bastona diagramo แผนภูมิแท่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2010_homicide_rates_-_gun_PLUS_non-gun_-_high-income_countries.png/100px-2010_homicide_rates_-_gun_PLUS_non-gun_-_high-income_countries.png]; kolumnodiagramo/kolumna diagramo แผนภูมิคอลัมน์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Personal_pronouns2.jpg/100px-Personal_pronouns2.jpg]; linidiagramo/liniodiagramo/linia diagramo แผนภูมิเส้น IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ScientificGraphSpeedVsTime.svg/100px-ScientificGraphSpeedVsTime.svg.png]; sektordiagramo/sektora diagramo/tortodiagramo แผนภูมิรูปวงกลม IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/English_dialects1997.svg/100px-English_dialects1997.svg.png] @12-10-2024 13:17:08@ @29-12-2025 18:27:56@
+dialekto {LIN} ภาษาถิ่น, ภาษาพื้นเมือง; etna dialekto {LIN} ภาษาชาติพันธุ์; regiona dialekto {LIN} ภาษาถิ่น; socia dialekto ภาษาถิ่น; disdialektiĝi {LIN} เกิดเป็นภาษาถิ่น @12-10-2024 13:22:32@ @29-12-2025 18:28:26@
+diametro {MAT} 1. เส้นผ่าศูนย์กลาง, 2. เส้นผ่านกลาง @12-10-2024 13:23:15@ @29-12-2025 18:51:59@
+diapozitivo {FOT} ภาพบนฟิล์มสไลด์ @12-10-2024 13:26:45@ @29-12-2025 18:52:56@
+diareo {MED} โรคท้องเสีย, โรคท้องร่วง = lakso @12-10-2024 13:26:45@ @29-12-2025 18:53:11@
+diasporo 1. ชาวยิวพลัดถิ่น, 2. //(komune)// พลัดถิ่น @12-10-2024 13:27:57@ @29-12-2025 18:53:48@
 diboĉi //(ntr)// เสเพล, หมกมุ่นทางเพศ; diboĉo ความเสเพล, ความหมกมุ่นทางเพศ; diboĉa เสเพล, หมกมุ่นทางเพศ; diboaĵo สิ่งเสเพล, สิ่งมอมเมา; diboĉulo คนเสเพล; diboĉigi ชักชวนเสเพล; fordiboĉi/tradiboĉi หมดตัวเนื่องจากการเสเพล; diboĉejo แหล่งมั่วสุ่ม @12-10-2024 17:34:11@
 didaktiko {PED} ศาสตร์ของการสอน, วิธีวิทยาการสอน >> pedagogio; didaktika เกี่ยวกับการสอน @12-10-2024 17:36:49@
 dieso {MUZ} เครื่องหมายชาร์ป (สูงขึ้นมาครึ่งเสียง) (♯): //F diesa ฟาชาร์ป// >> bemolo @12-10-2024 17:38:32@
