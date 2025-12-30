@@ -3188,16 +3188,16 @@ digo {MAR} เขื่อน, พนัง; digi/endigigi //(tr)// 1. {MAR} ก
 diktafono เครื่องบันทึกเสียงขนาดเล็ก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dictaphone_cylinder_machine.jpg/100px-Dictaphone_cylinder_machine.jpg] @12-10-2024 17:59:21@ @30-12-2025 10:53:39@
 diktatoro {POL} ผู้นำเผด็จการ; diktatora เกี่ยวกับเผด็จการ; diktatoreco ความเป็นเผด็จการ; diktatorema อย่างเผด็จการ @12-10-2024 18:03:13@ @30-12-2025 10:54:02@
 dilati //(tr)// {FIZ} {MED} ขยาย; dilato {FIZ} การขยายตัว; dilatiĝi ขยายตัว; dilatanto {ANA} กล้ามเนื้อเยียด; dilatilo {MED} เครื่องมือขยายทางการแพทย์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lithotomy_dilator_with_fenestrated_blades%2C_16th_century_type._Wellcome_L0011385.jpg/100px-Lithotomy_dilator_with_fenestrated_blades%2C_16th_century_type._Wellcome_L0011385.jpg] @12-10-2024 18:18:13@ @30-12-2025 10:56:35@
-dilemo 1. ภาวะที่กลืนไม่เข้าคายไม่ออก, 2. จนมุม, สภาวะลำบากใจ, 3. {PSI} ภาวะเข้าตาจน [?] @12-10-2024 18:21:59@@30-12-2025 11:00:55@
-diletanto ผู้รู้อย่างผิวเผิน, ผู้รักศิลปะ, มือสมัครเล่น; diletanta มือสมัครเล่น; diletanteco/diletantismo แนวมือสมัครเล่น @12-10-2024 18:25:00@
-dilui {FIZ} {KEM} //(tr)// ทำให้เจือจาง; diluiĝi เจือจาง; maldilui เข้มข้น @12-10-2024 18:26:51@
-diluvo น้ำท่วมใหญ่ = inundego @12-10-2024 18:31:24@
-diminutivo {GRA} คำที่ลงท้ายด้วยพยางค์ที่บ่งชี้ถึงความเล็กลงจากเดิม ในภาษาเอสเปรันโตคือ „-et“ ;maldiminutivo {GRA} คำที่ลงท้ายด้วยพยางค์ที่บ่งชี้ถึงความใหญ่ขึ้นจากเดิม ในภาษาเอสเปรันโตคือ „-eg“  @12-10-2024 21:47:33@
-dinamo {TEK} {ELE} ไดนาโม @12-10-2024 21:48:24@
-dinastio {POL} ราชวงศ์ @12-10-2024 21:48:49@
-dinosaŭro {PAL} ไดโนเสาร์; Dinosaŭroj {PAL} สัตว์ในอันดับใหญ่ Dinosauria @12-10-2024 21:51:50@
-diplomato {POL} นักการทูต; diplomata การทูต @12-10-2024 21:53:14@
-diplomatio {POL} การทูต, คณะทูต; diplomatia เกี่ยวกับการทูต; diplomatiisto นักการทูต = diplomato @12-10-2024 21:55:51@
+dilemo 1. ภาวะที่กลืนไม่เข้าคายไม่ออก, 2. จนมุม, สภาวะลำบากใจ, 3. {PSI} ภาวะเข้าตาจน [?] @12-10-2024 18:21:59@ @30-12-2025 11:00:55@
+diletanto ผู้รู้อย่างผิวเผิน, ผู้รักศิลปะ, มือสมัครเล่น; diletanta มือสมัครเล่น; diletanteco/diletantismo แนวมือสมัครเล่น @12-10-2024 18:25:00@ @30-12-2025 20:49:17@
+dilui {FIZ} {KEM} //(tr)// ทำให้เจือจาง; diluiĝi //(ntr)// เจือจาง; maldilui //(tr)// เข้มข้น @12-10-2024 18:26:51@ @30-12-2025 20:50:43@
+diluvo น้ำท่วมใหญ่ = inundego @12-10-2024 18:31:24@ @30-12-2025 20:52:07@
+diminutivo {GRA} คำที่ลงท้ายด้วยพยางค์ที่บ่งชี้ถึงความเล็กลงจากเดิม //ในภาษาเอสเปรันโตคือ „-et“// ;maldiminutivo {GRA} คำที่ลงท้ายด้วยพยางค์ที่บ่งชี้ถึงความใหญ่ขึ้นจากเดิม //ในภาษาเอสเปรันโตคือ „-eg“//  @12-10-2024 21:47:33@ @30-12-2025 20:53:13@
+dinamo {TEK} {ELE} ไดนาโม @12-10-2024 21:48:24@ @30-12-2025 20:57:07@
+dinastio {POL} ราชวงศ์ @12-10-2024 21:48:49@ @30-12-2025 20:58:07@
+dinosaŭro {PAL} {ZOO} ไดโนเสาร์; dinosaŭroj {PAL}  {ZOO} สัตว์ในอันดับใหญ่ Dinosauria @12-10-2024 21:51:50@ @30-12-2025 20:59:41@
+diplomato {POL} นักการทูต; diplomata 1. การทูต, 2. //(f)// อย่างนักการทูต @12-10-2024 21:53:14@ @30-12-2025 21:03:51@
+diplomatio {POL} 1. การทูต, 2. คณะทูต; diplomatia เกี่ยวกับการทูต; diplomatiisto นักการทูต = diplomato @12-10-2024 21:55:51@ @30-12-2025 21:05:55@
 diplomo ประกาศนียบัตร, อนุปริญญา; diplomi //(tr)// รับประกาศนียบัตร; diplomito ผู้ที่จบการศึกษาประกาศนียบัตร @12-10-2024 21:59:01@
 direktivo คำสั่ง @12-10-2024 22:11:04@
 dirigento {MUZ} ผู้อำนวยเพลง, วาทยากร
