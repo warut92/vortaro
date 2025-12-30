@@ -3178,17 +3178,17 @@ diametro {MAT} 1. เส้นผ่าศูนย์กลาง, 2. เส้
 diapozitivo {FOT} ภาพบนฟิล์มสไลด์ @12-10-2024 13:26:45@ @29-12-2025 18:52:56@
 diareo {MED} โรคท้องเสีย, โรคท้องร่วง = lakso @12-10-2024 13:26:45@ @29-12-2025 18:53:11@
 diasporo 1. ชาวยิวพลัดถิ่น, 2. //(komune)// พลัดถิ่น @12-10-2024 13:27:57@ @29-12-2025 18:53:48@
-diboĉi //(ntr)// เสเพล, หมกมุ่นทางเพศ; diboĉo ความเสเพล, ความหมกมุ่นทางเพศ; diboĉa เสเพล, หมกมุ่นทางเพศ; diboaĵo สิ่งเสเพล, สิ่งมอมเมา; diboĉulo คนเสเพล; diboĉigi ชักชวนเสเพล; fordiboĉi/tradiboĉi หมดตัวเนื่องจากการเสเพล; diboĉejo แหล่งมั่วสุ่ม @12-10-2024 17:34:11@
-didaktiko {PED} ศาสตร์ของการสอน, วิธีวิทยาการสอน >> pedagogio; didaktika เกี่ยวกับการสอน @12-10-2024 17:36:49@
-dieso {MUZ} เครื่องหมายชาร์ป (สูงขึ้นมาครึ่งเสียง) (♯): //F diesa ฟาชาร์ป// >> bemolo @12-10-2024 17:38:32@
-difterito/difterio {MED} ไข้คอตีบ @12-10-2024 17:41:31@
-diftongo {FON} สระประสมสองเสียง, สระเสียงควบ @12-10-2024 17:41:31@
-difuzi {FIZ} {KEM} //(ntr)// กระจาย, แผ่กระจาย, แพร่กระจาย; difuzo การกระจาย; การแผ่กระจาย, การแพร่กระจาย; difuzilo ดิฟฟิวเซอร์, ตัวกระจายน้ำมันหอมระเหย, อุปกรณ์สำหรับกระจายความร้อน อากาศ หรือแก๊ส @12-10-2024 17:52:53@
-digo {MAR} เขื่อน, พนัง; digi/endigi //(tr)// กั้นด้วยเขื่อน, //(f)// ชลอ, หยุด @12-10-2024 17:56:51@
-diktafono เครื่องบันทึกเสียงขนาดเล็ก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dictaphone_cylinder_machine.jpg/100px-Dictaphone_cylinder_machine.jpg] @12-10-2024 17:59:21@
-diktatoro {POL} ผู้นำเผด็จการ; diktatora เกี่ยวกับเผด็จการ; diktatoreco ความเป็นเผด็จการ; diktatorema อย่างเผด็จการ @12-10-2024 18:03:13@
-dilati {FIZ} {MED} //(tr)// ขยายตัว, ขยาย; dilato {FIZ} การขยายตัว; dilatiĝi ขยายตัว; dilatanto {ANA} กล้ามเนื้อเยียด; dilatilo {MED} เครื่องมือขยาย IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lithotomy_dilator_with_fenestrated_blades%2C_16th_century_type._Wellcome_L0011385.jpg/100px-Lithotomy_dilator_with_fenestrated_blades%2C_16th_century_type._Wellcome_L0011385.jpg] @12-10-2024 18:18:13@
-dilemo ภาวะที่กลืนไม่เข้าคายไม่ออก, สภาวะลำบากใจ @12-10-2024 18:21:59@
+diboĉi //(ntr)// เสเพล, หมกมุ่นทางเพศ; diboĉo ความเสเพล, ความหมกมุ่นทางเพศ; diboĉa เสเพล, หมกมุ่นทางเพศ; diboaĵo สิ่งเสเพล, สิ่งมอมเมา; diboĉema เสเพล, หมกมุ่นเสเพล; diboĉulo คนเสเพล; diboĉigi ชักชวนเสเพล; fordiboĉi/tradiboĉi หมดตัวเนื่องจากการเสเพล; diboĉejo แหล่งมั่วสุ่ม @12-10-2024 17:34:11@ @30-12-2025 08:45:05@
+didaktiko {PED} ศาสตร์ของการสอน, วิธีวิทยาการสอน >> pedagogio; didaktika เกี่ยวกับการสอน @12-10-2024 17:36:49@ @30-12-2025 08:45:21@
+dieso 1. {MUZ} {TIP} เครื่องหมายชาร์ป (สูงขึ้นมาครึ่งเสียง) (♯): //F diesa ฟาชาร์ป// >> bemolo, เครื่องหมายสี่เหลี่ยม, 2. {KOMP} เครื่องหมายชาร์ป @12-10-2024 17:38:32@ @30-12-2025 08:47:16@
+difterito/difterio {MED} ไข้คอตีบ @12-10-2024 17:41:31@ @30-12-2025 08:49:33@
+diftongo {FON} สระประสมสองเสียง, สระเสียงควบ @12-10-2024 17:41:31@ @30-12-2025 10:51:53@
+difuzi {FIZ} {KEM} //(ntr)// กระจาย, แผ่กระจาย, แพร่กระจาย; difuzo การกระจาย; การแผ่กระจาย, การแพร่กระจาย; difuzilo ดิฟฟิวเซอร์, ตัวกระจายน้ำมันหอมระเหย, อุปกรณ์สำหรับกระจายความร้อน อากาศ หรือแก๊ส @12-10-2024 17:52:53@ @30-12-2025 10:52:14@
+digo {MAR} เขื่อน, พนัง; digi/endigigi //(tr)// 1. {MAR} กั้นด้วยเขื่อน, 2. //(f)// ชลอ, หยุด @12-10-2024 17:56:51@ @30-12-2025 10:53:06@
+diktafono เครื่องบันทึกเสียงขนาดเล็ก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dictaphone_cylinder_machine.jpg/100px-Dictaphone_cylinder_machine.jpg] @12-10-2024 17:59:21@ @30-12-2025 10:53:39@
+diktatoro {POL} ผู้นำเผด็จการ; diktatora เกี่ยวกับเผด็จการ; diktatoreco ความเป็นเผด็จการ; diktatorema อย่างเผด็จการ @12-10-2024 18:03:13@ @30-12-2025 10:54:02@
+dilati //(tr)// {FIZ} {MED} ขยาย; dilato {FIZ} การขยายตัว; dilatiĝi ขยายตัว; dilatanto {ANA} กล้ามเนื้อเยียด; dilatilo {MED} เครื่องมือขยายทางการแพทย์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lithotomy_dilator_with_fenestrated_blades%2C_16th_century_type._Wellcome_L0011385.jpg/100px-Lithotomy_dilator_with_fenestrated_blades%2C_16th_century_type._Wellcome_L0011385.jpg] @12-10-2024 18:18:13@ @30-12-2025 10:56:35@
+dilemo 1. ภาวะที่กลืนไม่เข้าคายไม่ออก, 2. จนมุม, สภาวะลำบากใจ, 3. {PSI} ภาวะเข้าตาจน [?] @12-10-2024 18:21:59@@30-12-2025 11:00:55@
 diletanto ผู้รู้อย่างผิวเผิน, ผู้รักศิลปะ, มือสมัครเล่น; diletanta มือสมัครเล่น; diletanteco/diletantismo แนวมือสมัครเล่น @12-10-2024 18:25:00@
 dilui {FIZ} {KEM} //(tr)// ทำให้เจือจาง; diluiĝi เจือจาง; maldilui เข้มข้น @12-10-2024 18:26:51@
 diluvo น้ำท่วมใหญ่ = inundego @12-10-2024 18:31:24@
