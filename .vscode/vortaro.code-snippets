@@ -7,25 +7,21 @@
 	// Placeholders with the same ids are connected.
 	// Example:
   "transitiva": {
-		"scope": "javascript,typescript",
 		"prefix": "/tr",
 		"body": "//(tr)//",
 		"description": "transitiva"
 	},
   "netransitiva": {
-		"scope": "javascript,typescript",
 		"prefix": "/ntr",
 		"body": "//(ntr)//",
 		"description": "netransitiva"
 	},
   "x": {
-		"scope": "javascript,typescript",
 		"prefix": "/x",
 		"body": "//(x)//",
 		"description": "transitiva kaj netransitiva"
 	},
 	"figure": {
-		"scope": "javascript,typescript",
 		"prefix": "/f",
 		"body": "//(f)//",
 		"description": "figure"
@@ -499,19 +495,16 @@
     "description": "คำศัพท์ที่เกี่ยวกับประเทศไทย"
   },
   "PIV": {
-		"scope": "javascript,typescript",
 		"prefix": "/piv",
 		"body": "//(PIV)//",
 		"description": "de PIV"
 	},
   "ReVo": {
-		"scope": "javascript,typescript",
 		"prefix": "/revo",
 		"body": "//(ReVo)//",
 		"description": "de Reta Vortaro"
 	},   
   "Vikipedio": {
-		"scope": "javascript,typescript",
 		"prefix": "/viki",
 		"body": "//(Viki)//",
 		"description": "de Vikipedio"
