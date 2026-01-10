@@ -17,7 +17,7 @@ function viduFontojn() {
     elektitaVorto = elektitaVorto.substring(0, elektitaVorto.length - 1)
   }
   console.log(elektitaVorto);
-  document.getElementById('aliaj-fontoj').innerHTML = "vidu :<i>“" + elektitaVorto + "”</i> en <a class=\"blanko\" href=\"https://reta-vortaro.de/revo/dlg/index-2m.html?q=" + elektitaVorto + "\" target=\"_blank\">ReVo</a>, <a class=\"blanko\" href=\"https://vortaro.net/#" + elektitaVorto + "\" target=\"_blank\">PIV</a>" + ", <a class=\"blanko\" href=\"https://eo.wikipedia.org/wiki/" + elektitaVorto + "\" target=\"_blank\">Vikipedio</a>";
+  document.getElementById('aliaj-fontoj').innerHTML = "vidu :<i>“" + elektitaVorto + "”</i> en <a class=\"blanko\" href=\"https://reta-vortaro.de/revo/dlg/index-2m.html?q=" + elektitaVorto + "\" target=\"_blank\">ReVo</a>, <a class=\"blanko\" href=\"https://vortaro.net/#" + elektitaVorto + "\" target=\"_blank\">PIV</a>" + ", <a class=\"blanko\" href=\"https://eo.wikipedia.org/wiki/" + elektitaVorto + "\" target=\"_blank\">Vikipedio</a>" + ", <a class=\"blanko\" href=\"https://dict.longdo.com/mobile.php?search=" + elektitaVorto + "\" target=\"_blank\">LongdoDict</a>" + ", <a class=\"blanko\" href=\"https://th.wikipedia.org/wiki/" + elektitaVorto + "\" target=\"_blank\">สารานุกรมเสรี</a>";
   if (elektitaVorto === "") {
     document.getElementById('aliaj-fontoj').innerHTML = ""
   }

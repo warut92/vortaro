@@ -215,7 +215,7 @@ function sercxi() {
           img.outerHTML = wrapped;
         }
       });  
-    } else document.getElementById("eligo").innerHTML = "<hr>" + "ไม่พบคำค้นหา" + "<br> โปรดค้นหา :<i>“" + str_sxablono + "”</i> ที่ <a href=\"https://www.reta-vortaro.de/revo/dlg/index-2l.html?q=" + str_sxablono + "\" target=\"_blank\">ReVo</a>, <a href=\"https://vortaro.net/#" + str_sxablono + "\" target=\"_blank\">PIV</a>, " + "<a href=\"https://eo.wikipedia.org/wiki/" + str_sxablono + "\" target=\"_blank\">Vikipedio</a>";
+    } else document.getElementById("eligo").innerHTML = "<hr>" + "ไม่พบคำค้นหา" + "<br> โปรดค้นหา :<i>“" + str_sxablono + "”</i> ที่ <a href=\"https://www.reta-vortaro.de/revo/dlg/index-2l.html?q=" + str_sxablono + "\" target=\"_blank\">ReVo</a>, <a href=\"https://vortaro.net/#" + str_sxablono + "\" target=\"_blank\">PIV</a>, " + "<a href=\"https://eo.wikipedia.org/wiki/" + str_sxablono + "\" target=\"_blank\">Vikipedio</a>" + ", <a class=\"blanko\" href=\"https://dict.longdo.com/mobile.php?search=" + str_sxablono + "\" target=\"_blank\">LongdoDict</a>" + ", <a class=\"blanko\" href=\"https://th.wikipedia.org/wiki/" + str_sxablono + "\" target=\"_blank\">สารานุกรมเสรี</a>";
   } else {
     document.getElementById("eligo").innerHTML = "";
   }
