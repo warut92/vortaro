@@ -3368,18 +3368,18 @@ fizionomio 1. ลักษณะสีหน้าและท่าทีโด
 fjordo {GEOG} ฟยอร์ด, อ่าวลึกแคบที่มีหน้าผาสูง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lysefjorden_fjord.jpg/100px-Lysefjorden_fjord.jpg] @15-10-2024 07:55:24@ @07-01-2026 21:28:44@
 flako แอ่งน้ำเล็ก ๆ @15-10-2024 08:02:50@ @07-01-2026 21:29:36@
 flanelo {TEKS} ผ้าสักหลาดอ่อน @15-10-2024 08:03:44@ @07-01-2026 21:29:53@
-flanĝo {TEK} หน้าแปลน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flanschverbindung_Gasleitung.jpg/100px-Flanschverbindung_Gasleitung.jpg] @15-10-2024 08:09:43@
-flano {KUI} ขนมแป้งอบชนิดหนึ่งรูปร่างกลม IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flan_2.jpg/100px-Flan_2.jpg] @15-10-2024 08:09:43@
-flegmo การวางเฉย; flegma วางเฉย; flegmulo ผู้ที่วางเฉย @15-10-2024 09:21:09@
-fleksii {LIN} //(tr)// ผัน; fleksio {GRA} การผันคำ, การเปลี่ยนรูปคำ; fleksia {LIN} ผัน; fleksiaĵo {LIN} คำที่มีการผัน; fleksiebla{GRA} ผันได้; fleksiilo {LIN} ตัวลงท้ายหรือตัวอักษรไว้สำหรับการผัน; neeblfleksia/senfleksia {GRA} ผันไม่ได้ @15-10-2024 10:11:43@
-floko เกล็ดเล็ก ๆ (สิ่งที่เป็นชิ้นเล็ก ๆ ปลิวลมได้): //floko de neĝo เกล็ดหิมะ//, {KUI} เมล็ดธัญพืช @15-10-2024 10:15:58@
-floto {MIL} กองเรือรบ, {MAR} กองเรือ; aerofloto/aerfloto {AVI} ฝูงบิน @15-10-2024 10:18:03@
-folkloro {BELA} วัฒนธรรมพื้นบ้าน, คติชาวบ้าน; folklora เกี่ยวกับวัฒนธรรมพื้นบ้าน; folkloristo ผู้เชี่ยวชาญด้านวัฒธรรมพื้นบ้าน @15-10-2024 10:20:08@
-fonduo {KUI} ฟองดูว์ (น้ำจิ้มร้อน ๆ ทำด้วยเนยแข็งละลายผสมไวน์ ใช้จุ่มขนมปังชิ้นเล็ก ๆ) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fondue_dish.jpg/100px-Fondue_dish.jpg] @15-10-2024 10:23:02@
-fonduso {EKON} กองทุน >> fondaĵo @15-10-2024 10:23:02@
-fonemo {FON} หน่วยเสียง @15-10-2024 11:03:31@
-fonetika {FON} เกี่ยวกับสัทศาสตร์; fonetiko {FON} {LIN} สัทศาสตร์, ระบบเสียง @15-10-2024 11:03:31@
-forci {HOR} //(tr)// ปลูกในเรือนกระจก; forcejo {HOR} เรือนกระจก; forceja efiko {EKOL} {FIZ} ภาวะเรือนกระจก, ปรากฏการณ์เรือนกระจก @15-10-2024 11:06:20@
+flanĝo {TEK} หน้าแปลน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flanschverbindung_Gasleitung.jpg/100px-Flanschverbindung_Gasleitung.jpg] @15-10-2024 08:09:43@ @11-01-2026 17:34:53@
+flano {KUI} ขนมแป้งอบชนิดหนึ่งรูปร่างกลม IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flan_2.jpg/100px-Flan_2.jpg] @15-10-2024 08:09:43@ @11-01-2026 17:36:34@
+flegmo การวางเฉย; flegma วางเฉย; legme ด้วยการวางเฉย; flegmi วางเฉย; flegmulo ผู้ที่วางเฉย @15-10-2024 09:21:09@ @11-01-2026 17:37:48@
+fleksii {LIN} //(tr)// ผัน; fleksio 1. {GRA} การผันคำ, 2. การเปลี่ยนรูปคำ = fleksiilo; fleksia 1. {LIN} ผัน, 2. มีการผัน; fleksiaĵo {LIN} คำที่มีการผัน; fleksiebla{GRA} ผันได้; fleksiilo {LIN} ตัวลงท้ายหรือตัวอักษรไว้สำหรับการผัน; neeblfleksia/senfleksia {GRA} ผันไม่ได้ @15-10-2024 10:11:43@ @11-01-2026 17:40:55@
+floko 1. เกล็ดเล็ก ๆ (สิ่งที่เป็นชิ้นเล็ก ๆ ปลิวลมได้): //floko de neĝo เกล็ดหิมะ//, 2. {KUI} เมล็ดธัญพืช @15-10-2024 10:15:58@ @11-01-2026 17:44:03@
+floto 1. {MIL} กองเรือรบ, 2. {MAR} กองเรือ; aerofloto/aerfloto {AVI} ฝูงบิน @15-10-2024 10:18:03@ @11-01-2026 17:46:39@
+folkloro {BELA} วัฒนธรรมพื้นบ้าน, คติชาวบ้าน; folklora เกี่ยวกับวัฒนธรรมพื้นบ้าน; folkloristo ผู้เชี่ยวชาญด้านวัฒธรรมพื้นบ้าน @15-10-2024 10:20:08@ @11-01-2026 17:49:11@
+fonduo {KUI} ฟองดูว์ (น้ำจิ้มร้อน ๆ ทำด้วยเนยแข็งละลายผสมไวน์ ใช้จุ่มขนมปังชิ้นเล็ก ๆ) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fondue_dish.jpg/100px-Fondue_dish.jpg] @15-10-2024 10:23:02@ @11-01-2026 17:49:33@
+fonduso {EKON} กองทุน >> fondaĵo @15-10-2024 10:23:02@ @11-01-2026 17:50:11@
+fonemo {FON} หน่วยเสียง; fonemaro {FON} กลุ่มของหน่วยเสียง @15-10-2024 11:03:31@ @11-01-2026 17:52:39@
+fonetika 1. {FON} เกี่ยวกับสัทศาสตร์, 2. ตามระบบสัทศาสตร์; fonetiko 1. {FON} {LIN} สัทศาสตร์, การออกเสียง, 2. ระบบเสียง @15-10-2024 11:03:31@ @11-01-2026 18:02:29@
+forci //(tr)// 1. {HOR} ปลูกในเรือนกระจก, 2. ทำให้เหมาะสมที่สุด; forcejo {HOR} เรือนกระจก; forceja efiko {EKOL} {FIZ} ภาวะเรือนกระจก, ปรากฏการณ์เรือนกระจก @15-10-2024 11:06:20@ @11-01-2026 18:07:19@
 formato {TIP} {KIN} รูปแบบ, {KOMP} ฟอร์แมต @15-10-2024 11:40:38@
 forsto {HOR} ป่าไม้ที่ได้รับการอนุรักษ์ @15-10-2024 11:40:38@
 fortreso {ARKI} {MIT} ป้อมปราการ >> fortikaĵo @15-10-2024 11:40:38@
