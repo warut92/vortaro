@@ -3380,16 +3380,16 @@ fonduso {EKON} กองทุน >> fondaĵo @15-10-2024 10:23:02@ @11-01-2026 
 fonemo {FON} หน่วยเสียง; fonemaro {FON} กลุ่มของหน่วยเสียง @15-10-2024 11:03:31@ @11-01-2026 17:52:39@
 fonetika 1. {FON} เกี่ยวกับสัทศาสตร์, 2. ตามระบบสัทศาสตร์; fonetiko 1. {FON} {LIN} สัทศาสตร์, การออกเสียง, 2. ระบบเสียง @15-10-2024 11:03:31@ @11-01-2026 18:02:29@
 forci //(tr)// 1. {HOR} ปลูกในเรือนกระจก, 2. ทำให้เหมาะสมที่สุด; forcejo {HOR} เรือนกระจก; forceja efiko {EKOL} {FIZ} ภาวะเรือนกระจก, ปรากฏการณ์เรือนกระจก @15-10-2024 11:06:20@ @11-01-2026 18:07:19@
-formato {TIP} {KIN} รูปแบบ, {KOMP} ฟอร์แมต @15-10-2024 11:40:38@
-forsto {HOR} ป่าไม้ที่ได้รับการอนุรักษ์ @15-10-2024 11:40:38@
-fortreso {ARKI} {MIT} ป้อมปราการ >> fortikaĵo @15-10-2024 11:40:38@
-fortuno ความโชคดี, เคราะห์ดี, ดวงดี; Fortuno เทพีฟอร์ชูนา; fortuni //(ntr)// โชคดี, เคราะห์ดี, ดวงดี; misfortuno/malfortuno ความโชคร้าย, เคราะห์ร้าย, ดวงไม่ดี = malbonŝanco @15-10-2024 11:45:35@
-fosilio {MIN} ฟอซซิล; fosilia ฟอซซิล; fosiliiĝi กลายเป็นฟอซซิล @15-10-2024 17:12:10@
-fotografio {BELE} {BELA} การถ่ายภาพ = fotografarto @15-10-2024 17:12:10@
-fragmito {BOT} หญ้าจำพวกอ้อหรือกก (Phragmites) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Riet_Phragmites_australis_planten.jpg/100px-Riet_Phragmites_australis_planten.jpg] @15-10-2024 17:12:10@
-frakcio {MAT} เศษส่วน, {SCI} ส่วน, {POL} แผนก, กลุ่ม; frakcia เกี่ยวกับส่วน; frakciigi ทำให้แยกออกเป็นส่วน ๆ; frakciiĝi กลายเป็นส่วน ๆ @15-10-2024 17:16:39@
-framasono สมาชิกองค์กรฟรีเมสัน; framasonismo องค์กรฟรีเมสัน @15-10-2024 17:17:08@
-framo {TEK} โครงร่าง, ขอบข่ายงาน @15-10-2024 17:18:10@
+formato 1. {TIP} {KIN} รูปแบบ, 2. {KOMP} ฟอร์แมต @15-10-2024 11:40:38@ @24-01-2026 15:24:37@
+forsto {HOR} ป่าไม้ที่ได้รับการอนุรักษ์ @15-10-2024 11:40:38@ @24-01-2026 15:25:05@
+fortreso {ARKI} {MIT} ป้อมปราการ >> fortikaĵo @15-10-2024 11:40:38@ @24-01-2026 15:35:35@
+fortuno ความโชคดี, เคราะห์ดี, ดวงดี = bona sorto; Fortuno เทพีฟอร์ชูนา; fortuni //(ntr)// โชคดี, เคราะห์ดี, ดวงดี; misfortuno/malfortuno ความโชคร้าย, เคราะห์ร้าย, ดวงไม่ดี = malbonŝanco @15-10-2024 11:45:35@ @24-01-2026 15:36:15@
+fosilio {MIN} ฟอซซิล; fosilia ฟอซซิล; fosiliiĝi กลายเป็นฟอซซิล @15-10-2024 17:12:10@ @24-01-2026 15:36:53@
+fotografio {BELE} {BELA} 1. การถ่ายภาพ = fotografarto, 2. //(evitinde)// ภาพถ่าย = foto @15-10-2024 17:12:10@ @24-01-2026 15:37:41@
+fragmito {BOT} หญ้าจำพวกอ้อหรือกก (Phragmites) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Riet_Phragmites_australis_planten.jpg/100px-Riet_Phragmites_australis_planten.jpg]; fragmitejo กอต้นกก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schwielowsee-Schilfrohrguertel-01.jpg/100px-Schwielowsee-Schilfrohrguertel-01.jpg] @15-10-2024 17:12:10@ @24-01-2026 15:40:07@
+frakcio 1. {MAT} เศษส่วน, 2. {SCI} ส่วน, 3. {POL} แผนก, กลุ่ม; frakcia เกี่ยวกับส่วน; frakciigi //(tr)// ทำให้แยกออกเป็นส่วน ๆ; frakciiĝi //(ntr)// กลายเป็นส่วน ๆ; frakcistreko {KOMP} {MAT} เครื่องหมายทับแสดงเศษส่วน @15-10-2024 17:16:39@ @24-01-2026 15:43:25@
+framasono สมาชิกองค์กรฟรีเมสัน; framasonismo องค์กรฟรีเมสัน @15-10-2024 17:17:08@ @24-01-2026 15:43:42@
+framo 1. {TEK} โคร่งสร้าง, โครงร่าง, 2. //(f)// ขอบข่ายงาน @15-10-2024 17:18:10@ @24-01-2026 15:44:55@
 fraŭdi {JUR} {EKON} //(tr)// โกง, ฉ้อโกง, หลอกลวง; fraŭdo {EKON} การโกง, การฉ้อโกง, การหลอกลวง; fraŭdisto ผู้ที่อยู่ได้ด้วยการโกง; defraŭdi //(tr)// โกง, ฉ้อโกง, หลอกลวง @15-10-2024 17:50:19@
 frekventi //(tr)// เยี่ยมเยียนอย่างเป็นประจำ = vizitadi; frekventulo/frekventanto ผู้ที่มาเยี่ยมเยียนอย่างเป็นประจำ @15-10-2024 17:51:15@
 frida //(neologismo)// เย็น = malvarma; fridi //(ntr)// เย็น; frido ความเย็น = malvarmo; fridujo ตู้เย็น @15-10-2024 17:53:18@
