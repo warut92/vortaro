@@ -3031,30 +3031,30 @@ bluso {MUZ} เพลงบลูส์ @27-11-2024 21:52:53@ @22-02-2026 13:50:
 boardi //(ntr)// {MAR} ขับเรือซิกแซกไปมาเนื่องจากต้านลม @27-11-2024 22:21:39@ @22-02-2026 13:51:00@
 bobelo ฟอง = veziko; bobeli เป็นฟอง @27-11-2024 22:21:39@ @22-02-2026 13:51:54@
 bobeno 1. แกนม้วนเส้นด้าย, 2. {ELE} ขดลวด; bobenego {TEK} แกนม้วนเชือก; bobeni //(tr)// ม้วนใส่แกน; elbobenigi 1. เอาด้ายออกจากแกน, 2. //(f)// ทำตามลำดับความคิด; glitbobeno {TEKS} กระสวยเย็บผ้า = navedo; ludbobeno {SPO} โยโย่ @27-11-2024 22:21:39@ @13-03-2025 09:45:38@ @22-02-2026 13:53:38@
-bodio {BUD} โพธิญาณ; bodiarbo //(PIV)// ต้นโพธิ์ @27-11-2024 22:21:39@
-bodisatvo {BUD} พระโพธิสัตว์ @27-11-2024 22:21:39@
-bojkoti //(tr)// {EKON} คว่ำบาตร; bojkoto {EKON} การคว่ำบาตร @27-11-2024 22:23:09@
-bokalo ขวดโหล IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PreservedFood1.jpg/100px-PreservedFood1.jpg] @27-11-2024 22:24:49@
-boksi //(x)// ต่อยมวย, ชกมวย; bokso กีฬาต่อยมวย, การต่อยมวย, การชกมวย; taja boksado มวยไทย; boksisto นักมวย @01-12-2024 10:23:52@
-bolto {TEK} สลักเกลียว >> ŝraŭbo; bolti {TEK} //(tr)// ใส่สลักเกลียว; boltingo {TEK} น็อตตัวเมีย; malbolti {TEK} //(tr)// ขันสลักเกลียวออก @01-12-2024 10:34:24@
-bombardi {MIL} //(tr)// ระดมยิง, //(f)// ระดมเข้าใส่ @01-12-2024 10:36:30@
-bombasto คำพูดโอ้อวด, คำพูดเกินจริง @01-12-2024 10:37:43@
-Bonaero {GEOG} {POL} บัวโนสโอเรส (เมืองหลวงประเทศอาร์เจตินา) @01-12-2024 10:39:23@
-bordelo ซ่อง, ซ่องโสเภณี = malĉastejo, prostituejo, putinejo @01-12-2024 11:03:05@
-borderi {TEKS} //(tr)// เย็บริม, เย็บแต่งชายเสื้อ, ตกแต่งบริเวณริมข้างทาง; bordero ชายเสื้อผ้าที่มีการตกแต่ง; borderaĵo ชายเสื้อผ้าที่มีการตกแต่ง; refaldoborderi //(tr)// เย็บเก็บขอบ = orli @01-12-2024 11:11:29@
-Borneo/Kalimantano {GEOG} เกาะบอร์เนียว/เกาะกาลิมันตัน (เกาะที่ใหญ่ที่สุดในโลกที่เป็นที่ตั้งของประเทศอินโดนีเซีย มาเลเซียและบรูไน) @01-12-2024 11:13:28@
-bosko ต้นไม้ที่จัดเรียงไว้ในสวน @01-12-2024 11:15:29@
-botaniko {BOT} {SCI} พฤกษศาสตร์; botanika เกี่ยวกับพฤษศาสตร์: botanika ĝardeno สวนพฤกษศาสตร์; botanikisto นักพฤกษศาสตร์ @01-12-2024 11:17:25@
-braĝo ถ่าน; braĝujo เตาถ่าน @01-12-2024 11:22:24@
-brajli //(tr)// {MAR} กางใบเรือ @01-12-2024 11:26:36@
-Brajlo {TIP} {LIN} อักษรเบรลล์ @01-12-2024 11:26:36@
-bramano {HIN} พราหมณ์; bramanismo {HIN} ศาสนาพราหมณ์ @01-12-2024 11:26:36@
-brano รำ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/WheatBran.jpg/100px-WheatBran.jpg] @01-12-2024 11:26:36@
-brigado {MIL} กองพลน้อย, //(f)// คณะทำงานเพื่อสิ่งใดสิ่งหนึ่ง; fajrobrigado กองดับเพลิง; fajrobrigadisto นักดับเพลิง; fajrobrigadano การดับเพลิง @01-12-2024 11:29:59@
-broĉo เข็มกลัดประดับ, //(malofte)// เข็มกลัด = sendanĝera pinglo  IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Brooch.jpg/100px-Brooch.jpg] @01-12-2024 12:26:07@
-brodkasti //(malofte)// {RAD} {TELE} กระจายเสียง, เผยแพร่ออกอากาศ @01-12-2024 12:26:07@
-brogi //(tr)// {KUI} ลวก, ลวกน้ำร้อน; brogaĵo {KUI} น้ำร้อนสำหรับลวก @01-12-2024 12:26:07@
-brokolo {BOT} ผักบรอกโคลี @01-12-2024 12:26:07@
+bodio {BUD} โพธิญาณ; bodiarbo //(PIV)// ต้นโพธิ์ @27-11-2024 22:21:39@ @28-02-2026 10:41:54@
+bodisatvo {BUD} พระโพธิสัตว์ @27-11-2024 22:21:39@ @28-02-2026 10:42:11@
+bojkoti //(tr)// {EKON} คว่ำบาตร; bojkoto {EKON} การคว่ำบาตร @27-11-2024 22:23:09@ @28-02-2026 10:42:30@
+bokalo ขวดโหล IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PreservedFood1.jpg/100px-PreservedFood1.jpg] @27-11-2024 22:24:49@ @28-02-2026 10:43:14@
+boksi //(x)// ต่อยมวย, ชกมวย; bokso กีฬาต่อยมวย, การต่อยมวย, การชกมวย; angla bokso {SPO} มวยอังกฤษ; franca bokso {SPO} ซาวัต (มวยฝรั่งเศส); taja boksado มวยไทย; boksisto นักมวย @01-12-2024 10:23:52@ @28-02-2026 10:45:05@
+bolto {TEK} สลักเกลียว >> ŝraŭbo; bolti {TEK} //(tr)// ใส่สลักเกลียว; boltingo {TEK} น็อตตัวเมีย; malbolti {TEK} //(tr)// ขันสลักเกลียวออก @01-12-2024 10:34:24@ @28-02-2026 10:51:42@
+bombardi 1. {MIL} //(tr)// ระดมยิง, 2. //(f)// ระดมเข้าใส่ @01-12-2024 10:36:30@
+bombasto คำพูดโอ้อวด, คำพูดเกินจริง @01-12-2024 10:37:43@ @28-02-2026 10:52:50@
+Bonaero {GEOG} {POL} บัวโนสโอเรส (เมืองหลวงประเทศอาร์เจตินา) @01-12-2024 10:39:23@ @28-02-2026 10:52:54@
+bordelo ซ่อง, ซ่องโสเภณี = malĉastejo, prostituejo, putinejo @01-12-2024 11:03:05@ @28-02-2026 10:53:37@
+borderi {TEKS} //(tr)// 1. เย็บริม, เย็บแต่งชายเสื้อ, 2. ตกแต่งบริเวณริมข้างทาง; bordero {TEKS} ชายเสื้อผ้าที่มีการตกแต่ง; borderaĵo ชายเสื้อผ้าที่มีการตกแต่ง; refaldoborderi //(tr)// เย็บเก็บขอบ = orli @01-12-2024 11:11:29@ @28-02-2026 10:54:41@
+Borneo/Kalimantano {GEOG} เกาะบอร์เนียว/เกาะกาลิมันตัน (เกาะที่ใหญ่ที่สุดในโลกที่เป็นที่ตั้งของประเทศอินโดนีเซีย มาเลเซียและบรูไน) @01-12-2024 11:13:28@ @28-02-2026 10:54:58@
+bosko ต้นไม้ที่จัดเรียงไว้ในสวน @01-12-2024 11:15:29@ @28-02-2026 10:55:12@
+botaniko {BOT} {SCI} พฤกษศาสตร์; botanika เกี่ยวกับพฤษศาสตร์: botanika ĝardeno สวนพฤกษศาสตร์; botanikisto นักพฤกษศาสตร์ @01-12-2024 11:17:25@ @28-02-2026 10:55:31@
+braĝo ถ่าน; braĝujo เตาถ่าน @01-12-2024 11:22:24@ @28-02-2026 11:03:14@
+brajli {MAR} //(tr)// กางใบเรือ @01-12-2024 11:26:36@ @28-02-2026 11:09:07@
+Brajlo {TIP} {LIN} อักษรเบรลล์ @01-12-2024 11:26:36@ @28-02-2026 11:09:21@
+bramano {HIN} พราหมณ์; bramanismo {HIN} ศาสนาพราหมณ์ @01-12-2024 11:26:36@ @28-02-2026 11:09:40@
+brano รำ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/WheatBran.jpg/100px-WheatBran.jpg] @01-12-2024 11:26:36@ @28-02-2026 11:09:52@
+brigado 1. {MIL} กองพลน้อย, 2. //(f)// คณะทำงานเพื่อสิ่งใดสิ่งหนึ่ง; fajrobrigado กองดับเพลิง; fajrobrigadisto นักดับเพลิง; fajrobrigadano การดับเพลิง @01-12-2024 11:29:59@ @28-02-2026 11:10:29@
+broĉo 1. เข็มกลัดประดับ, 2. //(malofte)// เข็มกลัด = sendanĝera pinglo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Brooch.jpg/100px-Brooch.jpg] @01-12-2024 12:26:07@ @28-02-2026 11:11:00@
+brodkasti //(malofte)// {RAD} {TELE} กระจายเสียง, เผยแพร่ออกอากาศ @01-12-2024 12:26:07@ @28-02-2026 11:13:15@
+brogi //(tr)// 1. {KUI} ลวก, ลวกน้ำร้อน, 2. น้ำร้อนลวก; brogaĵo {KUI} น้ำร้อนสำหรับลวก @01-12-2024 12:26:07@ @28-02-2026 11:14:03@
+brokolo {BOT} ผักบรอกโคลี IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Broccoli_and_cross_section_edit.jpg/200px-Broccoli_and_cross_section_edit.jpg] @01-12-2024 12:26:07@ @28-02-2026 11:14:42@
 bromo {KEM} //(ธาตุ)// โบรมีน (Br) @11-04-2024 21:36:28@
 Bruselo กรุงบรัสเซลส์ (เมืองหลวงประเทศเบลเยียม) @01-12-2024 12:36:09@
 brutala //(malofte)// โหดร้าย, โหดเหี้ยม, ทารุณ @01-12-2024 12:26:07@
