@@ -3043,7 +3043,7 @@ Bonaero {GEOG} {POL} บัวโนสโอเรส (เมืองหลว
 bordelo ซ่อง, ซ่องโสเภณี = malĉastejo, prostituejo, putinejo @01-12-2024 11:03:05@ @28-02-2026 10:53:37@
 borderi {TEKS} //(tr)// 1. เย็บริม, เย็บแต่งชายเสื้อ, 2. ตกแต่งบริเวณริมข้างทาง; bordero {TEKS} ชายเสื้อผ้าที่มีการตกแต่ง; borderaĵo ชายเสื้อผ้าที่มีการตกแต่ง; refaldoborderi //(tr)// เย็บเก็บขอบ = orli @01-12-2024 11:11:29@ @28-02-2026 10:54:41@
 Borneo/Kalimantano {GEOG} เกาะบอร์เนียว/เกาะกาลิมันตัน (เกาะที่ใหญ่ที่สุดในโลกที่เป็นที่ตั้งของประเทศอินโดนีเซีย มาเลเซียและบรูไน) @01-12-2024 11:13:28@ @28-02-2026 10:54:58@
-bosko ต้นไม้ที่จัดเรียงไว้ในสวน @01-12-2024 11:15:29@ @28-02-2026 10:55:12@
+bosko ต้นไม้ที่จัดเรียงไว้ในสวน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Schlossgarten.jpg/200px-Schlossgarten.jpg] @01-12-2024 11:15:29@ @28-02-2026 10:55:12@
 botaniko {BOT} {SCI} พฤกษศาสตร์; botanika เกี่ยวกับพฤษศาสตร์: botanika ĝardeno สวนพฤกษศาสตร์; botanikisto นักพฤกษศาสตร์ @01-12-2024 11:17:25@ @28-02-2026 10:55:31@
 braĝo ถ่าน; braĝujo เตาถ่าน @01-12-2024 11:22:24@ @28-02-2026 11:03:14@
 brajli {MAR} //(tr)// กางใบเรือ @01-12-2024 11:26:36@ @28-02-2026 11:09:07@
@@ -3055,23 +3055,23 @@ broĉo 1. เข็มกลัดประดับ, 2. //(malofte)// เข็
 brodkasti //(malofte)// {RAD} {TELE} กระจายเสียง, เผยแพร่ออกอากาศ @01-12-2024 12:26:07@ @28-02-2026 11:13:15@
 brogi //(tr)// 1. {KUI} ลวก, ลวกน้ำร้อน, 2. น้ำร้อนลวก; brogaĵo {KUI} น้ำร้อนสำหรับลวก @01-12-2024 12:26:07@ @28-02-2026 11:14:03@
 brokolo {BOT} ผักบรอกโคลี IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Broccoli_and_cross_section_edit.jpg/200px-Broccoli_and_cross_section_edit.jpg] @01-12-2024 12:26:07@ @28-02-2026 11:14:42@
-bromo {KEM} //(ธาตุ)// โบรมีน (Br) @11-04-2024 21:36:28@
-Bruselo กรุงบรัสเซลส์ (เมืองหลวงประเทศเบลเยียม) @01-12-2024 12:36:09@
-brutala //(malofte)// โหดร้าย, โหดเหี้ยม, ทารุณ @01-12-2024 12:26:07@
-bubalo {ZOO} ควาย; bubalaĵo เนื้อควาย @01-12-2024 12:36:09@
-Budao/Buddo/Budho //(PIV)// {BUD} พระพุทธเจ้า; budaismo/buddismo/budhismo {BUD} {FIL} {REL} พุทธศาสนา, ศาสนาพุทธ;; budaisto/buddisto/budhisto/budhano/budaano พุทธศาสนิกชน, ชาวพุทธ @01-12-2024 12:36:09@
-bufro {TEK} {FER} ตัวรับแรงกระแทก, เครื่องกันชน, {KOMP} บัฟเฟอร์ (การเก็บข้อมูลชั่วคราวเมื่อมีการถ่ายโอน), {POL} กันชน: //bufroŝtato รัฐกันชน// @01-12-2024 12:45:15@
-buldozo รถเกรดดิน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Planierraupe.jpg/100px-Planierraupe.jpg] @01-12-2024 12:45:15@
-buljono {KUI} น้ำซุปที่ต้มจากเนื้อหรือผัก @01-12-2024 12:45:15@
-bunkro หลุมคอนกรีตหลบภัย >> ŝirmejo, (กอล์ฟ) หลุมทราย
-bunta หลากสี, หลากสี, //(f)// หลากหลาย; bunteco/bunto ความหลากหลายสี, , //(f)// ความหลากหลาย @01-12-2024 12:47:03@
-buo {MAR} ทุ่น = naĝbarelo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Canbuoy11.jpg/100px-Canbuoy11.jpg] @01-12-2024 13:00:04@
-burdo {ZOO} ผึ้งมีขนตัวใหญ่ชนิดหนึ่ง @01-12-2024 13:00:04@
-burgero //(PIV)// {KUI} แฮมเบอร์เกอร์ = hamburgero @01-12-2024 13:00:04@
-burokrato {POL} ข้าราชการ, //(malŝate)// เจ้าหน้าที่ที่มีขั้นตอนพิธีรีตรองมากเกินไป ดังเช่นระบบราชการ; burokratismo บริหารแบบข้าราชการ @01-12-2024 13:00:04@
-buroo {POL} สำนักงาน, สำนัก, หน่วยงานราชการ
-busto {ANA} ส่วนบนของร่างกาย, {BELA} รูปปั้นครึ่งตัว @01-12-2024 13:00:04@
-buteo {ZOO} นกเหยี่ยวขนาดใหญ่ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Buteo_buteo_-Scotland-8.jpg/100px-Buteo_buteo_-Scotland-8.jpg] @01-12-2024 13:00:04@
+bromo {KEM} //(ธาตุ)// โบรมีน (Br) @11-04-2024 21:36:28@ @01-03-2026 11:21:08@
+Bruselo {GEOG} กรุงบรัสเซลส์ (เมืองหลวงประเทศเบลเยียม) @01-12-2024 12:36:09@
+brutala //(malofte)// 1. โหดร้าย, โหดเหี้ยม, ทารุณ, 2. ไม่อ่อนโยน, ไม่สุภาพ @01-12-2024 12:26:07@ @01-03-2026 11:23:33@
+bubalo {ZOO} ควาย, กระบือ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BUFFALO159.JPG/200px-BUFFALO159.JPG] @01-12-2024 12:36:09@
+Budao/Buddo/Budho //(PIV)// {BUD} พระพุทธเจ้า; budaismo/buddismo/budhismo {BUD} {FIL} {REL} พุทธศาสนา, ศาสนาพุทธ;; budaisto/buddisto/budhisto/budhano/budaano พุทธศาสนิกชน, ชาวพุทธ @01-12-2024 12:36:09@ @01-03-2026 11:26:32@
+bufro 1. {TEK} {FER} ตัวรับแรงกระแทก, {AUT} เครื่องกันชน, 2. {KOMP} บัฟเฟอร์ (การเก็บข้อมูลชั่วคราวเมื่อมีการถ่ายโอน), 3. {ELE} {ELET} บัฟเฟอร์, 4. สารละลายบัพเฟอร์, 5. {POL} กันชน: //bufroŝtato รัฐกันชน//, 6. บัพเฟอร์, สิ่งที่ลดการทำให้เสียหาย; bufri บัพเฟอร์, ป้องกัน, กันชน @01-12-2024 12:45:15@ @01-03-2026 11:31:23@
+buldozo รถเกรดดิน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Planierraupe.jpg/100px-Planierraupe.jpg] @01-12-2024 12:45:15@ @01-03-2026 11:38:37@
+buljono {KUI} น้ำซุปที่ต้มจากเนื้อหรือผัก @01-12-2024 12:45:15@ @01-03-2026 11:39:06@
+bunkro {MIL} บังเกอร์, หลุมคอนกรีตหลบภัย @01-12-2024 12:45:15@ @01-03-2026 11:40:32@
+bunta 1. หลากสี, มีสีสัน, 2. //(f)// หลากหลาย; bunteco/bunto 1. ความหลากหลายสี, 2. //(f)// ความหลากหลาย = diverseco @01-12-2024 12:47:03@ @01-03-2026 11:42:16@
+buo {MAR} ทุ่น = naĝbarelo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Canbuoy11.jpg/100px-Canbuoy11.jpg] @01-12-2024 13:00:04@ @01-03-2026 11:43:31@
+burdo {ZOO} ผึ้งมีขนตัวใหญ่ชนิดหนึ่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bumblebee_October_2007-3a.jpg/200px-Bumblebee_October_2007-3a.jpg] @01-12-2024 13:00:04@ @01-03-2026 11:56:04@
+hamburgero/burgero {KUI} แฮมเบอร์เกอร์ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/200px-NCI_Visuals_Food_Hamburger.jpg]  @01-12-2024 13:00:04@ @01-03-2026 11:57:30@
+burokrato 1. {POL} ข้าราชการ, 2. //(malŝate)// เจ้าหน้าที่ที่มีขั้นตอนพิธีรีตรองมากเกินไป ดังเช่นระบบราชการ; burokrataro {POL} เจ้าหน้าที่รัฐข้าราชการ; burokratismo 1. {POL}บริหารแบบข้าราชการ, 2. //(malŝate)// การทำงานที่มีขั้นตอนพิธีรีตรองมากเกินไป @01-12-2024 13:00:04@ @01-03-2026 11:59:49@
+buroo {POL} สำนักงาน, สำนัก, หน่วยงานราชการ @01-12-2024 13:00:04@  @01-03-2026 12:00:07@
+busto 1. {ANA} ส่วนบนของร่างกาย, 2. {BELA} รูปปั้นครึ่งตัว @01-12-2024 13:00:04@ @01-03-2026 12:00:31@
+buteo {ZOO} นกเหยี่ยวขนาดใหญ่ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Buteo_buteo_-Scotland-8.jpg/100px-Buteo_buteo_-Scotland-8.jpg] @01-12-2024 13:00:04@ @01-03-2026 12:00:47@
 <!-- C -->
 caro {POL} ซาร์ (ชื่อเรียกจักรพรรดิแห่งรัสเซีย บัลแกเรีย เซอร์เบีย) @10-04-2024 17:08:31@
 cekumo {ANA} กระพุ้งไส้ใหญ่; cekumito {MED} กระพุ้งไส้ใหญ่อักเสบ @10-04-2024 17:08:32@
@@ -3932,9 +3932,9 @@ lumpio //(PIV)// {KUI} ปอเปี๊ยะ = printemporulo @27-07-2024 18:4
 lupeo {FOT} แว่นขยาย = grandiga vitro @27-07-2024 18:47:06@ @01-11-2025 16:58:59@
 lutro {ZOO} นาก (สัตว์) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Otter_at_London_Zoo.jpg/100px-Otter_at_London_Zoo.jpg]; marlutro {ZOO} นากทะเล IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sea_otter.jpg/100px-Sea_otter.jpg] @27-07-2024 18:47:06@
 <!-- M -->
-Madrido {POL} {GEOG} กรุงมาดริด (เมืองหลวงประเทศสเปน) @01-12-2024 13:10:14@
-magistrato {POL} สภาเมือง; magistratano สมาชิกของสภาเมือง; magistratejo ศาลากลาง @17-12-2024 21:39:16@
-magmo {GEOL} หินหนืด, แม็กม่า, {MAT} กรุปพอยด์ = grupoido @17-12-2024 21:39:16@
+Madrido {POL} {GEOG} กรุงมาดริด (เมืองหลวงประเทศสเปน) @01-12-2024 13:10:14@ @01-03-2026 12:02:26@
+magistrato {POL} สภาเมือง; magistratano สมาชิกของสภาเมือง; magistratejo ศาลากลาง @17-12-2024 21:39:16@ @01-03-2026 12:02:54@
+magmo 1. {GEOL} หินหนืด, แม็กม่า, 2. {MAT} กรุปพอยด์ = grupoido @17-12-2024 21:39:16@ @01-03-2026 12:03:14@
 magnetofono เครื่องบันทึกเสียง, เครื่องเล่นเทป IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Akai_GX_635D_-_edit.jpg/100px-Akai_GX_635D_-_edit.jpg] @17-12-2024 21:39:16@
 magra //(poezie)// ผอม, //(f)// น้อย, ไม่สมบูรณ์; malmagra สมบูรณ์, อุดมสมบรูณ์ @17-12-2024 21:39:16@
 Mahajano {BUD} มหายาน; mahajana เกี่ยวกับมหายาน @17-12-2024 21:39:16@
