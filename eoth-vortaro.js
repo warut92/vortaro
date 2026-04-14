@@ -4682,18 +4682,18 @@ tendeno {ANA} เอ็นกล้ามเนื้อ = kartilago @12-02-2025
 tenebro //(poezie)// ความมืดสนิท, ความมืดมิด, ความมืดมน; tenebra มืดสนิท, มืดมิด, มืดมน @12-02-2025 12:06:22@ @14-04-2026 21:16:13@
 tenio {ZOO} {MED} พยาธิตัวตืด @12-02-2025 12:06:22@ @14-04-2026 21:16:27@
 tenoro 1. {MUZ} โทนเสียงเทเนอน์, 2. {MUZ} นักร้องเพลงที่มีเสียงระดับสูงสุดของผู้ชาย = tenorulo @12-02-2025 12:06:22@ @14-04-2026 21:17:01@
-tensio {ELE} แรงไฟฟ้า, {MED} ความตึงเครียด, //(f)// ความเครียด; kontinua tensio/konstanta tensio {ELE} ไฟฟ้ากระแสตรง @12-02-2025 12:06:22@
-tenso {GRA} กาล @12-02-2025 13:41:06@
-teologo {REL} นักเทววิทยา @12-02-2025 13:41:06@
-teologiio {REL} เทววิทยา, ศาสนศาสตร์; teologiisto นักเทววิทยา @12-02-2025 13:41:06@
-terakoto เทอราคอตต้า (วัสดุที่ทำมาจากดินที่ถูกเผาเพื่อใช้ในการทำเครื่องปั้นดินเผามีเนื้อสีอิฐ); terakota เกี่ยวกับเทอราคอตต้า; terakotaĵo {BELA} เครื่องปั่นดินเผาเทอราคอตต้า IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sculpture_Aufgestuetzter_Kopf_Szelinski-Singer_Anders.JPG/200px-Sculpture_Aufgestuetzter_Kopf_Szelinski-Singer_Anders.JPG] @29-03-2025 17:10:42@
-terapeŭto //(PIV)// //(ark)// นักบำบัดโรค = terapiisto @12-02-2025 13:41:06@
-terapio {MED} การบำบัด; terapii บำบัด; terapiisto  {MED} นักบำบัดโรค; galvanoterapio {MED} การบำบัดด้วยไฟฟ้า; seroterapio {MED} การบำบัดด้วยเซรุ่ม; hormonterapio {MED} การบำบัดด้วยฮอร์โมน @12-02-2025 13:41:06@
-teraplano //(PIV)// เรือสะเทินน้ำสะเทินบก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LCAC-55_maneuvers_to_enter_the_well_deck.jpg/200px-LCAC-55_maneuvers_to_enter_the_well_deck.jpg] @12-02-2025 14:00:10@
-Teravado {BUD} นิกายเถรวาท; Teravada เกี่ยวกับเถรวาท @12-02-2025 14:00:10@
-termino {LIN} คำศัพท์เฉพาะทาง; terminaro {LIN} พจนานุกรมศัพท์เฉพาะ; terminaristo //(malofte)// ผู้ที่ศึกษาเกี่ยวกับคำศัพท์เฉพาะทาง @12-02-2025 14:00:10@
-terminologio {LIN} ศัพทวิทยา (วิชาว่าด้วยคำศัพท์), ศัพท์บัญญัติ, พจนานุกรมศัพท์เฉพาะทางฉบับสมบูรณ์ @12-02-2025 14:00:10@
-termito {ZOO} ปลวก; termitejo //(PIV)// จอมปลวก @12-02-2025 14:00:10@
+tensio 1. {ELE} แรงไฟฟ้า, 2. {MED} ความตึงเครียด, 2. //(f)// ความตึงเครียด; kontinua tensio/konstanta tensio {ELE} ไฟฟ้ากระแสตรง @12-02-2025 12:06:22@ @14-04-2026 21:34:37@
+tenso {GRA} กาล @12-02-2025 13:41:06@ @14-04-2026 21:35:05@
+teologo {REL} นักเทววิทยา = teoglogiisto @12-02-2025 13:41:06@ @14-04-2026 21:35:41@
+teologiio {REL} เทววิทยา, ศาสนศาสตร์; teologiisto นักเทววิทยา @12-02-2025 13:41:06@ @14-04-2026 21:35:51@
+terakoto เทอราคอตต้า (วัสดุที่ทำมาจากดินที่ถูกเผาเพื่อใช้ในการทำเครื่องปั้นดินเผามีเนื้อสีอิฐ); terakota เกี่ยวกับเทอราคอตต้า; terakotaĵo {BELA} เครื่องปั่นดินเผาเทอราคอตต้า IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sculpture_Aufgestuetzter_Kopf_Szelinski-Singer_Anders.JPG/200px-Sculpture_Aufgestuetzter_Kopf_Szelinski-Singer_Anders.JPG] @29-03-2025 17:10:42@ @14-04-2026 21:36:19@
+terapeŭto //(PIV)// //(ark)// นักบำบัดโรค = terapiisto @12-02-2025 13:41:06@ @14-04-2026 21:37:05@
+terapio //(malofte)// {MED} การบำบัด; terapii //(malofte)// บำบัด; terapiisto {MED} นักบำบัดโรค; akvoterapio การบำบัดด้วยน้ำ = hidroterapio; galvanoterapio {MED} การบำบัดด้วยไฟฟ้า; seroterapio {MED} การบำบัดด้วยเซรุ่ม; hormonterapio {MED} การบำบัดด้วยฮอร์โมน @12-02-2025 13:41:06@ @14-04-2026 21:39:25@
+teraplano //(PIV)// เรือสะเทินน้ำสะเทินบก = aeroglita boato //(Viki)// IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LCAC-55_maneuvers_to_enter_the_well_deck.jpg/200px-LCAC-55_maneuvers_to_enter_the_well_deck.jpg] @12-02-2025 14:00:10@ @14-04-2026 21:40:58@
+Teravado {BUD} นิกายเถรวาท; Teravada เกี่ยวกับเถรวาท @12-02-2025 14:00:10@ @14-04-2026 21:41:21@
+termino {LIN} คำศัพท์เฉพาะทาง; terminaro {LIN} พจนานุกรมศัพท์เฉพาะทาง; terminaristo //(malofte)// ผู้ที่ศึกษาเกี่ยวกับคำศัพท์เฉพาะทาง @12-02-2025 14:00:10@ @14-04-2026 21:43:25@
+terminologio 1. {LIN} พจนานุกรมศัพท์เฉพาะทาง, 2. {LIN} การศึกษาศัพท์เฉพาะทาง @12-02-2025 14:00:10@ @14-04-2026 21:46:33@\
+termito {ZOO} ปลวก; termitejo //(PIV)// จอมปลวก @12-02-2025 14:00:10@ @14-04-2026 21:47:37@ 
 termo {MAT} พจน์ @12-02-2025 14:00:10@
 termo {ARKI} โรงอาบน้ำของชาวโรมันโบราณ @12-02-2025 14:00:10@
 termo- //(PIV)// เกี่ยวกับความร้อน @12-02-2025 14:00:10@
