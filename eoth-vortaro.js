@@ -2768,12 +2768,12 @@ agro {AGR} ที่ดินเหมาะแก่การเพาะปล
 agronomio {SCI} {AGR} เกษตรศาสตร์; agronomiisto ผู้เชียวชาญด้านการเกษตร = agronomo @07-03-2025 09:19:12@ @30-04-2026 08:49:49@
 aha! //(ekkrio)// อาฮ่า @07-03-2025 09:21:28@ @30-04-2026 08:50:02@
 aidoso/aideso //(akr)// {BAK} {MED} โรคเอดส์; aidosulo ผู้ป่วยโรคเอดส์ @07-03-2025 09:51:50@ @30-04-2026 08:50:25@
-Ajutajo {THA} อยุธยา: la Ajutaja Periodo สมัยกรุงศรีอยุธยา @07-03-2025 09:51:50@
-aĵura //(PIV)// 1. {TEKS} ลายลูกไม้ปลายผ้า, 2. //(ReVo)// ลักษณะงานแบบเปิดหรือโปร่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sidi_Saiyyad_Ni_Jaali.jpg/500px-Sidi_Saiyyad_Ni_Jaali.jpg] @07-03-2025 09:51:50@
-akaĵuo {KUI} มะม่วงหิมพานต์; akaĵuarbo/akaĵuujo {BOT} ต้นมะม่วงหิมพานต์; akaĵunukso {KUI} เม็ดมะม่วงหิมพานต์ @08-03-2025 09:35:23@
-akapari {EKON} //(tr)// กว้านซื้อ, ช่วงชิง, แย่งชิง @08-03-2025 09:46:35@
-akcesora ส่วนเสริม, เพิ่มเติม, ประกอบ; akcesoraĵo ส่วนประกอบเสริม @08-03-2025 09:46:35@
-akcipitro {ZOO} เหยี่ยวนกเขา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Northern_Goshawk_ad_M2.jpg/500px-Northern_Goshawk_ad_M2.jpg] @08-03-2025 09:46:35@
+Ajutajo {THA} อยุธยา: la Ajutaja Periodo สมัยกรุงศรีอยุธยา @07-03-2025 09:51:50@ @30-04-2026 11:42:13@
+aĵura //(PIV)// 1. {TEKS} ลายลูกไม้ปลายผ้า, 2. //(ReVo)// ลักษณะงานแบบเปิดหรือโปร่ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sidi_Saiyyad_Ni_Jaali.jpg/500px-Sidi_Saiyyad_Ni_Jaali.jpg] @07-03-2025 09:51:50@ @30-04-2026 11:43:14@
+akaĵuo {KUI} มะม่วงหิมพานต์; akaĵuarbo/akaĵuujo {BOT} ต้นมะม่วงหิมพานต์; akaĵunukso {KUI} เม็ดมะม่วงหิมพานต์ @08-03-2025 09:35:23@ @30-04-2026 11:43:41@
+akapari //(tr)// 1. {EKON}  กว้านซื้อ, 2. ช่วงชิง, แย่งชิง @08-03-2025 09:46:35@ @30-04-2026 11:44:30@
+akcesora ส่วนเสริม, เพิ่มเติม, ประกอบ; akcesoraĵo //(PIV)// ส่วนประกอบเสริม @08-03-2025 09:46:35@ @30-04-2026 11:45:10@
+akcipitro {ZOO} เหยี่ยวนกเขา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Northern_Goshawk_ad_M2.jpg/500px-Northern_Goshawk_ad_M2.jpg] @08-03-2025 09:46:35@ @30-04-2026 11:45:52@
 akcizo {EKON} ภาษีสรรพสามิต; akcizi {EKON} เสียภาษีสรรพสามิต; akcizisto {EKON} เจ้าหน้าที่ภาษีสรรพสามิต; urba akcizo {EKON} ศุลกากร = dogano @08-03-2025 09:46:35@
 akĉento {LIN} {FON} สำเนียง @08-03-2025 09:57:38@
 anarĥio/anarkio {POL} อนาธิปไตย; anarĥiismo/anarkiismo/anarkismo {POL} ลัทธิอนาธิปไตย; anarĥiisto/anarkiisto/anarkisto {POL} ผู้นิยมลัทธิอนาธิปไตย; anarĥiulo/anarkiulo ผู้ที่ใช้ชีวิตแบบไม่มีกฎระเบียบ, ผู้นิยมลัทธิอนาธิปไตย @08-03-2025 09:57:38@
