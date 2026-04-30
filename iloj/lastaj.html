@@ -106,10 +106,16 @@
     //aldoni <br> per anstaŭigi la lastajn komojn
     re_aranĝita_rezulto = re_aranĝita_rezulto.toString().replace(/,(?!\s)/g, "<br><hr>")
 
+    //ARRAY
+    // faru ke la listo videbla nur bezonantaj kapvortoj.
+    const RE_ARANĜITA_REZULTO = re_aranĝita_rezulto.split("<hr>");
+    let KAPVORTA_KVANTO = 20
+    const RE_ARANĜITA_REZULTO_BEZONATA = RE_ARANĜITA_REZULTO.slice(0,KAPVORTA_KVANTO)
+    // console.log(RE_ARANĜITA_REZULTO_BEZONATA);
     //MONTRU LA REDAKTITAJN LINIOJN ALŬ LA TAGO
     //STRING
-    document.getElementById("lastaj").innerHTML = re_aranĝita_rezulto;
-    // console.log(re_aranĝita_rezulto);
+    document.getElementById("lastaj").innerHTML = RE_ARANĜITA_REZULTO_BEZONATA.toString().replace(/,(?!\s)/g, "<br><hr>");
+
     //STATISTIKO LAŬ LA DATOJ
     //forigi ĉion krom la datoj kaj aranĝi ilin al linioj.
     //disigi ĝin al alenioj
