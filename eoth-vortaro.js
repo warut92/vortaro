@@ -2830,7 +2830,7 @@ amnezio {MED} {PSI} ภาวะสูญเสียความทรงจำ
 amoniako {KEM} แอมโมเนีย [NH<sub>3</sub>]; salamoniako {KEM} แอมโมเนียมคลอไรด์ [NH<sub>4</sub>Cl] = amonia klorido @17-03-2025 09:53:34 @@02-05-2026 12:57:11@
 amonio {KEM} แอมโมเนียมไอออน [NH<sub>4</sub><sup>+</sup>] @17-03-2025 09:53:34@ @02-05-2026 13:13:10@
 amortizi //(tr)// 1. {EKON} ผ่อนใช้หนี้, หักกลบลบล้าง, 2. {ELE} {FIZ} {AUT} {FER} ลดการสั่นสะเทือน = dampi; amortizilo {FIZ} {AUT} {FER} โช้คอัพ = dampilo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ein-%26Zweirohrsto%C3%9Fd%C3%A4mpfer.jpg/500px-Ein-%26Zweirohrsto%C3%9Fd%C3%A4mpfer.jpg] @17-03-2025 09:53:34@ @02-05-2026 12:59:14@
-Ampero {PERS} อ็องเดร-มารี อ็องแปร์ (นักฟิสิกส์ชาวฝรั่งเศส) WIKI:[https://eo.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re]; ampero {ELE} แอมแปร์ (หน่วยของกระแสไฟฟ้า) @17-03-2025 09:53:34@
+Ampero {PERS} อ็องเดร-มารี อ็องแปร์ (นักฟิสิกส์ชาวฝรั่งเศส) WIKI:[https://eo.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re]; ampero {ELE} แอมแปร์ (หน่วยของกระแสไฟฟ้า) @17-03-2025 09:53:34@ @02-05-2026 13:18:46@
 amplifi/amplifiki {ELE} {FIZ} //(tr)// ขยายเสียง; amplifilo/amplifikilo เครื่องขยายเสียง @18-03-2025 08:34:41@ @02-05-2026 13:09:23@
 amputi {MED} {KIR} //(tr)// ตัดออก, ผ่าออก @18-03-2025 08:34:41@ @02-05-2026 13:09:35@
 Amsterdamo {GEOG} กรุงอัมสเตอร์ดัม (เมืองหลวงประเทศเนเธอร์แลนด์) @18-03-2025 08:34:41@ @02-05-2026 13:09:46@
