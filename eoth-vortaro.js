@@ -100,6 +100,7 @@ amfibio [x] สัตว์ครึ่งบกครึ่งน้ำ
 ami {UL} [2] //(tr)// รัก; amo [w] ความรัก; aminda [w] น่ารัก; amindumi [w] จีบ = flirti; enamiĝi [w] ตกหลุมรัก; malami [w] เกลียด; amato [w] คนรัก
 amiko {UL} [2] เพื่อน; amikeco [w] มิตรภาพ; malamiko [w] ศัตรู
 amoro [x] ความต้องการทางเพศ, ความใคร่; amori [w] //(tr)// (kun) มีเพศสัมพันธ์; amoristino [w] โสเภณี
+amplekso [8] ขอบเขต, ขนาด, ความยิ่งใหญ่; ampleksa 1. ขอบเขต, ขนาด, 2. ครอบคลุม; ampleksi //(tr)// ครอบคลุม, ประกอบด้วย; grandampleksa/multampleksa ครอบคลุมมาก, ลึงซึ้ง; korpampleksa ร่างใหญ่; ampleksigi ขยายให้ครอบคลุม @17-03-2025 09:53:34@ @02-05-2026 13:08:46@
 ampolo [9] หลอดไฟ
 amuzi [5] //(tr)// ทำให้...สนุก; amuziĝi [w] สนุก; amuza [w] สนุก
 -an- {UL} [0] //(suf)// พยางค์เติมท้ายหมายถึงสมาชิก: familiano [w] สมาชิกในครอบครัว; klubano [w] สมาชิกชมรม
@@ -2823,21 +2824,20 @@ ambigua //(malofte)// {BELE} {LIN} กำกวม; ambiguo/ambigueco //(malofte
 amboso ทั่งตีเหล็ก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ambo%C3%9F_klein.jpg/500px-Ambo%C3%9F_klein.jpg] , {ANA} กระดูกทั่ง = inkudo @16-03-2025 14:48:18@ @02-05-2026 10:35:07@
 ambulatorio //(PIV)// 1. {ARKI} สนานเดินเล่นหน้าบ้าน, ที่ว่างสำหรับเดินหรือยืนชมการแสดงในโรงละคร, 2. {MED} ภาคผู้ป่วยนอกของโรงพยาบาล @16-03-2025 14:51:58@ @02-05-2026 10:35:35@
 amelo 1. {KUI} แป้ง, 2. {KEM} สารอาหารพวกคาร์โบไฮเดรตที่มีขนาดโมเลกุลใหญ่ประกอบด้วยน้ำตาลโมเลกุลเดี่ยวเป็นจำนวนมาก; ameli/amelumi //(tr)// ลงแป้ง @16-03-2025 14:53:24@ @02-05-2026 10:37:03@
-amendi {JUR} //(tr)// แก้ไขหรือเพิ่มเติมกฎหมาย; amendo {JUR} การแก้ไขกฎหมาย @17-03-2025 09:20:22@
-amnestio {JUR} การนิรโทษกรรม; amnestii //(tr)// นิรโทษกรรม @17-03-2025 09:53:34@
-amnezio {MED} {PSI} ภาวะสูญเสียความทรงจำ @17-03-2025 09:53:34@
-amoniako {KEM} แอมโมเนีย [NH<sub>3</sub>]; salamoniako {KEM} แอมโมเนียมคลอไรด์ [NH<sub>4</sub>Cl] = amonia klorido @17-03-2025 09:53:34@
-amonio {KEM} แอมโมเนียมไอออน [NH<sub>4</sub><sup>+</sup>] @17-03-2025 09:53:34@
-amortizi //(tr)// ผ่อนใช้หนี้, หักกลบลบล้าง, {ELE} {FIZ} {AUT} {FER} ลดการสั่นสะเทือน; amortizilo {FIZ} {AUT} {FER} โช้คอัพ = dampilo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ein-%26Zweirohrsto%C3%9Fd%C3%A4mpfer.jpg/500px-Ein-%26Zweirohrsto%C3%9Fd%C3%A4mpfer.jpg] @17-03-2025 09:53:34@
-ampero {ELE} แอมแปร์ (หน่วยของกระแสไฟฟ้า) @17-03-2025 09:53:34@
-amplekso [8] ขอบเขต, ขนาด, ความยิ่งใหญ่; ampleksa ขอบเขต, ขนาด, ครอบคลุม; ampleksi //(tr)// ครอบคลุม, ประกอบด้วย; grandampleksa/multampleksa ครอบคลุมมาก, ลึงซึ้ง; korpampleksa ร่างใหญ่; ampleksigi ขยายให้ครอบคลุม @17-03-2025 09:53:34@
-amplifi/amplifiki {ELE} {FIZ} //(tr)// ขยายเสียง; amplifilo/amplifikilo เครื่องขยายเสียง @18-03-2025 08:34:41@
-amputi {MED} {KIR} //(tr)// ตัดออก, ผ่าออก @18-03-2025 08:34:41@
-Amsterdamo {GEOG} กรุงอัมสเตอร์ดัม (เมืองหลวงประเทศเนเธอร์แลนด์) @18-03-2025 08:34:41@
-amuleto {REL} เครื่องราง @18-03-2025 08:34:41@
-anakardio ต้นมะม่วงหิมพานต์ชนิดหนึ่ง //(Anacardium)// IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anacardium_occidentale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-010.jpg/500px-Anacardium_occidentale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-010.jpg] @18-03-2025 08:34:41@
-anakronismo/anaĥronismo การระบุวันที่ผิดพลาดในการประวัติศาสตร์, สิ่งที่ผิดยุคผิดสมัย @18-03-2025 08:34:41@
-analfabeto ผู้ที่อ่านไม่ออกเขียนไม่ได้; analfabeta อ่านไม่ออกเขียนไม่ได้; analfabeteco ความอ่านไม่ออกเขียนไม่ได้; analfabetismo ความไม่รู้หนังสือ @18-03-2025 08:34:41@
+amendi {JUR} //(tr)// แก้ไขหรือเพิ่มเติมกฎหมาย; amendo {JUR} การแก้ไขกฎหมาย @17-03-2025 09:20:22@ @02-05-2026 12:56:19@
+amnestio {JUR} การนิรโทษกรรม; amnestii //(tr)// นิรโทษกรรม @17-03-2025 09:53:34@ @02-05-2026 12:56:31@
+amnezio {MED} {PSI} ภาวะสูญเสียความทรงจำ @17-03-2025 09:53:34@ @02-05-2026 12:56:43@
+amoniako {KEM} แอมโมเนีย [NH<sub>3</sub>]; salamoniako {KEM} แอมโมเนียมคลอไรด์ [NH<sub>4</sub>Cl] = amonia klorido @17-03-2025 09:53:34 @@02-05-2026 12:57:11@
+amonio {KEM} แอมโมเนียมไอออน [NH<sub>4</sub><sup>+</sup>] @17-03-2025 09:53:34@ 
+amortizi //(tr)// 1. {EKON} ผ่อนใช้หนี้, หักกลบลบล้าง, 2. {ELE} {FIZ} {AUT} {FER} ลดการสั่นสะเทือน = dampi; amortizilo {FIZ} {AUT} {FER} โช้คอัพ = dampilo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ein-%26Zweirohrsto%C3%9Fd%C3%A4mpfer.jpg/500px-Ein-%26Zweirohrsto%C3%9Fd%C3%A4mpfer.jpg] @17-03-2025 09:53:34@ @02-05-2026 12:59:14@
+Ampero {PERS} อ็องเดร-มารี อ็องแปร์ (นักฟิสิกส์ชาวฝรั่งเศส) WIKI:[https://eo.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re]; ampero {ELE} แอมแปร์ (หน่วยของกระแสไฟฟ้า) @17-03-2025 09:53:34@
+amplifi/amplifiki {ELE} {FIZ} //(tr)// ขยายเสียง; amplifilo/amplifikilo เครื่องขยายเสียง @18-03-2025 08:34:41@ @02-05-2026 13:09:23@
+amputi {MED} {KIR} //(tr)// ตัดออก, ผ่าออก @18-03-2025 08:34:41@ @02-05-2026 13:09:35@
+Amsterdamo {GEOG} กรุงอัมสเตอร์ดัม (เมืองหลวงประเทศเนเธอร์แลนด์) @18-03-2025 08:34:41@ @02-05-2026 13:09:46@ 
+amuleto {REL} เครื่องราง @18-03-2025 08:34:41@ @02-05-2026 13:09:59@ 
+anakardio ต้นมะม่วงหิมพานต์ชนิดหนึ่ง //(Anacardium)// IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anacardium_occidentale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-010.jpg/500px-Anacardium_occidentale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-010.jpg] @18-03-2025 08:34:41@ @02-05-2026 13:10:17@
+anakronismo/anaĥronismo 1. การระบุวันที่ผิดพลาดในการประวัติศาสตร์, 2. สิ่งที่ผิดยุคผิดสมัย @18-03-2025 08:34:41@ @02-05-2026 13:10:39@
+analfabeto ผู้ที่อ่านไม่ออกเขียนไม่ได้; analfabeta อ่านไม่ออกเขียนไม่ได้ = nelegopova; analfabeteco 1. การอ่านไม่ออกเขียนไม่ได้, 2. การไม่รู้หนังสือ >> legopovo; analfabetismo ความไม่รู้หนังสือ @18-03-2025 08:34:41@ @02-05-2026 13:12:39@
 analizi //(tr)// วิเคราะห์, แจกแจง, แยก; analiza เกี่ยวกับการวิเคราะห์; analizo การวิเคราะห์; analizilo {KOMP} เครื่องมือวิเคราะห์, โปรแกรมวิเคราะห์; analizisto {EKON} {KOMP} นักวิเคราะห์ @18-03-2025 08:46:05@
 analo //(malofte)// บันทึกลำดับเหตุการณ์ประวัติศาสตร์, จดหมายเหตุ = kroniko @18-03-2025 08:46:05@
 analoga คล้าย, คล้ายคลึง, {TEK} แอนะล็อก; analoge ด้วยวิธีการที่คล้ายกัน; analogeco ความคล้ายคลึงกัน  @18-03-2025 08:46:05@
