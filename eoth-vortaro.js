@@ -2838,17 +2838,17 @@ amuleto {REL} เครื่องราง @18-03-2025 08:34:41@ @02-05-2026 1
 anakardio ต้นมะม่วงหิมพานต์ชนิดหนึ่ง //(Anacardium)// IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anacardium_occidentale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-010.jpg/500px-Anacardium_occidentale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-010.jpg] @18-03-2025 08:34:41@ @02-05-2026 13:10:17@
 anakronismo/anaĥronismo 1. การระบุวันที่ผิดพลาดในการประวัติศาสตร์, 2. สิ่งที่ผิดยุคผิดสมัย @18-03-2025 08:34:41@ @02-05-2026 13:10:39@
 analfabeto ผู้ที่อ่านไม่ออกเขียนไม่ได้; analfabeta อ่านไม่ออกเขียนไม่ได้ = nelegopova; analfabeteco 1. การอ่านไม่ออกเขียนไม่ได้, 2. การไม่รู้หนังสือ >> legopovo; analfabetismo ความไม่รู้หนังสือ @18-03-2025 08:34:41@ @02-05-2026 13:12:39@
-analizi //(tr)// วิเคราะห์, แจกแจง, แยก; analiza เกี่ยวกับการวิเคราะห์; analizo การวิเคราะห์; analizilo {KOMP} เครื่องมือวิเคราะห์, โปรแกรมวิเคราะห์; analizisto {EKON} {KOMP} นักวิเคราะห์ @18-03-2025 08:46:05@
-analo //(malofte)// บันทึกลำดับเหตุการณ์ประวัติศาสตร์, จดหมายเหตุ = kroniko @18-03-2025 08:46:05@
-analoga คล้าย, คล้ายคลึง, {TEK} แอนะล็อก; analoge ด้วยวิธีการที่คล้ายกัน; analogeco ความคล้ายคลึงกัน  @18-03-2025 08:46:05@
-analogio ความคล้ายคลึงกัน = analogeco; analogia คล้ายคลึงกัน @18-03-2025 08:46:05@
-ananaso {BOT} สับปะรด; ananasujo {BOT} ต้นสับปะรด IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Pineapple_victoria_dsc07770.jpg/500px-Pineapple_victoria_dsc07770.jpg] @18-03-2025 08:46:05@
-anatemi {REL} //(tr)// แช่งด่า; anatemo คำแช่งด่า @18-03-2025 08:49:21@
-anatomio {ANA} {SCI} กายวิภาคศาสตร์; anatomiisto {ANA} นักกายวิภาคศาสตร์ @18-03-2025 08:49:21@
-anĉo {MUZ} ลิ้นปี่ @18-03-2025 21:10:22@
-anĉovo {KUI} {ZOO} ปลาแอนโชวี IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Engraulis_encrasicolus_Gervais_flipped.jpg/500px-Engraulis_encrasicolus_Gervais_flipped.jpg] @18-03-2025 21:10:22@
-Andoj {GEOG} เทือกเขาแอนดีส (เทือกเขาที่วางตัวขนานกับด้านตะวันตกของทวีปอเมริกาใต้ เป็นเทือกเขาที่ยาวที่สุดในโลก) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nasa_anden.jpg/500px-Nasa_anden.jpg] @18-03-2025 21:10:22@
-anemio {MED} ภาวะโลหิตจาง @18-03-2025 21:10:22@
+analizi //(tr)// วิเคราะห์, แจกแจง, แยก; analiza 1. เกี่ยวกับการวิเคราะห์, 2. {LIN} วิเคราะห์แยกคำ; analizo การวิเคราะห์; analizilo {KOMP} เครื่องมือวิเคราะห์, โปรแกรมวิเคราะห์; analizisto {EKON} {KOMP} นักวิเคราะห์ @18-03-2025 08:46:05@ @03-05-2026 17:25:03@
+analo //(malofte)// บันทึกลำดับเหตุการณ์ประวัติศาสตร์, จดหมายเหตุ = kroniko @18-03-2025 08:46:05@ @03-05-2026 17:26:22@
+analoga 1. คล้าย, คล้ายคลึง = analogia, 2. {BIO} กำเนิดต่างกัน, 3. {TEK} แอนะล็อก; analoge ด้วยวิธีการที่คล้ายกัน; analogeco ความคล้ายคลึงกัน  @18-03-2025 08:46:05@ @03-05-2026 17:28:06@
+analogio ความคล้ายคลึงกัน = analogeco; analogia คล้ายคลึงกัน @18-03-2025 08:46:05@ @03-05-2026 17:40:34@
+ananaso {BOT} สับปะรด; ananasujo {BOT} ต้นสับปะรด IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Pineapple_victoria_dsc07770.jpg/500px-Pineapple_victoria_dsc07770.jpg] @18-03-2025 08:46:05@ @03-05-2026 17:41:07@
+anatemi //(tr)// 1. {BIB} ถวาย, 2. {KRI} แช่งสาป, แช่งด่า, 3. {REL} ประณาม; anatemo 1. {BIB} ของถวาย, 2. {KRI} การแช่งด่า, การแช่งสาป, 3. {REL} คำประณาม @18-03-2025 08:49:21@ @03-05-2026 17:56:32@
+anatomio 1. {ANA} {SCI} กายวิภาคศาสตร์, 2. กายวิภาค (วิชาเรียน); anatomiisto {ANA} นักกายวิภาคศาสตร์; kompara anatomio กายวิภาคศาสตร์เชิงเปรียบเทียบ @18-03-2025 08:49:21@ @03-05-2026 17:59:11@
+anĉo {MUZ} ลิ้นปี่, ลิ้นเครื่องเป่า @18-03-2025 21:10:22@ @03-05-2026 17:59:50@
+anĉovo {KUI} {ZOO} ปลาแอนโชวี IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Engraulis_encrasicolus_Gervais_flipped.jpg/500px-Engraulis_encrasicolus_Gervais_flipped.jpg] @18-03-2025 21:10:22@ @03-05-2026 18:00:43@
+Andoj {GEOG} เทือกเขาแอนดีส (เทือกเขาที่วางตัวขนานกับด้านตะวันตกของทวีปอเมริกาใต้ เป็นเทือกเขาที่ยาวที่สุดในโลก) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nasa_anden.jpg/500px-Nasa_anden.jpg] @18-03-2025 21:10:22@ @03-05-2026 18:01:05@
+anemio {MED} ภาวะโลหิตจาง @18-03-2025 21:10:22@ @03-05-2026 18:01:57@
 anestezi {MED} //(tr)// ให้ยาชา; anestezantaĵo/anestezilo ยาชา @20-09-2024 21:56:22@
 angino {MED} โรคอักเสบที่ลำคอ @18-03-2025 21:10:22@
 angio {ANA} เส้นเลือด @18-03-2025 21:10:22@
