@@ -2849,19 +2849,19 @@ anĉo {MUZ} ลิ้นปี่, ลิ้นเครื่องเป่า
 anĉovo {KUI} {ZOO} ปลาแอนโชวี IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Engraulis_encrasicolus_Gervais_flipped.jpg/500px-Engraulis_encrasicolus_Gervais_flipped.jpg] @18-03-2025 21:10:22@ @03-05-2026 18:00:43@
 Andoj {GEOG} เทือกเขาแอนดีส (เทือกเขาที่วางตัวขนานกับด้านตะวันตกของทวีปอเมริกาใต้ เป็นเทือกเขาที่ยาวที่สุดในโลก) IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nasa_anden.jpg/500px-Nasa_anden.jpg] @18-03-2025 21:10:22@ @03-05-2026 18:01:05@
 anemio {MED} ภาวะโลหิตจาง @18-03-2025 21:10:22@ @03-05-2026 18:01:57@
-anestezi {MED} //(tr)// ให้ยาชา; anestezantaĵo/anestezilo ยาชา @20-09-2024 21:56:22@
-angino {MED} โรคอักเสบที่ลำคอ @18-03-2025 21:10:22@
-angio {ANA} เส้นเลือด @18-03-2025 21:10:22@
-angoro ความทุกข์ใจ, ความกังวลใจ = timego; angori //(tr)// ทุกข์ใจ, กังวลใจ; angora ทุกข์ใจ, กังวลใจ @19-03-2025 08:33:35@
-anheli //(ntr)// หอบ; anhelo อาการหอบ @19-03-2025 08:33:35@
-animacio {KIN} การสร้างภาพแอนิเมชัน; animaciaĵo ภาพแอนิเมชัน, ผลงานแอนิเมชัน @19-03-2025 08:33:35@
-anizo {KUI} ผลของต้นเทียนสัตตบุษย์, ลูกแอนิซ; anizujo {BOT} ต้นเทียนสัตตบุษย์, ต้นแอนิซ; stelanizo {BOT} โป๊ยกั้ก, จันทน์แปดกลีบ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dried_Star_Anise_Fruit_Seeds.jpg/500px-Dried_Star_Anise_Fruit_Seeds.jpg] @19-03-2025 08:33:35@
-anksio {PSI} ความวิตกกังวล; anksia วิตกกังวล; ankise ด้วยความวิตกกังวล, อย่างวิตก @19-03-2025 08:33:35@
-anofelo //(PIV)// {ZOO} ยุงก้นปล่อง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anopheles_stephensi.jpeg/500px-Anopheles_stephensi.jpeg] @19-03-2025 08:33:35@
-anomalio ความวิปริต; anomalia วิปริต @19-03-2025 08:33:35@
-anonima ไม่ระบุชื่อ, นิรนาม; anonimulo บุคคลนิรนาม @19-03-2025 08:33:35@
-anono {KUI} ลูกน้อยหน่า; anonarbo/anonujo ต้นน้อยหน่า IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Annona_diversifolia.jpg/500px-Annona_diversifolia.jpg]
-antagonisto //(malofte)// ผู้ต่อต้าน, ผู้เป็นปรปักษ์, ศัตรู @19-03-2025 08:33:35@
+anestezi {MED} //(tr)// ให้ยาชา; anesteza ซึ่งได้รับยาชา; anestezo การได้รับยาชา; anestezilo ยาชา; anestezisto วิสัญญีแพทย์  @20-09-2024 21:56:22@ @07-05-2026 20:56:43@
+angino {MED} โรคอักเสบที่ลำคอ @18-03-2025 21:10:22@ @07-05-2026 20:57:15@
+angio {ANA} {BOT} เส้นเลือด, ท่อลำเลียงอาหาร = vaskulo @18-03-2025 21:10:22@ @07-05-2026 20:59:12@
+angoro ความทุกข์ใจ, ความกังวลใจ = timego; angori //(ntr)// ทุกข์ใจ, กังวลใจ; angora ทุกข์ใจ, กังวลใจ @19-03-2025 08:33:35@ @07-05-2026 20:59:59@
+anheli //(ntr)// หอบ; anhelo อาการหอบ @19-03-2025 08:33:35@ @07-05-2026 21:00:23@
+animacio {KIN} การสร้างภาพแอนิเมชัน; animaciaĵo ภาพแอนิเมชัน, ผลงานแอนิเมชัน @19-03-2025 08:33:35@ @07-05-2026 21:00:46@
+anizo {KUI} ผลของต้นเทียนสัตตบุษย์, ลูกแอนิซ; anizujo {BOT} ต้นเทียนสัตตบุษย์, ต้นแอนิซ; stelanizo {BOT} โป๊ยกั้ก, จันทน์แปดกลีบ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dried_Star_Anise_Fruit_Seeds.jpg/500px-Dried_Star_Anise_Fruit_Seeds.jpg] @19-03-2025 08:33:35@ @07-05-2026 21:02:03@
+anksio {PSI} ความวิตกกังวล; anksia วิตกกังวล; ankise ด้วยความวิตกกังวล, อย่างวิตก @19-03-2025 08:33:35@ @07-05-2026 21:02:27@
+anofelo //(PIV)// {ZOO} ยุงก้นปล่อง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anopheles_stephensi.jpeg/500px-Anopheles_stephensi.jpeg] @19-03-2025 08:33:35@ @07-05-2026 21:02:46@
+anomalio ความวิปริต, ความผิดปกติ; anomalia วิปริต, ผิดปกติ @19-03-2025 08:33:35@ @07-05-2026 21:04:01@
+anonima ไม่ระบุชื่อ, นิรนาม; anonimeco การไม่เปิดเผยตัวตน; anonimulo บุคคลนิรนาม @19-03-2025 08:33:35@ @07-05-2026 21:05:08@
+anono {KUI} ลูกน้อยหน่า; anonarbo/anonujo ต้นน้อยหน่า IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Annona_diversifolia.jpg/500px-Annona_diversifolia.jpg] @19-03-2025 08:33:35@ @07-05-2026 21:05:08@
+antagonisto //(malofte)// ผู้ต่อต้าน, ผู้เป็นปรปักษ์, ศัตรู @19-03-2025 08:33:35@ @07-05-2026 21:06:15@
 Antarkto {GEOG} ขั้วโลกใต้; antarkta {GEOG} เกี่ยวกับบริเวณขั้วโลกใต้ @19-03-2025 08:33:35@
 antemo //(PIV)// {MUZ} เพลงที่มีคำร้องมาจากไบเบิล, //(ReVo)// {BOT} ต้นไม้ชนิดหนึ่ง @19-03-2025 08:33:35@
 anti- //(malofte)// //(prefikso)// {FIZ} {MED} {POL} ต่อต้าน, ยับยั้ง = kontraŭ- @20-03-2025 09:05:15@
