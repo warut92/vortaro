@@ -2862,20 +2862,20 @@ anomalio ความวิปริต, ความผิดปกติ; anom
 anonima ไม่ระบุชื่อ, นิรนาม; anonimeco การไม่เปิดเผยตัวตน; anonimulo บุคคลนิรนาม @19-03-2025 08:33:35@ @07-05-2026 21:05:08@
 anono {KUI} ลูกน้อยหน่า; anonarbo/anonujo ต้นน้อยหน่า IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Annona_diversifolia.jpg/500px-Annona_diversifolia.jpg] @19-03-2025 08:33:35@ @07-05-2026 21:05:08@
 antagonisto //(malofte)// ผู้ต่อต้าน, ผู้เป็นปรปักษ์, ศัตรู @19-03-2025 08:33:35@ @07-05-2026 21:06:15@
-Antarkto {GEOG} ขั้วโลกใต้; antarkta {GEOG} เกี่ยวกับบริเวณขั้วโลกใต้ @19-03-2025 08:33:35@
-antemo //(PIV)// {MUZ} เพลงที่มีคำร้องมาจากไบเบิล, //(ReVo)// {BOT} ต้นไม้ชนิดหนึ่ง @19-03-2025 08:33:35@
-anti- //(malofte)// //(prefikso)// {FIZ} {MED} {POL} ต่อต้าน, ยับยั้ง = kontraŭ- @20-03-2025 09:05:15@
-antibiotiko {BIO} {MED} ยาปฏิชีวนะ; antibiotika เกี่ยวกับยาปฏิชีวนะ @20-03-2025 09:05:15@
-anticipi //(x)// เตรียมตัวล่วงหน้า, คอยท่า, คาดหวัง, จ่ายก่อน; anticipa ก่อนหน้า, ล่วงหน้า; anticipe al //(prepoziciaĵo)// ก่อนเวลา, เตรียมพร้อมสำหรับ @20-03-2025 09:05:15@
-antidoto {MED} ยาแก้พิษ, ยาถอนพิษ =  kontraŭveneno @20-03-2025 09:05:15@
-antipatio ความเกลียดชังกัน, ความรังเกียจ; antipatia เกลียดชัง, รังเกียจ; antipatii //(x)// เกลียดชัง, รังเกียจ @20-03-2025 09:05:15@
-antologio {TIP} {BELA} หนังสือรวบรวมบทประพันธ์ของหลายนักเขียน
-antonimo {LIN} คำตรงข้าม; antonimeco {LIN} การมีความหมายตรงข้าม @20-03-2025 09:05:15@
-antracito {MIN} แอนทราไซต์, ถ่านหินชนิดแข็ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Antracita.jpg/500px-Antracita.jpg] @21-03-2025 08:41:04@
-antropologo {SCI} นักมานุษยวิทยา = antropologiisto @21-03-2025 08:41:04@
-antropologio {SCI} มานุษยวิทยา; antropologiisto นักมานุษยวิทยา @21-03-2025 08:41:04@
-apatio ความขาดความกระตือรือร้น, ไม่ยินดียินร้าย, เฉยเมยไร้อารมณ์ใด ๆ ทั้งสิ้น = malvigleco, indiferenteco @21-03-2025 08:41:04@
-apelacii //(ntr)// {JUR} (al) อุทธรณ์, //(f)// ขอร้อง, ร้องเรียน; apelacio {JUR} การอุธรณ์ @21-03-2025 08:41:04@
+Antarkto {GEOG} 1. ทวีปแอนตาร์กติกา, 2. ขั้วโลกใต้; antarkta {GEOG} เกี่ยวกับบริเวณขั้วโลกใต้ @19-03-2025 08:33:35@ @10-05-2026 17:23:02@
+antemo //(PIV)// {MUZ} เพลงที่มีคำร้องมาจากไบเบิล, //(ReVo)// {BOT} ต้นไม้ชนิดหนึ่ง @19-03-2025 08:33:35@ @10-05-2026 17:24:25@
+anti- //(malofte)// //(prefikso)// {FIZ} {MED} {POL} ต่อต้าน, ยับยั้ง = kontraŭ- @20-03-2025 09:05:15@ @10-05-2026 17:24:41@
+antibiotiko {BIO} {MED} ยาปฏิชีวนะ; antibiotika เกี่ยวกับยาปฏิชีวนะ @20-03-2025 09:05:15@ @10-05-2026 17:24:52@
+anticipi //(x)// 1. เตรียมตัวล่วงหน้า, คอยท่า, คาดหวัง, 2. จ่ายก่อน; anticipa ก่อนหน้า, ล่วงหน้า; anticipe al //(prepoziciaĵo)// ก่อนเวลา, เตรียมพร้อมสำหรับ @20-03-2025 09:05:15@ 
+antidoto {MED} ยาแก้พิษ, ยาถอนพิษ =  kontraŭveneno @20-03-2025 09:05:15@ @10-05-2026 17:30:55@
+antipatio ความเกลียดชังกัน, ความรังเกียจ = malsimpatio; antipatia เกลียดชัง, รังเกียจ; antipatii //(x)// เกลียดชัง, รังเกียจ = malsimpatii @20-03-2025 09:05:15@ @10-05-2026 17:31:55@
+antologio {TIP} {BELA} หนังสือรวบรวมบทประพันธ์ของหลายนักเขียน @20-03-2025 09:05:15@ @10-05-2026 17:34:28@
+antonimo {LIN} คำตรงข้าม; antonimeco {LIN} การมีความหมายตรงข้าม @20-03-2025 09:05:15@ @10-05-2026 17:35:24@
+antracito {MIN} แอนทราไซต์, ถ่านหินชนิดแข็ง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Antracita.jpg/500px-Antracita.jpg] @21-03-2025 08:41:04@ @10-05-2026 17:35:35@
+antropologo {SCI} นักมานุษยวิทยา = antropologiisto @21-03-2025 08:41:04@ @10-05-2026 17:35:47@
+antropologio {SCI} มานุษยวิทยา; antropologiisto นักมานุษยวิทยา @21-03-2025 08:41:04@ @10-05-2026 17:35:56@
+apatio ความขาดความกระตือรือร้น, ไม่ยินดียินร้าย, เฉยเมยไร้อารมณ์ใด ๆ ทั้งสิ้น = malvigleco, indiferenteco; apatia ขาดความกระตือรือร้น @21-03-2025 08:41:04@ @10-05-2026 17:36:44@
+apelacii //(ntr)// 1. {JUR} (al) อุทธรณ์, 2. //(f)// ขอร้อง, ร้องเรียน; apelacio {JUR} การอุธรณ์ @21-03-2025 08:41:04@ @10-05-2026 17:37:04@
 apendico {MED} ไส้ติ่ง, {TIP} ภาคผนวก = aldono; apendicito //(PIV)// {MED} โรคไส้ติ่งอักเสบ; apendicektomio การผ่าไส้ติ่ง @23-03-2025 11:37:47@
 aperitivo {KUI} เครื่องดื่มก่อนอาหาร >> Aperitif
 aperta เปิด = malfermita; aperti //(malofte)// //(ntr)// ถูกเปิด, //(tr)// (evitinde) เปิด; apertigi //(tr)// //(malofte)// เปิด = malfermi; apertaĵo ช่อง, รู = aperturo, malfermaĵo @23-03-2025 11:37:47@
