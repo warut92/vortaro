@@ -55,6 +55,8 @@ cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/(1)\. /gm, '① ')
 .replace(/(8)\. /gm, '⑧ ')
 .replace(/(9)\. /gm, '⑨ ')
 .replace(/(10)\. /gm, '⑩ ')
+//por rimarkaj notoj
+cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@rimarko:(.+?)\@/g, '<o><abbr title="$1">📝</abbr></o>')
 //por redakt-dato
 cxiuj_vortoj_HTML = cxiuj_vortoj_HTML.replace(/\@(.+?)\@/g, '<o><abbr title="$1">⏰</abbr></o>')
 //la etikedo por bildoj
