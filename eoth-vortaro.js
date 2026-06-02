@@ -2888,30 +2888,30 @@ arahanto //(PIV)// {BUD} อรหันต์ @23-03-2025 13:20:50@ @12-05-2026
 arakido 1. {BOT} ต้นถั่วลิสง, 2. {KUI} ถั่วลิสง @23-03-2025 13:20:50@ @12-05-2026 16:50:44@
 arako {KUI} บรั่นดีเอเชียชนิดหนึ่งมักกลั่นจากองุ่น มะพร้าว อ้อย @23-03-2025 13:20:50@ @12-05-2026 16:50:59@
 arbedo //(evitinde)// {BOT} ต้นไม้ที่มีลำต้นสั้นและมีกิ่งยาวมาถึงดิน = trunkarbusto //(Viki)// @23-03-2025 13:20:50@ @12-05-2026 16:51:31@
-arbitracio {JUR} {EKON} การตัดสินโดยอนุญาโตตุลาการ, การตัดสินชี้ขาด; arbitracii //(tr)// ตัดสินโดยมีผู้ชี้ขาด; arbitracianto/arbitraciulo/arbitraciisto {JUR} อนุญาโตตุลาการ, {SPO} กรรมการ, ผู้ตัดสิน @23-03-2025 13:20:50@
-arbusto {BOT} พุ่มไม้ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlehenbusch.jpg/500px-Schlehenbusch.jpg] @23-03-2025 13:20:50@
-ardeo {ZOO} นกกระสา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/H%C3%A9ron_au_bord_du_fleuve_Congo_%C3%A0_Kinshasa.jpg/500px-H%C3%A9ron_au_bord_du_fleuve_Congo_%C3%A0_Kinshasa.jpg] @23-03-2025 13:20:50@
-ardezo {MIN} หินชนวน; ardeza ทำจากหินชนวน: //ardeza tabuleto กระดานชนวน = skribardezo (Viki) // @23-03-2025 13:20:50@
-areko {BOT} ต้นหมาก, ผลหมาก; areknukso {BOT} ผลหมาก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Batelnut.JPG/500px-Batelnut.JPG] @23-03-2025 13:20:50@
-areno {ARKI} {SPO} สนามแข่ง; dancareno {SPO} ลานแข่งเต้น @23-03-2025 13:20:50@
-argano {TEK} ปั้นจั่น IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Argano_sollevatore_pesi_Leonardo_Museo_scienza_e_tecnologia_Milano.jpg/500px-Argano_sollevatore_pesi_Leonardo_Museo_scienza_e_tecnologia_Milano.jpg] @23-03-2025 13:20:50@
-argono {KEM} อาร์กอน [Ar] @11-04-2024 21:36:28@
+arbitracio {JUR} {EKON} การตัดสินโดยอนุญาโตตุลาการ, การตัดสินชี้ขาด; arbitracii //(tr)// ตัดสินโดยมีผู้ชี้ขาด; arbitracianto/arbitraciulo/arbitraciisto 1. {JUR} อนุญาโตตุลาการ, 2. {SPO} กรรมการ, ผู้ตัดสิน @23-03-2025 13:20:50@ @02-06-2026 20:19:05@
+arbusto {BOT} พุ่มไม้ IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlehenbusch.jpg/500px-Schlehenbusch.jpg] @23-03-2025 13:20:50@ @02-06-2026 20:19:24@
+ardeo {ZOO} นกกระสา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/H%C3%A9ron_au_bord_du_fleuve_Congo_%C3%A0_Kinshasa.jpg/500px-H%C3%A9ron_au_bord_du_fleuve_Congo_%C3%A0_Kinshasa.jpg] @23-03-2025 13:20:50@ @02-06-2026 20:20:08@
+ardezo {MIN} หินชนวน; ardeza ทำจากหินชนวน: //ardeza tabuleto กระดานชนวน = skribardezo (Viki) // @23-03-2025 13:20:50@ @02-06-2026 20:20:42@
+areko 1. {BOT} ต้นหมาก, 2. ผลหมาก; areknukso {BOT} ผลหมาก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Batelnut.JPG/500px-Batelnut.JPG] @23-03-2025 13:20:50@ @02-06-2026 20:21:21@
+areno 1. {ARKI} {SPO} สนามแข่ง, 2. //(f)// สนาม, พื้นที่ (นามธรรม); dancareno {SPO} ลานแข่งเต้น @23-03-2025 13:20:50@ @02-06-2026 20:22:32@
+argano 1. {TEK} ปั้นจั่น, 2. //(evitinde)// นกกระเรียน = gruo IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Argano_sollevatore_pesi_Leonardo_Museo_scienza_e_tecnologia_Milano.jpg/500px-Argano_sollevatore_pesi_Leonardo_Museo_scienza_e_tecnologia_Milano.jpg] @23-03-2025 13:20:50@
+argono {KEM} อาร์กอน [Ar] @11-04-2024 21:36:28@ @02-06-2026 20:24:15@
 arĥ… //(PIV)// = ค้นหา ark… @23-03-2025 13:20:50@
-ariero //(PIV)// {MIL} กองหลัง, แนวหลัง; arierulo {SPO} ผู้เล่นกองหลัง = defendanto @23-03-2025 14:12:01@
-ario {MUZ} คำร้องสำหรับร้องเดี่ยวในการแสดงโอเปร่า @23-03-2025 14:12:01@
-aristokrato ชนชั้นสูง, ผู้ดี = nobelo @23-03-2025 14:12:01@
-aritmetiko {MAT} เลขคณิต, ทฤษฎีจำนวน @23-03-2025 14:12:01@
-arkaa //(PIV)// โบราณ, เลิกใช้ = arkaika; arkaismo //(PIV)// คำโบราณ, คำเก่า
-arĥaika/arkaika โบราณ, เลิกใช้ = ekstempa; arĥaikaĵo/arkaikaĵo ของโบราณ, ของที่เลิกใช้ @23-03-2025 14:12:24@
-arĥaismo/arkaismo {LIN} คำโบราณ, คำเก่า >> neologismo, แบบเก่า @23-03-2025 14:12:01@
-arkado {ARKI} หลังคาโค้งที่อยู่ระหว่างเสา, {SPO} เครื่องเล่นเกมอาร์เคด; arkadaro หลังคาโค้งหลายอัน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Great_Mosque_of_Kairouan_gallery.jpg/500px-Great_Mosque_of_Kairouan_gallery.jpg] @23-03-2025 14:12:01@
-arkeologio/arĥeologio {ARKE} {SCI} โบราณคดี; arkeologia, arĥeologia เกี่ยวกับโบราณคดี, ยุคโบราณ; arkeologiisto {ARKE} นักโบราณคดี; subakva arkeologio/submara arkeologio {ARKE} โบราณคดีใต้น้ำ @23-03-2025 14:12:01@
-arketipo/arĥetipo {FIL} ต้นแบบ, แม่แบบ, ตัวอย่างดั้งเดิม = pratipo @23-03-2025 14:12:01@
-arkipelago {GEOG} หมู่เกาะ = insularo, ทะเลบริเวณที่มีหมู่เกาะบริเวณประเทศกรีซและตุรกี IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Aegeansea.jpg/500px-Aegeansea.jpg]  @23-03-2025 14:12:01@
-arĥitekto/arkitekto {AKRI} สถาปนิก = arĥitekturisto @23-03-2025 14:44:05@
-arĥitekturo/arkitekturo {AKRI} {BELA} {KOMP} สถาปัตยกรรม; arĥitekturisto/arkitekturisto {AKRI} สถาปนิก @23-03-2025 14:44:05@
-arĥivo/arkivo หอจดหมายเหตุ, ที่เก็บเอกสารสำคัญ; arĥivi/arkivi เอาเข้าแฟ้ม; arĥivado/arkivado การเก็บถาวร; arĥivaĵo/arkivaĵo เอกสารในแฟ้ม, จดหมายเหตุ; arĥivejo/arkivejo สถานที่เก็บเอกสารสำคัญ, หอจดหมายเหตุ; arĥivisto/arkivisto ผู้เก็บและดูแลเอกสารหรือบันทึกสำคัญ นักจดหมายเหตุ @23-03-2025 14:44:05@
-Arkto {GEOG} ขั้วโลกเหนือ; arkta เกี่ยวกับขั้วโลกเหนือ, อย่างเช่นขั้วโลกเหนือ @23-03-2025 14:44:05@
+ariero //(PIV)// {MIL} กองหลัง, แนวหลัง; arierulo {SPO} ผู้เล่นกองหลัง = defendanto @23-03-2025 14:12:01@ @02-06-2026 20:25:45@
+ario {MUZ} คำร้องสำหรับร้องเดี่ยวในการแสดงโอเปร่า @23-03-2025 14:12:01@ @02-06-2026 20:26:08@
+aristokrato ชนชั้นสูง, ผู้ดี = nobelo @23-03-2025 14:12:01@ @02-06-2026 20:26:58@
+aritmetiko {MAT} เลขคณิต, ทฤษฎีจำนวน [...] @23-03-2025 14:12:01@ @02-06-2026 20:30:05@
+arkaa //(PIV)// โบราณ, เลิกใช้ = arkaika; arkaismo //(PIV)// คำโบราณ, คำเก่า @02-06-2026 20:34:54@
+arĥaika/arkaika โบราณ, เลิกใช้ = ekstempa; arĥaikaĵo/arkaikaĵo ของโบราณ, ของที่เลิกใช้ @23-03-2025 14:12:24@ @02-06-2026 20:36:05@
+arĥaismo/arkaismo 1. {LIN} คำโบราณ, คำเก่า >> neologismo, 2. แบบเก่า, สไตล์เก่า, โบราณ @23-03-2025 14:12:01@ @02-06-2026 20:35:39@
+arkado 1. {ARKI} หลังคาโค้งที่อยู่ระหว่างเสา, 2. //(Viki)// {SPO} เครื่องเล่นเกมอาร์เคด; arkadaro หลังคาโค้งหลายอัน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Great_Mosque_of_Kairouan_gallery.jpg/500px-Great_Mosque_of_Kairouan_gallery.jpg] @23-03-2025 14:12:01@ @02-06-2026 20:37:48@
+arkeologio/arĥeologio {ARKE} {SCI} โบราณคดี; arkeologia, arĥeologia 1. เกี่ยวกับโบราณคดี, 2. ยุคโบราณ; arkeologiisto {ARKE} นักโบราณคดี = arkeologo; subakva arkeologio/submara arkeologio {ARKE} โบราณคดีใต้น้ำ @23-03-2025 14:12:01@ @02-06-2026 20:38:50@
+arketipo/arĥetipo {FIL} ต้นแบบ, แม่แบบ, ตัวอย่างดั้งเดิม = pratipo @23-03-2025 14:12:01@ @02-06-2026 20:39:08@
+arkipelago 1. {GEOG} หมู่เกาะ = insularo, 2. {GEOG} ทะเลบริเวณที่มีหมู่เกาะบริเวณประเทศกรีซและตุรกี IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Aegeansea.jpg/500px-Aegeansea.jpg] @23-03-2025 14:12:01@ @02-06-2026 20:39:48@
+arĥitekto/arkitekto {AKRI} สถาปนิก = arĥitekturisto @23-03-2025 14:44:05@ @02-06-2026 20:40:05@
+arĥitekturo/arkitekturo 1. {AKRI} {BELA} สถาปัตยกรรม, 2. {KOMP} สถาปัตยกรรมของระบบคอมพิวเตอร์; arĥitekturisto/arkitekturisto {AKRI} สถาปนิก @23-03-2025 14:44:05@
+arĥivo/arkivo 1. หอจดหมายเหตุ, 2. ที่เก็บเอกสารสำคัญ; arĥivi/arkivi เอาเข้าแฟ้ม; arĥivado/arkivado การเก็บถาวร; arĥivaĵo/arkivaĵo เอกสารในแฟ้ม, จดหมายเหตุ; arĥivejo/arkivejo สถานที่เก็บเอกสารสำคัญ, หอจดหมายเหตุ; arĥivisto/arkivisto ผู้เก็บและดูแลเอกสารหรือบันทึกสำคัญ, นักจดหมายเหตุ @23-03-2025 14:44:05@ @02-06-2026 20:41:58@
+Arkto {GEOG} ขั้วโลกเหนือ; arkta เกี่ยวกับขั้วโลกเหนือ, อย่างเช่นขั้วโลกเหนือ @23-03-2025 14:44:05@ @02-06-2026 20:42:14@
 armistico {MIL} การสงบศึกชั่วคราว >> militpaŭzo @23-03-2025 14:44:05@
 aroganta ยโส, หยิ่ง, จองหอง, ถือดี, ทะนงตน; aroganto/aroganteco ความยโส, ความหยิ่ง, ความจองหอง, ความถือดี, ความทะนงตน; arogantaĵo ยโส, การหยิ่ง, การจองหอง, การถือดี, การทะนงตน; arogantulo ผู้ที่มีความหยิ่งยโส, ผู้ที่มีความจองหอง, ผู้ที่ถือดี, ผู้ที่ทะนงตน @23-03-2025 14:44:05@
 arogi //(tr)// //(al si ion)// แอบอ้าง, เหมาเอา, ถือสิทธิ์, ทึกทัก >> uzurpi @23-03-2025 14:44:05@
