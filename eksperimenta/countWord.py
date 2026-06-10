@@ -1,5 +1,6 @@
 # Define the path to the external text file
-file_path = "../eoth-vortaro.js"
+# file_path = "../eoth-vortaro.js"
+file_path = "./bro-kvanto"
 
 # Open the file and read its content
 with open(file_path, "r", encoding="utf-8") as file:

@@ -1,35 +1,35 @@
-Komenclitero: '>' => 1 linioj.
-Komenclitero: '`' => 1 linioj.
-Komenclitero: '-' => 48 linioj.
-Komenclitero: '<' => 57 linioj.
-Komenclitero: 'ŭ' => 2 linioj.
-Komenclitero: 'ĥ' => 7 linioj. ++ 250712
-Komenclitero: 'z' => 19 linioj. ++ 250712
-Komenclitero: 'ĵ' => 22 linioj. ++ 250719
-Komenclitero: 'ĝ' => 25 linioj. ++ 250712
-Komenclitero: 'u' => 33 linioj. ++ 250719
-Komenclitero: 'j' => 44 linioj. ++ 250719
-Komenclitero: 'ĉ' => 60 linioj. ++ 250720
-Komenclitero: 'c' => 64 linioj. ++ 250726 esperanto-tago!
-Komenclitero: 'ŝ' => 81 linioj. ++ 250824
-Komenclitero: 'o' => 111 linioj.// ++250924
-Komenclitero: 'n' => 116 linioj.// ++250928
-Komenclitero: 'h' => 130 linioj.// ++251013
-Komenclitero: 'g' => 148 linioj.// ++251022
-Komenclitero: 'i' => 156 linioj.// ++251024
-Komenclitero: 'l' => 171 linioj.// 240727 ++251101
-Komenclitero: 'v' => 182 linioj. // 240729 ++251102
-Komenclitero: 'e' => 200 linioj. // 240825 ++251129
-Komenclitero: 'r' => 216 linioj. // 240928 ++251213
-Komenclitero: 'd' => 251 linioj. // 241013 ++260104
-Komenclitero: 'f' => 261 linioj. 8 // 241103 ++260125
-Komenclitero: 'b' => 268 linioj. 7 // 241201 ++ 260301
-Komenclitero: 'm' => 300 linioj. 6 // 250119 ++ 260409
-Komenclitero: 't' => 310 linioj. 5 // 250227 ++ 260427
-Komenclitero: 'a' => 459 linioj. 4 // 250325 ++ 260607 **
-Komenclitero: 'p' => 492 linioj. 3 158 // 250405 **
-Komenclitero: 's' => 522 linioj. 2 259 // 250417
-Komenclitero: 'k' => 626 linioj. 1 243 // 250426
+vorto:o: '>' => 1 linioj.
+vorto:o: '`' => 1 linioj.
+vorto:o: '-' => 48 linioj.
+vorto:o: '<' => 57 linioj.
+vorto:o: 'ŭ' => 2 linioj.
+vorto:o: 'ĥ' => 7 linioj. ++ 250712
+vorto:o: 'z' => 19 linioj. ++ 250712
+vorto:o: 'ĵ' => 22 linioj. ++ 250719
+vorto:o: 'ĝ' => 25 linioj. ++ 250712
+vorto:o: 'u' => 33 linioj. ++ 250719
+vorto:o: 'j' => 44 linioj. ++ 250719
+vorto:o: 'ĉ' => 60 linioj. ++ 250720
+vorto:o: 'c' => 64 linioj. ++ 250726 esperanto-tago!
+vorto:o: 'ŝ' => 81 linioj. ++ 250824
+vorto:o: 'o' => 111 linioj.// ++250924
+vorto:o: 'n' => 116 linioj.// ++250928
+vorto:o: 'h' => 130 linioj.// ++251013
+vorto:o: 'g' => 148 linioj.// ++251022
+vorto:o: 'i' => 156 linioj.// ++251024
+vorto:o: 'l' => 171 linioj.// 240727 ++251101
+vorto:o: 'v' => 182 linioj. // 240729 ++251102
+vorto:o: 'e' => 200 linioj. // 240825 ++251129
+vorto:o: 'r' => 216 linioj. // 240928 ++251213
+vorto:o: 'd' => 251 linioj. // 241013 ++260104
+vorto:o: 'f' => 261 linioj. 8 // 241103 ++260125
+vorto:o: 'b' => 268 linioj. 7 // 241201 ++ 260301
+vorto:o: 'm' => 300 linioj. 6 // 250119 ++ 260409
+vorto:o: 't' => 310 linioj. 5 // 250227 ++ 260427
+vorto:o: 'a' => 459 linioj. 4 // 250325 ++ 260607 **
+vorto:o: 'p' => 492 linioj. 3 158 // 250405 **
+vorto:o: 's' => 522 linioj. 2 259 // 250417
+vorto:o: 'k' => 626 linioj. 1 243 // 250426
 Total number of lines: 5388
 // mi intencas kontroli ĉiujn vortojn dum 3 jaroj. 
 La unua kontrolo finiĝis en 250426
@@ -37,8 +37,38 @@ La dua kontrolo estas ...
 listo de landnomoj: 102 finiĝis ĉ. 250712
 //
 1-a faco estis kontroli ĉiujn vortojn (kiujn mi prenis de Greffrey) [jam faris!]
-2-a faco estas kontroli vortojn lau ReVo. [ankoraux faras!]
+2-a faco estas kontroli vortojn lau ReVo. [finfaris 260607!]
 3-a faco estos kontroli la vortoliston de bazaj vortoj al pli detala.
+vorto: 'ŭ' appears 2 times. @10-06-2026 18:20:30@
+vorto: 'ĥ' appears 4 times.
+vorto: 'ĵ' appears 6 times.
+vorto: 'z' appears 10 times.
+vorto: 'ĝ' appears 16 times.
+vorto: 'u' appears 16 times.
+vorto: 'j' appears 22 times.
+vorto: '<' appears 28 times.
+vorto: 'c' appears 38 times.
+vorto: 'ĉ' appears 39 times.
+vorto: '-' appears 48 times.
+vorto: 'ŝ' appears 53 times.
+vorto: 'h' appears 56 times.
+vorto: 'o' appears 59 times.
+vorto: 'n' appears 60 times.
+vorto: 'g' appears 72 times.
+vorto: 'i' appears 87 times.
+vorto: 'e' appears 89 times.
+vorto: 'l' appears 94 times.
+vorto: 'v' appears 104 times.
+vorto: 'd' appears 105 times.
+vorto: 'r' appears 122 times.
+vorto: 'b' appears 126 times.
+vorto: 't' appears 148 times.
+vorto: 'm' appears 160 times.
+vorto: 'f' appears 161 times.
+vorto: 'a' appears 192 times.
+vorto: 's' appears 224 times.
+vorto: 'p' appears 275 times.
+vorto: 'k' appears 314 times.
 listo de 2023: 286
 
 Mi esperas, ke mi povos eldoni la unuan version kiel paperan vortaron en la jaro 2028
