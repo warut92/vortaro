@@ -40,7 +40,7 @@ listo de landnomoj: 102 finiĝis ĉ. 250712
 2-a faco estas kontroli vortojn lau ReVo. [finfaris 260607!]
 3-a faco estos kontroli la vortoliston de bazaj vortoj al pli detala.
 vorto: 'ŭ' appears 2 times. @10-06-2026 18:20:30@
-vorto: 'ĥ' appears 4 times.
+vorto: 'ĥ' appears 4 times. @11-06-2026 13:51:43@
 vorto: 'ĵ' appears 6 times.
 vorto: 'z' appears 10 times.
 vorto: 'ĝ' appears 16 times.

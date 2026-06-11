@@ -926,8 +926,8 @@ hundo {UL} [4] {ZOO} สุนัข, หมา
 <!-- Ĥ -->
 ĥameleono/kameleono [x] กิ้งก่าคามิเลียน; Ĥameleono {AST} กลุ่มดาวกิ้งก่าคะมีเลียน; ĥameleona //(f)// เปลี่ยนแปลงได้รวดเร็วตามธรรมชาติ @10-06-2026 18:22:22@
 ĥaoso/kaoso [x] ความยุ่งเหยิง, ความวุ่นวาย, ความสับสนอลหม่าย, 1. {MIT} ภาวะโกลาหล, 2. //(f)// ความยุ่งเหยิง, ความวุ่นวาย, ความสับสนอลหม่าย; ĥaosa/kaosa ยุ่งเหยิง, วุ่นวาย, สับสนอลหม่าย, ไร้ระเบียบ; ĥaose/kaose ด้วยความยุ่งเหยิง; ĥaosigi ทำให้เกิดความยุ่งเหยิง @19-04-2025 09:31:55@
-ĥemio [8] = kemio [w] เคมี
-ĥoro [9] = koruso [w] การร้องประสานเสียง
+ĥemio [8]/kemio {KEM} {SCI} เคมี; ĥemia/kemia เกี่ยวกับเคมี; ĥemiaĵo/kemiaĵo 1. สารเคมี, 2. ผลิตภัณฑ์เคมี; ĥemiisto/kemiisto {KEM} {SCI} นักเคมี; elektroĥemio {KEM} {SCI} เคมีไฟฟ้า; elektroĥemia/elektrokemia เกี่ยวกับเคมีไฟฟ้า; imunoĥemio {BAK} {SCI} เคมีภูมิคุ้มกัน; neorganika ĥemio {KEM} เคมีอนินทรีย์; organika ĥemio {KEM} เคมีอินทรีย์; petrolĥemio {KEM} {SCI} วิชาเคมีที่ปิโตรเลียม @11-06-2026 13:39:35@
+ĥoro [9] 1. {MUZ} คณะนักร้องประสานเสียง = koruso, 2. {MUZ} เพลงประสานเสียง = ĥoraĵo, 3. {TEA} นักแสดงรับบทออกความเห็น; ĥoraĵo {MUZ} เพลงประสานเสียง; ĥorano {MUZ} นักร้องประสานเสียง = kurusano; ĥorejo {KON} {KRI} ห้องนักร้องประสานเสียง; ĥorestro {MUZ}หัวหน้าคณะนักร้องประสานเสียง; ĥoristo {MUZ} นักร้องประสานเสียง(อาชีพ) @11-06-2026 13:49:14@
 <!-- I -->
 -i {UL} [0] //(fin)// ตัวลงท้ายของกริยาไม่แสดงกาล (ใช้ต่อจากกริยาที่ผันแล้ว //Mi povas paroli Esperanton ผมสามารถพูดภาษาเอสเปรันโต//, หรือใช้เป็นอาการนามขึ้นต้นประโยค //resti kun leono estas danĝere [w] การอาศัยอยู่กับสิงโตเป็นสิ่งที่อันตราย//)
 ia {UL} [1] //(adj)// บางอย่าง, ชนิดใดชนิดหนึ่ง; iafoje [9] บางครั้ง
@@ -1054,9 +1054,9 @@ juro [8] กฎหมาย → leĝo
 justa {UL} [4] ยุติธรรม; justeco [w] ความยุติธรรม
 juvelo [8] เพชรพลอย
 <!-- Ĵ -->
-ĵaluza [8] อิจฉา, หึง → envii
-ĵaŭdo {UL} [5] วันพฤหัสบดี
-ĵeti {UL} [3] //(tr)// ขว้าง, ปา; forĵeti [w] ขว้างทิ้ง, ทิ้ง
+ĵaluza [8] 1. อิจฉา, 2. หึง, หวาดระแวง → envii; ĵaluzo ความอิจฉา, ความหึงหวง; ĵaluzi //(x)// อิจฉา, หึง, หวาดระแวง @11-06-2026 14:03:48@
+ĵaŭdo {UL} [5] {KAL} วันพฤหัสบดี @11-06-2026 14:04:38@
+ĵeti {UL} [3] //(tr)// ขว้าง, ปา; ĵeto ; ĵetegi ; ĵetiĝi ; ĵetiĝadi ; ĵetilo ; deĵeti ; disĵeti ; disĵeto ; disĵeta ; dissurĵeta ; dissurĵeto ; ekĵeti ; elĵeti ; elĵetaĵo/forĵetaĵo/forĵetindaĵo ; elĵetulo ; enĵeto ; enĵeta; forĵeti [w] ขว้างทิ้ง, ทิ้ง; forĵetaĵo ; forĵetinda ; surĵeta ; surĵeti ; surĵeto ; ŝtonĵeto ; akvoĵetilo ; ŝtonĵetilo
 ĵuri {UL} [8] //(tr)// สาบาน
 ĵurnalo [8] หนังสือพิมพ์; ĵurnaristo [w] นักข่าว, นักหนังสือพิมพ์; ĵurnalismo [w] วารสารศาสตร์, การหนังสือพิมพ์
 ĵus [1] //(adv)// เพิ่งจะ
