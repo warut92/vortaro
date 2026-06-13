@@ -1056,10 +1056,10 @@ juvelo [8] เพชรพลอย
 <!-- Ĵ -->
 ĵaluza [8] 1. อิจฉา, 2. หึง, หวาดระแวง → envii; ĵaluzo ความอิจฉา, ความหึงหวง; ĵaluzi //(x)// อิจฉา, หึง, หวาดระแวง @11-06-2026 14:03:48@
 ĵaŭdo {UL} [5] {KAL} วันพฤหัสบดี @11-06-2026 14:04:38@
-ĵeti {UL} [3] //(tr)// ขว้าง, ปา; ĵeto ; ĵetegi ; ĵetiĝi ; ĵetiĝadi ; ĵetilo ; deĵeti ; disĵeti ; disĵeto ; disĵeta ; dissurĵeta ; dissurĵeto ; ekĵeti ; elĵeti ; elĵetaĵo/forĵetaĵo/forĵetindaĵo ; elĵetulo ; enĵeto ; enĵeta; forĵeti [w] ขว้างทิ้ง, ทิ้ง; forĵetaĵo ; forĵetinda ; surĵeta ; surĵeti ; surĵeto ; ŝtonĵeto ; akvoĵetilo ; ŝtonĵetilo
-ĵuri {UL} [8] //(tr)// สาบาน
-ĵurnalo [8] หนังสือพิมพ์; ĵurnaristo [w] นักข่าว, นักหนังสือพิมพ์; ĵurnalismo [w] วารสารศาสตร์, การหนังสือพิมพ์
-ĵus [1] //(adv)// เพิ่งจะ
+ĵeti {UL} [3] //(tr)// ขว้าง, ปา, โยนไป, 1. ขว้าง, ปา, เขวี่ยง, โยนไป, 2. ยื่น, เยียด (อวัยวะ), 3. จับจ้อง, จดจ่อ, 4. พลัก, พลักไส, 5. {MAT} ส่ง, แมป; ĵeto 1. การขว้าง, การปา, การขว้างปา, 2. {MAT} = bildigo; ĵetegi ขว้าง, เหวี่ยง; ĵetiĝi ถูกขว้าง, ถูกปา, ถูกโยน, ถูกนำไป; ĵetiĝadi เดินกลับไปกลับมา, กลิ้งไปมา; ĵetilo เครื่องยิง, ที่ยิงหนังสติ๊ก; deĵeti ขว้างไปไกล; disĵeti ขว้างกระจาย; disĵeto {MAT} หนึ่งต่อหนึ่ง; disĵeta {MAT} เกี่ยวกับหนึ่งต่อหนึ่ง = enjekcia; dissurĵeta {MAT} หนึ่งต่อหนึ่งทั่วถึง = bijekcia; dissurĵeto {MAT} หนึ่งต่อหนึ่งทั่วถึง = bijekcio; ekĵeti //(tr)// พุ่งออกมา; elĵeti //(tr)// พ่นออกมา, ปล่อยออกมา; elĵetaĵo/forĵetaĵo/forĵetindaĵo สิ่งไร้ประโยชน์, ขยะ; elĵetulo ผู้ที่สังคมขับออก; enĵeto {MAT} //(evitinde)// = disĵeto, enjekcio; enĵeta {MAT} //(evitinde)// = disĵeta, enjekcia; forĵeti [w] //(tr)// ทิ้ง, โยนทิ้ง; forĵetaĵo ขยะ; forĵetinda เหมือนขยะ, สมควรทิ้ง; surĵeta {MAT} = surjekcia; surĵeti โยนไปบน, ขว้างไปบน; surĵeto {MAT} ฟังก์ชันทั่วถึง; ŝtonĵeto ระยะขว้างหิน (ระยะที่คนเราขว้างหินได้ไกลที่สุด); akvoĵetilo เครื่องฉีดน้ำ = akvokanono; ŝtonĵetilo เครื่องยิงหิน = katapulto @13-06-2026 10:54:17@
+ĵuri {UL} [8] //(tr)// สาบาน; ĵuro คำสาบาน; ĵura เกี่ยวกับคำสาบาน; jeĵuri //(tr)// อ้อนวอน = ĵurpeti; kunĵuri สมคบคิด = konspiri; ĵurigi/ĵurligi (iun) สาบานว่า(คน); ĵurpeti อ้อนวอน; ĵurrompo การผิดคำสาบาน @13-06-2026 11:01:11@
+ĵurnalo [8] หนังสือพิมพ์, 1. {TIP} หนังสือพิมพ์, นิตยสาร, 2. วารสาร; ĵurnalismo [w] วารสารศาสตร์, การหนังสือพิมพ์; ĵurnaristo [w] นักข่าว, นักหนังสือพิมพ์; esplorĵurnalisto นักข่าวที่เป็นผู้หาข้อมูลจากพื้นที่จริง; fotoĵurnalisto นักข่าวช่างภาพ @13-06-2026 11:13:19@
+ĵus [1] //(adv)// เพิ่งจะ; ĵusa ซึ่งเพิ่งจะเกิด  @13-06-2026 11:14:18@
 <!-- K -->
 kabano [9] กระท่อม
 kabineto [8] ห้องทำงานเฉพาะ, คณะรัฐมนตรี = ministraro
