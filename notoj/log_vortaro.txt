@@ -1,3 +1,6 @@
+ปูมการตรวจคำ 
+ตรงนี้เป็นรอบที่ 1 และ 2 ซึ่งในรอบที่ 2 เป็นการเพิ่มความหมายที่ 1 2 3 ... ตาม Reta Vortaro  เริ่มตั้งแต่ปี 2024 เสร็จ 2026
+ส่วนในรอบ 1 นั้นเป็นเริ่มตั้งแต่การนำคำศัพท์เข้ามา จากนั้นมีการตรวจเฉพาะคำในรายการคำของ BRO และเมื่อดำเนินการเสร็จแล้ว จึงมาตรวจความหมายและเพิ่มคำศัพท์ตาม Reta Vortaro แต่มิได้เพิ่มความหมาย 1 2 3 ... อย่างครบถ้วน เพียงแต่เป็นการดูความถูกต้องตั้งแต่ A - Z
 vorto:o: '>' => 1 linioj.
 vorto:o: '`' => 1 linioj.
 vorto:o: '-' => 48 linioj.
@@ -39,9 +42,11 @@ listo de landnomoj: 102 finiĝis ĉ. 250712
 1-a faco estis kontroli ĉiujn vortojn (kiujn mi prenis de Greffrey) [jam faris!]
 2-a faco estas kontroli vortojn lau ReVo. [finfaris 260607!]
 3-a faco estos kontroli la vortoliston de bazaj vortoj al pli detala.
+
+ปูมการตรวจคำครั้งที่ 3 ตรวจความถูกต้องแต่เพิ่มคำศัพท์ในรายการคำศัพท์ BRO เพิ่มความหยาม 1 2 3 ตาม Reta Vortaro
 vorto: 'ŭ' appears 2 times. @10-06-2026 18:20:30@
 vorto: 'ĥ' appears 4 times. @11-06-2026 13:51:43@
-vorto: 'ĵ' appears 6 times.
+vorto: 'ĵ' appears 6 times. @13-06-2026 16:36:08@
 vorto: 'z' appears 10 times.
 vorto: 'ĝ' appears 16 times.
 vorto: 'u' appears 16 times.

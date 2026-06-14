@@ -91,6 +91,12 @@ Z [BRO],
     vortaro = vortaro.replace(/;/gm, '&;').replace(/\n/gm, '&;')
     vortaro = vortaro.split(/;/g)
     console.log(vortaro);
+
+    //ตัดความหมายระดับลึกออก
+    vortaro = vortaro.map(item =>
+    item.replace(/,\s*\d+\..*/, "")
+);
+
     //serĉi nur array kiuj enhavas "[\d]"
     let sxablono_regex = / \[\d{1}|ω|x\]/;
     // let sxablono_regex = /-o/gm;
