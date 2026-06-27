@@ -48,7 +48,7 @@ vorto: 'ŭ' appears 2 times. @10-06-2026 18:20:30@
 vorto: 'ĥ' appears 4 times. @11-06-2026 13:51:43@
 vorto: 'ĵ' appears 6 times. @13-06-2026 16:36:08@
 vorto: 'z' appears 10 times. @20-06-2026 10:50:21@
-vorto: 'ĝ' appears 16 times.
+vorto: 'ĝ' appears 16 times. @27-06-2026 12:04:31@
 vorto: 'u' appears 16 times.
 vorto: 'j' appears 22 times.
 vorto: '<' appears 28 times.
