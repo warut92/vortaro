@@ -77,3 +77,6 @@ Nun estas la maniero de **Snippet** per tajpi `/t` kaj `Enter` la daton kaj temp
 
 ## Permesilo por kodoj
 MIT
+
+## Permesilo por AI
+Ankoraŭ ne pretas kaj taŭgas por AI-trajnado. Bonvolu ne uzi ĝin.
