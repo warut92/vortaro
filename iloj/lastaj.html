@@ -112,7 +112,7 @@
     let KAPVORTA_KVANTO = 20
     const RE_ARANĜITA_REZULTO_BEZONATA = RE_ARANĜITA_REZULTO.slice(0,KAPVORTA_KVANTO)
     // console.log(RE_ARANĜITA_REZULTO_BEZONATA);
-    //MONTRU LA REDAKTITAJN LINIOJN ALŬ LA TAGO
+    //MONTRU LA REDAKTITAJN LINIOJN LAŬ LA TAGO
     //STRING
     document.getElementById("lastaj").innerHTML = RE_ARANĜITA_REZULTO_BEZONATA.toString().replace(/,(?!\s)/g, "<hr>");
 
@@ -134,7 +134,7 @@
     statistiko_dato_str = statistiko_dato_str.replace(/@/g,"🕧")
 
     const statistiko_dato_ARR = statistiko_dato_str.trim().split("\n")
-
+console.log(statistiko_dato_ARR);
     const fojo = {};
 
     statistiko_dato_ARR.forEach(date => {
