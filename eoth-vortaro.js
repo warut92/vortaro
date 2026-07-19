@@ -1030,13 +1030,13 @@ ironio [9] คำเหน็บแนม, คำประชด
 iu {UL} [1] //(pro)// คนใดคนหนึ่ง, สิ่งใดสิ่งหนึ่ง //(adj)// บาง…
 izoli [9] //(tr)// แยกออก, แยกตัวออก, ทำให้เป็นฉนวน
 <!-- J -->
--j {UL} [0] //(fin)// ตัวลงท้ายแสดงความเป็นพหูพจน์
+-j {UL} [0] {GRA} //(fin)// ตัวลงท้ายแสดงความเป็นพหูพจน์ @19-07-2026 10:27:17@ 
 ja {UL} [1] อย่างแท้จริง, แน่นนอน
-jaĥto [x] เรือยอร์ช
-jako [6] เสื้อแจ็คเก็ต
-jam {UL} [1] //(adv)// แล้ว
-Januaro [5] เดือนมกราคม
-jaro {UL} [2] ปี; ĉiujare [w] ทุกปี; novjaro [w] วันขึ้นปีใหม่
+jaĥto/jakto [x] {MAR} เรือยอร์ช @19-07-2026 10:28:42@
+jako [6] {TEKS} เสื้อแจ็คเก็ต; jaketo 1. {TEKS} เสื้อแจ็คเก็ตตัวเล็ก, 2. {TIP} ใบหุ้มปก; trikjako/trikita jako เสื้อสเวตเตอร์ถัก IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dario_Solari_72_1_%288977592041%29.jpg/500px-Dario_Solari_72_1_%288977592041%29.jpg] @19-07-2026 10:33:58@
+jam {UL} [1] //(adv)// แล้ว; jama ตอนนี้, ณ ตอนนี้; maljam //(malofte)// หลังจากนั้น, ต่อจากนั้น; jam ne ไม่มีอีกแล้ว @19-07-2026 10:33:58@
+Januaro [5] เดือนมกราคม; januara เกี่ยวกับเดือนมกราคม @19-07-2026 10:44:10@
+jaro {UL} [2] ปี, 1. {AST} ปี, 2. {KAL} ปี; superjaro {KAL} ปีอธิกสุรทิน; centjaro //(akr)// ศตวรรษ = jarcento; ĉiujara [w] ทุกปี, ทุก ๆ ปี; ĉiudujara ทุกสองปี; dekjaro //(akr)// ทศวรรษ = jardeko; dekkelkjarulo วัยรุ่น (13-19 ปี); duonjaro 1. {AST} ครึ่งปี, 2. ครึ่งปี = jarduono; lumjaro {AST} ปีแสง; miljaro //(akr)// สหัสวรรษ = jarmilo; Novjaro [w] {KAL} วันขึ้นปีใหม่; provjaro ปีทดลองงาน; studjaro {PED} ปีการศึกษา @19-07-2026 10:59:05@
 je {UL} [1] //(prep)// ใน, ที่, ต่อ
 jen {UL} [1] นี่, ดูสิ
 jes {UL} [1] ใช่; kapjesi [w] พยักหน้าใช่
