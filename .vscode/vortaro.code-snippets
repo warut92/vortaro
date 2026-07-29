@@ -508,5 +508,9 @@
 		"prefix": "/viki",
 		"body": "//(Viki)//",
 		"description": "de Vikipedio"
+	}, "ĉe-vorta ligilo al ReVo": {
+		"prefix": "/rv revo",
+		"body": "[revo:$0]",
+		"description": "ĉe-vorta ligilo al ReVo"
 	}
 }
