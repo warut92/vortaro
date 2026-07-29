@@ -1040,11 +1040,11 @@ jaro {UL} [2] ปี, 1. {AST} ปี, 2. {KAL} ปี; superjaro {KAL} ปี�
 je {UL} [1] //(prep)// ใน, ที่, ต่อ [revo:je] @29-07-2026 09:24:35@
 jen {UL} [1] //(adverbo)// นี่, ดูสิ; jen... jen... นั้นนี่, นั้น...นี้...; jena ต่อไปนี้, เหล่านี้; jene ต่อไปนี้, อย่างนี้; jeno สิ่งต่อไปนี้, อย่างนี้; jen vi havas //(frazaĵo)// //(precipe al si mem)// สิ่งที่ต้องเกิด, สิ่งที่หลีกเลี่ยงไม่ได้ @29-07-2026 09:54:30@
 jes {UL} [1] ใช่ [revo:jes]; jesa อย่างยืนยัน, อย่างอนุญาต; jesi //(x)// ตอบว่าใช่; jeso การตอบว่าใช่; jesigi //(tr)// ยืนยัน(กับ); jesulo ผู้ที่ตอบว่าใช่, ผู้ที่เห็นด้วย, ผู้ที่ชอบตอบตกลงโดยไม่มีข้อโต้แย้ง; maljesi //(malofte)// ไม่, ปฏิเสธ; kapjesi [w] พยักหน้าใช่; jes ja //(ekkrio)// ใช่แน่นอน [revo:jesja] @29-07-2026 10:06:12@
-ju...des... {UL} [8] //(adv)// ยิ่ง... ยิ่ง....
-jubileo [9] การฉลองครบรอบ 25, 50 หรือ 100 ปี
-jugo [9] แอก, ไม้คาน
-juĝi {UL} [5] //(tr)// ตัดสิน, พิพากษา; juĝejo [w] ศาล; juĝisto [w] ผู้พิพากษา; antaŭjuĝo [w] ความมีอคติ, อคติ
-juki [9] //(tr)// ทำให้คัน
+ju //(konjunkcio)// เป็นคำสันธานที่ใช้คู่กับ des แสดงความสัมพันธ์ของจำนวนของสิ่งสองสิ่ง; ju... des/des... ju {UL} [8] //(konjunkcio)// ยิ่ง... ยิ่ง.... @29-07-2026 16:57:49@
+jubileo [9] 1. {KAL} การฉลองครบรอบ 25, 50 หรือ 100 ปี, 2. {KAT} ปีศักดิ์สิทธิ์; jubilea เกี่ยวกับการฉลองครบรอบ @29-07-2026 17:06:42@
+jugo [9] แอก, ไม้คาน 1. แอก, ไม้คาน, 2. ขนาดพื้นที่ที่วัวสามารถไถได้ในหนึ่งวัน, 3. หอกที่นำมาต่อเป็นช่องสำหรับผู้แพ้แสดงความยอมจำนน IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Second_Samnite_War%2C_Battle_of_the_Caudine_Forks_in_321_BC%2C_the_Roman_army_of_the_consuls_Tiberius_Veturius_Calvinus.tif/lossy-page1-500px-Second_Samnite_War%2C_Battle_of_the_Caudine_Forks_in_321_BC%2C_the_Roman_army_of_the_consuls_Tiberius_Veturius_Calvinus.tif.jpg], 4. //(f)// ความเป็นทาส, การกดขี่; jugi //(tr)// 1. ใส่แอก, 2. //(f)// ทำให้เป็นทาส, กดขี่; subjugigi ทำให้เป็นทาส, กดขี่ @29-07-2026 17:17:14@
+juĝi {UL} [5] //(tr)// ตัดสิน, 1. {JUR} พิพากษา, 2. //(x)// ตัดสิน; juĝo 1. การตัดสิน, การพิพากษา, การพิจารณาคดี, 2. ผลการตัดสิน, คำพิพากษา; juĝa เกี่ยวกับการตัดสิน; juĝejo [w] ศาล; juĝisto [w] ผู้พิพากษา; aljuĝi //(tr)// ตัดสินให้; antaŭjuĝi //(tr)// อคติไปก่อน; antaŭjuĝo [w] ความมีอคติ, อคติ; misjuĝi //(tr)// ตัดสินผิด; prijuĝi ตัดสิน; senantaŭjuĝa ปราศจากอคติ; juĝokostoj {JUR} ค่าใช้จ่ายในการดำเนินคดี; juĝa afero {JUR} การพิจารณาคดี @29-07-2026 17:28:17@
+juki [9] //(tr)// 1. ทำให้คัน, 2. ทำให้อยู่ไม่เป็นสุข; juka คัน; juko ความรู้สึกคัน @29-07-2026 17:30:52@
 Julio [7] เดือนกรกฎาคม
 juna {UL} [1] หนุ่ม, สาว; juneco [w] ความหนุ่มสาว; junulo [w] วัยรุ่น; maljuna [w] แก่
 jungi [9] //(tr)// ลาก
@@ -5288,7 +5288,7 @@ kribri //(tr)// 1. กรอง, ร่อน, 2. //(f)// กรอง, กล�
 patento สิทธิบัตร; patenti //(tr)// มอบสิทธิบัตร @01-01-2023-w@ @03-06-2025 09:28:40@
 anteno 1. {ZOO} หนวดของสัตว์, 2. {MAR} ไม้ยึดเสาเรือ, 3. {ELE} {RAD} เสาอากาศ, สายอากาศ; parabolanteno/parabola anteno สายอากาศแบบพาราโบลา IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erdfunkstelle_Raisting_2.jpg/500px-Erdfunkstelle_Raisting_2.jpg] @01-01-2023-w@ @03-06-2025 09:32:25@
 prologo {TEA} บทนำ, อารัมภบท @01-01-2023-w@ @03-06-2025 09:32:45@
-konjunkcio {GRA} คำสันธาน, {MAT} ประพจน์เชื่อม; disiga konjunkcio {GRA} คำสันธานแบบให้เลือก; kontraŭmeta konjunkcio {GRA} คำสันธานแสดงสิ่งตรงข้าม; korelativaj konjunkcioj {GRA} คำสันธานคู่; kunordiga konjunkcio คำสันธานที่ใช้เชื่อมคำ วลี หรือประโยคที่เป็นประเภทเดียวกัน = kunordigilo; subordiga konjunkcio/dependiga konjunkcio คำสันธานเพื่อใช้เชื่อมประโยคหลัก = subordigilo @01-01-2023-w@ @03-06-2025 09:40:14@
+konjunkcio 1. {GRA} คำสันธาน, 2. {MAT} ประพจน์เชื่อม; disiga konjunkcio {GRA} คำสันธานแบบให้เลือก; kontraŭmeta konjunkcio {GRA} คำสันธานแสดงสิ่งตรงข้าม; korelativaj konjunkcioj {GRA} คำสันธานคู่; kunordiga konjunkcio คำสันธานที่ใช้เชื่อมคำ วลี หรือประโยคที่เป็นประเภทเดียวกัน = kunordigilo; subordiga konjunkcio/dependiga konjunkcio คำสันธานเพื่อใช้เชื่อมประโยคหลัก = subordigilo @01-01-2023-w@ @03-06-2025 09:40:14@ @29-07-2026 17:00:08@
 universo {AST} {FIZ} จักรวาล, สากลโลก; universa ทั้งหมด, สากล; paralela universo {BELE} {FIZ} จักรวาลคู่ขนาน @01-01-2023-w@ @03-06-2025 09:42:49@
 aspergi //(tr)// 1. {REL} พรมน้ำมนต์, 2. พรมน้ำ; aspergo/aspergado การพรมน้ำมนต์, การพรมน้ำ; aspergilo อุปกรณ์พรมน้ำมนต์ @01-01-2023-w@ @03-06-2025 09:58:42@
 subjunkcio {GRA} สันธานเชื่อมประโยคหลักกับประโยครอง = subordigilo @01-01-2023-w@ @03-06-2025 09:58:46@
