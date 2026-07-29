@@ -199,7 +199,19 @@ function sercxi() {
     //นำออกแสดงผล
     //if ถ้า sercxitaj_vortoj ไม่เท่ากับ "" ให้แสดงข้อความ ไม่พบคำค้นหา
     if (sercxitaj_vortoj !== "") {
+
+      //pliaj informoj ĉe revo
+      //1. purigi la string
+      sercxitaj_vortoj = sercxitaj_vortoj.replace(
+        /(\[revo:)<[^>]+>(.*?)<\/[^>]+>(\])/g,
+        "$1$2$3"
+      );
+      //ŝanĝi al ligilo
+      sercxitaj_vortoj = sercxitaj_vortoj.replace(/\[revo:([^\]]+)\]/g,"<a href=\"https:\/\/www.reta-vortaro.de/revo/dlg/index-2l.html?q=$1\" target=\"_blank\">⇒ReVo<\/a>");
+
+      // GRAVA ELIGIO!!
       document.getElementById("eligo").innerHTML = "<hr>" + sercxitaj_vortoj;
+      
       //ligilo por bildo el Vikipedio
       document.querySelectorAll('img').forEach(img => {
         const src = img.src;
