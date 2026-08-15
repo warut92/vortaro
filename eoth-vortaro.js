@@ -331,10 +331,10 @@ butono {UL} [6] กระดุม, ปุ่ม
 <!-- C -->
 cedi [8] 1. //(ntr)// ยอม, ไม่ขัดขวาง, ไม่ต่อต้าน, 2. //(tr)// สละสิทธิ์; cedo การยอม, การไม่ขัดขวาง, การไม่ต่อต้าน, การสละสิทธิ์; cedaĵo สิ่งที่สละให้, สิ่งที่ยกให้; cedema ไม่ชอบขัดขวาง, ไม่ชอบต่อต้าน, เลยตามเลย, ยอมคน; cedemo ความยอมคน, ความไม่ชอบขัด, ความไม่ชอบการต่อต้าน, การยอมคน; cedigi ทำให้ยอม, ทำให้ไม่ขัดขวาง, ทำให้ไม่ต่อต้าน, ทำให้สละ; forcedi //(tr)// สละทุกอย่าง, สละสิทธิ์ทั้งหมด; malcedi ขัดขวาง, ต่อต้าน; malcedema ชอบขัดขวาง, ชอบต่อต้าน, หัวแข็ง; senceda ปราศจากการยอม; transcedi //(tr)// สละ, มอบ @30-07-2026 20:30:31@
 celi //(tr)// 1. เล็งเป้า, เล็ง, 2. //(f)// ตั้งเป้าหมาย; cele อย่างมีวัตถุประสงค์, อย่างมีเป้าหมาย; cele al //(prepoziciaĵo)// เพื่อให้เป็น(ไปตามเป้าหมาย), เพื่อ; celo {UL} [4] เป้าหมาย, วัตถุประสงค์; cela เกี่ยวกับเป้าหมาย; celado ความพยายามไปสู่เป้าหมาย; celilo อุปกรณ์เล็งเป้า; laŭcela ตามเป้าหมาย, ตามวัตถุประสงค์; memcela ที่มีตัวเองเป็นเป้าหมาย; sencela ไร้เป้าหมาย; sencelumi //(ntr)// กระทำอย่างไร้เป้าหมาย; tiucela ตามเป้าหมาย; vivcelo เป้าหมายของชีวิต @31-07-2026 21:39:35@
-cemento [x] ซีเมนต์
-cent {UL} [1] หนึ่งร้อย; centoj จำนวนเป็นร้อย ๆ; centono/elcento [w] ร้อยละ, เปอร์เซนต์; jarcento [w] ศตวรรษ
-centimetro [9] เซนติเมตร
-centralo [9] โรงไฟฟ้า
+cemento [x] ซีเมนต์, 1. {KON} {TEK} ซีเมนต์, 2. {ANA} เคลือบฟัน; cementi //(tr)// 1. เทซีเมนต์, 2. //(f)// ยึดให้แข็งแกร่ง @15-08-2026 20:28:26@ 
+cent {UL} [1] หนึ่งร้อย; cento จำนวนเป็นร้อย; elcento/elcentaĵo [w] ร้อยละ, เปอร์เซนต์; pocento //(evitinde)// ร้อยละ = elcento; centestro {MIL} ผู้บังคับการทางทหารที่ควบคุมทหารหนึ่งร้อยนาย; centono ส่วนร้อย; centuma หน่วยฐานสิบ; elcentosigno เครื่องหมายเปอร์เซ็นต์ (%); jarcento [w] {KAL} ศตวรรษ @15-08-2026 20:48:57@
+centimetro [9] เซนติเมตร @15-08-2026 20:49:23@
+centralo [9] โรงไฟฟ้า, 1. {TEL} ชุมสายโทรศัพท์, 2. {ELE} โรงไฟฟ้า, 3. //(akr)// สำนักงานกลาง = centra oficejo; akvocentralo/akvoenergia centralo/hidroelektra centralo โรงไฟฟ้าพลังน้ำ; atomcentralo/nuklea centralo {ELE}  โรงไฟฟ้านิวเคลียร์; biomasa centralo โรงไฟฟ้าชีวมวล; elektrocentralo โรงไฟฟ้า = elektrejo; karbocentralo {ELE}  โรงไฟฟ้าถ่านหิน; ŝaltcentralo ศูนย์ควบคุมระบบต่าง ๆ; taksicentralo {TRA} ศูนย์แท็กซี่; telefoncentralo {TEL} ชุมสายโทรศัพท์; varmocentralo/hejta centralo โรงผลิตความร้อน @15-08-2026 21:02:32@
 centro [7] ศูนย์กลาง, ตรงกลาง; urbocentro [w] ศาลากลางจังหวัด
 cepo [9] หัวหอม
 cerbo [8] สมอง; cerbumi [w] ระดมสมอง
