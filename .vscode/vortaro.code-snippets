@@ -512,5 +512,10 @@
 		"prefix": "/rv revo",
 		"body": "[revo:$0]",
 		"description": "ĉe-vorta ligilo al ReVo"
+	},
+   "prepoziciaĵo": {
+		"prefix": "/prep",
+		"body": "//(prepoziciaĵo)//",
+		"description": "prepoziciaĵo"
 	}
 }
