@@ -338,13 +338,13 @@ centralo [9] โรงไฟฟ้า, 1. {TEL} ชุมสายโทรศ�
 centro [7] ศูนย์กลาง, ตรงกลาง, ความเป็นกลาง; centra กลาง, ตรงกลาง; centre de //(prepoziciaĵo)// ในตรงกลาง, ตรงกลางของ; centri/centrigi/alcentrigi/kuncentrigi //(tr)// รวบรวมให้อยู่ตรงกลาง; centrismo 1. {POL} แนวคิดสายกลาง, 2. {POL} ลัทธิรวมศูนย์ = centralizismo; altocentro {MAT} จุดตั้งฉากร่วม = ortocentro; butikcentro/butikumcentro/aĉetocentro/aĉetcentro {ARKI} ศูนย์การค้า; discentra/elcentra {TEK} เยื้องศูนย์กลาง; discentreco 1. {TEK} ความเยื้องศูนย์กลางด 2. {MAT} [?]; kuncentriĝi = koncentriĝi; homcentrismo {FIL} {REL} มานุษยประมาณนิยม; kurbecocentro {MAT} ศูนย์กลางความโค้ง; malcentra 1. ไม่ใช่ตรงกลาง, ข้าง ๆ, 2. ไม่มีตรงกลาง; memcentrismo ตัวเองเป็นศูนย์กลาง; pezocentro 1. {FIZ} จุดศูนย์น้ำหนักของร่างกาย, 2. {MAT} เซนทรอยด์; rotacia centro {MAT} [?]; simetricentro {MAT} ศูนย์กลางสมมาตร; samcentra มีจุดศูนย์กลางเดียวกัน; suncentra/sunocentra {AST} มีดวงอาทิตย์เป็นศูนย์กลาง; suncentrismo/sunocentrismo {AST} แนวคิดที่ดวงอาทิตย์เป็นศูนย์กลางของระบบสุริยะ; tercentra/terocentra {AST} {HIS} มีโลกเป็นศูนย์กลาง; tercentrismo/terocentrismo {AST} {HIS} แนวคิดโลกเป็นศูนย์กลางของระบบสุริยะ; urbocentro [w] ศาลากลางจังหวัด @16-08-2026 10:57:37@
 cepo [9] {BOT} หัวหอม @16-08-2026 11:03:40@
 cerbo [8] สมอง, 1. {ANA} สมอง, 2. //(f)// จิตวิญญาณ, ความคิด; cerba {ANA} เกี่ยวกับสมอง; cerbeto 1. สมองเล็ก, 2. //(f)// ความคิดโงเง่า, 3. {ANA} ซีรีเบลลัม; cerbaĵo เนื้อสมอง; cerbujo กะโหลก = kranio; cerbumi //(x)// [w] ระดมสมอง; encerbigi จำให้ขึ้นใจ; sencerbulo คนไร้สมอง; ostocerbo //(akr)// ไขกระดูก = medolo @16-08-2026 11:03:37@
-ceremonio [x] พิธี; ceremoniaro [w] ข้อปฏิบัติในพิธี
-certa {UL} [3] แน่นอน; certigi [w] //(tr)// ยืนยัน
-cervo [9] {ZOO} กวาง
-cetera {UL} [5] อื่น ๆ ที่เหลือ
-ci [x] คุณ (สรรพนามบุรุษที่สองเอกพจน์) (ไม่นิยมใช้) → vi
-cico [x] หัวนม
-cifero [6] อักษรตัวเลข → numero
+ceremonio [x] พิธี, 1. พิธี, 2. พิธีรีตอง; ceremoniaro [w] ข้อปฏิบัติในพิธี; ceremonia เกี่ยวกับพิธี; ceremoniema ชอบพิธีรีตอง; ceremoniestro 1. ผู้นำในพิธี, 2. เจ้าหน้าที่พิธีการ; senceremonia ไม่มีพิธีรีตอง, เป็นกันเอง @22-08-2026 16:04:13@
+certa {UL} [3] อย่างแน่นอน; certe อย่างแน่นอน; certeco  ความแน่นอน; certi //(ntr)// 1. เห็นว่าแน่นอน, คิดว่าแน่นอน, แน่ใจ, 2. เป็นที่แน่นอน, ชัดแล้ว; certigi [w] //(tr)// 1. ยืนยัน, 2. ทำให้แน่ใจ, รับรอง, 3. {SPO} ทำให้อยู่ในตำแหน่งที่มั่นคง; certiĝi แน่ใจ; malcerta/necerta 1. อย่างไม่แน่นอน, อย่างไม่มั่นคง, 2. ไม่มั่นใจ; memcerta อย่างมั่นใจตัวเอง = memfida; tutcerte แน่นอนมาก, แน่ใจมาก @22-08-2026 16:20:40@
+cervo [9] {ZOO} กวาง; cervaro {ZOO} {ARKI} ฝูงกวาง; norda cervo {ZOO} กวางเรนเดียร์; ruĝa cervo {ZOO} กวางแดง @22-08-2026 16:23:45@
+cetera {UL} [5] อื่น ๆ ที่เหลือ; cetere นอกจากนี้, ยังมี = krom tio, aliflanke; cetero สิ่งที่เหลือ; kaj cetere (k.c.) //(frazaĵo)// และอื่น ๆ @22-08-2026 16:26:51@
+ci [x] //(pronomo)// //(akr)// คุณ (สรรพนามบุรุษที่สองเอกพจน์) (ไม่นิยมใช้) → vi; cia ของคุณ; cii/ciumi/ci-diri //(tr)// เรียก...ว่าคุณ (คุณอย่างสนิทสนม) @22-08-2026 16:31:49@
+cico [x] {ANA} หัวนม; cicumo ขวดนม @22-08-2026 16:48:03@
+cifero [6] 1. {MAT} สัญลักษณ์ตัวเลข → numeroด 2. //(metonimie)// จำนวน; cifera เกี่ยวกับตัวเลข, ดิจิทัล; cifereca {TEK} ดิจิทัล; ciferecigi แปลงเป็นดิจิทัล ; ciferecigilo {MAS} ตัวแปลงเป็นดิจิทัล @22-08-2026 16:52:00@ 
 cigaredo {UL} [7] บุหรี่
 cigaro {UL} [9] ซิการ์
 cigno [9] {ZOO} หงส์
