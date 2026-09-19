@@ -351,19 +351,19 @@ cigno [9] {ZOO} หงส์; Cigno {AST} กลุ่มดาวหงส์ @
 cikado [9] จักจั่น; cikadoj {ZOO} แมลงจำพวกจักจั่น @30-08-2026 10:46:34@
 cikatro [9] {MED} แผลเป็น; cikatriĝi //(ntr)// เกิดแผลเป็น; cikatriĝo การเกิดแผลเป็น @30-08-2026 10:47:43@
 ciklo [7] 1. วัฏจักร, วงรอบ, ช่วงเวลา, 2. {BELE} กลุ่มของบทกลอน, 3. {MAT} วง; cikla 1. เกี่ยวกับวัฏจักร, เกี่ยวกับวงรอบ, 2. {MED} เกี่ยวกับวง; recikligi {EKOL} รีไซเคิล; sencikla 1. ไม่มีวัฏจักร, 2. {MED} ไม่มีวง; kultivciklo {AGR} การปลูกพืชหมุนเวียน @30-08-2026 10:54:11@
-cikonio [9] {ZOO} นกกระสา
-cilindro [x] ทรงกระบอก
-cinamo [9] อบเชย; cimanujo [w] ต้นอบเชย
-cindro [9] ขี้เถ้า; cindrigejo [w] เมรุ ; cindrujo [w] ที่เขี่ยบุหรี่
-cirkelo [9] วงเวียน (เครื่องเขียน)
-cirkonstanco [8] สิ่งแวดล้อม, สิ่งรอบ ๆ ตัว, สถานการณ์
-cirkulero [9] หนังสือเวียน
-cirkuli [9] //(ntr)// หมุนเวียน
-cirkvito [9] วงจรไฟฟ้า
-ciro [9] น้ำยาขัดหนัง/รองเท้า
-citi [8] ยก...มากล่าวถึง, อ้างถึง → mencii; citilo [w] เครื่องหมายคำพูด แบบในระหว่างบรรทัด « » หรือ » « แบบเหนือเส้น “ ” หรือ ‘ ’ หรือ „  “
-citrono {UL} [7] เลมอน @05-04-2025 16:04:33@
-civila [9] เกี่ยวกับพลเรือน, ทางโลก
+cikonio [9] {ZOO} นกกระสา IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciconia_Diversity.jpg/960px-Ciconia_Diversity.jpg] @19-09-2026 17:53:39@
+cilindro [x] 1. {MAT} ทรงกระบอก, 2. วัตถุทรงกระบอก; rulcilindro {TEK} ลูกกลิ้งทรงกระบอก @19-09-2026 17:57:36@
+cinamo [9] {KUI} อบเชย; cimanujo [w] {BOT} ต้นอบเชย IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cinnamon_tree.jpg/500px-Cinnamon_tree.jpg] @19-09-2026 17:58:09@
+cindro [9] 1. ขี้เถ้า, เถ้า, 2. เถ้าศพ, 3. ซากเถ้าถ่าน; cindrigi //(tr)// เผาให้เป็นเถ้า; cindrigejo [w] เมรุ; cindrujo [w] 1. ที่เขี่ยบุหรี่, 2. ที่เก็บขี้เถ้าในเตา, 3. โกศ; cindrulino ซินเดอเรลล่า (ตัวละครในนิทาน) @19-09-2026 18:03:23@
+cirkelo [9] {TEK} {MAT} วงเวียน (อุปกรณ์วาดวงกลม); Cirkelo {AST} กลุ่มดาววงเวียน @19-09-2026 18:09:16@
+cirkonstanco [8] สิ่งแวดล้อม, สิ่งรอบ ๆ ตัว, สถานการณ์; cirkonstancaro เหตุการณ์ที่สำคัญ, สถานการณ์ = konjunkturo @19-09-2026 18:10:45@
+cirkulero [9] หนังสือเวียน @19-09-2026 18:12:54@
+cirkuli [9] //(ntr)// หมุนเวียน, ไหลเวียน; cirkulado การหมุนเวียน, การไหลเวียน; encirkuligi //(tr)// {EKON}  นำเข้าสู่ระบบหมุนเวียน; sangocirkulado {ZOO} ระบบหมุนเวียนเลือด @19-09-2026 18:16:27@
+cirkvito [9] 1. วงจรไฟฟ้า 2. วงจร; integra cirkvito {ELE} วงจรรวม @19-09-2026 18:18:13@
+ciro [9] น้ำยาขัดหนัง/รองเท้า; ciri //(tr)// ขัด (หนัง,รองเท้า) = vaski
+citi [8] 1. ยก...มากล่าวถึง, 2. อ้างถึง → mencii; citaĵo ข้อความที่ยกมา; citilo [w] เครื่องหมายคำพูด แบบในระหว่างบรรทัด « » หรือ » « แบบเหนือเส้น “ ” หรือ ‘ ’ หรือ „  “; misciti ยกข้อความมาไม่ถูก; reciti //(tr)// ยกข้อความอีกครั้ง @19-09-2026 18:21:04@
+citrono {UL} [7] {KUI} เลมอน; citronujo/citronarbo {BOT} ต้นเลมอน @05-04-2025 16:04:33@
+civila [9] 1. เกี่ยวกับพลเรือน, ทางโลก, ไ่มเกี่ยวกับการเมือง, 2. แพ่ง; civilulo พลเมือง, พลเรือน @19-09-2026 18:24:14@ 
 civilizi [8] //(tr)// ทำให้เจริญ
 civito [9] แนวการปกครอง, กลุ่มพลเมือง; civitano [w] พลเมือง
 colo [x] นิ้ว (มาตราวัด) → futo
