@@ -368,8 +368,8 @@ civilizi [8] //(tr)// ทำให้เจริญ, ทำให้มีอ�
 civito [9] 1. {HIS} แนวการปกครอง, 2. //(evitinde)// พลเมือง; civitano [w] พลเมือง; civiteco {JUR} ความเป็นพลเมือง; civitismo จิตสำนึกความเป็นพลเมือง; civitanigi {JUR} {POL} แปลงสัญชาติ; mondcivitano พลเมืองโลก; mondcivitaneco ความเป็นพลเมืองโลก = homaranismo, kosmopoliteco @20-09-2026 10:46:38@
 colo [x] นิ้ว (มาตราวัด) → futo @20-09-2026 10:47:45@
 <!-- Ĉ -->
-ĉagreni {UL} [8] //(tr)// ทำให้...รู้สึกไม่ดี, ทำให้...เสียใจ
-ĉambro {UL} [2] ห้อง; klasĉambro [w] ห้องเรียน
+ĉagreni {UL} [8] //(tr)// 1. ทำให้...รู้สึกรำคาญ, 2. ทำให้...เสียใจ, ทำให้...รู้สึกไม่ดี = aflikti; ĉagreno ความน่ารำคาญ, ความรู้สึกเสียใจ, ความรู้สึกผิด; ĉagrena น่ารำคาญ, น่าหงุดหงิด; ĉagreniĝi รำคาญ, หงุดหงิด, เสียใจ; ĉagreniĝo ความรำคาญ, ความหงุดหงิด, ความเสียใจ @26-09-2026 13:26:50@
+ĉambro {UL} [2] 1. {ARKI} ห้อง, 2. {POL} สภา; ĉambristo เจ้าหน้าที่ห้อง; ĉambristino แม่บ้าน; ĉambrumi //(tr)// {KUI} ทำให้...มีอุณหภูมิเท่าอุณหภูมิห้อง; antaŭĉambro 1. ห้องทางเข้าบ้านสำหรับวางหมวก ร่ม, 2. ห้องนั่งรอของแขก; atendoĉambro {ARKI} ห้องสำหรับนั่งรอ; banĉambro {ARKI} ห้องอาบน้ำ; dormoĉambro  {ARKI} ห้องนอน; klasĉambro [w]  {ARKI} {PED} ห้องเรียน; komerca ĉambro/ĉambro de komerco/ĉambro de komerco kaj industrio {EKON} {POL} หอการค้า; lavĉambro {ARKI} ห้องสำหรับล้างสิ่งต่าง ๆ; manĝoĉambro  {ARKI} ห้องรับประทานอาหาร, ห้องอาหาร; maŝinĉambro {TEK} ห้องเครื่อง; samĉambrano เพื่อนร่วมห้อง, รูมแมท; skriboĉambro {ARKI} ห้องเขียนหนังสือ; vivoĉambro {ARKI} ห้องนั่งเล่น; vizitĉambro {ARKI} ห้องรับแขก @26-09-2026 14:03:14@
 ĉapelo {UL} [4] หมวก, เครื่องหมาย ^ บนตัวอักษรในภาษาเอสเปรันโต → cirkumflekso
 ĉapitro [6] บท (ในหนังสือ)
 ĉapo {UL} [7] หมวกแก๊ป
