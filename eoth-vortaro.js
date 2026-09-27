@@ -370,13 +370,13 @@ colo [x] นิ้ว (มาตราวัด) → futo @20-09-2026 10:47:45@
 <!-- Ĉ -->
 ĉagreni {UL} [8] //(tr)// 1. ทำให้...รู้สึกรำคาญ, 2. ทำให้...เสียใจ, ทำให้...รู้สึกไม่ดี = aflikti; ĉagreno ความน่ารำคาญ, ความรู้สึกเสียใจ, ความรู้สึกผิด; ĉagrena น่ารำคาญ, น่าหงุดหงิด; ĉagreniĝi รำคาญ, หงุดหงิด, เสียใจ; ĉagreniĝo ความรำคาญ, ความหงุดหงิด, ความเสียใจ @26-09-2026 13:26:50@
 ĉambro {UL} [2] 1. {ARKI} ห้อง, 2. {POL} สภา; ĉambristo เจ้าหน้าที่ห้อง; ĉambristino แม่บ้าน; ĉambrumi //(tr)// {KUI} ทำให้...มีอุณหภูมิเท่าอุณหภูมิห้อง; antaŭĉambro 1. ห้องทางเข้าบ้านสำหรับวางหมวก ร่ม, 2. ห้องนั่งรอของแขก; atendoĉambro {ARKI} ห้องสำหรับนั่งรอ; banĉambro {ARKI} ห้องอาบน้ำ; dormoĉambro  {ARKI} ห้องนอน; klasĉambro [w]  {ARKI} {PED} ห้องเรียน; komerca ĉambro/ĉambro de komerco/ĉambro de komerco kaj industrio {EKON} {POL} หอการค้า; lavĉambro {ARKI} ห้องสำหรับล้างสิ่งต่าง ๆ; manĝoĉambro  {ARKI} ห้องรับประทานอาหาร, ห้องอาหาร; maŝinĉambro {TEK} ห้องเครื่อง; samĉambrano เพื่อนร่วมห้อง, รูมแมท; skriboĉambro {ARKI} ห้องเขียนหนังสือ; vivoĉambro {ARKI} ห้องนั่งเล่น; vizitĉambro {ARKI} ห้องรับแขก @26-09-2026 14:03:14@
-ĉapelo {UL} [4] หมวก, เครื่องหมาย ^ บนตัวอักษรในภาษาเอสเปรันโต → cirkumflekso
-ĉapitro [6] บท (ในหนังสือ)
-ĉapo {UL} [7] หมวกแก๊ป
-ĉar {UL} [1] //(kon)// เพราะว่า
-ĉarma [7] น่ารัก, มีเสน่ห์
-ĉarniro [x] บานพับ
-ĉaro [9] เกวียน; ĉarumo [9] รถเข็นล้อเดียว
+ĉapelo {UL} [4] 1. {TEKS} หมวก, 2. {BOT} หมวก (เห็ด), 3. {TIP} เครื่องหมาย ^ บนตัวอักษรในภาษาเอสเปรันโต → cirkumflekso; ĉapeli 1. //(tr)// ใส่หมวก, 2. //(ntr)// มีหมวก; ĉapelisto ช่างทำหมวก; ĉapelita {TIP} ใส่เครื่องหมายหมวก (ใช้กับตัวอักษร); bulĉapelo/melonĉapelo {TEKS} หมวกกลมทรงสูง IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Charlie_Chaplin.jpg/500px-Charlie_Chaplin.jpg]; cilindroĉapelo/cilindra ĉapelo {TEKS} หมวกทรงกระบอกสูง; klakĉapelo {TEKS} หมวกสูงพับได้ IMG:[https://upload.wikimedia.org/wikipedia/commons/3/3e/Chapeauclaque.png?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled]; pajloĉapelo/pajla ĉapelo หมวกฟาง IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B1%D1%80%D0%B8%D0%BB%D1%8C.JPG/500px-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B1%D1%80%D0%B8%D0%BB%D1%8C.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail]; levi la ĉapelon/demeti la ĉapelon //(frazaĵo)// แสดงการทักทายหรือความยินดีด้วยการถอดหมวกแล้วยกขึ้น @27-09-2026 10:51:34@
+ĉapitro [6] บท (ในหนังสือ) @27-09-2026 11:02:50@
+ĉapo {UL} [7] 1. {TEKS} หมวกแก๊ป, 2. {TEK} ปลอก; vaska ĉapo {TEKS} หมวกบาเรท์ = bereto IMG:[https://upload.wikimedia.org/wikipedia/commons/7/71/Sven_Palmqvist_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled]; vertoĉapo 1. {TEKS} หมวกพระคาทอลิก IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Cardinal_zucchetto_2003_modified_2008-15-08.jpg/250px-Cardinal_zucchetto_2003_modified_2008-15-08.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail], 2. {MAT} ส่วนหมวกทรงกลม @27-09-2026 11:13:10@
+ĉar {UL} [1] //(kon)// เพราะ, เพราะว่า @27-09-2026 11:19:19@
+ĉarma [7] น่ารัก, มีเสน่ห์, น่าหลงไหล; ĉarmo ความน่ารัก, เสน่ห์, ความหลงไหล; ĉarmi //(tr)// มีเสน่ห์กับ[?]; ĉarmigi ทำให้มีความหลงไหล @27-09-2026 11:25:49@
+ĉarniro [x] {TEK} บานพับ IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Hamburgerpaumelle.JPG/250px-Hamburgerpaumelle.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail] @27-09-2026 11:28:26@
+ĉaro [9] เกวียน; ĉaro ; ĉareto ; ĉaristo ; Ĉaristo [9] (Aur) ; aĉetĉareto ; batalĉaro ; beboĉareto ; ĉevalĉaro ; infanĉareto ; kromĉaro ; levĉaro ; manĉareto ; pakaĵoĉareto ; puŝĉaro/ĉarumo [9] รถเข็นล้อเดียว; relĉaro ; servoĉareto
 ĉarpenti [x] //(tr)// ก่อสร้าง(ด้วยไม้); ĉarpentisto [w] ช่างไม้
 ĉasi [6] //(tr)// ไล่ล่า (สัตว์); ĉasisto [w] นักล่าสัตว์
 ĉasta [x] บริสุทธ์, พรมจรรย์; malĉasta [w] ไม่บริสุทธิ์, ตัณหากลับ, บ้ากาม; malĉastulo [w] คนเสเพล, คนบ้ากาม, คนที่ฝักใฝ่เรื่องเพศ
@@ -2399,7 +2399,7 @@ svingi [8] //(tr)// แกว่ง
 ŝati [5] //(tr)// ชอบ; malŝati [w] //(tr)// เกลียด
 ŝaŭmo {UL} [9] ฟอง
 ŝelko [x] สายดึงกางเกง
-ŝelo {UL} [8] เปลือก; elŝeligi/senŝeligi [w] ปลอกเปลือก
+ŝelo {UL} [8] เปลือก; elŝeligi/senŝeligi [w] ปอกเปลือก
 ŝerci {UL} [6] //(ntr)// พูดตลก; ŝerco [w] เรื่องตลก, มุขตลก
 ŝi {UL} [1] เขา (ผู้หญิง); ŝia [w] ของเขา (ผู้หญิง)
 ŝildo [x] ป้ายขนาดเล็ก
