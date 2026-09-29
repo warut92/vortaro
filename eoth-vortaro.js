@@ -376,10 +376,10 @@ colo [x] นิ้ว (มาตราวัด) → futo @20-09-2026 10:47:45@
 ĉar {UL} [1] //(kon)// เพราะ, เพราะว่า @27-09-2026 11:19:19@
 ĉarma [7] น่ารัก, มีเสน่ห์, น่าหลงไหล; ĉarmo ความน่ารัก, เสน่ห์, ความหลงไหล; ĉarmi //(tr)// มีเสน่ห์กับ[?]; ĉarmigi ทำให้มีความหลงไหล @27-09-2026 11:25:49@
 ĉarniro [x] {TEK} บานพับ IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Hamburgerpaumelle.JPG/250px-Hamburgerpaumelle.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail] @27-09-2026 11:28:26@
-ĉaro [9] เกวียน; ĉaro ; ĉareto ; ĉaristo ; Ĉaristo [9] (Aur) ; aĉetĉareto ; batalĉaro ; beboĉareto ; ĉevalĉaro ; infanĉareto ; kromĉaro ; levĉaro ; manĉareto ; pakaĵoĉareto ; puŝĉaro/ĉarumo [9] รถเข็นล้อเดียว; relĉaro ; servoĉareto
-ĉarpenti [x] //(tr)// ก่อสร้าง(ด้วยไม้); ĉarpentisto [w] ช่างไม้
-ĉasi [6] //(tr)// ไล่ล่า (สัตว์); ĉasisto [w] นักล่าสัตว์
-ĉasta [x] บริสุทธ์, พรมจรรย์; malĉasta [w] ไม่บริสุทธิ์, ตัณหากลับ, บ้ากาม; malĉastulo [w] คนเสเพล, คนบ้ากาม, คนที่ฝักใฝ่เรื่องเพศ
+ĉaro [9] เกวียน, รถม้า, รถม้าศึก; ĉareto 1. รถเข็น, 2. {TEK} {KOMP} เคอร์เซอร์; ĉaristo คนขับเกวียน, คนขับรถม้า, สารถี; Ĉaristo {AST} กลุ่มดาวสารถี; aĉetĉareto รถเข็นในห้างสรรพสินค้า; batalĉaro {HIS} {MIL} รถม้าศึก; beboĉareto รถเข็นเด็ก; ĉevalĉaro รถม้า; infanĉareto รถเข็นเด็ก; kromĉaro {AUT} รถพ่วงข้างรถจักรยานยนต์; levĉaro {MAS} รถยก; manĉareto รถเด็กเล่น IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Boy_on_Pedal_Car.jpg/250px-Boy_on_Pedal_Car.jpg?utm_source=eo.wikipedia.org&utm_campaign=parser&utm_content=thumbnail]; pakaĵoĉareto รถเข็นกระเป๋าเดินทาง; puŝĉaro/ĉarumo [9] {AGR} รถเข็นล้อเดียว; relĉaro รถลากรางรถไฟ; servoĉareto {KUI} รถเข็นเสิร์ฟอาหาร @29-09-2026 16:03:10@
+ĉarpenti [x] //(tr)// 1. ก่อสร้าง(ด้วยไม้), 2. สร้าง, 3. //(f)// สร้างสิ่งที่แข็งแรง; ĉarpentaĵo สิ่งที่ก่อสร้าง; ĉarpentisto [w] ช่างไม้ @29-09-2026 16:06:19@
+ĉasi [6] //(tr)// ไล่ล่า (สัตว์); ĉaso/ĉasado การล่าสัตว์; ĉasaĵo สิ่งที่ล่ามาได้, สัตว์ที่ล่ามา; ĉasejo สถานที่ล่าสัตว์; ĉasisto [w] นักล่าสัตว์; forĉasi //(evitinde)// ไล่ล่า = forpeli; pelĉaso การไล่ล่าสัตว์ด้วยเสียง; postĉasi //(tr)// ไล่ล่าจากรอยหลักฐาน; kurĉaso การวิ่งไล่ล่า; ŝtelĉasi บุกรุก, แอบไล่ล่า @29-09-2026 16:13:32@
+ĉasta [x] 1. บริสุทธ์, พรมจรรย์, 2. ไม่ลามก, ไม่มีเรื่องเพศ; ĉasteco ความบริสุทธ์, พรมจรรย์; malĉasta [w] ไม่บริสุทธิ์, ตัณหากลับ, บ้ากาม; malĉastaĵo สิ่งลามก, สิ่งที่เกี่ยวกับทางเพศ; malĉasteco ; malĉastejo ; malĉasti ; malĉastisto/malĉastulo [w] คนเสเพล, คนบ้ากาม, คนที่ฝักใฝ่เรื่องเพศ; malĉastistino/malĉastulino
 ĉe {UL} [1] //(prep)// ที่
 ĉef- [0] //(pre)// หลัก, สำคัญ; ĉefo [w] ผู้นำ, หัวหน้า
 ĉeko [8] ใบสั่งจ่ายเงิน, เช็ค
@@ -5642,5 +5642,6 @@ atuto 1. {SPO} ไพ่ตาย, 2. //(f)// ไม้ตาย, ทีเด�
 trulo {KON} เกรียง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Zilveren_schoffel_Paleis_Dam_Amsterdam.JPG/500px-Zilveren_schoffel_Paleis_Dam_Amsterdam.JPG] @14-04-2026 21:10:21@
 ekzantemo {MED} โรคไข้ออกผื่น, ผื่นเอกแซนเทมา, การออกผื่น @16-04-2026 19:15:26@
 flati //(x)// 1. ยกยอ, สอพลอ, 2. ประจบ; flata ยกยอ, ประจบ, สอพลอ; flatanto/flatulo/flatisto คนชอบยกยอ, คนช่างประจบ, คนสอพลอ; ĉirkaŭflatadi ประจบสอพลออย่างไม่หยุดหย่อย; malflata ซื่อตรง, จริงใจ, พูดตรงไปตรงมา @21-06-2026 12:22:32@
+timono คานลาก IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Deichsel.JPG/1280px-Deichsel.JPG?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail] @29-09-2026 15:54:46@
 >. 
 `
