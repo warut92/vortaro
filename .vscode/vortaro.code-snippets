@@ -517,5 +517,10 @@
 		"prefix": "/prep",
 		"body": "//(prepoziciaĵo)//",
 		"description": "prepoziciaĵo"
-	}
+	},
+   "neologismo": {
+		"prefix": "/neolo",
+		"body": "//(neologismo)//",
+		"description": "neologismo"
+	} 
 }
