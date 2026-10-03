@@ -5642,5 +5642,6 @@ atuto 1. {SPO} ไพ่ตาย, 2. //(f)// ไม้ตาย, ทีเด�
 trulo {KON} เกรียง IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Zilveren_schoffel_Paleis_Dam_Amsterdam.JPG/500px-Zilveren_schoffel_Paleis_Dam_Amsterdam.JPG] @14-04-2026 21:10:21@
 ekzantemo {MED} โรคไข้ออกผื่น, ผื่นเอกแซนเทมา, การออกผื่น @16-04-2026 19:15:26@
 flati //(x)// 1. ยกยอ, สอพลอ, 2. ประจบ; flata ยกยอ, ประจบ, สอพลอ; flatanto/flatulo/flatisto คนชอบยกยอ, คนช่างประจบ, คนสอพลอ; ĉirkaŭflatadi ประจบสอพลออย่างไม่หยุดหย่อย; malflata ซื่อตรง, จริงใจ, พูดตรงไปตรงมา @21-06-2026 12:22:32@
+avizo 1. //(komune)// แจ้งเตือน, ใบแจ้งเตือน, 2. {EKON} ใบแจ้งการส่งของว่าถึงผู้รับแล้ว; avizi //(tr)// แจ้งให้ทราบ @20-09-2026 10:52:54@
 >. 
 `
