@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>statistiko</title>
+</head>
+<body>
+  <div id="montro"></div>  
+</body>
+<script src="../eoth-vortaro.js"></script>
+<script>
+let montro = document.getElementById("montro")
+function countLines(html) {
+    const regex = /<!--\s*(.*?)\s*-->([\s\S]*?)(?=<!--|$)/g;
+    const result = {};
+    let match;
+
+    while ((match = regex.exec(html)) !== null) {
+        const name = match[1].trim();
+        const content = match[2].trim();
+
+        // นับบรรทัดที่ไม่ว่าง
+        const lines = content
+            ? content.split(/\r?\n/).filter(line => line.trim() !== "").length
+            : 0;
+
+        result[name] = lines;
+    }
+
+    return result;
+}
+
+// ทดลองใช้งาน
+const html = vortaro
+
+const result = countLines(html);
+
+for (const name in result) {
+    montro.innerHTML += `${name} = ${result[name]}<br>`;
+}
+
+</script>
+
+</html>
