@@ -389,25 +389,25 @@ colo [x] นิ้ว (มาตราวัด) → futo @20-09-2026 10:47:45@
 ĉerizo {UL} [8] {KUI} ผลเชอร์รี่; ĉerizujo/ĉerizarbo {BOT} [w] ต้นเชอร์รี่; laŭroĉerizujo/laŭroĉerizarbo {BOT} ลอเรลเชอร์รี (ผลมีพิษ) @12-10-2026 08:46:10@
 ĉerko {UL} [9] โลงศพ; ĉerka 1. จากโลงศพ, 2. //(f)// เกี่ยวกับงานศพ, เกี่ยวกับความเศร้าโศก; ĉerkisto ช่างทำโลงศพ; ĉerkujo ที่เก็บศพ, สุสาน; ĉerkveturilo รถบรรทุกศพ @12-10-2026 09:11:23@
 ĉerpi [8] //(tr)// 1. ตัก (ของเหลว), 2. //(f)// เอามา; ĉerpeto จำนวนเต็มช้อน; ĉerpilo {KUI} กระบวย; deĉerpi ตักเอามา(จาก); elĉerpa ใช้จนหมด; elĉerpaĵo/ĉerpaĵo //(f)// งานเขียนที่ตัดออกมาสำหรับการนำเสนอ; elĉerpi/forĉerpi //(tr)// เอาไปจนหมด, ออกไปจนหมด, ใช้จนหมด; elĉerpiĝi หมด; elĉerpita 1. หมด, 2. //(f)// หมดพลัง, หมดไฟ @12-10-2026 10:54:47@
-ĉesi {UL} [5] //(ntr)// เลิก, หยุด → halti
-ĉevalo {UL} [3] ม้า
-ĉi {UL} [1] พยางค์บ่งชี้ถึงความใกล้เคียงผู้พูดใช้คู่กับคำตารางกลุ่ม t โดยจะอยู่ข้างหน้าหรือข้างหลังก็ได้: tio [w] นั้น, tio ĉi [w] นี่, tie [w] ที่นั้น, tie ĉi [w] ที่นี่; ใช้คู่กับคำนามหรือคำกริยาวิเศษณ์โดยจะวางข้างหน้าและจะต้องมีเครื่องหมายขีดคั่น: ĉi monato (= ĉi tiu monato) เดือนนี้, ĉi-nokte (ใน)คืนนี้
+ĉesi {UL} [5] //(ntr)// เลิก, หยุด → halti; ĉesigi //(tr)// เลิก, หยุด; ĉesiĝi เลิก, หยุด; senĉesa ไม่หยุด, ไม่เลิก; pafĉesigo {MIL} การหยุดยิง, การพักรบ @13-10-2026 11:32:01@
+ĉevalo {UL} [3] 1. {ZOO} ม้า, 2. {SPO} ม้าหมากรุก; ĉevala เกี่ยวกับม้า; ĉevaleto 1. ม้าตัวเล็ก, ม้าแกลบ, 2. //(f)// เรื่องที่คนชอบสนใจ; Ĉevaleto {AST} กลุ่มดาวม้าแกลบ; ĉevalaĵo {KUI} เนื้อม้า; ĉevalejo {AGR} คอกม้า; ĉevalestro {POL} เจ้าหน้าที่ดูแลม้า; ĉevalido ลูกม้า; ĉevalino ม้าตัวเมีย; ĉevalisto ผู้ที่ทำหน้าที่ดูแลม้า; deĉevaliĝi ลงจากหลังม้า; kurĉevalo ม้าวิ่ง; marĉevaleto {ZOO} ม้าน้ำ; surĉevaliĝi ขึ้นหลังม้า, ขึ้นขี่ม้า; tirĉevalo {AGR} ม้าลากรถ; troja ĉevalo/trojana ĉevalo 1. ม้าโทรจัน, 2. {KOMP} ไวรัสโทรจัน; virĉevalo ม้าตัวผู้; ĉevalpovo {FIZ} {TEK} พลังม้า, แรงม้า @13-10-2026 11:42:41@
+ĉi {UL} [1] พยางค์บ่งชี้ถึงความใกล้เคียงผู้พูดใช้คู่กับคำตารางกลุ่ม t โดยจะอยู่ข้างหน้าหรือข้างหลังก็ได้: tio [w] นั้น, tio ĉi [w] นี่, tie [w] ที่นั้น, tie ĉi [w] ที่นี่; ใช้คู่กับคำนามหรือคำกริยาวิเศษณ์โดยจะวางข้างหน้าและจะต้องมีเครื่องหมายขีดคั่น: ĉi monato (= ĉi tiu monato) เดือนนี้, ĉi-nokte (ใน)คืนนี้; malĉi //(malofte)// บ่งชี้ว่าไกล @13-10-2026 11:45:24@
 ĉia {UL} [1] //(adj)// ทุกชนิด
 ĉial [9] //(adv)// ทุก ๆ เหตุผล
 ĉiam {UL} [1] //(adv)// ทุก ๆ เวลา, เสมอ
 ĉie {UL} [1] //(adv)// ทุกแห่ง, ทุกที่
 ĉiel [6] //(adv)// ทุกวิธี
-ĉielo {UL} [3] ท้องฟ้า; ĉielarko [w] รุ้งกินน้ำ; subĉiela [w] กลางแจ้ง
+ĉielo {UL} [3] 1. ท้องฟ้า, 2. {REL} สวรรค์, 3. {REL} //(respekte)// พระเจ้า; ĉieliro {KRI} การเสจ็ดกลับสู่สวรรค์; Ĉieliro {KRI} แม่พระรับยกขึ้นสวรรค์[?]; Ĉielenpreno {KAT} การเฉลิมฉลองแม่พระรับยกขึ้นสวรรค์หรือวันอัสสัมชัญ[?]; sub libera ĉielo //(frazaĵo)// กลางแจ้ง; subĉiela [w] กลางแจ้ง; ĉielosfero/ĉielsfero {AST} ทรงกลมท้องฟ้า; ĉiela sfero ทรงกลมท้องฟ้; ĉielarko [w] รุ้งกินน้ำ @13-10-2026 11:56:50@
 ĉies [9] //(pro)// ของทุกคน, ทุก ๆ ... เป็นของ
-ĉifi [9] //(tr)// ขยำ, ทำให้ยับ
-ĉifono [7] เศษผ้า, ผ้าขี้ริ้ว
+ĉifi [9] //(tr)// ขยำ, ทำให้ยับ; ĉifa ถูกขยำ, ยับ; ĉifaĵo สิ่งที่ถูกขยำ; neĉifebla ยับไม่ได้, ไม่ยับ @13-10-2026 11:58:42@
+ĉifono [7] 1. {TEKS} เศษผ้า, ผ้าขี้ริ้ว, 2. //(f)// ของไม่มีคุณค่าราคา; ĉifonisto ผู้ที่สะสมเศษผ้า; ĉifonulo คนที่ใส่เสื้อผ้าขาด; ĉifonfiguro หุ่นไล่กา @13-10-2026 12:01:08@
 ĉio {UL} [1] //(pro)// ทุกสิ่ง, ทุกอย่าง
 ĉiom [9] //(adv)// ทุกจำนวน, ทั้งหมด
-ĉirkaŭ {UL} [1] //(prep)// รอบ ๆ, ใกล้ ๆ, ราว ๆ
+ĉirkaŭ {UL} [1] //(prep)// รอบ ๆ, ใกล้ ๆ, ราว ๆ; al ĉirkaŭ/ĉirkaŭ ...-n ไปยังรอบ ๆ, ไปยังแถว ๆ; de ĉirkaŭ แถว ๆ, รอบ ๆ; ĉirkaŭa รอบ ๆ; ĉirkaŭe 1. รอบ ๆ, 2. //(akr)// ราว ๆ, ประมาณ; ĉirkaŭe de //(prepoziciaĵo)// รอบ ๆ; ĉirkaŭi //(tr)// 1. รอบ ๆ, 2. //(malofte)// //(evitinde)// ทำให้อยู่รอบ ๆ; ĉirkaŭo //(malofte)// 1. สภาพแวดล้อมโดยรอบ, 2. สิ่งที่อยู่รอบตัว; ĉirkaŭaĵo 1. ที่รอบ ๆ, 2. {MAT} ย่านใกล้เคียง; ĉirkaŭejo //(malofte)// ที่รอบ ๆ; ĉirkaŭigi ทำให้อยู่รอบ ๆ; ĉirkaŭumi {MIL} ล้อมรอบ; ĉirkaŭumo 1. {MIL} การล้อมรอบ, 2. วัดขนาดโดยรอบ; ĉirkaŭ- //(pref)// รอบ ๆ, แถว ๆ @13-10-2026 12:20:10@
 ĉiu {UL} [1] //(pro)// แต่ละคน, แต่ละสิ่ง; ĉiuj //(pro)// ทุกคน, ทุก ๆ คน, ทุกสิ่ง, ทุก ๆ สิ่ง; ĉiu ... //(adj)// แต่ละ ... ĉiuj ... ทุก ๆ ...
--ĉj- {UL} [9] //(suf)// พยางค์เติมท้ายแสดงรูปแบบของชื่อเล่นเพศชาย: Patro = Paĉjo, Petro = Peĉjo
-ĉokolado [7] ช็อกโกแลต
-ĉu {UL} [1] ไหม, ใช่หรือไม่, หรือเปล่า; ĉu ... ĉu ... ไม่ว่าจะ...หรือ...; ĉu ne? ใช่ไหม; ĉu vere? จริงหรือ, จริงหรือนี่
+-ĉj- {UL} [9] //(suf)// พยางค์เติมท้ายแสดงรูปแบบของชื่อเล่นเพศชาย: Patro = Paĉjo, Petro = Peĉjo; avĉjo/aĉjo คุณปู่, คุณตา; oĉjo คุณลง; paĉjo พ่อ, ป่าป๊า; fraĉjo คุณพี่, คุณน้อง; filĉjo ลูก, เจ้าตัวน้อย, ไอ้หมา; iĉjo พ่อหนุ่ม, หนุ่มน้อย @13-10-2026 12:03:11@
+ĉokolado [7] {KUI} ช็อกโกแลต; trinkĉokolado ช็อกโกแลตร้อน @13-10-2026 12:10:01@
+ĉu {UL} [1] //(konjunkcio)// ไหม, ใช่หรือไม่, หรือเปล่า; ĉu ... ĉu ... ไม่ว่าจะ...หรือ...; ĉu ne? ใช่ไหม; ĉu vere? จริงหรือ, จริงหรือนี่ @13-10-2026 12:10:52@
 <!-- D -->
 da {UL} [1] //(prep)// ของ (ใช้กับจำนวนหรือปริมาณ ซึ่งคำที่แสดงจำนวนจะอยู่อยู่ข้างหน้า) //ĉi tie troviĝas multe da homoj ที่นี่มีคนมาก//, //glaso da akvo [w] น้ำหนึ่งแก้ว//
 daktilo [9] อินทผลัม
@@ -2386,7 +2386,7 @@ svati [9] //(ntr)// เป็นแม่สื่อ; svatistino [w] แม่�
 sveni [8] //(ntr)// เป็นลม
 svingi [8] //(tr)// แกว่ง
 <!-- Ŝ -->
-ŝafo [5] แกะ; Ŝafo {AST} กลุ่มดาวเมษ, ราศีเมษ
+ŝafo [5] 1. {ZOO} แกะ, 2. //(f)// คนซื่อใจดี; Ŝafo {AST} กลุ่มดาวเมษ, ราศีเมษ; ŝafaro {AGR} ฝูงแกะ; ŝafisto คนเลี้ยงแกะ; hidraŭlika virŝafo {TEK} ตะบันน้ำ IMG:[https://upload.wikimedia.org/wikipedia/commons/9/9e/Hydraulic_Ram.gif?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled] @13-10-2026 12:24:45@
 ŝajni {UL} [2] //(ntr)// ดูเหมือน(ว่า)
 ŝakalo [9] แจ็กคัล (มีขนาดเล็กกว่าหมาป่า)
 ŝalti [x] //(tr)// เปิด (เครื่องใช้ไฟฟ้า) ; malŝalti [w] //(tr)// ปิด
@@ -3111,7 +3111,7 @@ cunamo/tsunamo {MAR} {MET} {GEOL} สึนามิ, คลื่นยัก�
 ĉikani //(x)// 1. กลั่นแกล้ง, ข่มเหง, รังแก, 2. พูดถากถาง, วิจารณ์อย่างหนัก; ĉikanema ชอบกลั่นแกล้ง, ข่มเหง, ชอบรังแก; ĉikano การกลั่นแกล้ง, การข่มเหง, การรังแก @19-04-2024 22:15:09@ @20-07-2025 13:13:45@
 ĉimpanzo {ZOO} ลิงชิมแปนซี; malgranda ĉimpanzo {ZOO} ลิงชิมแปนซีแคระ @20-07-2025 13:14:38@
 ĉit! //(ekkrio)// จุ๊ ๆ, ชู ๆ (บอกให้เงียบ) @19-04-2024 22:18:40@ @29-09-2024 10:02:12@ @20-07-2025 13:15:34@
-ĉizi //(tr)// 1. {BEL} {TEK} แกะ, สลัก (ด้วยสิ่ว); ĉizilo สิ่ว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chisel.jpeg/50px-Chisel.jpeg]; Ĉizilo {AST} กลุ่มดาวสิ่ว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Constellation_Caelum.jpg/500px-Constellation_Caelum.jpg]; cizileto สิ่วเล็กสำหรับเครื่องประดับ[?]; ĉirkaŭĉizi //(tr)// แกะสลับรอบ ๆ เพื่อให้ได้โครงร่าง; ŝtonĉizisto ช่างแกะสลักหิน @19-04-2024 22:39:34@
+ĉizi //(tr)// 1. {BEL} {TEK} แกะ, สลัก (ด้วยสิ่ว); ĉizilo สิ่ว IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Wood_chisels.jpg/960px-Wood_chisels.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail]; Ĉizilo {AST} กลุ่มดาวสิ่ว IMG:[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Constellation_Caelum.jpg/500px-Constellation_Caelum.jpg]; cizileto สิ่วเล็กสำหรับเครื่องประดับ[?]; ĉirkaŭĉizi //(tr)// แกะสลับรอบ ๆ เพื่อให้ได้โครงร่าง; ŝtonĉizisto ช่างแกะสลักหิน @19-04-2024 22:39:34@
 ĉuro //(vulgare)// น้ำอสุจิ = spermo; ĉuri //(ntr)// หลั่งน้ำอสุจิ = ejakuli @19-04-2024 22:41:40@ @20-07-2025 13:27:05@
 <!-- D -->
 damni //(tr)// {REL} สาปแช่ง; damno {REL} การสาปแช่ง; damninda/damna แย่, น่าถูกสาปแช่ง @28-09-2024 16:48:18@ @13-12-2025 16:32:52@
