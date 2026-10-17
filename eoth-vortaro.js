@@ -2399,8 +2399,8 @@ svingi [8] //(tr)// แกว่ง
 ŝati [5] //(tr)// ชอบ, ชื่นชอบ; ŝato ความชอบ; ŝatanto ผู้ที่มีความชอบ, ผู้ที่ชื่นชอบ; ŝatateco ความชอบ; ŝatinda น่าชอบ, น่าชื่นชม, น่าชื่นชอบ; malŝati [w] //(tr)// เกลียด; malŝatanto ผู้ที่เกลียด, ผู้ที่ไม่ชอบ; malŝatindaĵo สิ่งที่ไม่มีค่า, สิ่งที่ควรทิ้ง; memŝato ความรักตัวเอง; ŝatokupo งานอดิเรก @16-10-2026 12:42:22@
 ŝaŭmo {UL} [9] ฟอง; ŝaŭmi //(ntr)// 1. มีฟอง, 2. //(f)// มีชีวิตชีวา, เดือด; ŝaŭmaĵo 1. {KUI} มูส, 2. ฟอง, โฟม; ŝaŭmigi //(tr)// ทำให้เป็นฟอง @16-10-2026 12:48:02@
 ŝelko [x] สายดึงกางเกง IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/First_Suspenders.png/500px-First_Suspenders.png?utm_source=ca.wikipedia.org&utm_campaign=parser&utm_content=thumbnail] @16-10-2026 12:49:28@
-ŝelo {UL} [8] เปลือก; elŝeligi/senŝeligi [w] ปอกเปลือก 
-ŝerci {UL} [6] //(ntr)// พูดตลก; ŝerco [w] เรื่องตลก, มุขตลก
+ŝelo {UL} [8] 1. {BOT} {ZOO} เปลือก, {SHI} ตัวเรือ, ลำเรือ = ŝipŝelo, 2. {KOMP} เชลล์; ŝelaĵo {KON} แบบหล่อคอนกรีตชั่วคราว; ŝeleto เปลือกเล็ก ๆ, เปลือกบาง ๆ; elŝeligi 1. เอาออกจากเปลือก, 2. //(f)// ค้นพบ; senŝeligi [w] {KUI} ปอกเปลือก; senŝeligilo {KUI} ที่ปอกเปลือก, มืดปอกเปลือก; nuksoŝele/en nuksoŝelo //(frazaĵo)// อย่างสังเขป, โดยสรุป; ŝipŝelo {SHI} ตัวเรือ, ลำเรือ ; terŝelo {GEOL} เปลือกโลก = terkrusto @17-10-2026 10:54:32@
+ŝerci {UL} [6] //(ntr)// พูดตลก; ŝerce อย่างตลก; ŝerco [w] เรื่องตลก, มุขตลก; ŝercema ชอบตลก, ขี้เล่น; duonŝerce แบบทีเล่นทีจริง; fiŝerco ตลกร้าย; forŝerci กลบเกลือนด้วยความตลก; senŝerce อย่างจริงจัง, อย่างไม่เล่น; aprila ŝerco การโกหกในวันที่ 1 เดือนเมษายน @17-10-2026 11:00:26@
 ŝi {UL} [1] เขา (ผู้หญิง); ŝia [w] ของเขา (ผู้หญิง)
 ŝildo [x] ป้ายขนาดเล็ก
 ŝimo [x] {BIO} รา; ŝimi [w] //(ntr)// ขึ้นรา
