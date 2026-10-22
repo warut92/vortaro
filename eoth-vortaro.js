@@ -2401,11 +2401,11 @@ svingi [8] //(tr)// แกว่ง
 ŝelko [x] สายดึงกางเกง IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/First_Suspenders.png/500px-First_Suspenders.png?utm_source=ca.wikipedia.org&utm_campaign=parser&utm_content=thumbnail] @16-10-2026 12:49:28@
 ŝelo {UL} [8] 1. {BOT} {ZOO} เปลือก, {SHI} ตัวเรือ, ลำเรือ = ŝipŝelo, 2. {KOMP} เชลล์; ŝelaĵo {KON} แบบหล่อคอนกรีตชั่วคราว; ŝeleto เปลือกเล็ก ๆ, เปลือกบาง ๆ; elŝeligi 1. เอาออกจากเปลือก, 2. //(f)// ค้นพบ; senŝeligi [w] {KUI} ปอกเปลือก; senŝeligilo {KUI} ที่ปอกเปลือก, มืดปอกเปลือก; nuksoŝele/en nuksoŝelo //(frazaĵo)// อย่างสังเขป, โดยสรุป; ŝipŝelo {SHI} ตัวเรือ, ลำเรือ ; terŝelo {GEOL} เปลือกโลก = terkrusto @17-10-2026 10:54:32@
 ŝerci {UL} [6] //(ntr)// พูดตลก; ŝerce อย่างตลก; ŝerco [w] เรื่องตลก, มุขตลก; ŝercema ชอบตลก, ขี้เล่น; duonŝerce แบบทีเล่นทีจริง; fiŝerco ตลกร้าย; forŝerci กลบเกลือนด้วยความตลก; senŝerce อย่างจริงจัง, อย่างไม่เล่น; aprila ŝerco การโกหกในวันที่ 1 เดือนเมษายน @17-10-2026 11:00:26@
-ŝi {UL} [1] เขา (ผู้หญิง); ŝia [w] ของเขา (ผู้หญิง)
-ŝildo [x] ป้ายขนาดเล็ก
-ŝimo [x] {BIO} รา; ŝimi [w] //(ntr)// ขึ้นรา
-ŝinko [9] หมูแฮม
-ŝipo {UL} [4] เรือ (ขนาดใหญ่) → boato
+ŝi {UL} [1] เขา (ผู้หญิง), หล่อน, เธอ; ŝia [w] ของเขา (ผู้หญิง), ของหล่อน, ของเธอ @22-10-2026 18:16:31@
+ŝildo [x] 1. {HIS} {MIL} โล่, เกราะกำบัง, 2. {TEK} ของกำบังป้องกัน, 3. ป้ายขนาดเล็ก; Ŝildo {AST} กลุ่มดาวโล่; ŝildeto ป้ายขนาดเล็ก, แท็กชื่อ; blazonŝildo/nobelŝildo {HER} ตราประจำตระกูล IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Coat-elements.png/500px-Coat-elements.png?utm_source=eo.wikipedia.org&utm_campaign=parser&utm_content=thumbnail]; nomŝildo/pordoŝildo ป้ายชื่อ; pendoŝildo/butikŝildo ป้ายในรายค้า; trafikŝildo {TRA} ป้ายจราจร; vojŝildo {TRA} ป้ายบอกทาง @22-10-2026 18:29:42@
+ŝimi [w] //(ntr)// ขึ้นรา; ŝima ขึ้นรา, มีรา; ŝimo [x] {BIO} รา; ŝimfungo เห็ดรา @22-10-2026 18:30:51@
+ŝinko [9] {KUI} หมูแฮม @22-10-2026 18:32:38@
+ŝipo {UL} [4] {MAR} เรือ (ขนาดใหญ่) → boato; ŝipi 1. {MAR} //(ntr)// เดินทางด้วยเรือ, 2. {MAR} //(tr)// บรรทุกด้วยเรือ; ŝipano {MAR} ลูกเรือ, กะลาสี; ŝipanaro {MAR} ลูกเรือทั้งหมด; ŝiparo {MAR} {MIL} กองเรือ; ŝiparestro {MAR} ผู้บัญชากองเรือ; ŝipestro {MAR} กัปตัน; ŝipeto {SHI} เรือเล็ก; ŝipisto {MAR} ผู้บริการบนเรือ; elŝipejo/elŝipiĝejo {MAR} ท่าเรือ; elŝipiĝi //(ntr)// {MAR} ออกจากเรือ; enŝipiĝi //(ntr)// {MAR} ขึ้นเรือ; perŝipi //(tr)// บรรทุกด้วยเรือ; aerŝipo {AVI} เรือเหาะ; avioŝipo/aviadilŝipo {SHI} เรือบรรทุกเครื่องบิน; drakŝipo {HIS} {SHI} เรือไวกิ้งหัวมังกร; kargoŝipo/varŝipo {SHI} เรือบรรทุกสินค้า; kirasŝipo {SHI} {MIL} เรือหุ้มเกราะ; komercŝipo/komerca ŝipo {MAR} เรือสินค้า; kosmoŝipo {AVI} ยานอวกาศ; krozoŝipo/krozŝipo/krozadŝipo {SHI} 1. เรือลาดตระเวน, 2. เรือนำเที่ยว; kurierŝipo {SHI} เรือด่วนส่งสาร; militŝipo/milita ŝipo {SHI} {MIL} เรือรบ; militŝiparo/milita ŝiparo {MAR} {MIL} กองเรือรบ; motorŝipo {SHI} เรือยนต์; pasaĝerŝipo {SHI} เรือขนส่งคน; pramŝipo {SHI} เรือข้ามฟาก; submarŝipo {SHI} {MIL} เรือดำน้ำ; trenŝipo {SHI} เรือโยง, เรือลาก; vaporŝipo {SHI} เรือไอน้ำ; velŝipo {SHI} เรือใบ @22-10-2026 19:03:53@
 ŝiri {UL} [6] //(tr)// ฉีก
 ŝirmi [7] //(tr)// บัง, บดบัง
 ŝlosi {UL} [5] //(tr)// ใส่กุญแจ, ล็อก (ด้วยกุญแจ); ŝlosilo [w] ลูกกุญแจ; malŝlosi [w] //(tr)// ไขกุญแจ
@@ -3025,7 +3025,7 @@ bizara แปลก, แปลกประหลาด; bizari //(ntr)// แป�
 blagi //(x)// พูดเล่น, ล้อเล่น; blago คำพูดล้อเล่น; blagulo ผู้พูดล้อเล่น @27-11-2024 09:07:53@ @22-02-2026 12:06:26@
 blanketo {JUR} {EKON} ใบมอบอำนาจ, เอกสารที่ให้ลงชื่อไว้ก่อน[?] @27-11-2024 09:07:53@ @22-02-2026 12:06:50@
 blato 1. แมลงที่อยู่ในอันดับแมลงสอบ, 2. {ZOO} แมลงสาบ, 3. {ELE} {KOMP} ชิป @27-11-2024 21:52:53@ @22-02-2026 12:24:09@
-blazono {HER} ตรา //เช่น ตราตระกูล บริษัท เมือง//; blazoni //(tr)// ประดับตรา @27-11-2024 21:52:53@ @22-02-2026 12:24:46@
+blazono {HER} ตราอาร์ม //เช่น ตราตระกูล บริษัท เมือง//; blazoni //(tr)// ประดับตรา @27-11-2024 21:52:53@ @22-02-2026 12:24:46@ @22-10-2026 18:28:00@
 blufi //(ntr)// ลวง, ข่มขวัญ @27-11-2024 21:52:53@ @22-02-2026 12:27:20@
 bluso {MUZ} เพลงบลูส์ @27-11-2024 21:52:53@ @22-02-2026 13:50:02@
 boardi //(ntr)// {MAR} ขับเรือซิกแซกไปมาเนื่องจากต้านลม @27-11-2024 22:21:39@ @22-02-2026 13:51:00@
@@ -5646,6 +5646,7 @@ flati //(x)// 1. ยกยอ, สอพลอ, 2. ประจบ; flata ยก
 avizo 1. //(komune)// แจ้งเตือน, ใบแจ้งเตือน, 2. {EKON} ใบแจ้งการส่งของว่าถึงผู้รับแล้ว; avizi //(tr)// แจ้งให้ทราบ @20-09-2026 10:52:54@
 =======
 timono คานลาก IMG:[https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Deichsel.JPG/1280px-Deichsel.JPG?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail] @29-09-2026 15:54:46@
->>>>>>> 93309562f43fb18ad3cc77f874470c2920957390
+>>>>>>> 93309562f43fb18ad3cc7f874470c2920957390
+heraldiko {HER} {SCI} มุทราศาสตร์ (ศาสตร์ทางด้านตราอาร์ม) @22-10-2026 18:26:48@
 >. 
 `
