@@ -36,13 +36,22 @@ h {
   left: 15px;
 }
 
+/* แถวช่องค้นหา: ช่องพิมพ์ยืดเต็มพื้นที่ ปุ่มลบอยู่ชิดขวา */
+#sercxvico {
+  display: flex;
+  align-items: stretch;
+  gap: 6px;
+  margin-bottom: 4px;
+}
+
 #enigo {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 22px;
   border: 2px solid #89E682;
   border-radius: 4px;
-  width: 75%;
-  padding: 0;
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 0 4px;
 }
 
 #forigi {
@@ -51,7 +60,10 @@ h {
   border: 2px solid #89E682;
   border-radius: 4px;
   /* background-color: black; */
-  width: 10%;
+  flex: 0 0 auto;
+  width: auto;
+  padding: 0 12px;
+  margin: 0;
 }
 
 label {
